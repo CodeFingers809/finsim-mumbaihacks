@@ -1,0 +1,11 @@
+{
+  "name": "@trader/config",
+  "version": "0.1.0",
+  "private": true,
+  "types": "dist/index.d.ts",
+  "exports": {
+    "./tailwind": "./tailwind.config.ts",
+    "./eslint": "./eslint.config.js",
+    "./tsconfig": "./tsconfig.base.json"
+  }
+}
