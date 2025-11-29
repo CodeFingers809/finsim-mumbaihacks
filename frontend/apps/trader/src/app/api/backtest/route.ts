@@ -1,8 +1,6 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
 
-const BACKEND_URL = process.env.BACKEND_URL || "http://localhost:5000";
-
 const schema = z.object({
     entryStrategy: z.string().min(3),
     exitStrategy: z.string().min(3),
@@ -12,11 +10,13 @@ const schema = z.object({
     endDate: z.string().optional(),
 });
 
+const BACKEND_URL = process.env.BACKEND_URL || "http://localhost:5001";
+
 export async function POST(request: Request) {
     try {
         const payload = await request.json();
         const parsed = schema.safeParse(payload);
-        
+
         if (!parsed.success) {
             return NextResponse.json(
                 { error: parsed.error.flatten() },
@@ -26,11 +26,11 @@ export async function POST(request: Request) {
 
         const { entryStrategy, exitStrategy, stocks, capital } = parsed.data;
 
-        // Build the query from entry and exit strategies
+        // Combine entry and exit strategies into a query for the backend
         const query = `Entry: ${entryStrategy}. Exit: ${exitStrategy}`;
 
-        // Call the Python backend
-        const response = await fetch(`${BACKEND_URL}/backtest`, {
+        // Call the backend backtest API
+        const backendResponse = await fetch(`${BACKEND_URL}/backtest`, {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
@@ -43,20 +43,25 @@ export async function POST(request: Request) {
             }),
         });
 
-        if (!response.ok) {
-            const errorData = await response.json().catch(() => ({}));
+        if (!backendResponse.ok) {
+            const errorData = await backendResponse.json().catch(() => ({}));
             return NextResponse.json(
-                { error: errorData.error || "Backtest failed", details: errorData },
-                { status: response.status }
+                { error: errorData.error || "Backend request failed" },
+                { status: backendResponse.status }
             );
         }
 
-        const result = await response.json();
+        const result = await backendResponse.json();
         return NextResponse.json(result);
     } catch (error) {
         console.error("Backtest API error:", error);
         return NextResponse.json(
-            { error: error instanceof Error ? error.message : "Internal server error" },
+            {
+                error:
+                    error instanceof Error
+                        ? error.message
+                        : "Internal server error",
+            },
             { status: 500 }
         );
     }

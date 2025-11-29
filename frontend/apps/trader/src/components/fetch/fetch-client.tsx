@@ -1,11 +1,12 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useCallback } from "react";
 import { useMutation } from "@tanstack/react-query";
 import { Search, FileText, ExternalLink, Loader2, Zap } from "lucide-react";
 import { cn } from "@/lib/utils/cn";
 import { TerminalLayout } from "@/components/layout/terminal-layout";
 import { Badge } from "@/components/ui/badge";
+import { FetchAgenticLoader } from "./fetch-agentic-loader";
 
 interface Document {
     score: number;
@@ -44,17 +45,34 @@ async function fetchDocuments(
 export function FetchClient() {
     const [query, setQuery] = useState("");
     const [topK, setTopK] = useState(20);
+    const [searchQuery, setSearchQuery] = useState("");
+    const [showResults, setShowResults] = useState(false);
+    const [isResultReady, setIsResultReady] = useState(false);
 
     const fetchMutation = useMutation({
         mutationFn: () => fetchDocuments(query, topK),
+        onSuccess: () => {
+            setIsResultReady(true);
+        },
+        onError: () => {
+            setShowResults(true);
+            setIsResultReady(false);
+        },
     });
 
     const handleSearch = (e: React.FormEvent) => {
         e.preventDefault();
         if (query.trim()) {
+            setSearchQuery(query);
+            setShowResults(false);
+            setIsResultReady(false);
             fetchMutation.mutate();
         }
     };
+
+    const handleViewResults = useCallback(() => {
+        setShowResults(true);
+    }, []);
 
     return (
         <TerminalLayout
@@ -67,7 +85,8 @@ export function FetchClient() {
                 </div>
             }
             centerContent={
-                fetchMutation.data && (
+                fetchMutation.data &&
+                showResults && (
                     <div className="flex items-center gap-2 px-4 py-2 rounded-xl bg-[#1a1d24]/80 border border-[#2d303a]/40">
                         <span className="text-xs text-[#8b8f9a]">Results</span>
                         <span className="text-lg font-bold font-mono text-[#e8eaed]">
@@ -150,6 +169,20 @@ export function FetchClient() {
 
                 {/* Results Area */}
                 <div className="flex-1 overflow-y-auto custom-scrollbar p-6">
+                    {/* Agentic Loader */}
+                    {(fetchMutation.isPending ||
+                        (isResultReady && !showResults)) && (
+                        <div className="flex items-center justify-center py-12">
+                            <FetchAgenticLoader
+                                isLoading={fetchMutation.isPending}
+                                isResultReady={isResultReady}
+                                onViewResults={handleViewResults}
+                                query={searchQuery}
+                                topK={topK}
+                            />
+                        </div>
+                    )}
+
                     {fetchMutation.isError && (
                         <div className="p-4 bg-[#f06c6c]/10 border border-[#f06c6c]/30 rounded-lg text-[#f06c6c]">
                             <p className="font-medium">Search Failed</p>
@@ -161,22 +194,24 @@ export function FetchClient() {
                         </div>
                     )}
 
-                    {!fetchMutation.data && !fetchMutation.isError && (
-                        <div className="flex flex-col items-center justify-center h-full text-center">
-                            <FileText className="h-16 w-16 text-[#2d303a] mb-4" />
-                            <h3 className="text-lg font-medium text-[#8b8f9a]">
-                                Search Financial Documents
-                            </h3>
-                            <p className="text-sm text-[#6b6f7a] mt-2 max-w-md">
-                                Use natural language to search through the
-                                financial data lake. Find insights about
-                                companies, revenue trends, market analysis, and
-                                more.
-                            </p>
-                        </div>
-                    )}
+                    {!fetchMutation.data &&
+                        !fetchMutation.isError &&
+                        !fetchMutation.isPending && (
+                            <div className="flex flex-col items-center justify-center h-full text-center">
+                                <FileText className="h-16 w-16 text-[#2d303a] mb-4" />
+                                <h3 className="text-lg font-medium text-[#8b8f9a]">
+                                    Search Financial Documents
+                                </h3>
+                                <p className="text-sm text-[#6b6f7a] mt-2 max-w-md">
+                                    Use natural language to search through the
+                                    financial data lake. Find insights about
+                                    companies, revenue trends, market analysis,
+                                    and more.
+                                </p>
+                            </div>
+                        )}
 
-                    {fetchMutation.data && (
+                    {fetchMutation.data && showResults && (
                         <div className="space-y-4">
                             <div className="flex items-center justify-between text-sm text-[#8b8f9a]">
                                 <span>
@@ -186,16 +221,40 @@ export function FetchClient() {
                                 </span>
                             </div>
 
-                            <div className="grid gap-4">
-                                {fetchMutation.data.documents.map(
-                                    (doc, index) => (
-                                        <DocumentCard
-                                            key={`${doc.code}-${index}`}
-                                            document={doc}
-                                            rank={index + 1}
-                                        />
-                                    )
-                                )}
+                            {/* Database Table */}
+                            <div className="rounded-lg border border-[#2d303a]/60 overflow-hidden">
+                                <table className="w-full text-sm">
+                                    <thead>
+                                        <tr className="bg-[#1a1d24] border-b border-[#2d303a]/60">
+                                            <th className="px-3 py-3 text-left text-xs font-semibold text-[#8b8f9a] uppercase tracking-wider w-12">
+                                                #
+                                            </th>
+                                            <th className="px-3 py-3 text-left text-xs font-semibold text-[#8b8f9a] uppercase tracking-wider w-20">
+                                                Score
+                                            </th>
+                                            <th className="px-3 py-3 text-left text-xs font-semibold text-[#8b8f9a] uppercase tracking-wider w-24">
+                                                Code
+                                            </th>
+                                            <th className="px-3 py-3 text-left text-xs font-semibold text-[#8b8f9a] uppercase tracking-wider">
+                                                Text
+                                            </th>
+                                            <th className="px-3 py-3 text-left text-xs font-semibold text-[#8b8f9a] uppercase tracking-wider min-w-[200px]">
+                                                URL
+                                            </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody className="divide-y divide-[#2d303a]/40">
+                                        {fetchMutation.data.documents.map(
+                                            (doc, index) => (
+                                                <DocumentRow
+                                                    key={`${doc.code}-${index}`}
+                                                    document={doc}
+                                                    rank={index + 1}
+                                                />
+                                            )
+                                        )}
+                                    </tbody>
+                                </table>
                             </div>
                         </div>
                     )}
@@ -222,13 +281,7 @@ export function FetchClient() {
     );
 }
 
-function DocumentCard({
-    document,
-    rank,
-}: {
-    document: Document;
-    rank: number;
-}) {
+function DocumentRow({ document, rank }: { document: Document; rank: number }) {
     const scorePercent = Math.round(document.score * 100);
     const scoreColor =
         scorePercent >= 80
@@ -237,49 +290,55 @@ function DocumentCard({
             ? "text-[#f0c96c]"
             : "text-[#8b8f9a]";
 
+    // Truncate text to ~100 characters
+    const truncatedText =
+        document.text.length > 100
+            ? document.text.slice(0, 100) + "..."
+            : document.text;
+
     return (
-        <div className="p-4 bg-[#1a1d24] border border-[#2d303a]/60 rounded-lg hover:border-[#6c8cff]/30 transition-all duration-200">
-            <div className="flex items-start justify-between gap-4 mb-3">
-                <div className="flex items-center gap-3">
-                    <span className="flex items-center justify-center w-8 h-8 rounded-lg bg-[#252730] text-[#8b8f9a] text-sm font-mono">
-                        {rank}
-                    </span>
-                    {document.code && (
-                        <Badge
-                            variant="outline"
-                            className="text-xs bg-[#6c8cff]/10 border-[#6c8cff]/30 text-[#6c8cff]"
-                        >
-                            {document.code}
-                        </Badge>
-                    )}
-                </div>
-                <div className="flex items-center gap-3">
-                    <span className={cn("text-sm font-mono", scoreColor)}>
-                        {scorePercent}% match
-                    </span>
-                    {document.url && (
-                        <a
-                            href={document.url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="p-1.5 rounded-md hover:bg-[#252730] text-[#8b8f9a] hover:text-[#6c8cff] transition-colors"
-                        >
-                            <ExternalLink className="h-4 w-4" />
-                        </a>
-                    )}
-                </div>
-            </div>
-
-            <p className="text-sm text-[#c8cad0] leading-relaxed whitespace-pre-wrap">
-                {document.text}
-            </p>
-
-            {document.url && (
-                <p className="mt-3 text-xs text-[#6b6f7a] truncate">
-                    {document.url}
-                </p>
-            )}
-        </div>
+        <tr className="bg-[#12141a] hover:bg-[#1a1d24]/80 transition-colors">
+            <td className="px-3 py-3 text-[#8b8f9a] font-mono text-center">
+                {rank}
+            </td>
+            <td className="px-3 py-3">
+                <span className={cn("font-mono font-medium", scoreColor)}>
+                    {scorePercent}%
+                </span>
+            </td>
+            <td className="px-3 py-3">
+                {document.code ? (
+                    <Badge
+                        variant="outline"
+                        className="text-xs bg-[#6c8cff]/10 border-[#6c8cff]/30 text-[#6c8cff]"
+                    >
+                        {document.code}
+                    </Badge>
+                ) : (
+                    <span className="text-[#6b6f7a]">—</span>
+                )}
+            </td>
+            <td className="px-3 py-3 text-[#c8cad0] max-w-md">
+                <span title={document.text} className="block truncate">
+                    {truncatedText}
+                </span>
+            </td>
+            <td className="px-3 py-3">
+                {document.url ? (
+                    <a
+                        href={document.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex items-center gap-2 text-[#6c8cff] hover:text-[#5a7ae6] hover:underline transition-colors text-xs break-all"
+                    >
+                        <span>{document.url}</span>
+                        <ExternalLink className="h-3 w-3 shrink-0" />
+                    </a>
+                ) : (
+                    <span className="text-[#6b6f7a]">—</span>
+                )}
+            </td>
+        </tr>
     );
 }
 

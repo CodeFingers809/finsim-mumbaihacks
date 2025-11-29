@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
 
-const BACKEND_URL = process.env.BACKTEST_API_URL || "http://localhost:5000";
+const BACKEND_URL = process.env.BACKEND_URL || "http://localhost:5000";
 
 const schema = z.object({
     query: z.string().min(1, "Query is required"),

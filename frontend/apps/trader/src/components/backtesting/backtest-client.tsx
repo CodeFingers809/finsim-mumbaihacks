@@ -1,7 +1,7 @@
 "use client";
 
-import { useState, useEffect } from "react";
-import type { BacktestResult } from "@trader/types";
+import { useState, useCallback } from "react";
+import type { BacktestResponse } from "@trader/types";
 import { useMutation } from "@tanstack/react-query";
 import { toast } from "sonner";
 import {
@@ -19,20 +19,14 @@ import {
 } from "lucide-react";
 
 import { BacktestResults } from "@/components/backtesting/backtest-results";
-import { AgenticLoading, type LoadingStep } from "@/components/backtesting/agentic-loading";
+import { AgenticLoader } from "@/components/backtesting/agentic-loader";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { TerminalLayout } from "@/components/layout/terminal-layout";
 import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils/cn";
 
-const STOCK_SUGGESTIONS = [
-    "NIFTY.NS",
-    "SAATVIKGL.NS",
-    "RELIANCE.NS",
-    "TCS.NS",
-    "INFY.NS",
-];
+const STOCK_SUGGESTIONS = ["NIFTY.NS", "RELIANCE.NS", "TCS.NS", "INFY.NS"];
 
 const ENTRY_SUGGESTIONS = [
     "Buy when RSI < 30",
@@ -48,62 +42,30 @@ const EXIT_SUGGESTIONS = [
     "Sell when MACD crosses below signal line",
 ];
 
-const DEFAULT_LOADING_STEPS: LoadingStep[] = [
-    { title: "Analyzing Strategy", description: "Parsing your entry and exit conditions..." },
-    { title: "Generating Code", description: "Creating executable trading strategy code..." },
-    { title: "Fetching Data", description: "Downloading historical price data..." },
-    { title: "Running Backtest", description: "Simulating trades across selected stocks..." },
-    { title: "Calculating Metrics", description: "Computing performance indicators..." },
-];
-
 export function BacktestClient({
     initialResult,
 }: {
-    initialResult?: BacktestResult | null;
+    initialResult?: BacktestResponse | null;
 }) {
     const [entryStrategy, setEntryStrategy] = useState("");
     const [exitStrategy, setExitStrategy] = useState("");
     const [showAdvanced, setShowAdvanced] = useState(false);
-    const [stocks, setStocks] = useState<string[]>([
-        "SAATVIKGL.NS",
-        "RELIANCE.NS",
-    ]);
+    const [stocks, setStocks] = useState<string[]>(["RELIANCE.NS"]);
     const [capital, setCapital] = useState(50000);
     const [startDate, setStartDate] = useState("2023-01-01");
     const [endDate, setEndDate] = useState("2024-01-01");
     const [newSymbol, setNewSymbol] = useState("");
-    const [result, setResult] = useState<BacktestResult | null>(
+    const [result, setResult] = useState<BacktestResponse | null>(
         initialResult ?? null
     );
-    const [loadingSteps, setLoadingSteps] = useState<LoadingStep[]>(DEFAULT_LOADING_STEPS);
-
-    // Fetch loading steps when mutation starts
-    const fetchLoadingSteps = async () => {
-        try {
-            const response = await fetch("/api/backtest/loading", {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({
-                    entryStrategy,
-                    exitStrategy,
-                    stocks,
-                }),
-            });
-            const data = await response.json();
-            if (data.steps && Array.isArray(data.steps)) {
-                setLoadingSteps(data.steps);
-            }
-        } catch {
-            // Use default steps on error
-            setLoadingSteps(DEFAULT_LOADING_STEPS);
-        }
-    };
+    const [showLoader, setShowLoader] = useState(false);
+    const [isResultReady, setIsResultReady] = useState(false);
+    const [pendingResult, setPendingResult] = useState<BacktestResponse | null>(
+        null
+    );
 
     const mutation = useMutation({
         mutationFn: async () => {
-            // Start fetching loading steps in parallel
-            fetchLoadingSteps();
-
             const response = await fetch("/api/backtest", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
@@ -117,16 +79,19 @@ export function BacktestClient({
                 }),
             });
             if (!response.ok) {
-                const error = await response.json();
+                const error = await response.json().catch(() => ({}));
                 throw new Error(error.error || "Backtest failed");
             }
             return response.json();
         },
-        onSuccess: (payload: BacktestResult) => {
-            setResult(payload);
-            toast.success("Backtest completed successfully");
+        onSuccess: (payload: BacktestResponse) => {
+            // Store the result but don't show it yet - wait for user to skip or loader to finish
+            setPendingResult(payload);
+            setIsResultReady(true);
         },
         onError: (error) => {
+            setShowLoader(false);
+            setIsResultReady(false);
             toast.error(
                 error instanceof Error
                     ? error.message
@@ -135,9 +100,22 @@ export function BacktestClient({
         },
     });
 
+    const handleViewResults = useCallback(() => {
+        if (pendingResult) {
+            setResult(pendingResult);
+            setPendingResult(null);
+            setShowLoader(false);
+            setIsResultReady(false);
+        }
+    }, [pendingResult]);
+
     const handleSubmit = () => {
         if (!entryStrategy.trim() || !exitStrategy.trim() || mutation.isPending)
             return;
+        // Reset states for new backtest
+        setShowLoader(true);
+        setIsResultReady(false);
+        setPendingResult(null);
         mutation.mutate();
     };
 
@@ -178,13 +156,21 @@ export function BacktestClient({
                             <span
                                 className={cn(
                                     "text-lg font-bold font-mono",
-                                    (result.portfolio_metrics?.portfolio_return_pct ?? 0) >= 0
+                                    (result.portfolio_metrics
+                                        ?.portfolio_return_pct ?? 0) >= 0
                                         ? "text-[#3dd68c]"
                                         : "text-[#f06c6c]"
                                 )}
                             >
-                                {(result.portfolio_metrics?.portfolio_return_pct ?? 0) > 0 ? "+" : ""}
-                                {(result.portfolio_metrics?.portfolio_return_pct ?? 0).toFixed(2)}%
+                                {(result.portfolio_metrics
+                                    ?.portfolio_return_pct ?? 0) > 0
+                                    ? "+"
+                                    : ""}
+                                {(
+                                    result.portfolio_metrics
+                                        ?.portfolio_return_pct ?? 0
+                                ).toFixed(2)}
+                                %
                             </span>
                         </div>
                         <div className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-[#1a1d24]/60 border border-[#2d303a]/30">
@@ -192,7 +178,11 @@ export function BacktestClient({
                                 Win Rate
                             </span>
                             <span className="text-sm font-semibold text-[#e8eaed]">
-                                {(result.portfolio_metrics?.avg_win_rate_pct ?? 0).toFixed(1)}%
+                                {(
+                                    result.portfolio_metrics
+                                        ?.avg_win_rate_pct ?? 0
+                                ).toFixed(1)}
+                                %
                             </span>
                         </div>
                     </div>
@@ -214,13 +204,25 @@ export function BacktestClient({
             }
         >
             <div className="flex-1 flex flex-col bg-[#0c0d10] overflow-hidden">
-                {/* Agentic Loading */}
-                {mutation.isPending && (
-                    <AgenticLoading steps={loadingSteps} isLoading={mutation.isPending} />
+                {/* Agentic Loading State */}
+                {showLoader && (
+                    <div className="flex-1 overflow-y-auto custom-scrollbar">
+                        <div className="min-h-full flex items-center justify-center p-6">
+                            <AgenticLoader
+                                isLoading={showLoader}
+                                isResultReady={isResultReady}
+                                onViewResults={handleViewResults}
+                                entryStrategy={entryStrategy}
+                                exitStrategy={exitStrategy}
+                                stocks={stocks}
+                                capital={capital}
+                            />
+                        </div>
+                    </div>
                 )}
 
                 {/* Centered Input Box */}
-                {!result && !mutation.isPending && (
+                {!result && !showLoader && (
                     <div className="flex-1 overflow-y-auto custom-scrollbar">
                         <div className="min-h-full flex items-center justify-center p-6">
                             <div className="w-full max-w-xl my-auto">
@@ -518,39 +520,10 @@ export function BacktestClient({
                                         }
                                         className="w-full h-12 text-sm font-medium bg-[#6c8cff] hover:bg-[#5c7ce8] disabled:opacity-50 disabled:cursor-not-allowed"
                                     >
-                                        {mutation.isPending ? (
-                                            <div className="flex items-center gap-2">
-                                                <div className="flex gap-1">
-                                                    <div
-                                                        className="w-2 h-2 rounded-full bg-white animate-bounce"
-                                                        style={{
-                                                            animationDelay:
-                                                                "0ms",
-                                                        }}
-                                                    />
-                                                    <div
-                                                        className="w-2 h-2 rounded-full bg-white animate-bounce"
-                                                        style={{
-                                                            animationDelay:
-                                                                "150ms",
-                                                        }}
-                                                    />
-                                                    <div
-                                                        className="w-2 h-2 rounded-full bg-white animate-bounce"
-                                                        style={{
-                                                            animationDelay:
-                                                                "300ms",
-                                                        }}
-                                                    />
-                                                </div>
-                                                <span>Running Backtest...</span>
-                                            </div>
-                                        ) : (
-                                            <div className="flex items-center gap-2">
-                                                <Play className="h-4 w-4" />
-                                                <span>Run Backtest</span>
-                                            </div>
-                                        )}
+                                        <div className="flex items-center gap-2">
+                                            <Play className="h-4 w-4" />
+                                            <span>Run Backtest</span>
+                                        </div>
                                     </Button>
 
                                     <p className="text-[10px] text-center text-[#8b8f9a] mt-4">
@@ -629,7 +602,10 @@ export function BacktestClient({
                                 </Button>
                             </div>
 
-                            <BacktestResults result={result} />
+                            <BacktestResults
+                                result={result}
+                                capital={capital}
+                            />
                         </div>
                     </div>
                 )}
