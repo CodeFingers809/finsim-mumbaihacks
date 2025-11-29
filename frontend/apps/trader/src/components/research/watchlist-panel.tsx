@@ -210,85 +210,115 @@ export function WatchlistPanel({
 
             {/* Stock List */}
             <div className="space-y-2 max-h-[380px] overflow-y-auto custom-scrollbar pr-1">
-                {activeWatchlist?.stocks.map((stock) => {
-                    const quote = quotes[stock.symbol];
-                    const positive = (quote?.change ?? 0) >= 0;
-                    return (
-                        <div
-                            key={stock.symbol}
-                            className="group rounded-xl border border-[#2d303a]/40 bg-[#1a1d24] p-3 cursor-pointer transition-all duration-200 hover:border-[#6c8cff]/40 hover:bg-[#1e2028]"
-                            onClick={() => handleStockClick(stock.symbol)}
-                        >
-                            <div className="flex items-center justify-between gap-2">
-                                <div className="min-w-0 flex-1">
-                                    <div className="flex items-center gap-1.5">
-                                        <p className="text-xs font-medium uppercase tracking-wide text-[#e8eaed]">
-                                            {stock.symbol}
-                                        </p>
-                                        <ExternalLink className="h-3 w-3 text-[#6c8cff] opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0" />
+                {isQuotesLoading &&
+                activeWatchlist?.stocks.length &&
+                Object.keys(quotes).length === 0 ? (
+                    <div className="space-y-2">
+                        {activeWatchlist.stocks.map((stock) => (
+                            <div
+                                key={stock.symbol}
+                                className="rounded-xl border border-[#2d303a]/40 bg-[#1a1d24] p-3"
+                            >
+                                <div className="flex items-center justify-between gap-2">
+                                    <div className="min-w-0 flex-1 space-y-2">
+                                        <div className="h-4 w-16 bg-[#2d303a]/50 rounded animate-pulse" />
+                                        <div className="h-6 w-24 bg-[#2d303a]/50 rounded animate-pulse" />
                                     </div>
-                                    <p className="text-lg font-bold font-mono text-[#e8eaed] mt-0.5">
-                                        ₹
-                                        {quote
-                                            ? quote.lastPrice.toFixed(2)
-                                            : "--"}
-                                    </p>
+                                    <div className="text-right space-y-2">
+                                        <div className="h-6 w-16 bg-[#2d303a]/50 rounded-lg animate-pulse" />
+                                        <div className="h-4 w-12 bg-[#2d303a]/50 rounded animate-pulse ml-auto" />
+                                    </div>
                                 </div>
-                                <div className="text-right flex-shrink-0">
-                                    <div
-                                        className={cn(
-                                            "inline-flex items-center gap-1 px-2 py-0.5 rounded-lg text-xs font-semibold",
-                                            positive
-                                                ? "bg-[#3dd68c]/15 text-[#3dd68c]"
-                                                : "bg-[#f06c6c]/15 text-[#f06c6c]"
-                                        )}
-                                    >
-                                        {positive ? "+" : ""}
-                                        {quote ? quote.change.toFixed(2) : "--"}
-                                    </div>
-                                    <p className="text-[11px] text-[#8b8f9a] mt-1">
-                                        {quote
-                                            ? `${
-                                                  positive ? "+" : ""
-                                              }${quote.changePercent.toFixed(
-                                                  2
-                                              )}%`
-                                            : "0%"}
-                                    </p>
+                                <div className="mt-3 flex items-center justify-between">
+                                    {[1, 2, 3, 4].map((i) => (
+                                        <div
+                                            key={i}
+                                            className="h-3 w-12 bg-[#2d303a]/50 rounded animate-pulse"
+                                        />
+                                    ))}
                                 </div>
                             </div>
-                            <div className="mt-3 flex items-center justify-between text-[10px] text-[#8b8f9a]">
-                                <span>O: {quote?.open ?? "--"}</span>
-                                <span>H: {quote?.dayHigh ?? "--"}</span>
-                                <span>L: {quote?.dayLow ?? "--"}</span>
-                                <span>
-                                    Vol:{" "}
-                                    {quote?.volume?.toLocaleString() ?? "--"}
-                                </span>
-                            </div>
-                            <div className="mt-2 flex items-center justify-between">
-                                <span className="text-[10px] text-[#8b8f9a]">
-                                    Prev: {quote?.previousClose ?? "--"}
-                                </span>
-                                <button
-                                    className="flex items-center gap-1 px-2 py-1 rounded text-[10px] font-medium text-[#f06c6c] hover:bg-[#f06c6c]/10 transition-colors"
-                                    onClick={(e) => {
-                                        e.stopPropagation();
-                                        onRemoveSymbol(stock.symbol);
-                                    }}
-                                >
-                                    <Trash2 className="h-3 w-3" /> Remove
-                                </button>
-                            </div>
-                        </div>
-                    );
-                })}
-                {isQuotesLoading && (
-                    <div className="text-center py-4 text-xs text-[#8b8f9a]">
-                        Loading quotes…
+                        ))}
                     </div>
+                ) : (
+                    activeWatchlist?.stocks.map((stock) => {
+                        const quote = quotes[stock.symbol];
+                        const positive = (quote?.change ?? 0) >= 0;
+                        return (
+                            <div
+                                key={stock.symbol}
+                                className="group rounded-xl border border-[#2d303a]/40 bg-[#1a1d24] p-3 cursor-pointer transition-all duration-200 hover:border-[#6c8cff]/40 hover:bg-[#1e2028]"
+                                onClick={() => handleStockClick(stock.symbol)}
+                            >
+                                <div className="flex items-center justify-between gap-2">
+                                    <div className="min-w-0 flex-1">
+                                        <div className="flex items-center gap-1.5">
+                                            <p className="text-xs font-medium uppercase tracking-wide text-[#e8eaed]">
+                                                {stock.symbol}
+                                            </p>
+                                            <ExternalLink className="h-3 w-3 text-[#6c8cff] opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0" />
+                                        </div>
+                                        <p className="text-lg font-bold font-mono text-[#e8eaed] mt-0.5">
+                                            ₹
+                                            {quote
+                                                ? quote.lastPrice.toFixed(2)
+                                                : "--"}
+                                        </p>
+                                    </div>
+                                    <div className="text-right flex-shrink-0">
+                                        <div
+                                            className={cn(
+                                                "inline-flex items-center gap-1 px-2 py-0.5 rounded-lg text-xs font-semibold",
+                                                positive
+                                                    ? "bg-[#3dd68c]/15 text-[#3dd68c]"
+                                                    : "bg-[#f06c6c]/15 text-[#f06c6c]"
+                                            )}
+                                        >
+                                            {positive ? "+" : ""}
+                                            {quote
+                                                ? quote.change.toFixed(2)
+                                                : "--"}
+                                        </div>
+                                        <p className="text-[11px] text-[#8b8f9a] mt-1">
+                                            {quote
+                                                ? `${
+                                                      positive ? "+" : ""
+                                                  }${quote.changePercent.toFixed(
+                                                      2
+                                                  )}%`
+                                                : "0%"}
+                                        </p>
+                                    </div>
+                                </div>
+                                <div className="mt-3 flex items-center justify-between text-[10px] text-[#8b8f9a]">
+                                    <span>O: {quote?.open ?? "--"}</span>
+                                    <span>H: {quote?.dayHigh ?? "--"}</span>
+                                    <span>L: {quote?.dayLow ?? "--"}</span>
+                                    <span>
+                                        Vol:{" "}
+                                        {quote?.volume?.toLocaleString() ??
+                                            "--"}
+                                    </span>
+                                </div>
+                                <div className="mt-2 flex items-center justify-between">
+                                    <span className="text-[10px] text-[#8b8f9a]">
+                                        Prev: {quote?.previousClose ?? "--"}
+                                    </span>
+                                    <button
+                                        className="flex items-center gap-1 px-2 py-1 rounded text-[10px] font-medium text-[#f06c6c] hover:bg-[#f06c6c]/10 transition-colors"
+                                        onClick={(e) => {
+                                            e.stopPropagation();
+                                            onRemoveSymbol(stock.symbol);
+                                        }}
+                                    >
+                                        <Trash2 className="h-3 w-3" /> Remove
+                                    </button>
+                                </div>
+                            </div>
+                        );
+                    })
                 )}
-                {!activeWatchlist?.stocks.length && (
+                {!isQuotesLoading && !activeWatchlist?.stocks.length && (
                     <div className="text-center py-8 text-sm text-[#8b8f9a]">
                         Add your first symbol to start tracking live moves.
                     </div>

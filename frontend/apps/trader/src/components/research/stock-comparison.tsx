@@ -17,6 +17,37 @@ export function StockComparison({
     watchlist,
     isLoading,
 }: StockComparisonProps) {
+    if (isLoading) {
+        return (
+            <div className="space-y-3">
+                <div className="flex items-center gap-2">
+                    <Activity className="h-4 w-4 text-[#6c8cff]" />
+                    <h3 className="text-xs font-medium uppercase tracking-wider text-[#8b8f9a]">
+                        Analysis
+                    </h3>
+                </div>
+                {[1, 2, 3].map((i) => (
+                    <div
+                        key={i}
+                        className="rounded-xl border border-[#2d303a]/40 bg-[#1a1d24] p-3"
+                    >
+                        <div className="flex items-center justify-between mb-3">
+                            <div className="space-y-2">
+                                <div className="h-4 w-16 bg-[#2d303a]/50 rounded animate-pulse" />
+                                <div className="h-6 w-24 bg-[#2d303a]/50 rounded animate-pulse" />
+                            </div>
+                            <div className="h-8 w-16 bg-[#2d303a]/50 rounded-lg animate-pulse" />
+                        </div>
+                        <div className="space-y-2">
+                            <div className="h-1 bg-[#2d303a]/50 rounded-full animate-pulse" />
+                            <div className="h-1 bg-[#2d303a]/50 rounded-full animate-pulse" />
+                        </div>
+                    </div>
+                ))}
+            </div>
+        );
+    }
+
     if (!watchlist || watchlist.stocks.length === 0) {
         return (
             <div className="rounded-xl border border-[#2d303a]/40 bg-[#1a1d24] p-4">

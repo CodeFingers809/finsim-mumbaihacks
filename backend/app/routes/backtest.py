@@ -696,7 +696,7 @@ Explain: Is this strategy profitable? What do the key metrics indicate about its
     # Recommender prompt
     recommender_prompt = f"""Based on these backtest results, give 2-3 specific improvements in bullet points.
 {metrics_summary}
-
+DO NOT GENERATE MORE THAN 3-4 LINES.
 Focus on: entry/exit timing, risk management, or indicator adjustments. Be actionable."""
 
     try:

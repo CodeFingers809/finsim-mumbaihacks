@@ -350,6 +350,7 @@ export function ResearchClient() {
                                     <PortfolioSummaryVisual
                                         quotes={quotesRecord}
                                         watchlist={activeWatchlist}
+                                        isLoading={quotesQuery.isLoading}
                                     />
                                 </div>
                             )}
@@ -490,7 +491,9 @@ export function ResearchClient() {
                                         watchlist={activeWatchlist}
                                         isLoading={quotesQuery.isLoading}
                                     />
-                                    <AlertsPanel />
+                                    <AlertsPanel
+                                        isLoading={watchlistQuery.isLoading}
+                                    />
                                 </div>
                             )}
                             {rightPanelTab === "analysis" && (

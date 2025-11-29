@@ -7,9 +7,11 @@ import {
     Target,
     FlaskConical,
     FileSearch,
+    Activity,
     Grid3X3,
     RotateCcw,
     Maximize2,
+    PieChart,
 } from "lucide-react";
 import { cn } from "@/lib/utils/cn";
 
@@ -31,6 +33,8 @@ export function TerminalLayout({
     const isResearch = pathname?.includes("/research");
     const isBacktesting = pathname?.includes("/backtesting");
     const isFetch = pathname?.includes("/fetch");
+    const isSimulate = pathname?.includes("/simulate");
+    const isOptimize = pathname?.includes("/optimize");
 
     return (
         <div className="fixed inset-0 z-50 bg-[#0c0d10] flex flex-col overflow-hidden">
@@ -74,6 +78,30 @@ export function TerminalLayout({
                         >
                             <FileSearch className="h-3.5 w-3.5" />
                             <span>Fetch</span>
+                        </Link>
+                        <Link
+                            href="/simulate"
+                            className={cn(
+                                "flex items-center gap-2 px-2.5 lg:px-3.5 py-1.5 lg:py-2 text-xs rounded-lg transition-all duration-200",
+                                isSimulate
+                                    ? "bg-[#6c8cff] text-white font-medium shadow-md"
+                                    : "text-[#8b8f9a] hover:text-[#e8eaed] hover:bg-[#252730]"
+                            )}
+                        >
+                            <Activity className="h-3.5 w-3.5" />
+                            <span>Simulate</span>
+                        </Link>
+                        <Link
+                            href="/optimize"
+                            className={cn(
+                                "flex items-center gap-2 px-2.5 lg:px-3.5 py-1.5 lg:py-2 text-xs rounded-lg transition-all duration-200",
+                                isOptimize
+                                    ? "bg-[#6c8cff] text-white font-medium shadow-md"
+                                    : "text-[#8b8f9a] hover:text-[#e8eaed] hover:bg-[#252730]"
+                            )}
+                        >
+                            <PieChart className="h-3.5 w-3.5" />
+                            <span>Optimize</span>
                         </Link>
                     </div>
 

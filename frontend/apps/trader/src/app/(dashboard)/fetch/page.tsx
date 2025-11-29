@@ -1,6 +1,6 @@
-import { FetchClient } from "@/components/fetch/fetch-client";
+import { AgenticFetchClient } from "@/components/fetch/agentic-fetch-client";
 
 export default function FetchPage() {
-    return <FetchClient />;
+    return <AgenticFetchClient />;
 }
 

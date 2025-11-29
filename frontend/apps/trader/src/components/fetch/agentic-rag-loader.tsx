@@ -11,6 +11,7 @@ import {
     RefreshCw,
     Brain,
     FileSearch,
+    Target,
     Lightbulb,
     ArrowRight,
     GitBranch,
@@ -20,14 +21,65 @@ import {
 import { cn } from "@/lib/utils/cn";
 import { Button } from "@/components/ui/button";
 
-interface LoadingStep {
-    id: string;
+export interface AgentStep {
+    step_type: string;
     title: string;
     description: string;
-    status: "pending" | "in-progress" | "completed";
-    step_type?: string;
     data?: Record<string, unknown>;
-    timestamp_ms?: number;
+    timestamp_ms: number;
+    status?: "pending" | "in-progress" | "completed";
+}
+
+export interface DataPoint {
+    label: string;
+    value: string;
+    unit?: string;
+    trend?: "up" | "down" | "stable";
+}
+
+export interface AgenticDocument {
+    title: string;
+    description: string;
+    relevance_score: number;
+    data_points: DataPoint[];
+    key_quote: string;
+    highlights: string[];
+    snippet: string;
+    non_technical_insight: string;
+    actionable_takeaway: string;
+    source_url: string;
+    source_code: string;
+    confidence: number;
+    full_text?: string;
+}
+
+export interface AgenticResult {
+    original_query: string;
+    interpreted_intent: string;
+    expanded_queries: string[];
+    sub_questions: string[];
+    step_back_question: string;
+
+    executive_summary: string;
+    key_metrics: DataPoint[];
+    main_insight: string;
+    risk_factors: string[];
+    opportunities: string[];
+
+    documents: AgenticDocument[];
+
+    total_time_ms: number;
+    num_iterations: number;
+    confidence_score: number;
+}
+
+interface AgenticRagLoaderProps {
+    isLoading: boolean;
+    steps: AgentStep[];
+    result: AgenticResult | null;
+    error: string | null;
+    onViewResults: () => void;
+    query: string;
 }
 
 const STEP_ICONS: Record<string, React.ReactNode> = {
@@ -64,217 +116,58 @@ const STEP_COLORS: Record<string, string> = {
     complete: "text-green-400",
 };
 
-interface AgenticLoaderProps {
-    isLoading: boolean;
-    isResultReady: boolean;
-    onViewResults: () => void;
-    entryStrategy: string;
-    exitStrategy: string;
-    stocks: string[];
-    capital: number;
-}
-
-export function AgenticLoader({
+export function AgenticRagLoader({
     isLoading,
-    isResultReady,
+    steps,
+    result,
+    error,
     onViewResults,
-    entryStrategy,
-    exitStrategy,
-    stocks,
-    capital,
-}: AgenticLoaderProps) {
-    const [steps, setSteps] = useState<LoadingStep[]>([]);
-    const [currentStepIndex, setCurrentStepIndex] = useState(0);
-    const [expandedSteps, setExpandedSteps] = useState<Set<string>>(new Set());
-    const [batchIndex, setBatchIndex] = useState(0);
-    const [isFetchingSteps, setIsFetchingSteps] = useState(false);
+    query,
+}: AgenticRagLoaderProps) {
+    const [expandedSteps, setExpandedSteps] = useState<Set<number>>(new Set());
     const [isBoosting, setIsBoosting] = useState(false);
-    const hasInitializedRef = useRef(false);
-    const stepIntervalRef = useRef<NodeJS.Timeout | null>(null);
-    const allStepsCompleted =
-        steps.length > 0 && steps.every((s) => s.status === "completed");
+    const scrollRef = useRef<HTMLDivElement>(null);
 
-    const getRandomInterval = useCallback(() => {
-        return Math.floor(Math.random() * (8000 - 3000 + 1)) + 3000; // 3-8 seconds
-    }, []);
-
-    // Fetch loading steps from API
-    const fetchLoadingSteps = useCallback(
-        async (batch: number) => {
-            if (isFetchingSteps) return;
-            setIsFetchingSteps(true);
-
-            try {
-                const response = await fetch("/api/loading-steps", {
-                    method: "POST",
-                    headers: { "Content-Type": "application/json" },
-                    body: JSON.stringify({
-                        entryStrategy,
-                        exitStrategy,
-                        stocks,
-                        capital,
-                        batchIndex: batch,
-                    }),
-                });
-
-                if (response.ok) {
-                    const data = await response.json();
-                    const newSteps: LoadingStep[] = data.steps.map(
-                        (
-                            step: { title: string; description: string },
-                            idx: number
-                        ) => ({
-                            id: `step-${batch}-${idx}`,
-                            title: step.title,
-                            description: step.description,
-                            status: "pending" as const,
-                        })
-                    );
-
-                    setSteps((prev) => {
-                        if (batch === 0) {
-                            return newSteps;
-                        }
-                        // Append new steps for continuation
-                        return [...prev, ...newSteps];
-                    });
-                }
-            } catch (error) {
-                console.error("Failed to fetch loading steps:", error);
-            } finally {
-                setIsFetchingSteps(false);
-            }
-        },
-        [entryStrategy, exitStrategy, stocks, capital, isFetchingSteps]
-    );
-
-    // Initialize on loading start
+    // Auto-scroll to latest step
     useEffect(() => {
-        if (isLoading && !hasInitializedRef.current) {
-            hasInitializedRef.current = true;
-            setSteps([]);
-            setCurrentStepIndex(0);
-            setExpandedSteps(new Set());
-            setBatchIndex(0);
-            setIsBoosting(false);
-            fetchLoadingSteps(0);
+        if (scrollRef.current && steps.length > 0) {
+            scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
         }
+    }, [steps]);
 
-        if (!isLoading) {
-            hasInitializedRef.current = false;
-            if (stepIntervalRef.current) {
-                clearTimeout(stepIntervalRef.current);
-                stepIntervalRef.current = null;
-            }
-        }
-    }, [isLoading, fetchLoadingSteps]);
-
-    // Auto-trigger boost when all steps complete AND result is ready
+    // Auto-expand new steps
     useEffect(() => {
-        if (allStepsCompleted && isResultReady && !isBoosting) {
-            handleBoost();
+        if (steps.length > 0) {
+            setExpandedSteps((prev) => {
+                const newSet = new Set(prev);
+                newSet.add(steps.length - 1);
+                return newSet;
+            });
         }
-    }, [allStepsCompleted, isResultReady]);
+    }, [steps.length]);
 
     const handleBoost = useCallback(() => {
         setIsBoosting(true);
-        // Show boosting animation for 600ms then show results
         setTimeout(() => {
             onViewResults();
         }, 600);
     }, [onViewResults]);
 
-    // Progress through steps
-    useEffect(() => {
-        if (!isLoading || steps.length === 0 || isBoosting) return;
-
-        // Set first step to in-progress if not already
-        if (currentStepIndex === 0 && steps[0]?.status === "pending") {
-            setSteps((prev) =>
-                prev.map((step, idx) =>
-                    idx === 0 ? { ...step, status: "in-progress" } : step
-                )
-            );
-            setExpandedSteps(new Set([steps[0].id]));
-        }
-
-        const interval = getRandomInterval();
-        stepIntervalRef.current = setTimeout(() => {
-            // Check if we need more steps (near the end and backtest still running)
-            const isNearEnd = currentStepIndex >= steps.length - 2;
-            const needMoreSteps =
-                isNearEnd && !isResultReady && !isFetchingSteps;
-
-            if (needMoreSteps) {
-                const nextBatch = batchIndex + 1;
-                setBatchIndex(nextBatch);
-                fetchLoadingSteps(nextBatch);
-            }
-
-            if (currentStepIndex < steps.length - 1) {
-                setSteps((prev) =>
-                    prev.map((step, idx) => {
-                        if (idx === currentStepIndex) {
-                            return { ...step, status: "completed" };
-                        }
-                        if (idx === currentStepIndex + 1) {
-                            return { ...step, status: "in-progress" };
-                        }
-                        return step;
-                    })
-                );
-                setCurrentStepIndex((prev) => prev + 1);
-                setExpandedSteps((prev) => {
-                    const newSet = new Set(prev);
-                    if (steps[currentStepIndex + 1]) {
-                        newSet.add(steps[currentStepIndex + 1].id);
-                    }
-                    return newSet;
-                });
-            } else if (currentStepIndex === steps.length - 1) {
-                // Complete the last step
-                setSteps((prev) =>
-                    prev.map((step, idx) =>
-                        idx === currentStepIndex
-                            ? { ...step, status: "completed" }
-                            : step
-                    )
-                );
-            }
-        }, interval);
-
-        return () => {
-            if (stepIntervalRef.current) {
-                clearTimeout(stepIntervalRef.current);
-            }
-        };
-    }, [
-        isLoading,
-        currentStepIndex,
-        steps,
-        getRandomInterval,
-        isResultReady,
-        batchIndex,
-        fetchLoadingSteps,
-        isFetchingSteps,
-        isBoosting,
-    ]);
-
-    const toggleExpand = (stepId: string) => {
+    const toggleExpand = (index: number) => {
         setExpandedSteps((prev) => {
             const newSet = new Set(prev);
-            if (newSet.has(stepId)) {
-                newSet.delete(stepId);
+            if (newSet.has(index)) {
+                newSet.delete(index);
             } else {
-                newSet.add(stepId);
+                newSet.add(index);
             }
             return newSet;
         });
     };
 
-    const getStepIcon = (step: LoadingStep, isLast: boolean) => {
-        const isCompleted = step.status === "completed";
-        const isInProgress = step.status === "in-progress";
+    const getStepIcon = (step: AgentStep, index: number, isLast: boolean) => {
+        const isCompleted = !isLast || result !== null;
+        const isInProgress = isLast && isLoading && !result;
 
         if (isCompleted) {
             return <CheckCircle2 className="h-4 w-4 text-[#3dd68c] shrink-0" />;
@@ -287,7 +180,7 @@ export function AgenticLoader({
         return <Circle className="h-4 w-4 text-[#8b8f9a]/40 shrink-0" />;
     };
 
-    const renderStepData = (step: LoadingStep) => {
+    const renderStepData = (step: AgentStep) => {
         const data = step.data;
         if (!data || Object.keys(data).length === 0) return null;
 
@@ -367,14 +260,25 @@ export function AgenticLoader({
         );
     };
 
-    if (!isLoading && steps.length === 0) {
-        return null;
+    if (error) {
+        return (
+            <div className="w-full max-w-lg mx-auto">
+                <div className="rounded-2xl bg-[#12141a] border border-[#f06c6c]/50 overflow-hidden p-6">
+                    <div className="text-center">
+                        <div className="w-12 h-12 rounded-full bg-[#f06c6c]/20 flex items-center justify-center mx-auto mb-3">
+                            <span className="text-2xl">❌</span>
+                        </div>
+                        <h3 className="text-lg font-semibold text-[#e8eaed] mb-2">
+                            Search Failed
+                        </h3>
+                        <p className="text-sm text-[#f06c6c]">{error}</p>
+                    </div>
+                </div>
+            </div>
+        );
     }
 
-    const completedCount = steps.filter((s) => s.status === "completed").length;
-    const hasInProgress = steps.some((s) => s.status === "in-progress");
-
-    // Boosting animation overlay
+    // Boosting animation
     if (isBoosting) {
         return (
             <div className="w-full max-w-lg mx-auto">
@@ -391,7 +295,8 @@ export function AgenticLoader({
                                 Analysis Complete!
                             </h3>
                             <p className="text-sm text-[#8b8f9a]">
-                                Preparing your backtest insights
+                                {result?.documents.length || 0} documents with
+                                insights
                             </p>
                         </div>
                         <div className="flex gap-2 mt-2">
@@ -409,6 +314,16 @@ export function AgenticLoader({
         );
     }
 
+    if (!isLoading && steps.length === 0 && !result) {
+        return null;
+    }
+
+    const completedSteps = result
+        ? steps.length
+        : Math.max(0, steps.length - 1);
+    const progress =
+        steps.length > 0 ? (completedSteps / steps.length) * 100 : 0;
+
     return (
         <div className="w-full max-w-lg mx-auto">
             <div className="rounded-2xl bg-[#12141a] border border-[#2d303a]/50 overflow-hidden">
@@ -418,7 +333,7 @@ export function AgenticLoader({
                         <div className="flex items-center gap-3">
                             <div className="relative">
                                 <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-[#6c8cff]/20 to-[#3dd68c]/20 flex items-center justify-center">
-                                    {isResultReady ? (
+                                    {result ? (
                                         <Sparkles className="h-5 w-5 text-[#3dd68c]" />
                                     ) : (
                                         <Brain className="h-5 w-5 text-[#6c8cff] animate-pulse" />
@@ -428,7 +343,7 @@ export function AgenticLoader({
                                     <div
                                         className={cn(
                                             "w-2 h-2 rounded-full animate-pulse",
-                                            isResultReady
+                                            result
                                                 ? "bg-[#3dd68c]"
                                                 : "bg-[#6c8cff]"
                                         )}
@@ -437,21 +352,19 @@ export function AgenticLoader({
                             </div>
                             <div>
                                 <h3 className="text-sm font-semibold text-[#e8eaed]">
-                                    Backtest Pipeline
+                                    Agentic RAG Pipeline
                                 </h3>
                                 <p className="text-xs text-[#8b8f9a]">
-                                    {isResultReady
-                                        ? `Completed`
-                                        : `Step ${Math.min(
-                                              currentStepIndex + 1,
-                                              steps.length
-                                          )} • Processing...`}
+                                    {result
+                                        ? `Completed in ${result.total_time_ms.toFixed(
+                                              0
+                                          )}ms`
+                                        : `Step ${steps.length} • Processing...`}
                                 </p>
                             </div>
                         </div>
 
-                        {/* View Results Button */}
-                        {isResultReady && !isBoosting && (
+                        {result && !isBoosting && (
                             <Button
                                 onClick={handleBoost}
                                 size="sm"
@@ -468,38 +381,57 @@ export function AgenticLoader({
                         <div
                             className={cn(
                                 "h-full transition-all duration-500 ease-out",
-                                isResultReady
+                                result
                                     ? "bg-gradient-to-r from-[#3dd68c] to-[#6c8cff]"
                                     : "bg-gradient-to-r from-[#6c8cff] to-[#3dd68c]"
                             )}
-                            style={{
-                                width: isResultReady
-                                    ? "100%"
-                                    : `${
-                                          ((completedCount +
-                                              (hasInProgress ? 0.5 : 0)) /
-                                              Math.max(steps.length, 1)) *
-                                          100
-                                      }%`,
-                            }}
+                            style={{ width: result ? "100%" : `${progress}%` }}
                         />
                     </div>
+
+                    {/* Query Expansion */}
+                    {result &&
+                        result.expanded_queries &&
+                        result.expanded_queries.length > 0 && (
+                            <div className="mt-3 space-y-1">
+                                <div className="text-xs text-[#8b8f9a]">
+                                    Query Evolution:
+                                </div>
+                                <div className="flex flex-wrap gap-2">
+                                    <span className="px-2 py-1 text-xs rounded bg-[#2d303a] text-[#8b8f9a]">
+                                        {result.original_query.slice(0, 30)}...
+                                    </span>
+                                    {result.expanded_queries.map(
+                                        (q: string, i: number) => (
+                                            <span
+                                                key={i}
+                                                className="px-2 py-1 text-xs rounded bg-[#6c8cff]/20 text-[#6c8cff]"
+                                            >
+                                                → {q.slice(0, 30)}...
+                                            </span>
+                                        )
+                                    )}
+                                </div>
+                            </div>
+                        )}
                 </div>
 
                 {/* Steps List */}
-                <div className="divide-y divide-[#2d303a]/30 max-h-[350px] overflow-y-auto custom-scrollbar">
+                <div
+                    ref={scrollRef}
+                    className="divide-y divide-[#2d303a]/30 max-h-[350px] overflow-y-auto custom-scrollbar"
+                >
                     {steps.map((step, index) => {
-                        const isExpanded = expandedSteps.has(step.id);
+                        const isExpanded = expandedSteps.has(index);
                         const isLast = index === steps.length - 1;
-                        const isActive = step.status === "in-progress";
-                        const isCompleted = step.status === "completed";
-                        const stepType = step.step_type || "retrieval";
+                        const isActive = isLast && isLoading && !result;
+                        const isCompleted = !isLast || result !== null;
                         const stepColor =
-                            STEP_COLORS[stepType] || "text-[#8b8f9a]";
+                            STEP_COLORS[step.step_type] || "text-[#8b8f9a]";
 
                         return (
                             <div
-                                key={step.id}
+                                key={`${step.step_type}-${index}`}
                                 className={cn(
                                     "transition-colors duration-300",
                                     isActive && "bg-[#6c8cff]/5",
@@ -507,7 +439,7 @@ export function AgenticLoader({
                                 )}
                             >
                                 <button
-                                    onClick={() => toggleExpand(step.id)}
+                                    onClick={() => toggleExpand(index)}
                                     className="w-full px-5 py-3 flex items-center gap-3 text-left hover:bg-[#1a1d24]/50 transition-colors"
                                 >
                                     <div
@@ -527,28 +459,27 @@ export function AgenticLoader({
                                                 isActive && "text-[#6c8cff]"
                                             )}
                                         >
-                                            {STEP_ICONS[stepType] || (
+                                            {STEP_ICONS[step.step_type] || (
                                                 <Circle className="h-4 w-4" />
                                             )}
                                         </span>
                                     </div>
-                                    {getStepIcon(step, isLast)}
+                                    {getStepIcon(step, index, isLast)}
                                     <span
                                         className={cn(
                                             "flex-1 text-sm font-medium transition-colors",
                                             isActive && "text-[#6c8cff]",
                                             isCompleted && "text-[#e8eaed]",
-                                            step.status === "pending" &&
+                                            !isActive &&
+                                                !isCompleted &&
                                                 "text-[#8b8f9a]/60"
                                         )}
                                     >
                                         {step.title}
                                     </span>
-                                    {step.timestamp_ms && (
-                                        <span className="text-[10px] text-[#6b6f7a] font-mono">
-                                            {step.timestamp_ms.toFixed(0)}ms
-                                        </span>
-                                    )}
+                                    <span className="text-[10px] text-[#6b6f7a] font-mono">
+                                        {step.timestamp_ms.toFixed(0)}ms
+                                    </span>
                                     <ChevronDown
                                         className={cn(
                                             "h-4 w-4 text-[#8b8f9a] transition-transform duration-200",
@@ -575,8 +506,8 @@ export function AgenticLoader({
                         );
                     })}
 
-                    {/* Loading more steps indicator */}
-                    {isFetchingSteps && (
+                    {/* Loading indicator */}
+                    {isLoading && !result && (
                         <div className="px-5 py-3 flex items-center gap-3">
                             <Loader2 className="h-4 w-4 text-[#6c8cff] animate-spin" />
                             <span className="text-xs text-[#8b8f9a]">
@@ -586,16 +517,21 @@ export function AgenticLoader({
                     )}
                 </div>
 
-                {/* Footer */}
+                {/* Footer with Summary */}
                 <div className="px-5 py-3 bg-[#0c0d10] border-t border-[#2d303a]/50">
                     <div className="flex items-center justify-between">
                         <div className="flex items-center gap-2">
-                            {isResultReady ? (
+                            {result ? (
                                 <>
                                     <div className="flex items-center gap-2">
                                         <Sparkles className="h-4 w-4 text-[#3dd68c]" />
                                         <span className="text-xs text-[#3dd68c]">
-                                            Analysis complete
+                                            {result.documents.length} documents
+                                            •{" "}
+                                            {Math.round(
+                                                result.confidence_score * 100
+                                            )}
+                                            % confidence
                                         </span>
                                     </div>
                                 </>
@@ -615,23 +551,15 @@ export function AgenticLoader({
                                         ))}
                                     </div>
                                     <span className="text-xs text-[#8b8f9a]">
-                                        {stocks.length > 0
-                                            ? `Analyzing ${stocks[0].replace(
-                                                  ".NS",
-                                                  ""
-                                              )}${
-                                                  stocks.length > 1
-                                                      ? ` +${stocks.length - 1}`
-                                                      : ""
-                                              }...`
-                                            : "Processing your strategy..."}
+                                        &quot;{query.slice(0, 30)}
+                                        {query.length > 30 ? "..." : ""}&quot;
                                     </span>
                                 </>
                             )}
                         </div>
                         <span className="text-[10px] text-[#8b8f9a]/60 font-mono flex items-center gap-1">
                             <Brain className="h-3 w-3" />
-                            Backtesting
+                            Agentic RAG
                         </span>
                     </div>
                 </div>

@@ -5,6 +5,7 @@ from app.routes.stocks import stocks_bp
 from app.routes.optimize import optimize_bp
 from app.routes.backtest import backtest_bp
 from app.routes.fetch import fetch_bp
+from app.routes.agentic_rag import agentic_rag_bp
 
 
 def create_app():
@@ -21,6 +22,7 @@ def create_app():
     app.register_blueprint(optimize_bp)
     app.register_blueprint(backtest_bp)
     app.register_blueprint(fetch_bp)
+    app.register_blueprint(agentic_rag_bp)
 
     @app.route("/health")
     def health_check():

@@ -26,20 +26,20 @@ import { TerminalLayout } from "@/components/layout/terminal-layout";
 import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils/cn";
 
-const STOCK_SUGGESTIONS = ["NIFTY.NS", "RELIANCE.NS", "TCS.NS", "INFY.NS"];
+const STOCK_SUGGESTIONS = ["^NSEI", "RELIANCE.NS", "TCS.NS", "INFY.NS"];
 
 const ENTRY_SUGGESTIONS = [
-    "Buy when RSI < 30",
-    "Buy when price crosses above 50-day SMA",
-    "Buy on golden cross (50 SMA above 200 SMA)",
-    "Buy when MACD crosses above signal line",
+    "Buy when RSI < 30 and price is above 200-day SMA",
+    "Buy when price crosses above 50-day SMA with increasing volume",
+    "Buy on golden cross (50 SMA above 200 SMA) with RSI between 40-60",
+    "Buy when MACD crosses above signal line and RSI is below 50",
 ];
 
 const EXIT_SUGGESTIONS = [
-    "Sell when RSI > 70",
-    "Sell when price drops below 20-day SMA",
-    "Sell on death cross (50 SMA below 200 SMA)",
-    "Sell when MACD crosses below signal line",
+    "Sell when RSI > 70 or trailing stop loss at 8%",
+    "Sell when price drops 5% below 20-day SMA or take profit at 15%",
+    "Sell on death cross or stop loss at 10% below entry",
+    "Sell when MACD crosses below signal line with trailing stop at 7%",
 ];
 
 export function BacktestClient({
@@ -50,10 +50,10 @@ export function BacktestClient({
     const [entryStrategy, setEntryStrategy] = useState("");
     const [exitStrategy, setExitStrategy] = useState("");
     const [showAdvanced, setShowAdvanced] = useState(false);
-    const [stocks, setStocks] = useState<string[]>(["RELIANCE.NS"]);
+    const [stocks, setStocks] = useState<string[]>(["^NSEI"]);
     const [capital, setCapital] = useState(50000);
-    const [startDate, setStartDate] = useState("2023-01-01");
-    const [endDate, setEndDate] = useState("2024-01-01");
+    const [startDate, setStartDate] = useState("2020-01-01");
+    const [endDate, setEndDate] = useState("2025-01-01");
     const [newSymbol, setNewSymbol] = useState("");
     const [result, setResult] = useState<BacktestResponse | null>(
         initialResult ?? null

@@ -18,7 +18,11 @@ interface Alert {
     isActive: boolean;
 }
 
-export function AlertsPanel() {
+interface AlertsPanelProps {
+    isLoading?: boolean;
+}
+
+export function AlertsPanel({ isLoading }: AlertsPanelProps = {}) {
     const [filter, setFilter] = useState<"all" | "active" | "triggered">("all");
 
     // Mock alerts data
@@ -56,6 +60,39 @@ export function AlertsPanel() {
             isActive: true,
         },
     ];
+
+    if (isLoading) {
+        return (
+            <div className="rounded-lg border border-[#2a2a2a] bg-[#0f0f0f] p-4">
+                <div className="mb-3 flex items-center justify-between">
+                    <div className="flex items-center gap-2">
+                        <Bell className="h-4 w-4 text-white" />
+                        <div className="h-4 w-16 bg-[#2d303a]/50 rounded animate-pulse" />
+                    </div>
+                </div>
+                <div className="mb-3 h-8 bg-black/40 rounded animate-pulse" />
+                <div className="space-y-2">
+                    {[1, 2, 3, 4].map((i) => (
+                        <div
+                            key={i}
+                            className="rounded-lg border border-[#2a2a2a] bg-black/30 p-2.5"
+                        >
+                            <div className="flex items-start gap-2">
+                                <div className="mt-0.5 h-3.5 w-3.5 bg-[#2d303a]/50 rounded animate-pulse" />
+                                <div className="flex-1 space-y-1">
+                                    <div className="flex items-center gap-2">
+                                        <div className="h-3 w-12 bg-[#2d303a]/50 rounded animate-pulse" />
+                                        <div className="h-2 w-16 bg-[#2d303a]/50 rounded animate-pulse" />
+                                    </div>
+                                    <div className="h-3 w-3/4 bg-[#2d303a]/50 rounded animate-pulse" />
+                                </div>
+                            </div>
+                        </div>
+                    ))}
+                </div>
+            </div>
+        );
+    }
 
     const filteredAlerts = alerts.filter((alert) => {
         if (filter === "all") return true;
