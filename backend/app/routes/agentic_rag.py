@@ -14,11 +14,14 @@ import os
 import logging
 import time
 import json
+import requests
 from typing import List, Dict, Optional, Any
 from pydantic import BaseModel, Field
 from openai import OpenAI
 from dotenv import load_dotenv
 import google.generativeai as genai
+from qdrant_client import QdrantClient
+from qdrant_client.http import models
 
 load_dotenv()
 
@@ -37,7 +40,7 @@ DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data_lake", "text")
 TOP_K = 20
 MAX_ITERATIONS = 3
 
-VLLM_API_URL = os.environ.get("VLLM_API_URL", "http://localhost:8000/v1")
+EMBEDDING_URL = os.environ.get("EMBEDDING_URL", "http://localhost:8000/v1")
 EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", "intfloat/e5-mistral-7b-instruct")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY", "")
 
@@ -79,6 +82,74 @@ class DocumentInsight(BaseModel):
 # ----------------- Advanced RAG Functions -----------------
 
 
+def extract_json(text: str) -> Any:
+    """Helper to extract JSON from text that might contain markdown code blocks"""
+    text = text.strip()
+    
+    # If it's already valid JSON, return it
+    try:
+        return json.loads(text)
+    except:
+        pass
+    
+    if "```" in text:
+        # Try to find the first JSON block
+        try:
+            # Split by ``` and look for the block that looks like JSON
+            parts = text.split("```")
+            for part in parts:
+                part = part.strip()
+                if part.startswith("json"):
+                    part = part[4:].strip()
+                if part.startswith("{") or part.startswith("["):
+                    try:
+                        return json.loads(part)
+                    except:
+                        continue
+        except:
+            pass
+    
+    # Fallback: try to find the first { or [ and the last } or ]
+    # Try multiple strategies
+    strategies = [
+        # Strategy 1: Find matching braces
+        lambda t: _extract_matching_json(t),
+        # Strategy 2: Find first { to last }
+        lambda t: t[t.find("{"):t.rfind("}")+1] if "{" in t and "}" in t else None,
+        # Strategy 3: Find first [ to last ]
+        lambda t: t[t.find("["):t.rfind("]")+1] if "[" in t and "]" in t else None,
+    ]
+    
+    for strategy in strategies:
+        try:
+            extracted = strategy(text)
+            if extracted:
+                return json.loads(extracted)
+        except:
+            continue
+            
+    logger.warning(f"JSON extraction failed for text: {text[:100]}...")
+    return None
+
+
+def _extract_matching_json(text: str) -> Optional[str]:
+    """Extract JSON by finding matching braces/brackets"""
+    for start_char, end_char in [('{', '}'), ('[', ']')]:
+        start_idx = text.find(start_char)
+        if start_idx == -1:
+            continue
+            
+        depth = 0
+        for i in range(start_idx, len(text)):
+            if text[i] == start_char:
+                depth += 1
+            elif text[i] == end_char:
+                depth -= 1
+                if depth == 0:
+                    return text[start_idx:i+1]
+    return None
+
+
 def expand_query(query: str) -> Dict[str, Any]:
     """
     Query Expansion: Generate synonyms, related terms, and alternative phrasings
@@ -113,14 +184,15 @@ Return JSON:
         
         # Check if response was blocked or empty
         if not response.candidates or not response.candidates[0].content.parts:
-            logger.warning(f"Query expansion: Response blocked or empty (finish_reason: {response.candidates[0].finish_reason if response.candidates else 'no candidates'})")
+            logger.warning(f"Query expansion: Response blocked or empty")
             return {"expanded_queries": [query], "search_terms": query.split(), "interpreted_intent": query}
         
-        text = response.text.strip()
-        if "```" in text:
-            text = text.split("```")[1].replace("json", "").strip()
-        
-        return json.loads(text)
+        result = extract_json(response.text)
+        if not result:
+            logger.warning(f"Query expansion: Could not parse JSON from response: {response.text[:100]}...")
+            return {"expanded_queries": [query], "search_terms": query.split(), "interpreted_intent": query}
+            
+        return result
     except Exception as e:
         logger.error(f"Query expansion error: {e}")
         return {"expanded_queries": [query], "search_terms": query.split(), "interpreted_intent": query}
@@ -160,11 +232,12 @@ Return ONLY the JSON array."""
             logger.warning(f"Sub-question decomposition: Response blocked or empty")
             return [query]
         
-        text = response.text.strip()
-        if "```" in text:
-            text = text.split("```")[1].replace("json", "").strip()
-        
-        return json.loads(text)
+        result = extract_json(response.text)
+        if not result:
+            logger.warning(f"Sub-question decomposition: Could not parse JSON")
+            return [query]
+            
+        return result
     except Exception as e:
         logger.error(f"Sub-question decomposition error: {e}")
         return [query]
@@ -302,7 +375,7 @@ Return JSON:
         
         # Check if response was blocked or empty
         if not response.candidates or not response.candidates[0].content.parts:
-            logger.warning(f"Document insight extraction: Response blocked or empty (finish_reason: {response.candidates[0].finish_reason if response.candidates else 'no candidates'})")
+            logger.warning(f"Document insight extraction: Response blocked or empty")
             return [{
                 "title": f"Result {i+1}",
                 "description": doc.get("text", "")[:100],
@@ -319,11 +392,25 @@ Return JSON:
                 "full_text": doc.get("text", "")
             } for i, doc in enumerate(documents)]
         
-        text = response.text.strip()
-        if "```" in text:
-            text = text.split("```")[1].replace("json", "").strip()
+        result = extract_json(response.text)
+        if not result:
+            logger.warning(f"Document insight extraction: Could not parse JSON")
+            return [{
+                "title": f"Result {i+1}",
+                "description": doc.get("text", "")[:100],
+                "relevance_score": doc.get("score", 0),
+                "data_points": [],
+                "key_quote": "",
+                "highlights": [],
+                "snippet": doc.get("text", "")[:200] + "...",
+                "non_technical_insight": "",
+                "actionable_takeaway": "",
+                "source_url": doc.get("url", ""),
+                "source_code": doc.get("code", ""),
+                "confidence": 0.5,
+                "full_text": doc.get("text", "")
+            } for i, doc in enumerate(documents)]
         
-        result = json.loads(text)
         analysis_map = {d["id"]: d for d in result.get("documents", [])}
         
         enhanced_docs = []
@@ -432,7 +519,7 @@ Return JSON:
         
         # Check if response was blocked or empty
         if not response.candidates or not response.candidates[0].content.parts:
-            logger.warning(f"Executive summary: Response blocked or empty (finish_reason: {response.candidates[0].finish_reason if response.candidates else 'no candidates'})")
+            logger.warning(f"Executive summary: Response blocked or empty")
             return {
                 "executive_summary": "Analysis complete. Review documents for details.",
                 "key_metrics": [],
@@ -441,11 +528,18 @@ Return JSON:
                 "opportunities": []
             }
         
-        text = response.text.strip()
-        if "```" in text:
-            text = text.split("```")[1].replace("json", "").strip()
-        
-        return json.loads(text)
+        result = extract_json(response.text)
+        if not result:
+            logger.warning(f"Executive summary: Could not parse JSON")
+            return {
+                "executive_summary": "Analysis complete. Review documents for details.",
+                "key_metrics": [],
+                "main_insight": "",
+                "risk_factors": [],
+                "opportunities": []
+            }
+            
+        return result
     except Exception as e:
         logger.error(f"Executive summary error: {e}")
         return {
@@ -461,7 +555,7 @@ Return JSON:
 
 
 class RAGSearchEngine:
-    """RAG Search Engine using vLLM for embeddings"""
+    """RAG Search Engine using Qdrant for hybrid search"""
     
     _instance = None
     _initialized = False
@@ -475,99 +569,177 @@ class RAGSearchEngine:
         if RAGSearchEngine._initialized:
             return
         
-        logger.info("🔌 Initializing RAG Search Engine...")
+        logger.info("🔌 Initializing RAG Search Engine (Qdrant)...")
         self.client = None
-        self.df = None
-        self.vectors = None
         self.initialized = False
+        self.collection_name = os.environ.get("QDRANT_COLLECTION", "stocks")
+        self.embedding_url = os.environ.get("EMBEDDING_URL")
+        self.sparse_url = os.environ.get("SPARSE_URL")
+        self.qdrant_url = os.environ.get("QDRANT_URL")
+        self.qdrant_api_key = os.environ.get("QDRANT_API_KEY")
 
     def _lazy_init(self):
         if self.initialized:
             return True
 
         try:
-            self.client = OpenAI(base_url=VLLM_API_URL, api_key="EMPTY")
-            self._load_index()
+            if not self.qdrant_url:
+                logger.error("❌ QDRANT_URL not set")
+                return False
+                
+            self.client = QdrantClient(
+                url=self.qdrant_url,
+                api_key=self.qdrant_api_key,
+                timeout=30
+            )
+            
             self.initialized = True
             RAGSearchEngine._initialized = True
-            logger.info(f"🚀 Engine Ready. Indexed {len(self.df):,} documents.")
+            logger.info(f"🚀 Qdrant Engine Ready. Collection: {self.collection_name}")
             return True
         except Exception as e:
-            logger.error(f"❌ Failed to initialize: {e}")
+            logger.error(f"❌ Failed to initialize Qdrant: {e}")
             return False
 
-    def _load_index(self):
+    def get_dense_embedding(self, text: str) -> Optional[List[float]]:
+        if not self.embedding_url:
+            logger.warning("⚠️ EMBEDDING_URL not configured")
+            return None
         try:
-            import pyarrow.parquet as pq
-            import pyarrow as pa
-
-            parquet_files = [
-                os.path.join(DATA_DIR, f)
-                for f in os.listdir(DATA_DIR)
-                if f.endswith(".parquet")
-            ]
-
-            if not parquet_files:
-                raise ValueError(f"No parquet files found in {DATA_DIR}")
-
-            tables = []
-            for f in parquet_files:
-                try:
-                    tables.append(pq.read_table(f))
-                except Exception as e:
-                    logger.warning(f"  Skipping {f}: {e}")
-
-            combined = pa.concat_tables(tables)
-            self.df = combined.to_pandas()
-
-            vecs = np.stack(self.df["vector"].values)
-            self.vectors = vecs.astype(np.float32) / 100.0
-            norms = np.linalg.norm(self.vectors, axis=1, keepdims=True)
-            norms = np.where(norms == 0, 1, norms)
-            self.vectors = self.vectors / norms
-
+            url = self.embedding_url
+            if not url.endswith("/embeddings"):
+                url = f"{url.rstrip('/')}/embeddings"
+                
+            payload = {
+                "input": [text],
+                "model": EMBEDDING_MODEL
+            }
+            headers = {"Content-Type": "application/json"}
+            logger.debug(f"Dense embedding request to {url}")
+            response = requests.post(url, json=payload, headers=headers, timeout=15)
+            response.raise_for_status()
+            result = response.json()
+            return result["data"][0]["embedding"]
+        except requests.exceptions.Timeout:
+            logger.error(f"❌ Dense embedding timeout for {self.embedding_url}")
+            return None
+        except requests.exceptions.ConnectionError as e:
+            logger.error(f"❌ Dense embedding connection error: {e}")
+            return None
         except Exception as e:
-            logger.error(f"❌ Failed to load index: {e}")
-            raise
+            logger.error(f"❌ Dense embedding error: {e}")
+            return None
 
-    def get_embedding(self, text: str) -> Optional[np.ndarray]:
-        formatted_query = f"Instruct: Retrieve financial insights.\nQuery: {text}"
-        
+    def get_sparse_embedding(self, text: str) -> Optional[Any]:
+        """Returns sparse embedding - can be dict with indices/values or list"""
+        if not self.sparse_url:
+            logger.info("ℹ️ SPARSE_URL not configured, skipping sparse search")
+            return None
         try:
-            response = self.client.embeddings.create(
-                input=[formatted_query], model=EMBEDDING_MODEL
-            )
-            return np.array(response.data[0].embedding, dtype=np.float32)
+            payload = {"input": [text]}
+            headers = {"Content-Type": "application/json"}
+            logger.debug(f"Sparse embedding request to {self.sparse_url}")
+            response = requests.post(self.sparse_url, json=payload, headers=headers, timeout=15)
+            response.raise_for_status()
+            result = response.json()
+            embedding = result["data"][0]["embedding"]
+            
+            # Check if it's sparse format (dict with indices/values)
+            if isinstance(embedding, dict) and "indices" in embedding and "values" in embedding:
+                logger.debug(f"Received sparse vector with {len(embedding['indices'])} non-zero elements")
+                return models.SparseVector(
+                    indices=embedding["indices"],
+                    values=embedding["values"]
+                )
+            # Otherwise it's a dense list
+            logger.debug(f"Received dense-like sparse vector with {len(embedding)} dimensions")
+            return embedding
+        except requests.exceptions.Timeout:
+            logger.warning(f"⚠️ Sparse embedding timeout for {self.sparse_url} - continuing with dense only")
+            return None
+        except requests.exceptions.ConnectionError as e:
+            logger.warning(f"⚠️ Sparse embedding connection failed: {e} - continuing with dense only")
+            return None
         except Exception as e:
-            logger.error(f"❌ Embedding error: {e}")
+            logger.error(f"❌ Sparse embedding error: {e}")
             return None
 
     def search(self, query: str, top_k: int = TOP_K) -> List[Dict]:
         if not self._lazy_init():
             return []
 
-        query_vec = self.get_embedding(query)
-        if query_vec is None:
+        dense_vec = self.get_dense_embedding(query)
+        sparse_vec = self.get_sparse_embedding(query)
+        
+        if not dense_vec:
+            logger.warning("⚠️ Could not generate dense embedding")
             return []
 
-        query_norm = np.linalg.norm(query_vec)
-        if query_norm > 0:
-            query_vec = query_vec / query_norm
+        limit = top_k * 3  # Fetch more for deduplication
+        
+        try:
+            prefetch = []
+            if sparse_vec:
+                # If sparse_vec is already a SparseVector model, use it directly
+                if isinstance(sparse_vec, models.SparseVector):
+                    prefetch.append(models.Prefetch(
+                        query=sparse_vec,
+                        using="sparse",
+                        limit=limit * 2
+                    ))
+                else:
+                    # Otherwise wrap it as a regular vector
+                    prefetch.append(models.Prefetch(
+                        query=sparse_vec,
+                        using="sparse",
+                        limit=limit * 2
+                    ))
+            
+            results = self.client.query_points(
+                collection_name=self.collection_name,
+                prefetch=prefetch if prefetch else None,
+                query=dense_vec,
+                using="dense",
+                limit=limit,
+                with_payload=True
+            ).points
+            
+            seen_hashes = set()
+            unique_results = []
+            
+            for hit in results:
+                payload = hit.payload or {}
+                file_hash = payload.get("file_hash")
+                
+                unique_key = file_hash or payload.get("pdf_url") or payload.get("text_filename")
+                
+                if unique_key and unique_key in seen_hashes:
+                    continue
+                
+                if unique_key:
+                    seen_hashes.add(unique_key)
+                
+                text_content = payload.get("text", "")
+                if not text_content:
+                    text_content = f"{payload.get('stock_name', '')} - {payload.get('subject', '')}\nCategory: {payload.get('category', '')}"
+                
+                unique_results.append({
+                    "score": hit.score,
+                    "code": str(payload.get("stock_code", "")),
+                    "url": payload.get("pdf_url", ""),
+                    "text": text_content,
+                    "title": payload.get("subject", ""),
+                    "metadata": payload
+                })
+                
+                if len(unique_results) >= top_k:
+                    break
+            
+            return unique_results
 
-        scores = np.dot(self.vectors, query_vec)
-        top_indices = np.argsort(scores)[::-1][:top_k]
-
-        results = []
-        for idx in top_indices:
-            row = self.df.iloc[idx]
-            results.append({
-                "score": float(scores[idx]),
-                "code": str(row.get("code", "")),
-                "url": str(row.get("url", "")),
-                "text": str(row.get("text", ""))[:2000],
-            })
-
-        return results
+        except Exception as e:
+            logger.error(f"❌ Qdrant search error: {e}")
+            return []
     
     def multi_query_search(self, queries: List[str], top_k: int = TOP_K) -> List[Dict]:
         """Search with multiple queries and merge results"""
@@ -579,7 +751,7 @@ class RAGSearchEngine:
         for query in queries:
             results = self.search(query, top_k)
             for r in results:
-                key = r.get("url") or r.get("text")[:100]
+                key = r.get("url") or r.get("title")
                 if key in all_results:
                     all_results[key]["score"] = max(all_results[key]["score"], r["score"]) * 1.1
                 else:
@@ -624,57 +796,22 @@ def agentic_rag_stream():
                 }
                 return f"data: {json.dumps(step)}\n\n"
             
-            # Step 1: Query Expansion
-            yield send_step("query_expansion", "Expanding Query", "Finding synonyms and related terms")
-            expansion = expand_query(req.query)
-            expanded_queries = expansion.get("expanded_queries", [req.query])
-            interpreted_intent = expansion.get("interpreted_intent", req.query)
+            # Step 1: Direct Retrieval
+            yield send_step("retrieval", "Searching Documents", "Retrieving relevant documents")
             
-            yield send_step("query_expansion_done", "Query Expanded", 
-                          f"Found {len(expanded_queries)} variations",
-                          {"queries": expanded_queries[:3]})
-            
-            # Step 2: Sub-Question Decomposition
-            yield send_step("decomposition", "Decomposing Query", "Breaking into sub-questions")
-            sub_questions = decompose_into_subquestions(req.query, interpreted_intent)
-            
-            yield send_step("decomposition_done", f"{len(sub_questions)} Sub-Questions",
-                          sub_questions[0][:50] + "..." if sub_questions else "",
-                          {"sub_questions": sub_questions})
-            
-            # Step 3: Step-Back Prompting
-            yield send_step("step_back", "Step-Back Analysis", "Generating broader context")
-            step_back_question = generate_step_back_question(req.query)
-            
-            yield send_step("step_back_done", "Context Expanded",
-                          step_back_question[:60] + "...")
-            
-            # Step 4: HyDE
-            yield send_step("hyde", "Hypothesis Generation", "Creating ideal answer pattern")
-            hypothetical_answer = generate_hypothetical_answer(req.query, interpreted_intent)
-            
-            yield send_step("hyde_done", "Search Pattern Ready",
-                          "Semantic matching optimized")
-            
-            # Step 5: Multi-Query Retrieval
-            yield send_step("retrieval", "Multi-Query Search", f"Searching with {min(8, len(expanded_queries) + len(sub_questions) + 2)} query variants")
-            
-            all_search_queries = [req.query] + expanded_queries + sub_questions + [step_back_question, hypothetical_answer]
-            all_search_queries = list(set(all_search_queries))[:8]
-            
-            documents = search_engine.multi_query_search(all_search_queries, req.top_k)
+            documents = search_engine.search(req.query, req.top_k)
             
             yield send_step("retrieval_done", f"Found {len(documents)} Documents",
                           f"Best match: {documents[0]['score']:.0%}" if documents else "No results")
             
-            # Step 6: Extract Insights
+            # Step 2: Extract Insights
             yield send_step("insight_extraction", "Analyzing Documents", "Extracting insights and data points")
             enriched_documents = extract_document_insights(req.query, documents)
             
             yield send_step("insight_extraction_done", "Insights Ready",
                           f"{sum(len(d.get('data_points', [])) for d in enriched_documents)} data points found")
             
-            # Step 7: Executive Summary
+            # Step 3: Executive Summary
             yield send_step("summarization", "Generating Summary", "Creating executive overview")
             summary = generate_executive_summary(req.query, documents)
             
@@ -687,10 +824,10 @@ def agentic_rag_stream():
                 "type": "result",
                 "data": {
                     "original_query": req.query,
-                    "interpreted_intent": interpreted_intent,
-                    "expanded_queries": expanded_queries,
-                    "sub_questions": sub_questions,
-                    "step_back_question": step_back_question,
+                    "interpreted_intent": req.query,
+                    "expanded_queries": [],
+                    "sub_questions": [],
+                    "step_back_question": "",
                     
                     "executive_summary": summary.get("executive_summary", ""),
                     "key_metrics": summary.get("key_metrics", []),
@@ -732,18 +869,7 @@ def agentic_rag_route():
         steps = []
         
         # Run pipeline
-        expansion = expand_query(req.query)
-        expanded_queries = expansion.get("expanded_queries", [req.query])
-        interpreted_intent = expansion.get("interpreted_intent", req.query)
-        
-        sub_questions = decompose_into_subquestions(req.query, interpreted_intent)
-        step_back_question = generate_step_back_question(req.query)
-        hypothetical_answer = generate_hypothetical_answer(req.query, interpreted_intent)
-        
-        all_search_queries = [req.query] + expanded_queries + sub_questions + [step_back_question, hypothetical_answer]
-        all_search_queries = list(set(all_search_queries))[:8]
-        
-        documents = search_engine.multi_query_search(all_search_queries, req.top_k)
+        documents = search_engine.search(req.query, req.top_k)
         enriched_documents = extract_document_insights(req.query, documents)
         summary = generate_executive_summary(req.query, documents)
         
@@ -751,10 +877,10 @@ def agentic_rag_route():
         
         return jsonify({
             "original_query": req.query,
-            "interpreted_intent": interpreted_intent,
-            "expanded_queries": expanded_queries,
-            "sub_questions": sub_questions,
-            "step_back_question": step_back_question,
+            "interpreted_intent": req.query,
+            "expanded_queries": [],
+            "sub_questions": [],
+            "step_back_question": "",
             
             "executive_summary": summary.get("executive_summary", ""),
             "key_metrics": summary.get("key_metrics", []),
@@ -780,9 +906,9 @@ def agentic_rag_route():
 def agentic_health():
     return jsonify({
         "status": "ok",
-        "vllm_url": VLLM_API_URL,
+        "embedding_url": EMBEDDING_URL,
         "embedding_model": EMBEDDING_MODEL,
         "gemini_configured": bool(GOOGLE_API_KEY),
         "engine_initialized": search_engine.initialized,
-        "features": ["query_expansion", "sub_question_decomposition", "hyde", "step_back_prompting"]
+        "features": ["hybrid_search", "insight_extraction", "summarization"]
     })

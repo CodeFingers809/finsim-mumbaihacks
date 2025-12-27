@@ -83,6 +83,11 @@ export function DashboardShell({ children }: { children: React.ReactNode }) {
         <main className="flex-1 bg-gradient-to-b from-[#0a0a0a] via-[#0f0f0f] to-[#050505] px-4 py-6 lg:px-8">
           <div className="mx-auto max-w-[1600px] space-y-6">{children}</div>
         </main>
+        <footer className="border-t border-border/50 px-6 py-2 bg-black/20">
+          <p className="text-[10px] text-gray-500 text-center">
+            * This platform is for informational and educational purposes only. We are not financial advisors. Please consult with a qualified financial professional before making investment decisions.
+          </p>
+        </footer>
       </div>
     </div>
   );

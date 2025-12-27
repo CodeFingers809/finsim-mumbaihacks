@@ -10,5 +10,19 @@ export async function GET(request: Request) {
   }
   const symbols = symbolsParam.split(",").map((symbol) => symbol.trim().toUpperCase());
   const quotes = await fetchMultipleQuotes(symbols);
-  return NextResponse.json(quotes, { headers: { "cache-control": "no-store" } });
+  
+  // Transform to match MarketQuote type with lastPrice
+  const transformedQuotes = quotes.map(quote => ({
+    symbol: quote.symbol,
+    lastPrice: quote.price,
+    change: quote.change,
+    changePercent: quote.changesPercentage,
+    dayHigh: quote.dayHigh,
+    dayLow: quote.dayLow,
+    open: quote.open,
+    volume: quote.volume,
+    previousClose: quote.previousClose,
+  }));
+  
+  return NextResponse.json(transformedQuotes, { headers: { "cache-control": "no-store" } });
 }

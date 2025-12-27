@@ -28,6 +28,7 @@ export async function GET(request: NextRequest) {
             symbol: quote.symbol,
             name: quote.name,
             price: quote.price,
+            lastPrice: quote.price,
             changesPercentage: quote.changesPercentage,
             change: quote.change,
             dayLow: quote.dayLow,

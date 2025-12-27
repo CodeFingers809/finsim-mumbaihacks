@@ -30,15 +30,15 @@ export function AlertsPanel({ isLoading }: AlertsPanelProps = {}) {
         {
             id: "1",
             type: "triggered",
-            symbol: "GOOGL",
-            message: "Price crossed $176 (Target)",
+            symbol: "INFY",
+            message: "Price crossed ₹1900 (Target)",
             timestamp: "2 min ago",
             isActive: false,
         },
         {
             id: "2",
             type: "volume",
-            symbol: "AAPL",
+            symbol: "TCS",
             message: "Volume spike detected (2.5x avg)",
             timestamp: "15 min ago",
             isActive: true,
@@ -46,7 +46,7 @@ export function AlertsPanel({ isLoading }: AlertsPanelProps = {}) {
         {
             id: "3",
             type: "technical",
-            symbol: "MSFT",
+            symbol: "RELIANCE",
             message: "RSI crossed 70 (Overbought)",
             timestamp: "32 min ago",
             isActive: true,
@@ -54,8 +54,8 @@ export function AlertsPanel({ isLoading }: AlertsPanelProps = {}) {
         {
             id: "4",
             type: "price",
-            symbol: "NVDA",
-            message: "Approaching support at $140",
+            symbol: "HDFCBANK",
+            message: "Approaching support at ₹1650",
             timestamp: "1 hour ago",
             isActive: true,
         },

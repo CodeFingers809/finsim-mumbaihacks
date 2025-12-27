@@ -31,9 +31,9 @@ export function PortfolioSnapshot() {
     ];
 
     const topHoldings = [
-        { symbol: "GOOGL", allocation: 18.5, value: 23188 },
-        { symbol: "AAPL", allocation: 16.2, value: 20306 },
-        { symbol: "MSFT", allocation: 14.8, value: 18550 },
+        { symbol: "INFY", allocation: 22.5, value: 28202 },
+        { symbol: "TCS", allocation: 18.2, value: 22812 },
+        { symbol: "RELIANCE", allocation: 16.8, value: 21057 },
     ];
 
     return (

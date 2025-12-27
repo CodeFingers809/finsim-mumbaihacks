@@ -62,14 +62,14 @@ async function fetchQuote(symbol: string): Promise<MarketQuote> {
     const data = await response.json();
     return {
         symbol: data.symbol,
-        lastPrice: data.price || data.lastPrice,
-        change: data.change,
-        changePercent: data.changesPercentage || data.changePercent,
-        dayHigh: data.dayHigh || data.high,
-        dayLow: data.dayLow || data.low,
-        open: data.open,
-        volume: data.volume,
-        previousClose: data.previousClose,
+        lastPrice: data.price || data.lastPrice || 0,
+        change: data.change || 0,
+        changePercent: data.changesPercentage || data.changePercent || 0,
+        dayHigh: data.dayHigh || data.high || 0,
+        dayLow: data.dayLow || data.low || 0,
+        open: data.open || 0,
+        volume: data.volume || 0,
+        previousClose: data.previousClose || 0,
     };
 }
 
@@ -304,7 +304,7 @@ export function StockPageClient({
                                 <div className="px-4 py-2 rounded-xl bg-[#12141a]/95 backdrop-blur-sm border border-[#2d303a]/50 shadow-soft">
                                     <div className="flex items-center gap-3">
                                         <span className="text-lg font-bold font-mono tracking-tight text-[#e8eaed]">
-                                            ₹{quote?.lastPrice.toFixed(2)}
+                                            ₹{quote?.lastPrice?.toFixed(2) || "--"}
                                         </span>
                                         <div
                                             className={cn(
@@ -317,7 +317,7 @@ export function StockPageClient({
                                             {(quote?.change || 0) >= 0
                                                 ? "+"
                                                 : ""}
-                                            {quote?.change.toFixed(2)}
+                                            {quote?.change?.toFixed(2) || "--"}
                                             <span className="text-xs opacity-80">
                                                 (
                                                 {quote?.changePercent.toFixed(

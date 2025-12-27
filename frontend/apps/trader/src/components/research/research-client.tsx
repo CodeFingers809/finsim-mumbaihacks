@@ -125,7 +125,8 @@ export function ResearchClient() {
                 body: JSON.stringify({ name }),
             });
             if (!response.ok) throw new Error("Failed to create watchlist");
-            return response.json();
+            const data = await response.json();
+            return data.watchlist;
         },
         onSuccess: (watchlist: Watchlist) => {
             queryClient.setQueryData<Watchlist[]>(
@@ -156,7 +157,8 @@ export function ResearchClient() {
                 }
             );
             if (!response.ok) throw new Error("Failed to add symbol");
-            return response.json();
+            const data = await response.json();
+            return data.watchlist;
         },
         onSuccess: (watchlist: Watchlist) => {
             updateWatchlist(watchlist);
@@ -179,7 +181,8 @@ export function ResearchClient() {
                 }
             );
             if (!response.ok) throw new Error("Failed to remove symbol");
-            return response.json();
+            const data = await response.json();
+            return data.watchlist;
         },
         onSuccess: (watchlist: Watchlist) => {
             updateWatchlist(watchlist);
@@ -276,10 +279,10 @@ export function ResearchClient() {
             }
         >
             {/* Main Content Area */}
-            <div className="flex-1 flex overflow-hidden">
+            <div className="flex-1 flex overflow-hidden h-full">
                 {/* Left Panel - Watchlist & Funds */}
                 {showLeftPanel && (
-                    <div className="w-[320px] lg:w-[360px] xl:w-[400px] border-r border-[#2d303a]/50 bg-[#12141a] flex flex-col overflow-hidden shrink-0">
+                    <div className="w-[320px] lg:w-[360px] xl:w-[400px] border-r border-[#2d303a]/50 bg-[#12141a] flex flex-col shrink-0 h-full">
                         {/* Tabs Header */}
                         <div className="px-3 py-2 border-b border-[#2d303a]/40">
                             <div className="flex justify-center gap-1 p-1 bg-[#1a1d24] rounded-lg">
@@ -360,9 +363,9 @@ export function ResearchClient() {
                 )}
 
                 {/* Center - Main Content Area */}
-                <div className="flex-1 flex flex-col bg-[#0c0d10] overflow-hidden">
+                <div className="flex-1 flex flex-col bg-[#0c0d10] h-full overflow-hidden">
                     {/* Market Research Tabs - Primary Content */}
-                    <div className="flex-1 flex flex-col min-h-0">
+                    <div className="flex-1 flex flex-col overflow-hidden">
                         {/* Tab Header */}
                         <div className="px-4 py-3 border-b border-[#2d303a]/40 bg-[#12141a]/50">
                             <div className="flex items-center gap-1 p-1 bg-[#1a1d24] rounded-lg w-fit">
@@ -433,7 +436,7 @@ export function ResearchClient() {
 
                 {/* Right Panel - Analysis */}
                 {showRightPanel && (
-                    <div className="w-[320px] lg:w-[360px] xl:w-[400px] border-l border-[#2d303a]/50 bg-[#12141a] flex flex-col overflow-hidden shrink-0">
+                    <div className="w-[320px] lg:w-[360px] xl:w-[400px] border-l border-[#2d303a]/50 bg-[#12141a] flex flex-col shrink-0 h-full">
                         {/* Tabs Header */}
                         <div className="px-3 py-2 border-b border-[#2d303a]/40">
                             <div className="flex justify-center gap-1 p-1 bg-[#1a1d24] rounded-lg">
