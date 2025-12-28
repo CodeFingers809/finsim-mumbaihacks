@@ -10,6 +10,7 @@ const isPublicRoute = createRouteMatcher([
     "/api/historical-price(.*)", // Make historical price API routes public
     "/api/company-overview(.*)", // Make company overview API routes public
     "/api/stock-news(.*)", // Make stock news API routes public
+    "/api/alerts/send"
 ]);
 
 export default clerkMiddleware(async (auth, request) => {

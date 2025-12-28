@@ -91,7 +91,7 @@ export default function LandingPage() {
                         Sign In
                     </Link>
                     <Link
-                        href="/sign-up"
+                        href="/research"
                         className="px-4 py-2 text-sm font-medium bg-[#6c8cff] text-white rounded-full hover:bg-[#4a6bde] transition-all shadow-[0_0_15px_rgba(108,140,255,0.3)]"
                     >
                         Get Started
@@ -115,7 +115,7 @@ export default function LandingPage() {
 
                 <div className="hero-btn flex flex-col sm:flex-row gap-4">
                     <Link
-                        href="/sign-up"
+                        href="/research"
                         className="group relative px-8 py-4 bg-[#e8eaed] text-[#0c0d10] rounded-full font-semibold text-lg hover:bg-white transition-all flex items-center gap-2"
                     >
                         Start Trading Now
