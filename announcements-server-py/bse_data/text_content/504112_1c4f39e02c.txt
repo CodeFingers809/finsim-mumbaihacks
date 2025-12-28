@@ -1,0 +1,383 @@
+ 
+ 
+ 
+18th November 2025 
+ 
+BSE Limited     National Stock Exchange of India Limited  
+Corporate Relationship Dept         5th floor, Exchange Plaza, Plot No.C-1 
+1st Floor, New Trading Ring,   Block “G” Bandra Kurla Complex   
+Rotunda Building,                Bandra (East)    
+P.J. Towers, Fort,    Mumbai – 400 051  
+Mumbai – 400 001      
+ 
+BSE Code: 504112    NSE Code: Nelco EQ  
+ 
+Dear Sirs, 
+  
+Sub: Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI LODR Regulations”) – 
+Intimation of Credit Rating. 
+  
+Pursuant to Regulation 30 read with Part A of Schedule III of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, as amended, we wish to inform you that CRISIL Ratings 
+vide its letter dated 1 8th November 2025 has revised its outlook on Nelco Limited (the Company) as 
+under: - 
+ 
+Total Bank Loan Facilities Rated Rs.218.3 Crore  
+Long Term Rating CRISIL A/Stable (Outlook revised from 'Positive'; Rating 
+Reaffirmed) 
+Short Term Rating CRISIL A1 (Reaffirmed) 
+ 
+ Thanking you, 
+ 
+Yours faithfully, 
+NELCO Limited 
+ 
+ 
+ 
+Ritesh N. Kamdar 
+Company Secretary  
+ACS 20154 
+ 
+Rating Rationale
+November 18, 2025 | Mumbai
+NELCO Limited
+Rating outlook revised to 'Stable'; Ratings Reaffirmed
+ 
+Rating Action
+Total Bank Loan Facilities Rated Rs.218.3 Crore
+Long Term Rating Crisil A/Stable (Outlook revised from ‘Positive’; Rating
+Reaffirmed)
+Short Term Rating Crisil A1 (Reaffirmed)
+Note: None of the Directors on Crisil Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings.The Board of Directors also does not discuss any ratings at its meetings.1 crore = 10 millionRefer to Annexure for Details of Instruments & Bank Facilities
+Detailed Rationale
+Crisil Ratings has revised its outlook on the long-term bank loan facilities of NELCO Ltd (NELCO) to ‘Stable’ from ‘Positive’
+while reaffirming the rating at ‘Crisil A’. The short-term rating has been reaffirmed at ‘Crisil A1’.
+ 
+The revision in outlook follows slower-than-expected growth in business revenue mainly in the government segment, as well
+as certain slowdown seen in revenue from maritime and banking, financial service and insurance segments, resulting in
+revenue remaining range-bound over the last 2-3 fiscals. Consolidated operating income in fiscal 2025 was Rs 306 crore
+against Rs 321 crore in fiscal 2024, and Rs 149 crore for the first half of fiscal 2026.
+ 
+That said, the rating reaffirmation reflects the strong market position of the company in the niche very small aperture
+terminal (VSAT) service industry, healthy revenue visibility over the next few fiscals and sustenance of healthy operational
+and financial risk profiles. The ratings also factor in support from the Tata group, from which Nelco derives financial flexibility.
+ 
+Furthermore, over the medium term, the company’s revenue is expected to grow at a healthy rate which is likely to support
+its market position and operating profitability on sustained basis. This will be driven by the recurring nature of its service
+business, increasing revenue from the government segment, expected increase in bandwidth revenue and increasing
+adoption of VSAT technology. Furthermore, Crisil Ratings expects the company to utilise operating cash accrual towards its
+business requirement, which should support sustenance of healthy capital structure. The expected growth in the scale of
+operations and operating profitability will be a key rating monitorable.
+These strengths are partially offset by the working capital-intensive nature of business and inherent regulatory and
+technological risks.
+Analytical Approach
+Crisil Ratings has combined the business risk profile of its wholly owned subsidiary, Nelco Network Products Ltd (NNPL),
+while assessing NELCO. For arriving at the ratings, Crisil Ratings has applied its group notch-up framework to factor in the
+extent of support available from the Tata group.
+ 
+Please refer Annexure - List of Entities Consolidated, which captures the list of entities considered and their analytical treatment of consolidation.
+Key Rating Drivers - Strengths 
+Strong market position in the satcom industry
+NELCO is one of the leading players in the niche satellite communication (satcom) industry with about 40% revenue share
+in fiscal 2025. The company has the VSAT license which in India is offered under license from Department of Telecom
+(DoT), Government of India. Once the VSAT license is obtained, operators require satellite transponder space, which is
+provided by New Space India Ltd (NSIL), a part of Indian Space Research Organisation (ISRO; a Government of India
+company under the Department of Space). Going forward the satellite transponder capacities could also be provided by
+foreign satellite operators who have obtained authorisation from IN-SPACe.  VSAT scores over terrestrial telecom in
+applications where connectivity needs to be more reliable or where locations are remote.
+ 
+NELCO provides business to business (B2B) VSAT services in banking, oil & gas exploration, renewable energy, mining,
+construction and rural education. It enjoys strong market share, especially in the oil & gas and banking (automated teller
+machine [ATM]) segments. Other segments include maritime and aero. Furthermore, the company has recently won certain
+projects across varied segments which will also help in establishing and strengthening its presence.
+ 
+Healthy revenue visibility
+NELCO has two key revenue streams: (a) VSAT hardware sales, which pertains to one-time hardware installations, and (b)
+bandwidth and service usage, which is largely recurring revenue. About 75-80% of the revenue is from bandwidth and
+11/18/25, 4:28 PM Rating Rationale
+https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/NELCOLimited_November 18_ 2025_RR_382302.html 1/7
+service usage with repeat customers (churn rate of 3-5%). This ensures high revenue visibility for the company. The terms
+with its customers are largely contractual in nature, with contract lengths varying from 1 to 3 years.
+ 
+With de-regularisation in the space sector and pacing up implementation of the New Space Policy 2023, new streams of
+VSAT usage will be coming up, which shall further support growth in revenue. With evolution in technology, bandwidth fees
+are also expected to reduce, which is likely to result in making VSAT technology more competitive and could support
+increasing the consumer base. Also, the existing pipeline of projects across varied segments is expected to contribute to
+revenue growth over the next few fiscals. 
+ 
+Despite moderation in operating profitability; overall financial profile healthy   
+The earnings before interest, tax, depreciation and amortisation (Ebitda) margin of the company has been moderating
+because of increasing share of relatively low-margin equipment in the overall sales mix along with increasing operating and
+employee related expenses. The company reported Ebitda margin of 14.4% in fiscal 2025 (19.2% in fiscal 2024). During the
+first half of the current fiscal, Ebitda further moderated to 10.2%. However, despite moderation in operating profitability, the
+overall financial profile continues to remain healthy with total outside liabilities to adjusted networth (TOLANW) ratio and
+adjusted gearing of 1.08 times and 0.42 time, respectively, as on March 31, 2025 against 1.16 times and 0.48 time,
+respectively, as on March 31, 2024. As on September 30, 2025, the TOLANW ratio and adjusted gearing were 1.41 times
+and 0.56 time, respectively. Crisil Ratings understands that certain moderation, as of September 2025, is due to stretched
+working capital cycle resulting in higher working capital borrowings. The company continues to have nil long-term debt on its
+books.
+ 
+Crisil Ratings understands that capital expenditure (capex) required by the company to execute the projects in pipeline is
+minimal since most of these projects have advance payment terms. Hence, NELCO is not expected to avail any long-term
+debt in the short to medium term. The company is expected to incur annual capex of around Rs 20-30 crore over the
+medium term, which is to be funded through a mix of internal accrual and external debt. Resultantly, financial risk profile is
+expected to remain healthy going forward. However, any material increase in debt owing to stretched working capital cycle
+or significant debt-funded capex, impacting the overall financial position of the company, will be a key rating sensitivity
+factor.
+ 
+Financial flexibility enjoyed by being part of the Tata group 
+As on September 30, 2025, the Tata group through The Tata Power Company Ltd (TPCL; ‘Crisil AA+/Stable/Crisil A1+’) and
+its subsidiaries, held 50.09% equity stake in NELCO. The company has board representatives from TPCL. As part of the
+Tata group, it will continue to enjoy financial flexibility.
+Key Rating Drivers - Weaknesses 
+Working capital-intensive business
+Gross current assets (GCA) were sizeable at 179 days as on March 31, 2025 (159 days a year earlier), mainly due to high
+receivables of 89 days. Clients are majorly billed on quarterly basis. However, this is partly offset by credit period provided
+by suppliers (hardware providers) of 6-9 months, although a nominal cost is paid by the company for credit periods over and
+above 3 months.
+ 
+Technology and regulatory risk
+NELCO is dependent on technologies for VSAT hardware from other third-party global players such as VT iDirect and Gilat
+Satellite Networks, with proprietary technologies. Furthermore, VSAT services are regulated by DoT. Any major change in
+policy pertaining to VSAT remains a key risk factor. NELCO also faces competition from terrestrial telecom providers which
+are cheaper and are increasing their connectivity to remote locations over time. The expected de-regularisation in this space
+with the execution of New Space Policy 2023 should reduce regulatory risk, however, due to constant technological
+advancements, threat from alternative sources will remain.
+Liquidity Strong
+Liquidity is strong, marked by cash and equivalents of about ~Rs 15 crore as on March 31, 2025. Expected cash accruals in
+fiscal 2026 and 2027 are ~Rs 30 crore on yearly basis.
+ 
+Furthermore, the company expects to incur capex of ~Rs 20-30 crore funded through a mix of internal accrual and external
+debt. It has availed working capital limits to fund short-term debt requirement. The company also enjoys financial flexibility
+being part of the Tata group.
+Outlook Stable
+Crisil Ratings expects the outlook on NELCO to remain ‘Stable’ given the recurring nature of revenue.
+Rating sensitivity factors
+Upward factors
+Substantial increase in scale of operations, leading to improvement in operating risk profile
+Substantial reduction in total outside liabilities, leading to material reduction in the TOLTNW ratio to below 1.5 – 2 times
+on sustainable basis
+ 
+Downward factors
+Weakening of operational metrics with lower-than-expected cash accrual, leading to higher-than-expected debt-funded
+capex resulting in gearing sustaining above 2 times
+Change in ownership from the Tata group
+About the Company
+NELCO, established in 1940, is a subsidiary of TPCL. The company provides domestic satellite communication services to
+close user group (CUG) networks via satellite system on non-exclusive basis within the territorial boundary of India under
+11/18/25, 4:28 PM Rating Rationale
+https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/NELCOLimited_November 18_ 2025_RR_382302.html 2/7
+the VSAT, ISP and other licenses and authorisation granted by the DoT, Government of India.
+Key Financial Indicators - consolidated
+Particulars Unit 2025 2024
+Revenue Rs crore 306 321
+Profit after tax (PAT) Rs crore 10 24
+PAT margin % 3.1 7.4
+Adjusted debt by adjusted networth Times 0.42 0.48
+Interest coverage Times 7.1 8.5
+Any other information: Not applicable
+Note on complexity levels of the rated instrument:
+Crisil Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable)
+in the 'Annexure - Details of Instrument' in this Rating Rationale.
+Crisil Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available
+information. The complexity level for instruments may be updated, where required, in the rating rationale published
+subsequent to the issuance of the instrument when details on such features are available.
+For more details on the Crisil Ratings` complexity levels please visit www.crisilratings.com. Users may also call the
+Customer Service Helpdesk with queries on specific instruments.
+Annexure - Details of Instrument(s)
+ISIN Name Of
+Instrument
+Date Of
+Allotment
+Coupon
+Rate (%)
+Maturity
+Date
+Issue Size
+(Rs.
+Crore)
+Complexity
+Levels
+Rating
+Outstanding with
+Outlook
+NA Bank Guarantee NA NA NA 10.00 NA Crisil A1
+NA Cash Credit NA NA NA 5.00 NA Crisil A/Stable
+NA Fund-Based
+Facilities NA NA NA 40.00 NA Crisil A/Stable
+NA Fund-Based
+Facilities NA NA NA 20.00 NA Crisil A1
+NA Non-Fund Based
+Limit NA NA NA 64.30 NA Crisil A1
+NA Overdraft Facility NA NA NA 4.00 NA Crisil A1
+NA
+Proposed Long
+Term Bank Loan
+Facility
+NA NA NA 60.00 NA Crisil A/Stable
+NA Short Term Loan NA NA NA 15.00 NA Crisil A1
+Annexure – List of entities consolidated
+Names of Entities Consolidated Extent of Consolidation Rationale for Consolidation
+Nelco Network Products Ltd (NNPL) Full
+100% ownership and strong operational
+and
+financial linkages
+Annexure - Rating History for last 3 Years
+ Current 2025 (History) 2024 2023 2022 Start of2022
+Instrument Type OutstandingAmount Rating Date Rating Date Rating Date Rating Date Rating Rating
+Fund BasedFacilities LT/ST 144.0 Crisil A1 /CrisilA/Stable  -- 25-10-24Crisil A1 /CrisilA/Positive28-07-23Crisil A1 /CrisilA/Positive29-04-22Crisil A1 /CrisilA/Stable
+Crisil A1 /CrisilA/Stable
+Non-Fund BasedFacilities ST 74.3 Crisil A1  -- 25-10-24Crisil A1 28-07-23Crisil A1 29-04-22Crisil A1 Crisil A1
+All amounts are in Rs.Cr.
+Annexure - Details of Bank Lenders & Facilities
+Facility Amount (Rs.Crore) Name of Lender Rating
+Bank Guarantee 10 Mizuho Bank Limited Crisil A1
+Cash Credit 5 Bank Of India Limited Crisil A/Stable
+Fund-Based Facilities 20 ICICI Bank Limited Crisil A1
+Fund-Based Facilities 15 Mizuho Bank Limited Crisil A/Stable
+11/18/25, 4:28 PM Rating Rationale
+https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/NELCOLimited_November 18_ 2025_RR_382302.html 3/7
+Fund-Based Facilities 25 Bajaj Finance Limited Crisil A/Stable
+Non-Fund Based Limit 5.3 Union Bank Of India
+Limited Crisil A1
+Non-Fund Based Limit 10 Bank Of India Limited Crisil A1
+Non-Fund Based Limit 15 ICICI Bank Limited Crisil A1
+Non-Fund Based Limit 34 Axis Bank Limited Crisil A1
+Overdraft Facility 4 Axis Bank Limited Crisil A1
+Proposed Long Term Bank
+Loan Facility 60 Not Applicable Crisil A/Stable
+Short Term Loan 15 Shinhan Bank Crisil A1
+Criteria Details
+Links to related criteria
+Basics of Ratings (including default recognition, assessing information adequacy)
+Criteria for consolidation
+Criteria for factoring parent, group and government linkages
+Criteria for manufacturing, trading and corporate services sector (including approach for financial ratios)
+Media Relations Analytical Contacts Customer Service Helpdesk
+Ramkumar Uppara
+Media Relations
+Crisil Limited
+M: +91 98201 77907
+B: +91 22 6137 3000
+ramkumar.uppara@crisil.com
+Kartik Behl
+Media Relations
+Crisil Limited
+M: +91 90043 33899
+B: +91 22 6137 3000
+kartik.behl@crisil.com
+Divya Pillai
+Media Relations
+Crisil Limited
+M: +91 86573 53090
+B: +91 22 6137 3000
+divya.pillai1@ext-crisil.com
+Manish Kumar Gupta
+Senior Director
+Crisil Ratings Limited
+B:+91 22 6137 3000
+manish.gupta@crisil.com
+Ankit Hakhu
+Director
+Crisil Ratings Limited
+B:+91 124 672 2000
+ankit.hakhu@crisil.com
+Juhi Chhabria
+Manager
+Crisil Ratings Limited
+B:+91 22 6137 3000
+juhi.chhabria1@crisil.com
+Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 3850
+For a copy of Rationales / Rating Reports:
+CRISILratingdesk@crisil.com
+ 
+For Analytical queries:
+ratingsinvestordesk@crisil.com
+11/18/25, 4:28 PM Rating Rationale
+https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/NELCOLimited_November 18_ 2025_RR_382302.html 4/7
+11/18/25, 4:28 PM Rating Rationale
+https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/NELCOLimited_November 18_ 2025_RR_382302.html 5/7
+Note for Media:This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may beused by you in full or in part without changing the meaning or context thereof but with due credit to Crisil Ratings. However, Crisil Ratings alone has thesole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+About Crisil Ratings Limited (A subsidiary of Crisil Limited, an S&P Global Company)
+Crisil Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and
+innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans,
+certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual
+bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured
+debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted
+several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and
+infrastructure investment trusts (InvITs).
+Crisil Ratings Limited ('Crisil Ratings') is a wholly-owned subsidiary of Crisil Limited ('Crisil'). Crisil Ratings Limited is registered in
+India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit www.crisilratings.com 
+ 
+About Crisil Limited
+Crisil is a leading, agile and innovative global analytics company driven by its mission of making markets function better. 
+It is India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of
+innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses
+that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and
+data to the capital and commodity markets worldwide.
+For more information, visit www.crisil.com
+Connect with us: TWITTER | LINKEDIN | YOUTUBE | FACEBOOK
+CRISIL PRIVACY NOTICE Crisil respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service youraccount and to provide you with additional information from Crisil. For further information on Crisil's privacy policy please visit www.crisil.com.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') provided by Crisil Ratings
+Limited ('Crisil Ratings'). For the avoidance of doubt, the term 'report' includes the information, ratings and other content forming
+part of the report. The report is intended for use only within the jurisdiction of India. This report does not constitute an offer of
+services. Without limiting the generality of the foregoing, nothing in the report is to be construed as Crisil Ratings provision or
+intention to provide any services in jurisdictions where Crisil Ratings does not have the necessary licenses and/or registration to
+carry out its business activities. Access or use of this report does not create a client relationship between Crisil Ratings and the
+user.
+The report is a statement of opinion as on the date it is expressed, and it is not intended to and does not constitute investment
+advice within meaning of any laws or regulations (including US laws and regulations). The report is not an offer to sell or an offer
+to purchase or subscribe to any investment in any securities, instruments, facilities or solicitation of any kind to enter into any
+deal or transaction with the entity to which the report pertains. The recipients of the report should rely on their own judgment and
+take their own professional advice before acting on the report in any way.
+Crisil Ratings and its associates do not act as a fiduciary. The report is based on the information believed to be reliable as of the
+date it is published, Crisil Ratings does not perform an audit or undertake due diligence or independent verification of any
+information it receives and/or relies on for preparation of the report. THE REPORT IS PROVIDED ON “AS IS” BASIS. TO THE
+MAXIMUM EXTENT PERMITTED BY APPLICABLE LAWS, CRISIL RATINGS DISCLAIMS WARRANTY OF ANY KIND,
+EXPRESS, IMPLIED OR OTHER WARRANTIES OR CONDITIONS, INCLUDING WARRANTIES OF MERCHANTABILITY,
+ACCURACY, COMPLETENESS, ERROR-FREE, NON-INFRINGEMENT, NON-INTERRUPTION, SATISFACTORY QUALITY,
+FITNESS FOR A PARTICULAR PURPOSE OR INTENDED USAGE. In no event shall Crisil Ratings, its associates, third-party
+11/18/25, 4:28 PM Rating Rationale
+https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/NELCOLimited_November 18_ 2025_RR_382302.html 6/7
+providers, as well as their directors, officers, shareholders, employees or agents be liable to any party for any direct, indirect,
+incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses
+(including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report
+even if advised of the possibility of such damages.
+The report is confidential information of Crisil Ratings and Crisil Ratings reserves all rights, titles and interest in the rating report.
+The report shall not be altered, disseminated, distributed, redistributed, licensed, sub-licensed, sold, assigned or published any
+content thereof or offer access to any third party without prior written consent of Crisil Ratings.
+Crisil Ratings or its associates may have other commercial transactions with the entity to which the report pertains or its
+associates. Ratings are subject to revision or withdrawal at any time by Crisil Ratings. Crisil Ratings may receive compensation
+for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or
+from obligors.
+Crisil Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For more detail, please refer
+to: https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html. Public ratings and
+analysis by Crisil Ratings, as are required to be disclosed under the Securities and Exchange Board of India regulations (and
+other applicable regulations, if any), are made available on its websites, www.crisilratings.com and
+https://www.ratingsanalytica.com (free of charge). Crisil Ratings shall not have the obligation to update the information in the
+Crisil Ratings report following its publication although Crisil Ratings may disseminate its opinion and/or analysis. Reports with
+more detail and additional information may be available for subscription at a fee.  Rating criteria by Crisil Ratings are available on
+the Crisil Ratings website, www.crisilratings.com. For the latest rating information on any company rated by Crisil Ratings, you
+may contact the Crisil Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 3850.
+Crisil Ratings shall have no liability, whatsoever, with respect to any copies, modifications, derivative works, compilations or
+extractions of any part of this [report/ work products], by any person, including by use of any generative artificial intelligence or
+other artificial intelligence and machine learning models, algorithms, software, or other tools. Crisil Ratings takes no
+responsibility for such unauthorized copies, modifications, derivative works, compilations or extractions of its [report/ work
+products] and shall not be held liable for any errors, omissions of inaccuracies in such copies, modifications, derivative works,
+compilations or extractions. Such acts will also be in breach of Crisil Ratings’ intellectual property rights or contrary to the laws of
+India and Crisil Ratings shall have the right to take appropriate actions, including legal actions against any such breach.
+Crisil Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from
+November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked
+Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject
+instrument. For details on Crisil Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and
+Structured Finance Instruments at the following link: h ttp s://w w w .crisilr a tings.c om/ en/home/ our -business/r a tings/ cr edit -r a tings- 
+sc ale.h tml 
+ 
+11/18/25, 4:28 PM Rating Rationale
+https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/NELCOLimited_November 18_ 2025_RR_382302.html 7/7

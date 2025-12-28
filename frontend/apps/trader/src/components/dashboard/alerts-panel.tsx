@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import {
     Bell,
     TrendingUp,
@@ -139,9 +140,12 @@ export function AlertsPanel({ isLoading }: AlertsPanelProps = {}) {
                         {alerts.filter((a) => a.isActive).length}
                     </span>
                 </div>
-                <button className="text-[10px] text-blue-400 hover:text-blue-300">
+                <Link
+                    href="/alerts"
+                    className="text-[10px] text-blue-400 hover:text-blue-300"
+                >
                     Manage
-                </button>
+                </Link>
             </div>
 
             {/* Filter Tabs */}

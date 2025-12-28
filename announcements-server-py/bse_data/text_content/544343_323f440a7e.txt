@@ -1,0 +1,705 @@
+ 
+Date: November 18, 2025 
+ 
+To, 
+The Listing Compliance Department 
+The Bombay Stock Exchange Limited, 
+PJ Towers, Dalal Street 
+Mumbai- 400 001 
+Scrip Code: 544343 
+ 
+Sub: Transcript of Earnings Conference Call for Unaudited Financial Results for the half year ended 
+September 30, 2025 
+ 
+Dear Sir/Madam,  
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+please find enclosed the transcript of the conference call on  the Unaudited Financial Results (Standalone 
+and Consolidated) for the half year ended September 30, 2025, held on Wednesday, November 12, 2025, 
+at 11:30 a.m. 
+ 
+The above information is also available on the website of the Company i.e.: 
+https://www.capitalnumbers.com/investors/corporate-announcements.php 
+ 
+This is for your information and records. 
+ 
+For CapitalNumbers Infotech Limited 
+ 
+ 
+ 
+____________________________ 
+Sikha Banka 
+Company Secretary & Compliance Officer 
+Mem. No. A47067 
+ 
+Encl: As stated above 
+ 
+Page 1 of 18 
+ 
+ 
+“Capital Numbers Infotech Limited 
+H1 FY '26 Earnings Conference Call” 
+November 12, 2025 
+ 
+     
+ 
+MANAGEMENT: MR. MUKUL GUPTA – CHAIRMAN, MANAGING 
+DIRECTOR AND CHIEF EXECUTIVE OFFICER – 
+CAPITAL NUMBERS INFOTECH LIMITED 
+ MR. VIPUL GUPTA – EXECUTIVE DIRECTOR – CAPITAL 
+NUMBERS INFOTECH LIMITED 
+ MR. SANKET HARLALKA – CHIEF FINANCIAL OFFICER 
+– CAPITAL NUMBERS INFOTECH LIMITED 
+ 
+ 
+ 
+MODERATOR: MS. CHANDNI – EQUIBRIDGEX ADVISORS PRIVATE 
+LIMITED 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 2 of 18 
+ 
+Moderator: Ladies and gentlemen, good day and welcome to the Capital Numbers Infotech Limited H1 FY 
+'26 Earnings Conference Call, hosted by EquiBridgeX Advisors Private Limited. As a reminder, 
+all participant lines will be in the listen -only mode and there will be an opportunity for you to 
+ask questions after the presentation concludes. Should you need assistance during the conference 
+call, please signal an operator by pressing star then zero on your touch -tone phone. Please note 
+that this conference has been recorded. 
+ I now hand the conference over to Ms. Chandni. Thank you, and over to you, ma'am. 
+Chandni: Thank you, Anushka. Thank you, and a very good morning to everyone. Welcome to the H1 FY 
+2026 Earnings Call of Capital Numbers Infotech Limited. From the management team, we have 
+with us today Mr. Mukul Gupta, Chairman, Managing Director and CEO; Mr. Vipul  Gupta, 
+Executive Director; Mr. Sanket Harlalka, CFO. We will have opening remarks from the 
+management team, post which we will open the floor for Q&A. 
+ With that, I would like to hand over the call to Mr. Mukul Gupta for opening remarks. Over to 
+you, sir. 
+Mukul Gupta: Thank you, Chandni. Good morning and welcome, everyone. This is Mukul Gupta, Founder and 
+CEO of Capital Numbers. Thank you for joining the H1 of financial year 2026 earnings call. 
+Joining with me on this call today from Capital Numbers side is Mr. Vipul Gu pta, Executive 
+Director and Mr. Sanket Harlalka, our CFO. 
+ It has been just over nine months since our IPO in January and our focus has been similar, which 
+is strategic execution. At our last call in May, we laid out a clear plan to deploy our new capital 
+to build capacity, invest in high -growth technology practic es, and expand our global sales 
+footprint. This is our first half -year update after the IPO, and I'm happy to share that we have 
+been executing exactly as planned, and the outcomes are now visible both in numbers and client 
+wins. 
+ Before I discuss performance, I would like to remind everyone that the presentation has been 
+uploaded to the BSE already and contains our forward -looking statement disclaimer.  Now let 
+me begin with our financial performance. For the first half of financial year 2026, the total 
+revenue stood at INR59.12 crores, representing a 14.5% year -on-year growth compared to the 
+same period last year. This reflects consistent execution despi te global market volatility and 
+softer demands in some regions. 
+ Our EBITDA for the half -year was INR20.45 crores, which is 8.3% growth year -on-year, and 
+profit after tax came in at INR14.80 crores, which is up 8.1% over H1 financial year 2025. These 
+results are exactly in line with our expectations. 
+ We are in what we would describe as a planned investment phase, a phase where we are 
+intentionally investing into long -term enablers for future growth. Specifically, this includes 
+strengthening our sales capacity, onboarding senior leadership talent, and d eepening our 
+capabilities in AI, Salesforce, and cloud engineering. 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 3 of 18 
+ 
+ These are deliberate choices. They are always translating into stronger enterprise deal flows and 
+a visible uptick in pipeline quality. As these new practices scale, we expect a gradual expansion 
+in both revenue momentum and margins in the coming quarters. 
+ Turning to our balance sheet, we continue to maintain a debt -free position, giving us flexibility 
+to fund our growth organically and inorganically as well. Our cash investments now stand at 
+INR147.49 crores with a current ratio of 30.55, indicating strong liquidity and balance sheet 
+health. 
+ This liquidity provides the financial muscle we need for our M&A strategy and ongoing 
+investments in delivery capability and talent. It also ensures we stay nimble in an evolving global 
+environment, ready to seize any opportunity when they arise. 
+ So, in summary, our H1 performance demonstrates a clear balance between profitable growth 
+today and disciplined investment for tomorrow. We are building scale in the right areas, 
+strengthening our leadership team, and expanding our delivery footprint, all while maintaining 
+robust financial fundamentals. 
+ At the end of financial year 2025, we shared a clear strategy. Number one, expand our global 
+sales team. Number two, expand our focus in AI/ML and data engineering. And number three, 
+move up market and target mid to large enterprise clients. I am happy to confirm strong 
+execution across all the three areas. 
+ Talking about our sales and market expansion, in the last six months, we participated in four 
+major international conferences across Middle East, UK, and Europe. These events generated 
+over 500 qualified leads. From this pipeline, we already have close dea ls and have pipeline for 
+more than $600,000 worth of contracts. 
+ Talking about investment and delivery and technical capability, our Gurgaon Development 
+Center has been expanded to 80 plus seats and is currently operating at 90% occupancy. We 
+have appointed a Director for our AI Center of Excellence and a Head of Demand Generation at 
+our Gurgaon Development Center as well. We continue to strengthen hiring in cloud, sales force, 
+data engineering, including senior architects and solution leads. This positions us to execute 
+more complex enterprise programs. 
+ During the half year, we secured a USD$400,000 product engineering contract for the US-based 
+company. We also signed up two marquee enterprise clients, which are both currently in a paid 
+pilot phases. The first is FTS E listed global real estate organization in sales force consulting 
+practice. 
+ The second is the NYS E listed medical technology company in data engineering analytics 
+practice. These are strategic accounts where successful delivery will lead to multiple future 
+opportunities. 
+ Talking about our M&A roadmap, we have earmarked around 40 crores this year for strategic 
+acquisition. Our focus is on companies with strengths in salesforce, cloud, AI, or digital 
+engineering. So far in the last six months, we have screened over 20 compan ies, and we are 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 4 of 18 
+ 
+currently in active discussions with multiple shortlisted targets. We are approaching this with 
+discipline. The goal is capacity capability and market expansion. 
+ Do we remain committed to delivering shareholder value? As such, I'm happy to announce that 
+the board has approved a 10% interim dividend. Additionally, I have personally purchased 
+72,000 shares of the company this September. This reflects my continued con fidence in our 
+growth direction and long-term value creation. 
+ Now the promoter group shareholding has been increased to 47.67%. 
+Management: 74.67% 
+Mukul Gupta: 74.67%. Yes. Based on the current pipeline, wind velocity, and ongoing enterprise pilots, we 
+reaffirm our full year guidance of at least 15% revenue growth for FY 2026. Our long -term 
+ambitions remain unchanged, which is to double the revenue in three years, establish leadership 
+in AI delivery models, and expand global presence with local support in key markets. 
+ To summarize, H1 FY 2026 has been a period of solid execution. We are winning higher value 
+clients, expanding capability intensity, and building a globally competitive delivery footprint. 
+The foundations that we have created over the past nine months is now enabling the next phase 
+of the growth. 
+ Thank you so much for your trust and continued support. We will now open the floor for 
+questions. Thank you so much. 
+Moderator: Thank you very much. We will now begin the question and answer session. We take the first 
+question from the line of Sanket from Aarth AIF. Please proceed. 
+Sanket: Hi, thank you for the opportunity and congratulations on a great set of numbers, Mukul sir and 
+Sanket sir. 
+Mukul Gupta: Thank you, Sanket. 
+Sanket: So my first, Yes sir my first question is that, you know, IT companies like yours are very bullish 
+on Middle Eastern and the UK geography. So can you kind of give some guidance, like, have 
+you been able to appoint a local sales head there in this first half of the year? 
+Mukul Gupta: No, we haven't. That's a good question. We are seeing good traction in the Saudi and the Middle 
+East market as well. Just to demonstrate a little bit of like a data point, which will help you 
+understand this is if you look at our top five customer breakdown, it now includes a client from 
+Saudi, which was not there six months ago, which shows that our investment and marketing 
+activities in Saudi is paying off. 
+ We are yet to appoint a person in Saudi. It is predominantly due to the fact that we still haven't 
+opened a local entity in these markets. As soon as we open that, we will appoint somebody over 
+there. Right now, it is a leadership team. Our director of ope rations is directly responsible for 
+that market and is frequently traveling over there. 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 5 of 18 
+ 
+Sanket: Okay. Okay, great. And sir, in the last guidance, it was mentioned that the company will be 
+aggressively spending on marketing activities. But in the total IPO proceeds, INR15 crores of 
+the IPO proceeds was for spending on business developments. 
+ But in the first half, up till the first half, only INR1.2 crores has been spent so far. So my question 
+is that, is it that in the first half, spending on marketing is lower or have we just, you know, not 
+found the right opportunities for the business development pending yet? 
+Sanket Harlalka: Yes, I take this question. Actually, the kind of expenditure we have planned is the manpower 
+resources. So as Mukul sir has already said, we are already appointed a demand chain team and 
+we are now increasing that team. 
+ So the expenses will come on month -on-month basis. Now the team has been setup in the first 
+half. So going forward, we will see the expenditures. And regarding the trade show, we have 
+already done the trade show bucket that has been mentioned in the object clause. 
+Sanket: Okay. Okay. All right, sir. 
+Mukul Gupta: And to give some more input, 
+Sanket: And… 
+Mukul Gupta: Sorry, just to add to what Sanket said, so four events we have already done in H1 and four more 
+are planned in H2 already. 
+Sanket: Okay. Brilliant. Great. Sir, so as we all know that SAP and Oracle have strongly advised their 
+clients to migrate towards the cloud ERP platforms, as future support and updates for many 
+legacy offline products are going to be ending or being phased out and  customers that continue 
+to use legacy versions will be unsupported and face significant risks. So does this pose any risk 
+or opportunity for capital numbers? 
+Mukul Gupta: We do not have any SAP or Oracle practice right now. That being said, we have one client in 
+Europe who basically has a very large SAP investment, and they have just approached us to see 
+if we can help them with the migration.  It's a very initial level discussion. If it materializes, it 
+will be an opportunity for us. But right now, we do not have any SAP or Oracle practice or 
+exposure as such. 
+Sanket: Okay. Okay. Got it. And sir, I want to ask about the total income, which has increased about 
+14% odd, right? But the revenue from operations has grown by 4.95%, right? So in the last con 
+call, it was guided that we will be able to achieve 15% growth and to p line for the full year, 
+right? So are we still on track to achieve this guidance? And also, I wanted to ask about what 
+does the other income include? Because that was the major reason that the total income has 
+increased. 
+Mukul Gupta: Yes, that's a very good question. Revenue from operations, so we maintain the guidance and the 
+reason is the kind of pilot project that we are doing right now and the kind of pipeline that we 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 6 of 18 
+ 
+foresee. So we believe that the revenue growth in H2 will be much greater than the revenue 
+growth in H1. And regarding the second point, I will let Sanket, take that. 
+Sanket Harlalka: Other income includes the income from the sale of investments and the interest income from the 
+FD. 
+Sanket: Okay. Got it, sir. Got it. And sir, I wanted to ask about in the last con call, it was discussed that 
+there was around the global corporates, there's some hesitation from them to spend on IT 
+budgets, because the world of AI is so rapidly evolving. 
+ So now, as you know, things have normalized a bit more in the last quarter. Do you have some 
+more, is there any more clarity on the effectiveness and applicability of AI and budget spending 
+by these corporates so that we have more visibility on our growth? 
+Mukul Gupta: Yes. So definitely the budgets, there is growth in a sense that we see demand coming back. And 
+now we are getting much more interest even from US markets as well from clients. And we 
+believe that, I mean, the opportunities is only going to increase. 
+ As with all IT services company, we have also adopted AI as an integral part of what we do, 
+including equipping our developers to use AI tools to deliver work faster. We do not see any 
+change in the dynamics of the business, apart from getting more opportunities in the area of AI. 
+ In fact, what we have done is after the appointment of the Center of Excellence and AI around 
+Gurgaon, we are now approaching all our clientele and we are offering this 30 minutes to 40 
+minutes workshop where we are helping them ideate on how to implement  AI best in the 
+organization. And we believe that new pipeline will open from that where we have already seen 
+a lot of proposals being sent out to our existing clients, a lot of POCs being test on how they can 
+leverage AI better. So it should lead to bigger opportunities for us. 
+Sanket: Okay, great. And I just have one last question. So, can you describe what is the order book that 
+we have in hand? That is one. And secondly, roughly INR55 crores is still left to be spent on the 
+other objects of the issue, which is a technical advancement of leading -edge technology, 
+spending on business developments and funding inorganic growth through acquisition. So how 
+do the next six months look like for these objects of the issue? And did we find any success in 
+identifying a target company to acquire? 
+Mukul Gupta: Sure. So, I will answer these questions one by one. If you currently look at the main flavor of 
+our business, so 90% of the revenue is still recurring and only 10% is project based. So if you 
+look at our current order book, we do not see any change in term s of any negative impact. We 
+see the order book is increasing and we have a predictable demand. So that is in terms of order 
+book. 
+ In terms of M&A, we have had a number of discussions. But there is no delay over there, but 
+there is discipline. So basically, what we are doing is we are not really shopping, but we are 
+strategically hunting for the right partner. Like we have to be prudent towards our capital and it 
+is very easy to buy a company, but it is very hard to buy the right company at the right price. 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 7 of 18 
+ 
+ So we have been continuously been talking to multiple companies, evaluating them. But right 
+now, there are only three companies whom we see as almost fit for our intent. But discussions 
+really haven't matured to a stage where I can give a fixed timeline o n when the deal would be 
+completed or if we will proceed with any of these three companies. 
+ But we are working diligently towards that. And we have appointed a very renowned 
+management consulting firm as well who is helping us with this whole M&A activity. This is 
+also I would like to mention over here that this is the first time that we as a co mpany are 
+undertaking M&A. So we are being cautious about it as well and it is taking more time than we 
+had anticipated earlier. So that is about M&A. And what was the second question? 
+Management: Regarding the spending and technical advancement. 
+Mukul Gupta: Okay. Sorry, sorry. So spending and technical advancement will continue, but it has to grow in 
+lockstep with revenue. So what we are doing is we are onboarding talent. So we initially planned 
+that we will invest in 10 key technological areas. And this year, we are doing like three. And we 
+have to invest in technological advancement, which should grow in lockstep with revenue. 
+ So what we are doing is proceeding with the strategies where we are doing like three key areas. 
+We are establishing practices over there. And as the revenues will start coming in, we will go to 
+further technologies and continue investing in the existing ones. So that is where you not see the 
+entire money spent in one financial year. But over the next three financial years since IPO, you 
+will see all the money being allocated judicially towards that. 
+Sanket Sadh: Okay, okay. Got it. And sir, is there a particular number that you could give to the order book in 
+hand? 
+Mukul Gupta: So, Sanket, order book. 
+Mukul Gupta: We do not have a current order book practice. But the revenue pipeline currently is same as H1. 
+So we currently see a pipeline of INR55 crores roughly for H2 as well. But let us say new orders 
+are coming in place. And we are still doing marketing activities. And so we believe that H2 will 
+be better than H1. 
+Sanket Sadh: All right. Okay. Thank you. That is it from my end. 
+Mukul Gupta: Thank you, sir. 
+Moderator: Thank you. We take the next question from the line of Aquib Khan from A3 Investment. Please 
+proceed. 
+Aquib Khan: Hello. Am I audible? 
+Mukul Gupta: Yes, Aquib. You are audible. 
+Aquib Khan: Hi, Mukul, sir. How are you? 
+Mukul Gupta: I'm doing very well, sir. Thank you so much. 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 8 of 18 
+ 
+Aquib Khan: Although my all the answers have already been answered, my only concern was that I was 
+studying our peers. Means I don't name them. What I was saying that our sales growth and 
+compared to their sales growth, one of them reported around 12% sales growth and another one 
+around 20% sales growth. Compared to that, when we are doing so much marketing, why our 
+sales growth is not that means as we are. I hope you got my point. 
+Mukul Gupta: Absolutely. And it's a very, very fair question for you to ask. And this is also something that we 
+also keep observing. So there's two parts to this question. First is, I mean, there is no denying 
+the fact that as we see some companies, they have posted a good sales growth. What we are 
+seeing is they started investing like much before us. 
+ So, I mean, we are only investing this whole activity for the past nine months or so. And maybe 
+the results that you are getting is what they have been doing for the past year or two years before 
+that as well. So the results are piling up for them now. 
+ So we have also started investing in the right areas, which we believe. And if you look at the 
+marketing activities that we have been doing so majorly, if you look at the trade shows that 
+where we have been going to. And since we are talking to C -suites over there and enterprise 
+clients, the business decision life cycle will be about like six to 12 months. 
+ These are not like something that will quickly materialize into pipeline. So the events that we 
+did in H1 would basically add to pipeline in H2. The events that we're doing in H2 will add to 
+pipeline in H1 of the next financial year. So we believe that sa les number will soon show an 
+uptick where we will start posting better numbers in line with our peers as well. 
+Aquib Khan: Okay, Okay, means you are very much optimistic about H2 numbers, right? Means it will be 
+better than this H1 numbers. 
+Mukul Gupta: Yes, definitely. 
+Aquib Khan: And Mukul sir, in last con call, you said that about that 15% growth. And you also said that if 
+as the year goes on and I will be having more visibility, are you stick still to that 15% or you 
+want to upgrade it to some higher numbers? 
+Mukul Gupta: No, I would like to stick to 15% growth right now. Yes, definitely in top line. And as we get 
+more visibility into our business, as I said, if there is any change, I will definitely inform all the 
+investors about it. 
+Aquib Khan: Okay, okay. And although you have already answered that in last con call, you told that within 
+this calendar year only you are going to close the acquisition deal. But I think it may take some 
+more time, right? 
+Mukul Gupta: Yes. And I completely mis -estimated or underestimated our own capability or the kind of 
+pipeline. 
+Aquib Khan: I got it because this was your first acquisition. So it may you might be cautious also and due 
+diligence might be taking your time. Okay, okay. 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 9 of 18 
+ 
+Mukul Gupta: Yes. And since you're also looking at some smaller companies, like if you look at companies 
+who are doing like 2 million and 3 million, the data isn't always that clear. So I mean, it is much 
+later during the presentation that you get clarity of whether these companies are fit for us or not, 
+or there's something wrong with the numbers. 
+ So we are I believe that we are losing some time. But now that we have taken on consultants as 
+well, we believe that the pipeline should become much better and we should be able to do a 
+transaction soon. 
+Aquib Khan: Mukul bhai, one last question was there. Since we are in very much growing phase and we might 
+be needing fund for some, as you say, acquisition or marketing activities, declaring dividend at 
+this time, don't you think can hamper our growth if we require fund further? 
+Mukul Gupta: No, sir. Our cash position is fairly strong. And what we have done is I mean, if you look at this 
+dividend, what we are doing is we are basically demonstrating value to shareholders that we're 
+committing to like return value to them. So that's number one intent over here. And number two 
+intent, we have viewed the dividend and this doesn't impact our cash position. So we have an 
+ample war chest to pursue M&A and this dividend would not like impact that at all. 
+Aquib Khan: Okay, thanks a lot. Thanks a lot. Wonderful journey ahead. We will stay invested. Hope to see 
+a great journey ahead. 
+Mukul Gupta: Thank you. Thank you so much, sir. 
+Aquib Khan: Thank you, Mukul bhai. 
+Moderator: Thank you. We take the next question from the line of Darshil Jhaveri from Crown Capital. 
+Please proceed. 
+Darshil Jhaveri: Hello. Good afternoon, sir. Thank you so much for taking my question. Hopefully, I'm audible. 
+Mukul Gupta: Yes, Darshil, you are audible. Please go ahead. 
+Darshil Jhaveri: Yes, Yes, Yes. Hi, sir. So we've given a very clear guidance in terms of our revenue.But in terms 
+of our margins, I just wanted to get your opinion that we used to do 30% plus. And in first half, 
+we've done around 26%. And before that, also, I think last H2, we were around 25%. So how do 
+we see margin, as we move forward, sir? 
+Mukul Gupta: No, that's a very, very astute observation, Darshilji. So to talk about margin, it is basically a 
+deliberate and planned investment into our future. So in the last six months, we have been 
+investing ahead of the curve to win larger and higher margin deals. 
+ For example, we have hired a new director for our AI center of excellence, a new head of demand 
+generation. We have onboarded several senior architects and developers to build capability. Plus, 
+we have expanded our Gurgaon development center to about 80 p lus seater capacity to meet a 
+new demand. And also that, I mean, with all the travel and international conferences. 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 10 of 18 
+ 
+ So these are the upfront investments that we have done to basically scale the company. And it 
+has also led to new marquee clients we have added. For example, the FTSE listed and the NYSE 
+listed companies are a direct result of this investment into capability. So we are basically 
+investing in the talent to move up market. And we are confident that these new high margin 
+services line scale, you will see that the margins realign and expand. 
+Darshil Jhaveri: Okay. Okay. That helps a lot, sir. So I just want to know, like, so right now we are in that 
+investment phase. Assuming by this year end, all the costs that we had to do majorly for 
+investment is front loaded. So next year onward, what margins can we see, sir? 
+Mukul Gupta: Let's see, honestly, I am not sure if I can, you can, do you have any... 
+Management: We have already given guidance for increase of by one – that will be… 
+Mukul Gupta: Yes, we'll maintain our previous guidance. So, Darshil, right now, I mean, there's no change in 
+that. 
+Darshil Jhaveri: Okay. Okay. We maintain our previous guidance. Fair enough, sir.And so I just wanted to know, 
+like, in terms of acquisition that we are looking at, like we said, we are looking at multiple 
+companies. So are they more into the niche field? Are they, doing something that we are doing 
+similarly? Or could you just help us, what is -- like, how are we looking at? Are they like, will 
+be the more around, turnaround, like where they're not performing well and we'll come in and 
+sort them out? Or what is the area or the way that you're looking at a company? 
+Mukul Gupta: Sure. So we are looking for a company which basically has to have practice around Salesforce, 
+AI or Cloud. There are three exclusive, there might be some overlap in services, but there could 
+be three exclusive areas that we are looking for. 
+ The company has to be growing, has to be profitable. And like, we are looking at the company 
+at about, like, I mean, 2 million to 3 million in revenue. So that's the kind of a company that we 
+are currently targeting for this financial year. And obviously,  we're looking at companies in 
+India. So we're not considering any companies outside India. 
+Management: Positive EBITDA. 
+Mukul Gupta: Positive EBITDA, Yes, for sure. 
+Darshil Jhaveri: Okay. Okay. We're looking at Indian companies only. Yes, that is from my side. So thank you 
+so much, all the best. 
+Mukul Gupta: Thank you. Thank you so much for joining this call. Thank you. 
+Moderator: Thank you. We take the next question from the line of Aniket Madhwani.  Sorry to interrupt. 
+Aniket is out of the queue. We'll proceed with the next question. 
+ The next question is from the line of Nisarg Shah, an Individual Investor. Please proceed. 
+Nisarg Shah: A very good afternoon to the management team. 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 11 of 18 
+ 
+Mukul Gupta: Good afternoon, Nisargji. 
+Nisarg Shah: Sir, I want to ask that $600,000 deal in the last six months in international conferences, like -- is 
+it a good amount or we are expecting more than that? 
+Mukul Gupta: So definitely. 
+Nisarg Shah: Also, if you can suggest the deals in the pipeline or a rough idea which is going to be completed 
+in the next few months. 
+Mukul Gupta: So, sir, what happens is this number that we have given is basically a snapshot in time. So, for 
+example, a lot of these events, some events were just done in the month of September, some in 
+the month of July. All of these events happened in, like, it's sp read over the last first H1 of the 
+last of FY25. 
+ Now, what is happening is to look at the daily closure life cycle. It usually what is happening in 
+these events is we are talking to, like, C -suites and we're talking to enterprise clients and the 
+whole discovery, the whole idea, the whole sales process is a bit longer. So, it takes about six to 
+12 months for good deals to sort of materialize from these events. 
+ So far, we have seen the revenue and the pipeline visibility of US$600,000, but it is not the final 
+number. As we move forward, as we're talking to these clients, for example, this larger 
+businesses, larger enterprise accounts that we have closed as we do  the pilot delivery, the 
+subsequent business will come as well as we will sign up more clients, which we are in 
+discussion with right now. So, it is not a final number. 
+Nisarg Shah: Right, sir. So, at the time of conferences, do we sign any unconditional MOUs or like that to 
+confirm or reconfirm the client? 
+Mukul Gupta: The MOUs is basically like it's a rare event. It happened -- it happened like only once for us. But 
+typically, if you're signing an MOU in a conference, which means that the deal was already 
+discussed prior to the event and we are just meeting at the event  to sign the deal -- to sign the 
+paperwork. But it is not a standard practice for us, sir. 
+Nisarg Shah: Okay, fair enough. The other question is we have a target of revenue double in three years, right? 
+So, are you including the strategic partnership in that or it's just organic team set of business 
+right now? We are targeting double in three years. 
+Mukul Gupta: Sir it is including M&A activities as well. 
+Nisarg Shah: So, including the acquisition or strategic partnership like that? 
+Mukul Gupta: Yes, sir. Yes, sir. 
+Nisarg Shah: Okay, so we are targeting around INR40 crores of strategic partnership or acquisition, right? 
+Then what will be the plan for the next year? For the remaining whole amount around INR147 
+crores on hand, right? 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 12 of 18 
+ 
+Mukul Gupta: Yes, so we will continue -- our goal is to do like in the next three financial year, our plan is to 
+do three acquisitions. But right now, like the first acquisition is taking a bit longer. We have a 
+capped it at INR40 crores. We haven't really planned what will happen after that because I mean, 
+we want to first go through the first deal, have our lessons learned, see how we execute that and 
+then plan for the next one. But definitely M&A was going to be a key part of our strategy. 
+Nisarg Shah: Yes, exactly, sir. I'm expecting the same kind of theme. And the last question is what is the clear 
+cut message to the investors of the IPO that already invested at a very higher price? But not 
+expecting the gain they want? 
+Sanket Harlalka: We will not comment on price. 
+Sanket Harlalka: Actually, we are even committed for our performance. So, as far as price is concerned, we will 
+not comment on the market price, how market will behave. But even if you see the performance 
+of the company, it is never down and it is increasing every year. S o, how market will behave is 
+somewhat beyond our capacity. But definitely, we as a team in management, we are committed 
+to perform better and to add value to the shareholders. 
+Nisarg Shah: Thanks a lot, sir. That's the end from my side. 
+Mukul Gupta: Thank you so much, sir, for joining the call. 
+Moderator: Thank you. We take the next question from the line of Sanket Sadh from Aarth AIF. Please 
+proceed. 
+Sanket Sadh: Hi, team. Just have a few more questions regarding the employees and staff that we have hired. 
+So, like you said that in the Gurgaon office, there's 90 employees now. Can you just clarify how 
+many are there in the Kolkata office? 
+Mukul Gupta: If you look at our companies, so far, just for clarity, Gurgaon is basically an 80 -seater office 
+with 90% occupancy right now. If you look at the current breakup of resources, I would say that 
+about -- and these are rough numbers, Sanket ji. So, I would sa y that about 40% resources are 
+based out of Kolkata and then remaining are from rest of India. So, we still practice work from 
+home. So we still have teams in other parts of the country. 
+ We started the Gurgaon Development Center about one year ago. So now we have shifted to a 
+policy where we are doing mostly on boarding in the Gurgaon Development Center and we are 
+mandating work from office. But that's the nature of the business that we're doing right now. 
+Sanket Sadh: Okay. And how are the business projects divided between the Kolkata and Gurgaon office? What 
+I mean to say is that is the Gurgaon office catering to a specific type of project which you receive 
+or are they catering to a specific segment like, for example,  either BFSI or healthcare? How do 
+you divide these responsibilities? 
+Mukul Gupta: It's a very good question. So we created Gurgaon Development Center with the need to get 
+access to niche talent. So what we are doing in Gurgaon office is, for example, not only in terms 
+of technical capability, but if you look at the management capability, for example, we recruited 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 13 of 18 
+ 
+our head of sales over there. We recruited our head of demand gen over there. All our demand 
+gen team is currently based out of Gurgaon as well. In terms of technically, what we are doing 
+is that office remains in the forefront of any work that we are doing for AI, data engineering and 
+analytics. 
+ So these are the three areas that are predominantly happening out of the Gurgaon Development 
+Center. And that remains our focus is that I mean anything new or any kind of new technology 
+will continue to deliver out of the Gurgaon Development Center. From the Kolkata Development 
+Center, we continue to deliver our core digital engineering services. But anything mostly around 
+new technologies are happening out of Gurgaon. 
+Sanket Sadh: Okay, got it. And can you explain how many -- what percentage of the employees are currently 
+on bench in the Kolkata office and the Gurgaon office? 
+Mukul Gupta: The bench numbers remained unchanged. We usually have a 4% to 5% bench. So we have 
+maintained that as a policy. It might fluctuate between months, but quarter on quarter on a 
+regular basis, it remains between 4% to 5%. 
+Sanket Sadh: And that is blended? 
+Mukul Gupta: Blended, yes. 
+Sanket Sadh: Okay, and has the iteration rate reduced for us if we look at the last 12 months. 
+Mukul Gupta: So it was 26% in the last like last time we reported that it is almost the same. There is no change 
+in our no definite no increase in no change in our iteration rates. 
+Sanket Sadh: Okay, and so I believe that right now we are hiring a little bit more in the top management, right. 
+Like, for example, I believe the demand gen team would be more senior. Please correct me if 
+I'm wrong. But are we also hiring a little bit in the middle management team as well? 
+Mukul Gupta: So I will tell you what we have done. And so, for example, like you're absolutely correct. In 
+demand gen team, we have finished all recruitment over there. In fact, the last two people we 
+onboarded, we are about to onboard. After that, there would be no fu rther expansion in the 
+demand gen team in the company, at least for this financial year. 
+We have also -- earlier we didn't had an account management function like we had a structure 
+where the -- we had no account managers and the project managers to directly deal with the 
+client. So we have introduced the account management structure in the in the company as well. 
+So that position we have also hired a couple of senior guys in the company. 
+We have hired a couple of project managers as well to basically look after like newer clients. 
+But I think I think the hiring in terms of mid to senior management is now complete. And right 
+now, any hiring that will be doing would be strictly billable and tied to revenue. One more point 
+is the head of AI whom we appointed over there. Sorry, sorry. Thank you. 
+Sanket Sadh: Right. And I believe there was one person who you had hired in Europe. His name was, first 
+name was Jose, I believe. He was from Netherlands, I believe, right? 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 14 of 18 
+ 
+Mukul Gupta: Yes, right. Right. 
+Sanket Sadh: So what sort of business have we been able to develop from his side in that part of the world? 
+Mukul Gupta: Yes. So we originally anticipated. So Europe is definitely Europe and UK has our revenue 
+contribution has increased from that region. And even as we speak, we currently have a team 
+right now in Portugal for an event as well. 
+So we are doing a lot more business activities happening in the European and UK region for us. 
+Where Jose has been instrumental is we initially thought that, okay, he would be spearheading 
+the sales activities. 
+ But as we started onboarding clients from Europe and from other Spanish speaking countries, 
+we are basically also finding out that he's helping us in account management activities as well 
+and building trust and confidence with these clients who do not speak native English. So his role 
+has kind of diversified into sales as well as an account management kind of a role. 
+Sanket Sadh: Okay, okay. Brilliant. And, you know, earlier you had also mentioned that now we are getting 
+more demand from the US as well for projects related to AI. But I believe earlier maybe earlier 
+the goal was to kind of de -risk ourselves from the US and pay more  attention to the UK and 
+Saudi or Middle Eastern markets. So has your focus again shifted towards the U.S. or are we 
+still on the path to maintain a better mix or a higher concentration mix of revenue from UK and 
+the Middle East? 
+Mukul Gupta: So if you look at that's also a very nice question. But if you look at it, our client concentration 
+from the U.S. has actually reduced. And if you look at it, then our revenue from Europe and UK 
+has now grown to 32%. 
+ And our revenue from India has also grown to about 10.5%, whereas the revenue from the U.S. 
+is basically 41% roughly. This does not mean that the business from the U.S. has reduced, but 
+we have grown more in other regions. And for this financial year, I will continue to focus more 
+on physical marketing activities and our travels. 
+ We focus more on European and Middle Eastern markets, U.K. including U.K. Next financial 
+year, hopefully when things settle down, we will again look at the U.S. as a market. We will 
+start doing business activities over there. But right now, whatever activities we are doing in the 
+U.S. is purely digital. 
+Sanket Sadh: Okay, correct. That's fair. So can you comment on how we have been able to beat larger IT or 
+consulting companies in certain projects in either India or outside of India where the corporates 
+had favored us and our fee structure and awarded us the project over, let's say, the likes of TCS 
+or Tech Mahindra?  
+Mukul Gupta: Yes. So and that's a very nice question as well. The answer that comes to my mind is if you look 
+at the company pre -IPO and the post -IPO, the two clients that whom we have landed, one is 
+basically a global real estate organization, which is an FTSE listed company. And then second 
+is a medical technology company, which is also NYSE listed. 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 15 of 18 
+ 
+ Now, both of these deals have basically come in because A, our credentials have changed. B, 
+our capabilities have also changed. And now we are able to talk to these clients and we are able 
+to offer capabilities which are much in line with what they are us ed to expect from a larger 
+company as well. 
+ We are also more nimble and agile. So we have basically land and expand. We are pursuing that 
+strategy. So we are pitching them smaller contracts. We are not asking for them to give us any 
+larger digital transformation or any larger piece for which there is already a lot of competition 
+from a larger established vendor. So we are kind of asking them, okay, give us smaller 
+opportunities build trust. 
+ The medical technology company, we delivered a proof-of-concept recently. It was all of these 
+are paid projects. And the management, the senior management team from the company also 
+joined and appreciated our work. 
+ So we believe that as these things progress, you start getting more trust from these organizations. 
+And as you're able to add these marquee logos to our client roster, we will be able to attract more 
+such clients to trust us with their projects. And it's something that we're also seeing in the Middle 
+East as well, where we have recently onboarded, not recently, but like I think 8 months ago, we 
+onboarded a client in the Middle Eastern region. 
+ And I'm speaking rough timeline, so it might be off by a month or two. We onboarded a very 
+large retailer who already had a very large IT consulting company as their current development 
+partner. But they still chose to give us a piece of work and now we a re taking a second project 
+for them as well. So there's already some activity, some positive indication where we are sort of 
+able to grow and take business from against these very large companies, whom I obviously 
+respect a lot. 
+Sanket Sadh: Right, right. And typically, our company has… 
+Moderator: I would request you to join back the queue as there are some participants waiting for their turn. 
+Sanket Sadh: Sure, sure. 
+Moderator: Thank you. We take the next question from the line of Imran, an Individual Investor. Please 
+proceed. 
+Imran: Hi, thanks for the opportunity. Am I audible? 
+Mukul Gupta: Yes, Imran ji, you are audible. 
+Imran: Thank you. A couple of questions. Number one, out of INR 100 crores that you do, is there any 
+portion that is subcontracting or which is not directly from the clients? 
+Mukul Gupta: We work with a lot of companies who are IT companies themselves and they sometimes 
+subcontract work to us. A majority is basically end clients, but we still have some IT services 
+companies who are basically based in U.S. or U.K. who subcontract to us. 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 16 of 18 
+ 
+Imran: And what would be that percentage, sir? 10%, 5%, 15%? 
+Mukul Gupta: I am speaking very tentatively, Imran ji, I don't have the numbers handy. 
+Imran: No, no problem. I just need a tentative number. Just want to understand. 
+Mukul Gupta: Yes, around 10%, sir. I believe it's going to be around 10%. Yes. 
+Imran: Got it, got it. And the other question is on the margins. Still about last year, you were doing 30% 
+and before that, 35%. So I was curious, are we doing some specialized work? Is it location 
+advantage that brings us higher margins because we are in Kolkata largely? So salaries must be 
+on average lower there. So what is the source of this higher margin? 
+Mukul Gupta: So it's good business practice, sir, because I mean, first and foremost, when we see those 
+margins, our employee base is very largely diversified. Like I was saying to Sanketh ji as well 
+from Aarth AIF that about like only 30%, 40% of the resources are based out of Kolkata. Even 
+during COVID, we started diversifying and a large portion of our employees are basically based 
+from all overall across India. 
+ And what COVID also did is basically rationalized or basically made salary level playing field 
+because people from Kolkata, now they're getting offers from governments in Bangalore. So 
+salaries have more or less become averaged out across the country. 
+ The reason we were able to get higher margins is, first and foremost, is that we said no to 
+business, which was a low profit business to us. So we always had this principle that we will not 
+take on the client where our margins or where the deal didn't make  sense to us. So sometimes 
+we work on a client where it's a large brand and we compromise on profitability  over their 
+margins over there. 
+ Sometimes the project is technically very interesting and challenging, and we want to take that 
+up, so we compromise on margins over there. But by and large, as a standard business practice, 
+we do not compromise on margins. 
+Imran: Got it. And as an industry standard, these projects that you are doing, which you say very 
+interesting, high margins, I'm sure there are a lot of people competing for these margins -- these 
+projects, right? 
+Mukul Gupta: Yes, sir. 
+Imran: So how do only we get it? Why not others? Is it too smaller for them to compete? If you could 
+throw some light there. 
+Mukul Gupta: Absolutely. It's a very fair question, Imran ji. My take on that is that Capital numbers is a small 
+business. So it's basically an SME company still. So any potential client who is evaluating 
+company such as -- let's say, for example, for name's sake, a la rge IT services companies like 
+Infosys and Wipro will not at parallelly compare capital numbers. 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 17 of 18 
+ 
+So the two markets are completely different. When they are comparing capital numbers against 
+its own peers, so where we stand out is our credentials. So for example, we are ISO 9001, 27001, 
+SOC 2 type 2 compliant. So these clients, when they're working with us, they know that we have 
+invested in the processes and the infrastructure to keep their data and IT safe, which a lot of 
+smaller IT companies do not have. 
+ Secondly, if you look at our brand reputation, if you go to sites like Clutch, Trust pilot, G2 and 
+good firms, we have about 300 -plus five-star reviews, which is again way above any of our 
+peers. And it's not only peers. I'm talking about smaller IT services companies in general. 
+ Then even if you look at our Glassdoor rating, which is about 4.3, which is again higher in its 
+category. So we have -- and then obviously our past project experience, the value we bring in 
+terms of, let's say, pricing and capability. So I believe that if we take all of these into account, 
+then we stand a fair chance and that's how they prefer us over these companies. 
+Imran: Got it. Completely understandable. And very quick question, question last one. I'll move to the 
+queue after this. We are targeting to acquire maybe one or two companies in the coming years. 
+Do you want to acquire very similar margin companies? Do you want to acquire -- if they are in 
+a similar business, you might be also looking at companies which are doing less margins. What 
+are your thoughts around the margins of the company that you would like to acquire? 
+Mukul Gupta: Yes. So definitely we cannot really compromise on a margin a lot. So we have -- we are looking 
+at companies who are almost -- it's not like there must be some -- we are not getting any company 
+right now in the pipeline. There is no company which is at same margin as us. It is lower. 
+ But the question is, can we rationalize it going forward? Can we charge higher for what they are 
+doing? Can we grow the margins? And that's all the angles that we're looking at. But we are 
+definitely not looking at companies which are way lower in terms of  margin than us. I mean, 
+there's some compromise, but not like we cannot do a lot over there, like it has to be in line with 
+our margins. 
+Imran: Right. So even after, let's say, one or two acquisitions, a margin should ho wever around 25% 
+plus, not below that, right? 
+Mukul Gupta: Yes, I believe so. 
+Imran: Got it. Thank you so much. Best of luck. Thanks. 
+Mukul Gupta: Thank you so much for joining the call, sir. 
+Moderator: Thank you. Ladies and gentlemen, due to time constraints, that was the last question for the day. 
+I would now like t o hand the conference over to M s. Chandni for closing comments. Over to 
+you, ma'am. 
+Chandni: On behalf of Capital Numbers Infotech and EquiBridgeX Advisors, I thank everyone for taking 
+the time to join today's earnings call. If you have any queries, you can connect to us at 
+info@equibridgex.com. Once again, thank you for joining the conference. 
+ Capital Numbers Infotech Limited 
+  November 12, 2025 
+Page 18 of 18 
+ 
+Moderator: Thank you. On behalf of Capital Numbers Infotech Limited, that concludes this conference. 
+Thank you for joining us and you may now disconnect your lines. 

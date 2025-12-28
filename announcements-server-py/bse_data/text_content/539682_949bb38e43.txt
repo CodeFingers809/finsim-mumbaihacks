@@ -1,0 +1,554 @@
+ 
+ 
+ 
+21st November, 2025 
+To, 
+BSE Ltd 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Fort,  
+Mumbai - 400 001 
+ 
+Scrip Code: 539682 
+ 
+Subject: Transcript of Earnings Conference Call for the quarter & half year ended September 30, 
+               2025. 
+ 
+Dear Sir/Madam,  
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 (SEBI Listing Regulations), please find enclosed transcript for the conference 
+call with the Analysts/Investors for the Q2 FY 2025-26 financial results of the Company conducted 
+through digital means on Monday, November 17, 2025 at 4:30 p.m.  
+ 
+Transcript is also available on the website of the Company at www.mobavenue.ai 
+ 
+Request to kindly take the same on record.  
+ 
+Yours sincerely,  
+ 
+ 
+For Mobavenue AI Tech Limited  
+(Formerly known as Lucent Industries Limited)  
+ 
+ 
+ 
+Ishank Joshi  
+Managing Director & Chief Executive Officer  
+DIN: 05289924  
+ 
+Encl.: As Above. 
+ 
+ Page 1 of 14 
+ 
+ 
+ 
+“Mobavenue AI Tech Limited Q2 FY’26 Earnings 
+Conference Call” 
+ 
+November 17, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"E&OE (Errors & Omissions Excepted) – This transcript is edited for factual errors. In case of discrepancy, the audio recordings uploaded 
+on the stock exchanges on 17th November 2025 will prevail." 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+ Mobavenue AI Tech Limited 
+November 17, 2025 
+ 
+ Page 2 of 14 
+ 
+ 
+MANAGEMENT: MR. ISHANK JOSHI – CHIEF EXECUTIVE OFFICER AND 
+MANAGING DIRECTOR, MOBAVENUE AI TECH 
+LIMITED 
+MR. TEJAS RATHOD – EXECUTIVE DIRECTOR AND 
+CHIEF TECHNOLOGY OFFICER, MOBAVENUE AI TECH 
+LIMITED 
+ Mobavenue AI Tech Limited 
+November 17, 2025 
+ 
+ Page 3 of 14 
+Moderator: Ladies and gentlemen, good day and welcome to the Mobavenue AI Tech Limited Q2 FY '26 
+Earnings Conference Call. 
+Please note, this conference call may contain forward -looking statements about the company 
+which are based on the beliefs, opinions and expectations of the company as on date of this call. 
+These statements are not the guarantees of future performance of th e company, and it may 
+involve risks and uncertainties that are difficult to predict. 
+As a reminder, all participants’ lines will remain in the listen-only mode, and there will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need assistance 
+during the conference call, please signal the operator by pressing ‘*’ then ‘0’ on your touchtone 
+telephone. Please note that this conference is being recorded. 
+I will now hand the conference over to Mr. Ishank Joshi,  CEO and Managing Director of 
+Mobavenue AI Tech Limited for opening remarks. Thank you and over to you sir. 
+Ishank Joshi: Thank you. Thank you. Good afternoon, everyone, and thank you for joining us today. I hope 
+you all are doing well. This is a very meaningful moment for all of us at Mobavenue. As the new 
+Management Team of Mobavenue AI Tech L imited, formerly known as Lucent Industries 
+Limited, this is our First Earnings Call together. Speaking to you today as shareholders, partners, 
+future shareholders and supporters of our journey, it's truly an honor for me. I am joined by Tejas 
+Rathod – our Executive Director and CTO, and the team from AdFactors, our IR partners. 
+Since this is our maiden call, before we discuss the quarter's performance, I would like to briefly 
+share an exciting and resilient journey of this new Management Team and the new group, where 
+we came from, what we have built in the past, and how we are thinking about the road ahead.  
+Mobavenue's story began long before it became a company, when 2 childhood friends and my 
+good friends today, Kunal and Tejas, earned their first $100 Google check from a small content 
+project. That moment showed that technology, when applied purposefully, creates real value and 
+money. 
+By 2016 and '17, as India's digital landscape expanded, brands faced fragmented journeys and 
+unpredictable results. This is when the idea behind Mobavenue took shape, which start ed as a 
+boutique media agency. Mobavenue was formally launched in 2017 to solve this precise 
+challenge, when I joined in 2020 after a successful exit from our previous venture. 
+We sharpened our company vision to build an outcome -driven AdTech and consumer growth 
+platform from India that could scale globally with the same outcome -focused approach. To 
+pursue this, we knew we had to build our own technology stack from grounds up, line by line, 
+layer by layer, because the true differentiation cannot be rented. It must be truly engineered. 
+And I want to share one thing, and it is important to highlight here. We built this company 
+bootstrapped way. No external funding, no large safety net.  Every decision has been well -
+thought, strategic, long-term, sustainable, and with a view to generate value and profits.  
+ Mobavenue AI Tech Limited 
+November 17, 2025 
+ 
+ Page 4 of 14 
+Bootstrapping also shaped our identity and characters as founding partners. We became a 
+company that learns fast, adapts fast, builds technology faster, that must prove and improve itself 
+every single day. 
+Over the years, we have served more than 150 clients, executed thousands of campaigns, and 
+developed multi-platforms designed to help brands achieve measurable outcomes. In terms of 
+our recent merger announced previously, I am glad to share with all of you that now Mobavenue 
+Media is fully integrated into Mobavenue AI Tech Limited. Our combined strengths shall 
+operate as a unified and one organization. 
+We transformed and rebuilt the group structure over the last 12 months to reflect who we are 
+truly today and position us to better for the future. We are now a digital -first technology group 
+building AI-powered tech platforms that accelerate digital growth for businesses with outcome-
+focused ecosystem. 
+At the core of our innovation is our A3 framework. We call it an A3 framework, which consists 
+of Awareness, Acquisition , and Activation, built to accelerate brand performance, enhance 
+customer engagement, and unlock long-term sustainable growth. 
+We will continue to improve our platform ecosystem and evalua te adjacent business segments 
+such as MarTech and Monetization Tools for businesses. This transition towards an AI -native 
+company is a positive change, shapes an exciting future ahead for all of us.  It laid a new 
+foundation and shall change the scale at wh ich we operate, the ambition with which we build, 
+and the accountability as a listed entity.  
+Becoming Mobavenue AI Tech Limited is not just a new name for us. It's a declaration that our 
+next chapter is about building deep tech, global expansion, and crea te long-term value through 
+our AI-powered applications that solve digital growth for businesses globally. 
+Up to this point, I have spoken about our foundational journey and our recent transformational 
+journey into Mobavenue AI Tech Limited. I would like to now focus on 2 key pillars, our multi-
+technology platforms as business and our revenue model. Our technology ecosystem consists of 
+our core media buying engine, data systems, and machine learning layer. 
+Our multi-platform stack including OrbitX, PrismX, S urgeX, DiscoverX, AmplifyX, and 
+ResearchX works seamlessly to deliver outcomes aligned to our core A3 framework of 
+Awareness, Acquisition, and Activation. At the center of this system is our AI-powered decision 
+layer, designed to analyze signals and help brands which relevant and intent-driven consumers 
+efficiently for 24x7, 365 days. 
+What makes it even more special is its speed.  Our core platforms take decision in under 15 
+milliseconds, compared to the industry benchmark which is between 50 to 100 milliseconds. We 
+don't charge for media spends, fees, or impressions. We follow an outcome -based revenue 
+approach. We charge only when a real defined user action takes place such as an install, a lead 
+ Mobavenue AI Tech Limited 
+November 17, 2025 
+ 
+ Page 5 of 14 
+submission, registration , add to cart, transaction, purchase, subscription, a verified view, or 
+repeat orders. Our revenue metrics is equal to number of outcomes that we generate using our 
+platforms, multiplied by Revenue Per Outcome. We call it as RPO. 
+This alignment supports to  the model, long-term relationship with our customers and ensures 
+our incentives remain closely tied to the end client success. Now to deliver this outcome, our 
+platforms must do following in a unified manner. Number one is to identify relevant and high 
+intent users and cohorts for our customers.  Number two, estimate conversion likelihood using 
+machine learning platform that we have built. Third is to re-engage any drop-offs when required 
+or if required. And in the last, encourage the repeat usage wherever it is relevant. 
+Now, this alignment creates 3 massive and long-term advantages. Client outcomes for us is equal 
+to our success. This is the first and primary most alignment that we always look forward to. The 
+second is high stickiness and long -term relatio nships because brand scale, once they see 
+predictable outcomes from our various multi -platforms. And in the last, and which is very 
+critical, higher margins than pure commission -led models , because our model is built on 
+automation and not manual operations. This outcome -led model shall become the backbone of 
+our present revenue model. 
+Today this engine power billions of ad impressions every month and we drive millions of 
+outcomes for brands. This outcome-led model and platform engine are now integrated fully and 
+shall contribute to more than 90% of our revenue. The remaining 10% of our revenue comes 
+from non -outcome-based model, that is growth and performance marketing services to 
+businesses, which we are steadily transitioning into outcome-led offerings too, as well as in the 
+coming quarters. 
+I will pause for a moment to share my gratitude. Mob avenue was built step-by-step, campaign-
+by-campaign, platform-by- platform and outcome-by-outcome, and we shall be putting the same 
+rigor behind Mobavenue AI Tech Limited now onwards. 
+Behind every milestone are people who believed in us long before we reached where we stand 
+today. To our founders, to our employees, clients, partners, vendors, families, w ell wishers, 
+advisors, and now to our public and future shareholders. Thank you for your trust, patience, and 
+support for us. 
+As we look ahead, our focus remains on building our core technology platform that makes 
+growth simpler and more predictable for bu sinesses powered by AI. We shall continue to 
+strengthen our presence in India, which is our domestic market, and explore opportunities in 
+international markets for expansion. We will continue improving our platform ecosystem by 
+building new platforms and a lso evaluating adjacent areas such as MarTech and Monetization 
+Tools as segments. 
+ Mobavenue AI Tech Limited 
+November 17, 2025 
+ 
+ Page 6 of 14 
+We remain open to partnerships or acquisitions that align with a long -term approach and our 
+good vision. Our guiding principle is very clear. Technology should make things ea sier and 
+faster for businesses to grow digitally. 
+In the end, I want to close by saying we started as a small team with a simple belief that 
+advertising should deliver real outcomes, not just impressions. Today, that belief continues to 
+guide us as we expand thoughtfully and responsibly. We will continue to operate with discipline, 
+transparency, long-term thinking, and a focus on sustainable and profitable growth, which has 
+become the value system for us over the last years when we started. 
+With that, I would like to hand it over to Tejas Rathod, who will take you through the financial 
+and operational highlights for the quarter. Thank you. 
+ Thank you, Ishank, for the brief. 
+Tejas Rathod:                     Good day, everyone, and thank you for joining us for our maiden earnings call.  I am pleased to 
+report that this has been another strong and disciplined quarter for us, driven by focused 
+execution, improved operating leverage, and the continued scaling of our AI-powered advertising 
+and consumer growth platforms.  
+Revenue from operations for Q2 FY '26 stood at INR 54.32 crore, reflecting a 17% sequential 
+growth over Quarter 1. EBITDA for the quarter came in at  INR 11.04 crore, representing 26% 
+quarter-on-quarter increase. Our EBITDA margin expanded to 20.32%. Profit after tax for Q2 
+was INR 7.31 crore, up by 22% from Q1. PAT margin stood at 13.45%. 
+For the first half of FY '26, revenue stood at INR 100.73 crore. EBITDA stood at  INR 19.77 
+crore. EBITDA margins approximately at 19.6%. Our PAT stood at INR 13.30 Crores, which is 
+13%. This reflects strong structural fundamentals in our outcome-based AI business model. 
+We completed the full integration of Mobavenue Media as a wholly -owned subsidiary, 
+strengthening consolidated performance and enabling unified exhibition across  our A3 
+framework, which Ishank just explained. 
+Our AI platforms continued to scale with improved revenue -per-outcome and higher -quality-
+outcome volumes. Industry has recogni zed this with our AeroSpike Cham pions of Scale '25 
+Award and Best AI Technology Agency of the Year, reinforcing the robustness of our 
+technology stack. 
+As we enter into the second half of the year with confidence, digital advertising, rapid 
+smartphone and internet penetration, and accelerated AI adoption position us strongly to capture 
+further growth domestically and globally. Investments in the upcoming AI Centre of Excellence 
+and new monetization and marketing platforms will fortify our long-term strategy. 
+ Mobavenue AI Tech Limited 
+November 17, 2025 
+ 
+ Page 7 of 14 
+As a su mmary, Q2 has been a quarter of discipline d growth, expanding profitability, deeper 
+market acceptance of our AI -led outcome-based model. We remain committed to delivering 
+long-term shareholder value through scalable innovation and operational rigor. Thank you. 
+We open now the floor for the questions. 
+Moderator: Thank you. Ladies and gentlemen, we will now begin the question-and-answer session. We take 
+the first question from the line of Agastya Dave from CAO Capital. Please go ahead. 
+Agastya Dave: Good even ing. Thank you very much for the opportunity , and congratulations on good 
+performance. Sir, one question is on the business model itself. You mentioned that you have 
+machine learning and AI models to aid in optimizing the acquisition and deployment of ad 
+inventory. So, where are you getting the data from? And how big is your dataset on which you 
+have done this training? 
+Ishank Joshi: Great, great. Tejas, do you want to answer this question? 
+Tejas Rathod: Yes, sure. Thank you for the question. Our data primarily comes from our bid stream, which is 
+an ad request stream from the SSPs, from the inventories, where we get the opportunity of the 
+ads. This bid stream has lots of information about the user, which our machine learning algorithm 
+and machine learning models uses for identifying whether we should b e showing the ad or not. 
+We have built the profiles on roughly around 100 million plus users currently.  And this profile 
+helps us to understand which kind of users are prone to which kind of advertisers or brands. 
+On top of this, while we remain very disci plined with our data privacy, which we will be 
+complying with DPDP Law of India. We are also complying to GDPR and CCPA, which is the 
+UK and U.S. regions data privacy law. So, we don't store any of the data which is not compliant 
+by all these laws. 
+Agastya Dave: Understood. And the tokens that you have for individual users, these would contain just the click 
+data, just the view data, or do they also include what happens subsequently, whether the 
+purchases were made or not? 
+Tejas Rathod: Advertisers share s with us whatever outcome we are charging with them. So, it would be 
+installed data, it could be purchased data. There are other third-party platforms which share this 
+data with us, which is appointed back to advertiser. 
+On our deliverable of impressions, we get to see whom we have served the impression and who 
+has clicked on the advertisement. These 2 data is generated by our platform. Rest of the data is 
+shared by the advertiser on their consent.  
+Agastya Dave: Understood. And in the opening remarks, you mentioned that revenue model that you have is 
+success-based. Also, in the presentation, you have mentioned that these are not promises,  the 
+monetization is happening when you  are delivering some end results, right, some tangible 
+successes for the client. So, is this very different from the traditional CPC business? What should 
+ Mobavenue AI Tech Limited 
+November 17, 2025 
+ 
+ Page 8 of 14 
+we track in terms of operating underlying m etrices? What are y ou tracking? And what should 
+we track? 
+Ishank Joshi: Sure. Sure. Let me maybe help you with an example, and maybe a real example.  So let's say a 
+Fintech brand wants to acquire new users, who will not only download the app, but also complete 
+their KYC and make their first investment or take a loan. Now, this Fintech brand don't pay us 
+just on impressions. Likewise, some of the agencies charge on impressions , or maybe they will 
+charge on some media buying fees. They don't also pay us just on clicks. They pay us only when 
+the user completes the agreed action. 
+Now, to make this happen, one of our platform, SurgeX, identifie d the high intent users.  The 
+second im portant thing is the AI layer that we have built, which analyzes, which Tejas was 
+mentioning, it analyzes billions of signals to predict which user will convert the most , for the 
+end advertiser, right. A platform such as DiscoverX and ResearchX re-engage users as they drop 
+off during the journey in their app, or doing a journey in the app, which is maybe completing the 
+KYC or going towards an investment as a first transaction, or maybe as a loan. 
+Now, since we have built a unified system, the system realloc ates the budgets within 
+milliseconds, based on probability of the conversion. And hence, we earn when the brand gets 
+an exact outcome, which we decide in the early engagement with the brand.  And that's where 
+we track the conversions, more than conversions,  the outcomes. So one of the key metrics that 
+we track is how many outcomes we are able to generate for the same set of brands, and what 
+will be the value of that outcome? Did that answer your question? 
+Agastya Dave: To some extent, but what if there is no positive outcome, and it just, all you have managed to do 
+is generate a click. In that case, do you get paid? 
+Ishank Joshi: So in some cases, where the brand has decided that they will pay us on a click or a view, and 
+this is verified view, specifically for large screen or CTV or OTT streaming as a platform, that's 
+where we will also be paid.  And we call it under awareness camp aigns, because the purpose 
+there is to showcase the app to the relevant and high intent users, and bring them to their website, 
+or a mobile website, or a desktop website, or a mobile app. 
+Agastya Dave: Great. May I ask one more question, or should I go back in the queue?  
+Ishank Joshi: Sure. 
+Agastya Dave: I have other questions as well. Okay, thank you. So traditionally, the businesses which were 
+listed like even 10 years back, which had similar business model, but not exactly yours, 
+obviously. They had 1 pain point, which was the receivables. Receivables used to, like they used 
+to start in like 60, 70 days, and then it used to go to 180 days, and then go beyond 200 days. So 
+how are you addressing that challenge? What would be your long-term capital requirements? 
+As of now, with the limited financial information that I have, which is just this one balance sheet, 
+which has come out in this H1 results, and the P&L that I have for 2 quarters, it looks as of now 
+ Mobavenue AI Tech Limited 
+November 17, 2025 
+ 
+ Page 9 of 14 
+asset light. But do you expect it to remain like this? Or do you do you expect those like 150, 200 
+day receivable cycles to hit you sooner or later? And in terms of your growth, like your targets 
+going forward, what do you have in mind? And what kind of investments would you require to 
+fund that, to fuel that growth? 
+Ishank Joshi: Got it. Great questions, by the way. And let me break down with our approach over years, right? 
+So previous, the history, the way the advertising used to work was largely on the basis of a fee 
+is being generated on the Media business, right, for most of the agencies, right, which over the 
+years have now been changed, where even media agencies have to focus on  outcomes at some 
+stage, right, which is ROA S. And that's where our platform not only helps both the brands as 
+well as the media agencies out there, because media agencies largely cater to the brands, not to 
+the platforms. They don't have built platforms over a period of time or technology over a period 
+of time.  
+We will always be in an asset-light model. And because what we understand is this outcome led 
+model creates very less friction for the end brand, and  help us to scale, not only in India, but 
+beyond India, which is into global markets, which is developed markets and developing markets 
+too. So this is a critical aspect for us, and we have done that over the years. So we will continue 
+to follow this revenue model and keep it very, very asset-light. 
+Now, compared to trade receivables are concerned, mostly the media agencies, because they 
+work on media and commissions, their payables are very large, and they give it as  a service to 
+most of the  brands, because they can give more credit to their brands.  For us, we provide a 
+limited amount of credits, which ranges from an enterprise customer between 45 to 60 days, and 
+some of the media agencies, we provide them 80 to 90 days of credit system. 
+So, our trade receivables are more faster, because we are working on outcome. And the brands 
+understand that because we are not charging them fixed fees or retention or fees on their media 
+budgets. We raise the bill  once every month th e outcomes are generated.  And on that basis, it 
+has been verified, we have been paid between 45 to 90 days. We have a strong production team 
+and a compliance team, which ensures that we do proper credit checks for our brands and our 
+media agencies. 
+And also, on top of it, if they are not paying on time, we possibly pause the campaign for them, 
+which results in degrowth for them. So it's a loop where they are dependent on platforms which 
+generate outcomes.  And since we  have been getting money on an outcome, they clear our 
+payments as a top-most priority versus any creative led agency or media led agencies. 
+Agastya Dave: Great. Any comment on what are your growth targets? 
+Moderator: Agastya, I would request you to please join the queue. 
+Agastya Dave: I will go back in the queue. Sure. Thank you. 
+ Mobavenue AI Tech Limited 
+November 17, 2025 
+ 
+ Page 10 of 14 
+Moderator: Thank you. We take the next question from the line of Parth Patel, from Patel Investments. Please 
+go ahead. 
+Parth Patel: Good evening, sir. Thank you so much for the opportunity, and congratulations on the good set 
+of numbers. I had a couple of questions. So the first one is that if you look at the revenue, it has 
+increased 5 times quarter -on-quarter and over 10 times year -on-year, which makes me very 
+happy as an investor. But if you look at the  profit margins, be it operating margin or the net 
+profit margin, it has been a little volatile. So I just wanted to know what are the sustainable 
+margins that we are looking at , and what is the quarter-on-quarter revenue that we will be able 
+to sustain? 
+Ishank Joshi: Great question, Parth. One of the most important things that we look at as building a technology 
+platform is investing back into our technology platform. Over the last few years, we have 
+tremendously invested on our machine learning platform. And now we continue to invest on the 
+AI workbench that we are building, which really helps us to improve the outcomes for our brands 
+over the next few quarters and the coming years.  So that is an important investment that we 
+continue to do, because we follow an asset-light model at our end. This is a critical aspect for us 
+to invest back into our technology.  
+Comparatively to the EBITDA margins and the PAT margins that you are talking about, I think 
+for us as a guiding principle we follow a Rule of 40 at our end, which is you should grow beyond 
+20%.  
+And I will give you some logic behind it. Your EBITDA margins should be between  20, and 
+your PAT margins we continue to put it across above 13%. The global industry, which is digital 
+advertising, is growing by 14%. India as a domestic country is growing by 19%. And we believe 
+with our platform-led approach and outcome-driven model, we will be growing more than 30%. 
+So as a Rule of 40, we follow the Rule of 50, wherein 20% EBITDA margins and 30% growth, 
+which really caters to the underlining principle of our asset-light model. 
+Parth Patel: Got it, sir. 
+Ishank Joshi: Does that answer your question? 
+Parth Patel: Yes, yes, yes. That does answer my question. My second question is on the basis of clientele. So 
+what is the split between the contractual clients and one -off clients, which have contributed to 
+such revenues? And do we have any client concentrations per se? 
+Ishank Joshi: Most of our clients and customers are contract-based. We follow a TDS agreement -based 
+engagement with them. Most of them are  on the outcome-based model. As I said, 90% of our 
+revenue today will be driven by that as an underlining journey for us. And some of them would 
+be on a managed services, where we help them with the growth and marketing-as-a-service and 
+provide a service-led approach to them. 
+ Mobavenue AI Tech Limited 
+November 17, 2025 
+ 
+ Page 11 of 14 
+Parth Patel: Got it. And talking about the vertical that are coming up next, be it monetization or MarTech or 
+OEM DSPs, which of these do you think is going to contribute majorly to the next year, FY '27? 
+And what margins are we looking at? Is it in the similar level of 13%-14% PAT? 
+Ishank Joshi: Great question. There are 2 business segments that we are  also adjacent to catering towards is 
+MarTech and Monetization Tools. And these are new segments that we look forward as we see  
+as an opportunity to kind of grow in this segment. But having said that , as told, our core focus 
+will be to expand to global regions using a GCC-led approach, which is global expansion, where 
+our capability and technology center, as well as our operation centers remains in India, but our 
+teams, which is regional-specific and like our management is based out of the region-specific as 
+we scale in those regions. 
+And this helps us to maintain a sustainable EBITDA margins, as well as the profit margins. We 
+always look towards to improve the EBITDA margins and profit margins. But as I said, we are 
+very focused in continuing to build our te chnology platforms as a long -term approach. So, we 
+will continue to invest back into our technology , so that we have a very long -term view of our 
+business model. 
+Parth Patel: Got it, sir. That answers my questions for now. I will join in the queue again. Thank you so much 
+for taking my questions, and I wish you all the best. 
+Ishank Joshi: Thank you. 
+Moderator: Thank you. We take the next question from the line of Nimish Pandya, who is an individual 
+investor. Please go ahead. 
+Nimish Pandya: So, sir, I have a couple of questions. So, my first question is, within your base of 100 plus global 
+brands, what proportion of Quarter 2 revenue come from your top 5 clients? Additionally, is 
+client concentration improving as the platform continues to scale? 
+Ishank Joshi: Tejas, you want to answer that? 
+Tejas Rathod: Yes. We will share the top 5 concentration of the top new clients. But we have well diversified 
+our client portfolio. We have roughly around 80 plus enterprise customers who have been using 
+our platforms directly. And we have roughly around another 15 to 20 customers in India , who 
+have been using our platform via an agency. So, our client concentration is very well diversified 
+at the current moment. 
+Nimish Pandya: Understood. So, my next question is, as we can see that most of the revenue was coming from 
+outcome-based model, if I am not wrong, right. So, how scalable is this approach in international 
+markets where outcome-driven pricing varies significantly?  
+Tejas Rathod: The model is quite scalable, Nimish.  There are multiple global companies who have been 
+operating at very large scale, having revenues in $1 billion, where their model is also outcome-
+based, more or less. And if we are outcome-based, we are very comparable on this global market. 
+ Mobavenue AI Tech Limited 
+November 17, 2025 
+ 
+ Page 12 of 14 
+And since our platform itself is technology -based, the core fundamental is based on the 
+technology, while we go to the global market, platform base is scalable. And we have seen 
+multiple clients who have been using our platform from different countries, whether it is UK, 
+whether it is some part s of Southeast Asia, we have seen that our platform is able to perform 
+well. So, technology has no boundary on the geolocation in our case, and our technology has 
+capabilities to serve globally. 
+Nimish Pandya: Got it, got it. That answers my questions. I will join the queue. Thank you. Thanks a lot. 
+Moderator: We will take the next question from the line of Agastya Dave from CAO Capital.  Please go 
+ahead. 
+Agastya Dave: Thank you very  much for allowing me the follow-up. So, another thing that I remember from 
+similar companies in U .S. and in India, is that the realization used to be under pressure every 
+year. There was some sort of a decay in per unit realization for the companies like you. So, what 
+are the trends that you see in your business? Is there any kind of pricing pressure which you 
+experience every year? Do the clients come back again and again to renegotiate on the rates that 
+you are charging? 
+Ishank Joshi: Great question, again. When you are in an outcome-led model and not a simply platform usage 
+fees model, the more the brands spend on us and we generate more and more outcomes, of 
+course, we have an operating leverage with the brand. 
+Now, some of the large bran ds do come back as we decide the annual budgeting with them, 
+wherein we define a very less amount of discount which will be applicable to them. But on a 
+larger basis, what we always tell them is since we are generating outcomes for your businesses, 
+we shall not be discounted at large scale. And so, we try to maintain that margins with them and 
+we continue to kind of scale from there. 
+As compared to the global markets are concerned, they are more focused towards outcomes as 
+well as ROAS. So, if the outcomes that we generate, which is we are generating them high intent 
+customers, they can check the long lifetime value of the customer or the average revenue per 
+user of the customer. If it is matching to their expectation, they will continue to pay us higher 
+fees, because we are generating them better customers as compared to platforms which generate 
+large amount of customers, but the lifetime value or the average revenue per user is lesser for 
+them. 
+Agastya Dave: But can you quantify the annual fall in ASPs for you, that you have ever seen, like the worst 
+case scenario that you have ever seen? Is it like 10%? Have you ever seen like a 10% decline y-
+o-y? Have you seen like 20% decline? That used to be the norm for the industry.  
+Ishank Joshi: That used to be law for the industry for largely the media usage fees, because let's say they are 
+charging 5%, you know, the client can say, hey, now I am going to pay you 4% or 3% because 
+there is another media agency who is standing out my door, may offer better deal wi th them, 
+ Mobavenue AI Tech Limited 
+November 17, 2025 
+ 
+ Page 13 of 14 
+especially for platforms where the client also don't have much of the platforms, which can 
+generate high intent outcomes.  Hence, the variation that we have seen  is sub-below 5% in our 
+case. 
+Agastya Dave: Okay. Okay. Great. My final question for th e day on the ad inventory side, that was just first 
+question this round. If you want me to go back in the queue, I will go back. 
+No, I will go back. I will go back. 
+Moderator: We take the next question from the line of Rushab Shah, who is an individual investor. Please 
+go ahead. 
+Rushab Shah: So thank you for the opportunity. So my first question is, like, by when can we expect that the 
+launch of mobile and its first marketing technology platform as a part of your upcoming vertical 
+expansion, sir? 
+Ishank Joshi: We have already launched in the first quarter our social and search contextual platform, we call 
+it as OrbitX. We are also going to as we move forward towards Q3 and Q4, we look forward to 
+launch some new enhancements on our platform, where we have upgraded our AI decision. And 
+you will hear about this as we launch those purpose-built platforms in the future. 
+Rushab Shah: Okay, sir.  And among the new verticals that you are building right now, like monetization, 
+marketing technology, unified bidders, and the OEM DSPs, so which one do you anticipate, it 
+will be a primary revenue driver for, let's say, FY '27, among this? 
+Ishank Joshi: Yes, yes, yes. Great question. Again, the advertising and the consumer growth platforms, which 
+is we have now built a completely unified way, will be the core revenue driver for us  in the 
+upcoming years too, because this is a matured model. 
+We have already been growing at a certain CAGR, which is around 35% CAGR. So, we will 
+continue to focus towards that as we go more deeper in India, which is our domestic market, as 
+well as we go deeper in the global market. Some of the other adjacent business segments is what 
+we are again, reinvesting and building from the grounds up level, or may be looking at some  
+acquisition in these segments to kind of start off with.  But the primary force will be our 
+advertising and the consumer growth platforms. 
+Rushab Shah: Okay. Okay. And my next question is, like, if you know, like, given that TDI is now th e first 
+passive-growing digital market advertising, basically, and considering the rapid pace of the 
+vernacular and mobile -first consumption, so what do you think which sectors are currently 
+driving the highest campaign volumes, like FinTech, E-commerce, Gaming, D2C, or BFSI sir? 
+Ishank Joshi: So, mobile will be always and will be the bigger opportunity, because mobile app in that case is, 
+you have a very large base today. The consumers are spending more and more time inside new 
+mobile apps, as well as new mobile games. So, we see that as a large opportunity globally, not 
+only in India, as well as other regions. 
+ Mobavenue AI Tech Limited 
+November 17, 2025 
+ 
+ Page 14 of 14 
+As compared to the categories concerned , we are digital -first category, so Commerce, Quick 
+Commerce, FinTech, this is one of the large categories which are there in all the regions where 
+we are expanding, which continues to grow profitably for us. And we  are also expanding our 
+business to other categories, such as FMCG, healthcare, education, real estate, because this is 
+the larger categories which are very, very large, and moving towards digital-first approach.  
+Rushab Shah: Okay, okay. Yes, thank you for this, sir, and that's all from my side, and wish you all the best.  
+Moderator: Thank you. Ladies and gentlemen, due to paucity of time, we will take that as the last question. 
+Further questions can be taken up with the IR team. 
+I now have the conference over to the Management for their closing comments.  
+Ishank Joshi: Thank you to everyone  who's present and asked questions about our  business and business 
+model. Really, really appreciate it. I would like to express my sincere gratitude to all of you , 
+taking the time to join us today, and your deep interest in understanding our business, and walk 
+you through the transformation journey over the last 11 months that we have gone through. 
+We stand today at an inflection point where AI intersects with advertising and where India's 
+capability meets global innovation. Our journey so far has been exciting and deeply enterprising, 
+and we believe the road ahead carries even greater purpose for us as a team. 
+Mobavenue aims to empower businesses to transform digitally and achieve sustainable digital 
+growth. Guided by a core AI for good philosophy, we remain committed to building technology, 
+applications, and platform for India and for the world, enabling businesses to thrive in an 
+evolving digital economy. 
+Thank you once again to all of you. For any other queries, please feel free to reach out to our 
+investor relations team, and we would love to answer to your questions. Thank you so much. 
+Moderator: Thank you. On behalf of Mobavenue AI Tech Limited, that concludes this conference. Thank 
+you for joining us, and you may now disconnect your lines. 

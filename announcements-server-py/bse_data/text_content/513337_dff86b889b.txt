@@ -1,0 +1,470 @@
+ 
+ 
+Date: 21st November, 2025  
+ 
+To,  
+Department of Corporate Services  
+The Bombay Stock Exchange Ltd.  
+P.J. Towers,  
+Dalal Street, Fort,  
+Mumbai - 400 001  
+ 
+Reference: ISIN - INE145J01032; Scrip Code- 513337; Symbol- GUJTLRM 
+ 
+Subject: Outcome of the Board meeting held on Friday 21st November, 2025 
+ 
+Dear Sir/ Madam,  
+ 
+Pursuant to Regulation 30 and 33(1) of the Securities and Exchange Board of India 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, we are submitting 
+the following for the second quarter and six ended on 30th September, 2025: 
+ 
+a. unaudited standalone and consolidated financial results.  
+b. limited review report on standalone and consolidated financial results. 
+ 
+Integrated filling (Financials) pursuant to the SEBI circular no SEBI/HO/CFD/CFD-PoD 
+2/CIR/P/2024/185 dated December 31, 2024, is being submitted separately in XBRL 
+format in accordance with relevant circulars issued by the stock exchanges.  
+ 
+Meeting Commence at 03.00 PM and Concluded at around 04.15 PM 
+ 
+Please take the aforesaid on record.  
+ 
+Thanking you,  
+For GUJARAT TOOLROOM LIMITED 
+ 
+ 
+ARUNKUMAR UDAYBHAI DAVE 
+MANAGING DIRECTOR 
+DIN: 11169192 
+Encl: A/a 
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024
+Unaudited Unaudited Unaudited Unaudited Unaudited
+I. ASSETS
+Non-Current Assets
+(1) (a)   Property, Plant and Equipment and Intangible Assets 10
+       (i) Property, Plant and Equipment 77.72                   84.50                   111.43                 77.72                   111.43                 
+      (ii) Intangible Assets -                      -                       -                       -                       -                       
+     (iii) Capital Work-in-Progress -                      -                       -                       -                       -                       
+     (iv) Intangible Assets Under Development -                       -                       -                       -                       -                       
+(b) Non-Current Investments 11 67.25                   67.25                   67.25                   67.25                   67.25                   
+(c) Deferred Tax Assets (Net) 7.69                    6.95                     0.81                     7.69                     0.81                     
+(d) Long-term Loans and Advances 12 -                       -                       -                       -                       -                       
+(e) Other Non-Current Assets 13 -                       -                       -                       -                       -                       
+2 Current Assets
+(a) Current Investments 14 -                       -                       -                       -                       -                       
+(b) Inventories 15 708.35                708.35                 169.76                 708.35                 169.76                 
+(c) Trade Receivables 16 14,048.47             14,907.87             5,527.14              14,048.47             5,527.14              
+(d) Cash and Cash Equivalents 17 100.66                 102.19                 103.97                 100.66                 103.97                 
+(e) Short-Term Loans and Advances 18 13,974.35             13,974.35             24,019.20             13,974.35             24,019.20             
+(f) Other Current Assets 19 24,431.74             23,887.03             34.38                   24,431.74            34.38                   
+-                    -                     -                      -                      -                     
+Total Assets 53,416.24         53,738.51          30,033.95          53,416.24          30,033.95          
+II. EQUITY AND LIABILITIES
+(1) Shareholder's Funds
+(a) Share Capital 1 13,923.94            13,923.94             1,166.63              13,923.94             1,166.63              
+(b) Reserves and Surplus 2 8,373.27              8,408.34              5,950.20              8,373.27              5,950.20              
+(c) Money received against Share Warrants
+(2) Share Application Money Pending Allotment -                      -                       -                       -                       -                       
+(3) Non-Current Liabilities
+(a) Long-Term Borrowings 3 -                       -                       -                       -                       -                       
+(b) Deferred Tax Liabilities (Net) -                      -                       -                       -                       -                       
+(c) Other Long Term Liabilities 4 -                       -                       -                       -                       -                       
+(d) Long-Term Provisions 5 -                       -                       -                       -                       -                       
+(4) Current Liabilities
+(a) Short-Term Borrowings 6 6,629.63              6,661.09              19.48                   6,629.63             19.48                   
+(b) Trade Payables 7
+(A) Total outstanding dues of micro enterprises and small enterprises -                      -                       20,354.76            -                       20,354.76            
+(B) Total outstanding dues Other Than micro enterprises and small enterprises 10,416.33            11,223.76             -                       10,416.33            -                       
+(c) Other Current Liabilities 8 13,560.79             13,009.08             2,047.90              13,560.79             2,047.90              
+(d) Short-Term Provisions 9 512.30                 512.30                 494.98                 512.30                 494.98                 
+Total Equity and Liabilities 53,416.24         53,738.51          30,033.95          53,416.24          30,033.95          
+Place: Ahmedabad For Gujarat Toolroom Limited
+Date : 21/11/2025
+ARUNKUMAR UDAYBHAI DAVE
+Managing Director
+11169192
+Particulars Note 
+No.
+Quarter Ended  Year Till date
+CIN - L45208GJ1983PLC006056
+GUJARAT TOOLROOM LIMITED
+21A SPACE HOUSE, 61, SRIMALI SOC, NAVARANGPURA,
+AHMEDABAD, GUJARAT, INDIA, 380009
+ Standalone Assets & Liabilities Result for the quarter ended on September 30, 2025
+(Amount in Rs Lakhs)
+Year Ended
+30.09.2025 30.06.2025 30.09.2024 31.03.2025
+Unaudited Unaudited Unaudited Audited
+I Revenue From O perations 807.83             1 ,450.68         8 ,033.01           31 ,379.09        
+II Other Income -                   -                   8.72                   34.97               
+III Total Income (I+II) 807.83          1 ,450.68       8 ,041.73         31 ,414.06     
+IV EXPENSES:                                               
+ Cost of Materials Consumed -                   -                   -                     -                   
+Purchase of Stock-in-Trade 806.90             952.17             6 ,029.69           24 ,048.83        
+ Change in inventory of finished goods, work-in-
+progress  and  Stock-in-Trade -                    (9.64)                 1,117.98           5,480.32            
+Employee Benefits Expenses 9.03                 2.90                 9.16                   39.91               
+Finance costs 0.15                 0.07                 0.08                   4.44                 
+Depreciation and amortization expenses 6.78                 7.28                 9.51                   41.89               
+Other Expenses 20.79               9.57                 46.86                 254.25             
+Total expenses (IV) 843.65          962.34           7 ,213.28         29 ,869.65     
+V Profit/ (Loss) before exceptional items and tax (35.82)             488.34             828.45               1 ,544.41         
+VI Exce ptional Items -                   -                   -                     -                   
+VII Profit before extraordinar y items and tax (35.82)             488.34             828.45               1 ,544.41         
+VIII Extraordinary items -                   -                   -                     -                   
+IX Profit/ (Loss) before tax  (35.82)           488.34           828.45             1 ,544.41       
+X Tax ex pense: -
+(1) Current Tax -                   122.91            214.81               389.01             
+(2) MAT Credit Entitlement -                  -                   -                     -                   
+(3) Deferred Tax Liability / (Deferred Tax Asset) (0.74)               (0.87)               (1.25)                 (6.08)               
+XI Profit/(Loss) for the period from continuing operation (35.08)             366.31             614.89             1,161.47          
+XII Profit/ (Loss) for discontinued operation -                   -                   -                     -                   
+XIII Tax expenses of discontinued operations -                   -                   -                     -                   
+XIV Profit/(Loss) form Discontinued operation (after tax) -                     -                     -                     -                     
+XV Profit/ (Loss) for the period (35.08)           366.31           614.89             1 ,161.47       
+XVI Earnin gs per equity share:                                                                                                              
+(1) Basic (0.00)               0.03                 1.11                   0.08                 
+(2) Diluted (0.00)               0.03                 1.11                   0.08                 
+PlacePlace: Ahmedabad For Gujarat Toolroom Limited
+Date Date : 21/11/2025
+ARUNKUMAR UDAYBHAI DAVE
+Managing Director
+11169192
+ Standalone Financial Results of the quarter ended on September 30,2025
+GUJARAT TOOLROOM LIMITED
+CIN - L45208GJ1983PLC006056
+21A SPACE HOUSE, 61, SRIMALI SOC, NAVARANGPURA,
+AHMEDABAD, GUJARAT, INDIA, 380009
+Particulars
+(Amount in Rs Lakhs)
+Quarter Ended 
+Rs Rs Rs Rs
+A CASH FLOW FROM OPERATING ACTIVITIE S
+Net Profit Before Tax 452.52                1,193.71               
+Add Back: -
+Depreciation 14.05                  19.81                    
+Deferred Revenue Expenditure -                     -                       
+Loss on sale of Assets -                     -                       
+Interest expense 0.22                    4.20                      
+Others if any -                     14.27                   -                       24.01                   
+Deduct: -
+Interest income -                     -                       
+Profit on sale of Assets -                     -                       
+Others if any -                     -                       0.11                      0.11                     
+Operating profit before working capital changes 466.80                1,217.61               
+Adjustments for:
+Increase/(decrease) in Current Liabilities & Provisions 681.15                 1,995.64                 
+Decrease/(Increase) in Receivables 1,090.17               (5,259.77)               
+Decrease/(Increase) in Inventories (9.64)                    6,009.27                 
+Decrease/(increase) in Other Current Assets (24,384.90)           101.37                  
+Decrease/(increase) in Short Term Advances 24,546.75             (21,555.92)             
+Increase/(Decrease) in Payables (2,232.46)             (308.93)                12,777.42               (5,931.97)             
+Cash generated from operations 157.87                (4,714.36)             
+Income Tax Adjustment 122.91                303.15                 
+Cash flow before extraordinary item 34.96                  (5,017.51)             
+Proceeds from extraordinary item -                      0.11                     
+Net Cash flow from Operating activities 34.96                  (5,017.39)            
+B CASH FLOW FROM INVESTING ACTIVITIE S
+Purchase of Fixed Assets (0.15)                   (12.50)                   
+Sale of Fixed Assets -                     -                       
+Decrease/(Increase) in Investment -                      -                       
+Decrease/(Increase) in Other Non Current Asset -                     -                       
+Interest income -                     -                       
+Net Cash used in Investing activities (0.15)                  (12.50)                 
+C CASH FLOW FROM FINANCING ACTIVITIE S
+Proceeds from issuance of share capital 0.00                     4,888.72                 
+Proceeds from Long term Borrowings-                      -                       
+Proceeds from Short term Borrowings (31.47)                  19.48                    
+Dividend Payable -                     (555.54)                  
+Interest paid (0.22)                   (4.20)                     
+Net Cash used in financing activities (31.69)                4,348.46             
+Net increase in cash & Cash Equivalents 3.12                    (681.43)               
+Cash and Cash equivalents as at 31.03.2025 97.53                   31.03.2024 785.40                 
+Cash and Cash equivalents as at 30.09.2025 100.66                 30.09.2024 103.97                 
+Place: Place: Ahmedabad For Gujarat Toolroom Limited
+Date : Date : 21/11/2025
+ARUNKUMAR UDAYBHAI DAVE
+Managing Director
+11169192
+Amount in Lakhs
+30.09.2024
+Amount in Lakhs
+Particulars 30.09.2025
+GUJARAT TOOLROOM LIMITED
+CIN - L45208GJ1983PLC006056
+21A SPACE HOUSE, 61, SRIMALI SOC, NAVARANGPURA,
+AHMEDABAD, GUJARAT, INDIA, 380009
+Cash Flow Statement as on 30/09/2025
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024
+I. Segment Revenue (Sales and Other operating income)
+  - Construction Material -                     -                      1329.12 0.00 2845.49
+  - Rough Diamonds & Gold -                     -                      441.18 0.00 1183.74
+  - Agricultural Products 807.83              1,450.68              6262.72 2258.51 10247.67
+  - Others (Fabrics, Shares Trading, Pharma etc..) -                     -                      0.00 0.00 340.60
+Total Segment Revenue 807.83              1,450.68              8,033.02             2,258.51             14,617.50           
+II. Segment Results
+  - Construction Material -                     -                      290.28 0.00 317.72
+  - Rough Diamonds & Gold -                     -                      16.38 0.00 16.38
+  - Agricultural Products 806.90              508.16                578.67 1315.06 839.36
+  - Others (Fabrics, Shares Trading, Pharma etc..) -                     -                      0.00 0.00 201.03
+  - Unallocable Income (Net of Unallocable Expense) 1 (36.05)                (141.85)              (270.45)              (177.90)              (487.83)              
+Total Segment Results 770.85              366.31                614.89               1,137.16             886.67               
+III. Segment Assets
+  - Construction Material 666.02              633.42                160.11 666.02               160.11
+  - Rough Diamonds & Gold 7,651.21            7,652.06              0.00 7,651.21             0.00
+  - Agricultural Products 1,979.93            6,145.08              5497.68 1,979.93             5497.68
+  - Others (Fabrics, Shares Trading, Pharma etc..) 4,697.62            19,989.46            989.71 4,697.62             989.71
+  - Unallocable Corporate Assets 2 38,421.46          19,315.70            23386.44 38,421.46           23386.44
+Total Segment Assets 53,416.24          53,735.72            30,033.95           53,416.24           30,033.95           
+IV. Segment Liabilities  
+  - Construction Material 2,911.75            2,858.79              3104.23 2,911.75             3104.23
+  - Rough Diamonds & Gold 422.03              422.03                1088.95 422.03               1088.95
+  - Agricultural Products 5,728.21            6,558.30              17017.35 5,728.21             17017.35
+  - Others (Fabrics, Shares Trading, Pharma etc..) 1,278.50            1,389.80              121.74 1,278.50             121.74
+  - Unallocable Corporate Liabilities 2 43,075.75          42,506.80            8701.68 43,075.75           8701.68
+ 
+Total Segment Liabilities 53,416.24          53,735.72            30,033.95           53,416.24           30,033.95           
+Notes on Segment Information:
+Place: Ahmedabad For Gujarat Toolroom Limited
+Date : 21/11/2025
+ARUNKUMAR UDAYBHAI DAVE
+Managing Director
+11169192
+1. Segment Revenue, Results, Assets and Liabilities  represent amounts identifiable to each of the segments. Other “unallocable income net of unallocable expenditure” mainly includes incomes and  expenses on common 
+services not directly identifiable to individual segments, corporate expenses and unallocable exceptional items.
+Segment Assets and Segment Liabilities are as at 30th September 2025, 31st March 2025 and 30th September 2024. Unallocable corporate assets less Unallocable corporate liabilities mainly represent investment of surplus 
+funds and cash and bank.
+GUJARAT TOOLROOM LIMITED
+Particulars Note 
+No.
+Quarter Ended 
+SEGMENT WISE REVENUE, RESULTS, ASSETS AND LIABILITIES
+ELLISHBRIDGE, AHMEDABAD 380006
+404 - 4th FLOOR, SAMARTH CO.OP.H.SOC. NR. SILICON TOWER, NR. LAW GARDEN
+CIN - L45208GJ1983PLC006056
+Year Till Date
+(Amount in Rs Lakhs)
+Year Ended
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024 31.03.2025
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited
+I. ASSETS
+Non-Current Assets
+(1) (a) Property, Plant and 
+ Equipment 
+ and Intangible Assets
+      (i) Property, Plant 
+ and Equipment 79.28                   86.16                   111.43                 79.28                   111.43                 93.40                   
+      (ii) Intangible Assets -                       -                       -                       -                       -                       -                       
+     (iii) Capital Work-in-Progress -                       -                       -                       -                       -                       -                       
+     (iv) Intangible Assets Under Development -                       -                       -                       -                       -                       -                       
+(b) Non-Current Investments -                       -                       -                       -                       -                       -                       
+(c) Deferred Tax Assets (Net) 7.69                     6.95                     0.81                     7.69                     0.81                     6.08                     
+(d) Long-term Loans and Advances -                       -                       -                       -                       -                       -                       
+(e) Other Non-Current Assets -                       -                       -                       -                       -                       -                       
+2 Current Assets
+(a) Current Investments -                       -                       -                       -                       -                       -                       
+(b) Inventories 13,573.74             13,103.07             3,266.45              13,573.74             3,266.45              13,098.86             
+(c) Trade Receivables 53,256.41             52,681.42             50,415.63             53,256.41             50,415.63             52,928.75             
+(d) Cash and Cash Equivalents 916.89                 888.56                 246.18                 916.89                 246.18                 884.25                 
+(e) Short-Term Loans and Advances 13,988.73             13,988.20             23,957.56             13,988.73             23,957.56             14,694.87             
+(f) Other Current Assets 24,433.84             23,889.06             36.37                   24,433.84             36.37                   23,888.96             
+-                       -                       -                       -                       -                       -                       
+Total Assets 106,256.57        104,643.42        78,034.43          106,256.57        78,034.43          105,595.16        
+II. EQUITY AND LIABILITIES
+(1) Shareholder's Funds
+(a) Share Capital 13,923.94             13,923.94             1,166.63              13,923.94             1,166.63              13,923.94             
+(b) Reserves and Surplus 19,116.66             18,756.41             16,081.62             19,116.66             16,081.62             18,394.78             
+(c) Money received against Share Warrants -                       -                       -                       -                       -                       -                       
+(2) Foreign Currency Translation Reserve -                       -                       -                       -                       -                       -                       
+(3) Non-Current Liabilities
+(a) Long-Term Borrowings -                       -                       -                       -                       -                       -                       
+(b) Deferred Tax Liabilities (Net) -                       -                       -                       -                       -                       -                       
+(c) Other Long Term Liabilities -                       -                       -                       -                       -                       -                       
+(d) Long-Term Provisions -                       -                       -                       -                       -                       -                       
+(4) Current Liabilities
+(a) Short-Term Borrowings 6,648.67              6,679.44              39.44                   6,648.67              39.44                   6,679.45              
+(b) Trade Payables
+(A) Total outstanding dues of micro enterprises and small enterprises -                       -                       20,354.76             -                       20,354.76             -                       
+(B) Total outstanding dues Other Than micro enterprises and small enterprises 52,469.53             51,738.47             37,829.72             52,469.53             37,829.72             53,181.26             
+(c) Other Current Liabilities 13,561.30             13,009.57             2,010.21              13,561.30             2,010.21              13,003.04             
+(d) Short-Term Provisions 536.48                 535.59                 552.05                 536.48                 552.05                 412.70                 
+Total Equity and Liabilities 106,256.57        104,643.42        78,034.43          106,256.57        78,034.43          105,595.16        
+Place: Ahmedabad For Gujarat Toolroom Limited
+Date : 21/11/2025
+ARUNKUMAR UDAYBHAI DAVE
+Managing Director
+11169192
+(Amount in Rs Lakhs)
+Particulars
+Quarter Ended  Year Till date
+Consolidated  Assets & Liabilities Result for the quarter ended on September 30, 2025
+GUJARAT TOOLROOM LIMITED
+CIN - L45208GJ1983PLC006056
+21A SPACE HOUSE, 61, SRIMALI SOC, NAVARANGPURA,
+AHMEDABAD, GUJARAT, INDIA, 380009
+Year Ended
+30.09.2025 30.06.2025 30.09.2024 31.03.2025
+Unaudited Unaudited Unaudited Audited
+I Revenue From Operations 807.83              1,450.68           27,050.76         88,963.31         
+II Other Income -                   -                   8.88                  41.74                
+III Total Income (I+II) 807.83             1,450.68          27,059.64        89,005.05        
+IV EXPENSES:                                               
+ Cost of Materials Consumed -                   -                   16,747.69         -                   
+Purchase of Stock-in-Trade 806.90              952.17              6,029.69           79,945.23         
+ Change in inventory of finished goods, work-in-progress  and  Stock-in-
+Trade -                   (9.64)                1,117.98           2,512.21           
+Employee Benefits Expenses 9.03                  2.90                  9.16                  523.14              
+Finance costs 0.15                  0.07                  0.08                  5.89                  
+Depreciation and amortization expenses 6.89                  7.39                  9.51                  42.07                
+Other Expenses 20.79                9.57                  298.78              356.85              
+Total expenses (IV) 843.76             962.46             24,212.89        83,385.39        
+V Profit/(Loss) before exceptional items and tax (35.93)               488.23              2,846.75           5,619.65           
+VI Exceptional Items -                   -                   -                   -                   
+VII Profit before extraordinary items and tax (35.93)               488.23              2,846.75           5,619.65           
+VIII Extraordinary items -                   -                   -                   -                   
+IX Profit/(Loss) before tax  (35.93)              488.23             2,846.75          5,619.65          
+X Tax expense: -
+(1) Current Tax -                   122.91              214.81              389.01              
+(2) MAT Credit Entitlement -                   -                   -                   -                   
+(3) Deferred Tax (0.74)                (0.87)                (1.25)                (6.08)                
+XI Profit/(Loss) for the period (35.19)              366.19             2,633.19          5,236.72          
+XII Other Comprehensive Income: - -                   -                   -                   -                   
+    Items that will be reclassified to Profit or Loss
+    -Exhchange differences on translation of foreign operation 617.89              222.45              45.58                211.67              
+XIII Total Comprehensive Income/(Loss) for the period/year 582.70             588.64             2,678.76          5,448.39          
+XIV Earnings per equity share:                                                                                                               
+(1) Basic 0.04                  0.22                  4.82                  2.02                  
+(2) Diluted 0.04                  0.22                  4.82                  2.02                  
+Notes : 
+1
+2
+Place: Ahmedabad For Gujarat Toolroom Limited
+Date : 21/11/2025
+ARUNKUMAR UDAYBHAI DAVE
+Managing Director
+11169192
+Note:
+Conversion Rate used for GTL GEMS DMCC
+Opening Rate 85.6179               85.6024               83.4413               83.4322               
+Closing Rate 88.7923               85.5439               83.8263               85.5814               
+Avg. Rate 87.2051               85.5732               83.6338               84.5068               
+Consolidated Financial Results of the quarter ended on September 30, 2025
+(Amount in Rs Lakhs)
+Particulars
+Quarter Ended 
+The figures for the quarter ended 31st March 2025 are the balancing figures between audited figures in respect of the full financial year ending 31st 
+March, 2025 and the unaudited published year-to-date figures up to 30th September, 2025 being the date of the end of the second quarter of the 
+financial year which were subjected to limited review.
+The above consolidated financial results have been reviewed by the Audit Committee and approved by the Board of Directors of Gujarat Toolroom 
+Limited (the “Company” together with its subsidiary, the “Group”) in their respective meetings held on 21th September, 2025.
+GUJARAT TOOLROOM LIMITED
+CIN - L45208GJ1983PLC006056
+21A SPACE HOUSE, 61, SRIMALI SOC, NAVARANGPURA,
+AHMEDABAD, GUJARAT, INDIA, 380009
+Rs Rs Rs Rs
+A CASH FLOW FROM OPERATING ACTIVITIES
+ Net Profit Before Tax 452.52                  5,220.27               
+Add Back: -
+Depreciation 14.05                   19.81                   
+Deferred Revenue Expenditure -                       -                       
+Loss on sale of Assets -                       -                       
+Interest expense 0.22                     4.20                     
+Others if any -                       14.27                   -                       24.01                   
+Deduct: -
+Interest income -                       -                       
+Profit on sale of Assets -                       -                       
+Others if any -                       -                       0.20                     0.20                     
+Operating profit before working capital changes 466.80                  5,244.08               
+Adjustments for:
+Increase/(decrease) in Current Liabilities & Provisions 682.04                  -                       
+Decrease/(Increase) in Receivables (327.67)                (20,145.72)            
+Decrease/(Increase) in Inventories (474.88)                12,065.53             
+Decrease/(increase) in Other Current Assets (544.89)                101.36                  
+Decrease/(increase) in Short Term Advances 706.15                  (21,503.24)            
+Increase/(Decrease) in Payables (711.73)                (670.98)                17,517.58             (11,964.49)            
+Cash generated from operations (204.18)                (6,720.41)             
+Income Tax paid 122.91                  303.15                  
+Cash flow before extraordinary item (327.09)                (7,023.55)             
+Proceeds from extraordinary item -                       0.20                     
+Net Cash flow from Operating activities (327.09)               (7,023.36)            
+B CASH FLOW FROM INVESTING ACTIVITIES
+Purchase of Fixed Assets 0.08                     (12.50)                  
+Sale of Fixed Assets -                       -                       
+Decrease/(Increase) in Investment -                       -                       
+Decrease/(Increase) in Other Non Current Asset -                       -                       
+Interest income -                       -                       
+Net Cash used in Investing activities 0.08                     (12.50)                 
+C CASH FLOW FROM FINANCING ACTIVITIES
+Proceeds from issuance of share capital 946.19                  4,888.72               
+Proceeds from Long term Borrowings -                       -                       
+Proceeds from Short term Borrowings (30.78)                  2,081.41               
+Dividend Payable (555.54)                (555.54)                
+Interest paid (0.22)                    (4.20)                    
+Net Cash used in financing activities 359.65                 6,410.39              
+Effect of exchange rates on cash and cash equivalents -                       (41.74)                  
+Net increase in cash & Cash Equivalents 32.64                   (583.73)               
+Cash and Cash equivalents as at 31.03.2025 884.25                  31.03.2024 829.91                  
+Cash and Cash equivalents as at 30.09.2025 916.89                  30.09.2024 246.18                  
+Place: AhmedabadPlace: Ahmedabad For Gujarat Toolroom Limited
+Date : 21/11/2025Date : 21/11/2025
+ARUNKUMAR UDAYBHAI DAVE
+Managing Director
+11169192
+Particulars
+Amount in Lakhs Amount in Lakhs
+30.09.2025 30.09.2024
+Consolidated Cash Flow Statement as on 30/09/2025
+GUJARAT TOOLROOM LIMITED
+CIN - L45208GJ1983PLC006056
+21A SPACE HOUSE, 61, SRIMALI SOC, NAVARANGPURA,
+AHMEDABAD, GUJARAT, INDIA, 380009
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024
+I. Segment Revenue (Sales and Other operating income)
+  - Construction Material -                      -                       1329.12 0.00 2,845.49               
+  - Rough Diamonds & Gold -                      -                       19458.92 0.00 40,104.74             
+  - Agricultural Products 807.83                 1,450.68              6262.72 2258.51 10,247.67             
+  - Others (Fabrics, Shares Trading, Pharma etc..) -                      -                       0.00 0.00 340.60                  
+Total Segment Revenue 807.83                 1,450.68              27,050.76             2,258.51               53,538.50             
+II. Segment Results
+  - Construction Material -                      -                       290.28 0.00 317.72                  
+  - Rough Diamonds & Gold -                      2080.25 0.00 4,042.94               
+  - Agricultural Products 806.90                 508.16                  578.67 1315.06 839.36                  
+  - Others (Fabrics, Shares Trading, Pharma etc..) -                      -                       0.00 0.00 201.03                  
+  - Unallocable Income (Net of Unallocable Expense) 1 (36.16)                 80.48                    (270.45)               44.32 (487.83)                
+Total Segment Results 770.74                 588.64                  2,678.76              1,359.38               4,913.22               
+III. Segment Assets
+  - Construction Material 666.02                 633.42                  160.11 666.02 160.11
+  - Rough Diamonds & Gold 59,724.54            57,820.33             48136.26 59724.54 48136.26
+  - Agricultural Products 1,979.93              6,145.08               5497.68 1979.93 5497.68
+  - Others (Fabrics, Shares Trading, Pharma etc..) 4,697.62              19,989.46             989.71 4697.62 989.71
+  - Unallocable Corporate Assets 2 39,188.46            20,055.13             24274.45 39188.46 24274.45
+Total Segment Assets 106,256.57          104,643.42           79,058.22             106,256.57           79,058.22             
+ 
+IV. Segment Liabilities
+  - Construction Material 2,911.75              2,858.79               3104.23 2911.75 3,104.23               
+  - Rough Diamonds & Gold 42,475.23            40,936.75             49225.21 42475.23 49,225.21             
+  - Agricultural Products 5,728.21              6,558.30               17017.35 5728.21 17,017.35             
+  - Others (Fabrics, Shares Trading, Pharma etc..) 1,278.50              1,389.80               121.74 1278.50 121.74                  
+  - Unallocable Corporate Liabilities 2 53,862.88            52,899.78             9589.69 53862.88 9589.69
+Total Segment Liabilities 106,256.57          104,643.42           79,058.22             106,256.57           79,058.22             
+Notes on Segment Information:  
+Place: Ahmedabad For Gujarat Toolroom Limited
+Date : 21/11/2025
+ARUNKUMAR UDAYBHAI DAVE
+Managing Director
+11169192
+1. Segment Revenue, Results, Assets and Liabilities  represent amounts identifiable to each of the segments. Other “unallocable income net of unallocable expenditure” mainly includes incomes and  expenses on common 
+services not directly identifiable to individual segments, corporate expenses and unallocable exceptional items.
+Segment Assets and Segment Liabilities are as at 30th September 2025, 31st March 2025 and 30th September 2024. Unallocable corporate assets less Unallocable corporate liabilities mainly represent investment of surplus 
+funds and cash and bank.
+GUJARAT TOOLROOM LIMITED
+Particulars Note 
+No.
+Quarter Ended 
+SEGMENT WISE CONSOLIDATED REVENUE, RESULTS, ASSETS AND LIABILITIES
+ELLISHBRIDGE, AHMEDABAD 380006
+404 - 4th FLOOR, SAMARTH CO.OP.H.SOC. NR. SILICON TOWER, NR. LAW GARDEN
+CIN - L45208GJ1983PLC006056
+Year Till Date
+(Amount in Rs Lakhs)

@@ -1,0 +1,129 @@
+SOM DISTILLERIES AND BREWERIES LIMITED 
+(Formerly Known As Som Distilleries Breweries & Wineries Limited) 
+Registered Office: I-A, Zee Plaza, Arjun Nagar, Safdarjung Enclave, Kamal Cinema Road, New Delhi - 110029 
+Phone: +91-11-26169909, 26169712 Fax: +91-11-26195897 
+Corporate Office: SOM House, 23, Zone II, M.P. Nagar, Bhopal, Madhya Pradesh – 462011 
+Phone: +91-755-4278827, 4271271 Fax: +91-755-2557470 
+Email: compliance@somindia.com   Website: www.somindia.com 
+CIN: L74899DL1993PLC052787             
+(BSE: 507514, NSE: SDBL) 
+    
+  
+SDBL/BSE/NSE/2025-26                   19.11.2025 
+To 
+The Manager, Dy. General Manager, 
+Listing Department, Department of Corporate Services, 
+NATIONAL STOCK EXCHANGE OF 
+INDIA LIMITED 
+BSE LIMITED 
+‘Exchange Plaza’ C-1, Block G, First Floor, P.J. Towers, 
+Bandra-Kurla Complex, Bandra (E), Dalal Street, Fort, 
+Mumbai-400 051.  
+cmlist@nse.co.in 
+Mumbai – 400001. 
+corp.compliance@bseindia.com 
+Security ID: SDBL Security ID: 507514 
+ 
+SUB: CERTIFICATE UNDER REGULATION 74(5) OF SEBI (DEPOSITORIES AND 
+PARTICIPANTS) REGULATIONS, 2018 FOR THE MONTH OF OCTOBER, 2025 
+ 
+Dear Sir/Madam, 
+ 
+Please find enclosed herewith a certificate issued under Regulation 74(5) of SEBI 
+(Depositories and Participants) Regulations, 2018 issued by Mas Services Limited, the 
+Registrar and Share Transfer Agent of the Company, for the month of October, 2025. 
+ 
+ 
+This is for your information and records. 
+ 
+Thanking You,  
+ 
+For Som Distilleries and Breweries Limited 
+ 
+ 
+ 
+ 
+Om Prakash Singh 
+Company Secretary & Compliance Officer 
+**********************************************************
+* MAS SERVICES LIMITED                  *
+* T-34 IIND FLOOR OKHLA INDUSTRIAL AREA *
+* PHASE II NEW DELHI 110020             *
+* TEL.:-011-26387281,7282,7283 FAX:-011-26387384        *
+* CIN :-U74899DL1973PLC006950                          *
+**********************************************************
+DATE 04/11/2025
+SOM DISTILLERIES & BREWERIES LIMITED
+23, ZONE - II
+MAHRANA PRATAP NAGAR
+BHOPAL - 462 011
+462011
+DEAR SIR,
+SUB: Compliance Regulation 74(5) Of Securities and Exchange Board of India
+(Depositories and Participant) Regulations, 2018
+Please note that we  are providing  herewith the details of
+Dematerialised/Rematerialised  shares  during  the month of
+October 2025 .
+---------------------------------------------------------
+NSDL            CDSL
+DEMAT   REMAT     DEMAT  REMAT
+---------------------------------------------------------
+3500       0        3000      0
+---------------------------------------------------------
+Please  be  informed that  as per Regulation 74(5), we have
+updated above DN ranges to the following stock exchange(s)
+where your securites is/are listed.
+Further it is confirmed that all share certificate has been
+mutilated and processed with in 15 days from the date of received
+1. BSE LIMITED
+2. NATIONAL STOCK EXCHANGE OF INDIA LIMITED
+Thanking you,
+Yours truly,
+for Mas Services Limited
+Transfer Agent
+encl:-as above
+(THIS IS A COMPUTER GENERATED REPORT, HENCE NO SIGNATURE IS REQUIRED)
+ISIN INE480C01038 LIST OF SHARES DEMATERIALISATION (NSDL) FOR THE PERIOD 
+OCTOBER 2025 PAGE-   1
+-------------------------------------------------------------------------
+---------------------------------------------------------
+D/R DRN NO  DATE   DP-ID   CLIEND-ID NAME                          CERT-
+FROM  CERT-TO DIST-FROM DIST-TO SHARES  L/FOLIO  INWARD
+-------------------------------------------------------------------------
+---------------------------------------------------------
+D 10000000010798 06/10/25 IN301653 10416075 JITENDRA KUMAR VERMA        
+1337     1337    1006501    1007500   1000 0006532 0005756
+TOTAL                    
+1                              1000
+D 10000000086894 18/10/25 IN301604 12366732 MOHAMMED ARIF RAWANI        
+2535     2535    3384036    3385535   1500 0018739 0005757
+TOTAL                    
+1                              1500
+D 10000000001301 18/10/25 IN303420 20735628 POONAM KHANNA               
+2014     2014    1614501    1615500   1000 0018740 0005758
+TOTAL                    
+1                              1000
+GTOTAL                   
+3                              3500
+ISIN INE480C01038 LIST OF SHARES DEMATERIALISATION (CDSL) FOR THE PERIOD 
+OCTOBER 2025 PAGE-   1
+-------------------------------------------------------------------------
+---------------------------------------------------------
+D/R DRN NO  DATE   DP-ID   CLIEND-ID NAME                          CERT-
+FROM  CERT-TO DIST-FROM DIST-TO SHARES  L/FOLIO  INWARD
+-------------------------------------------------------------------------
+---------------------------------------------------------
+D 1670027 11/10/25 12031600 00343482 SOM DISTILLERIES & BREWERIES L     
+1334     1334   1003501   1004500   1000 0018685 0002496
+TOTAL                    
+1                              1000
+D 1690028 31/10/25 13041400 09962566 ARCHANA   JAIN                      
+541      541    397001    397500    500 0002787 0002497
+TOTAL                    
+1                               500
+D 1690406 31/10/25 12031600 00343482 SOM DISTILLERIES & BREWERIES L     
+2097     2097   1695001   1696500   1500 0018685 0002498
+TOTAL                    
+1                              1500
+GTOTAL                   
+3                              3000

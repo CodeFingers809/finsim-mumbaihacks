@@ -1,0 +1,789 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IWL: NOI: 2025                                                                                                     14th November, 2025 
+ 
+ 
+The Secretary  
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street  
+Mumbai 400 001 
+ 
+ 
+The Secretary 
+National Stock Exchange of India Limited 
+Exchange Plaza, Bandra Kurla Complex 
+Bandra (E) 
+Mumbai 400 051 
+ 
+ 
+Scrip code:  539083             Scrip code:   INOXWIND 
+ 
+Sub: Disclosure of Material Event/ Information under Regulation 30 of SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015–Earnings Presentation 
+ 
+Dear Sir/ Madam, 
+ 
+Pursuant to the Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 , please find enclosed a copy of the Earnings Presentation 
+on the Standalone and Consolidated un-audited Financial Results of the Company for the quarter and 
+half year ended 30th September, 2025. The said Earnings Presentation is also being uploaded on the 
+Company’s website, www.inoxwind.com 
+ 
+Please take the above on record. 
+ 
+Thanking You  
+ 
+Yours faithfully, 
+For Inox Wind Limited 
+ 
+ 
+ 
+Deepak Banga 
+Company Secretary 
+ 
+Encl.: As above 
+1
+INOX WIND LIMITED
+Q2 FY26 RESULTS PRESENTATION
+NOVEMBER 2025
+2
+SAFE HARBOUR
+This presentation and the accompanying slides (the “Presentation”), which have been prepared by Inox Wind Limited (the “Company”), have been 
+prepared solely for information purposes and do not constitute any offer, recommendation or invitation to purchase or subscribe for any securities, 
+and shall not form the basis or be relied on in connection with any contract or binding commitment whatsoever. No offering of securities of the 
+Company will be made except by means of a statutory offering document containing detailed information about the Company and in compliance with 
+applicable SEBI Regulations.
+This Presentation has been prepared by the Company based on information and data which the Company considers reliable, but the Company makes 
+no representation or warranty, express or implied, whatsoever, and no reliance shall be placed on, the truth, accuracy, completeness, fairness and 
+reasonableness of the contents of this Presentation. This Presentation may not be all inclusive and may not contain all of the information that you 
+may consider material. Any liability in respect of the contents of, or any omission from, this Presentation is expressly excluded.
+Certain matters discussed in this Presentation may contain statements regarding the Company’s market opportunity and business prospects that are 
+individually and collectively forward-looking statements. Such forward-looking statements are not guarantees of future performance and are subject 
+to known and unknown risks, uncertainties and assumptions that are difficult to predict. These risks and uncertainties include the effect of economic 
+and political conditions in India, volatility in interest rates, new regulations and Government policies that may impact the Company’s business as well 
+as its ability to implement the strategy, the Company’s future levels of growth and expansion, technological implementation, changes and 
+advancements, changes in revenue, income or cash flows, the Company’s market preferences and its exposure to market risks, as well as other risks. 
+The Company’s actual results, levels of activity, performance or achievements could differ materially and adversely from results expressed in or 
+implied by this Presentation. The Company assumes no obligation to update any forward-looking information contained in this Presentation. Any 
+forward-looking statements and projections made by third parties included in this Presentation are not adopted by the Company and the Company is 
+not responsible for such third-party statements and projections.
+3
+CONTENTS 
+1. KEY HIGHLIGHTS FOR THE QUARTER
+2. GROUP OVERVIEW
+3. WIND SECTOR IN INDIA – A MULTI-DECADAL GROWTH STORY BOOSTED BY FAVORABLE POLICY & REGULATORY 
+ENVIRONMENT
+4. INOX WIND – LEADING INDIAN OEM PROVIDING END-TO-END WIND SOLUTIONS
+5. INOX RENEWABLE SOLUTIONS – A FULL SERVICES RENEWABLE EPC PLAYER
+6. INOX GREEN – RENEWABLE O&M BUSINESS – STABILITY WITH GROWTH
+7. FINANCIALS & SHAREHOLDING
+4
+➢Strongest ever financial and operational performance for second quarter
+➢Q2 FY26: Revenue up 56% YoY; EBITDA up 48% YoY; PBT up 93% YoY to Rs 169 cr 
+➢PAT up 43% YoY; Cash PAT up 66% YoY to Rs 220 crores; PAT was impacted by a deferred tax charge of Rs 43 cr, which is a non-cash 
+accounting adjustment
+➢202 MW execution in Q2 FY26; well-diversified order book of > 3.2 GW provides strong visibility for the next 18-24 months
+➢In FY26, IWL has won multiple orders cumulating to ~ 400 MW from both new & existing customers
+➢Company makes a strategic move to securing long-term recurring orders through partnerships / framework agreements leading to > 1 
+GW of recurring orders annually. 
+➢Group IPP , with an ambitious annual hybrid renewable capacity installation target of > 3 GW, provides strong visibility for 500-700 
+MW annual orders over the next several years
+➢Company is in finalization stages of closure of multiple framework agreements with other companies
+➢Scheme of demerger of substation business from Inox Green and subsequent merger into Inox Renewable Solutions receives approval 
+from shareholders and creditors
+➢Inox Green completes investments to acquire 6.5 GW of wind O&M assets taking its O&M portfolio to ~12.5 GW
+KEY ACHIEVEMENTS & HIGHLIGHTS
+Particulars (Rs cr) Q2 FY26 Q2 FY25^ YoY % H1 FY26 H1 FY25^ YoY %
+Consolidated Revenue 1,162 744 56% 2,025 1,398 45%
+Consolidated EBITDA 271 183 48% 491 342 44%
+Profit before tax 169 88 93% 307 139 120%
+Profit after tax 121 84 43% 218 135 61%
+Cash PAT* 220 133 66% 406 227 79%
+Execution (MW) 202 140 44% 348 280 24%
+Order book (MW) 3,235 3,328 -3% 3,235 3,328 -3%
+* Cash PAT = PAT + Depreciation - Deferred Taxes + MAT credit entitlement
+^ Figures restated following the completion of merger of IWEL into IWL
+5
+KEY PERFORMANCE INDICATORS – Q2 FY26
+Inox Wind continues to deliver strong operational & financial performance
+* Cash PAT = PAT + Depreciation + Deferred Taxes + MAT credit entitlement
+Figures for Q2 FY25 have been restated following the completion of merger of IWEL into IWL
+744
+1162
+Q2 FY25 Q2 FY26
+Total Income (Rs cr)
+56% 183
+271
+Q2 FY25 Q2 FY26
+EBITDA (Rs cr)
+48%
+133
+220
+Q2 FY25 Q2 FY26
+Cash PAT* (Rs cr)
+66%
+84
+121
+Q2 FY25 Q2 FY26
+PAT (Rs cr)
+43%
+3328 3235
+Q2 FY25 Current
+Orderbook (MW)
+-3% 140
+202
+Q2 FY25 Q2 FY26
+Execution (MW)
+44%
+6
+INOX WIND EMBARKS ON ITS NEXT LEG OF GROWTH
+All NCRPS eliminated from the balance sheet 
+Merger with IWEL, rights issue, equity raise – all stand complete
+380 MW orders won, 348 MW executed in FY26
+On track to close FY26 with a large net orderbook providing execution visibility 
+for at least next 18-24 months
+IWL’s balance sheet is net cash Rs 222 cr as of Sep’25-end
+Strategic move to secure long-term recurring orders through partnerships / 
+framework agreements leading to > 1 GW of recurring orders annually
+Subsidiary Inox Green adding immense value through exponential O&M portfolio 
+growth; on track to become India’s largest renewable O&M company
+Strong & robust 
+balance sheet
+Value creation 
+through growth
+Subsidiary Inox Renewable Solutions’ ramping up across EPC, infrastructure, 
+cranes & transformers verticals; impending listing on exchanges to unlock value
+7
+INOX WIND – RAMPING UP OPERATIONS ACROSS ALL VERTICALS
+New nacelle & hub plant 
+ramping up operations
+Transformer manufacturing 
+facility operating at high 
+utilization 
+Cranes deployed at site; more on 
+the way
+Upcoming blade & tower 
+manufacturing unit in Karnataka
+Commercial launch of 4X MW 
+turbine on track
+• Inox Wind’s new nacelle & hub manufacturing plant at Kalyangarh, Ahmedabad, Gujarat is ramping up its operations
+• The unit manufactures nacelles & hubs for IWL’s state-of-the-art 3.3 MW WTGs and is future-ready for the upcoming 4X 
+MW turbines as well
+• The facility manufactures 3-5 MVA transformers
+• All project execution requirements will be met through this capacity
+• IWL has already deployed its first few sets of cranes at various sites across Gujarat
+• Additional cranes are on the way; to be deployed at sites across India – Gujarat, Rajasthan, MP, Karnataka
+• Savings to add to the margins
+• Inox Wind is setting up a new blade & tower manufacturing unit at Karnataka, its first unit in South India
+• The unit will be established on a 70 acre land allotted by the Karnataka Industrial Areas Development Board
+• To be operationalized in 2026, total investment for the project is ~ Rs 400 crores, creating ~1000 direct jobs
+• Inox Wind is targeting the launch and order intake for its latest offering over the next few months
+• The globally proven 4X MW turbine is being developed under license from Wind2Energy, and designed for low wind 
+conditions prevalent in India, further reducing the LCoE for our customers
+8
+GROUP OVERVIEW
+9
+INOXGFL Group, with a legacy of over nine decades, is a multi-billion-dollar Indian conglomerate with three listed entities. Being one of the 
+leaders in energy transition, the Group is a forerunner in diversified business segments spanning fluoropolymers, fluorochemicals, battery 
+chemicals, wind turbines, solar modules and renewable power generation. 
+Chemicals
+Gujarat Fluorochemicals Ltd. is a leading Indian Chemicals Company 
+supplying fluoropolymers and fluorochemicals to the global market. 
+It is the only PTFE / fluoropolymer manufacturer in India. The 
+company is developing products / grades across segments catering 
+to new age businesses, including EVs, BESS & green hydrogen
+Inox Wind is one of the leading fully integrated player in the wind 
+energy market in India providing end-to-end turnkey solutions to 
+customers. Its current offerings include manufacturing and supplies 
+of 2MW & 3MW class WTGs, EPC & infrastructure development 
+(through subsidiary IRSL) and O&M (through subsidiary IGESL)
+Renewables
+INOXGFL GROUP – A MULTI-BILLION-DOLLAR INDIAN CONGLOMERATE
+• Battery materials company, 
+a subsidiary of GFL
+• Catering to the EV/ESS 
+ecosystem through Battery 
+Salts, Additives, 
+Electrolytes, CAM & 
+Cathode Binders
+Subsidiary of GFL providing 
+fluoropolymer solutions for 
+the entire solar and green 
+hydrogen value chain, 
+including proton exchange 
+membranes for 
+electrolyzers and fuel cells
+Subsidiary of IWL; India's 
+leading renewable O&M 
+services player with ~ 12.5 
+GW* of assets under 
+management. Inox Green is 
+India’s only listed pure-play 
+renewable O&M service 
+company.
+9
+Subsidiary of IWL (formerly 
+Resco Global) offering a 
+host of EPC services – 
+resource assessment, site 
+acquisition, project & 
+evacuation infra 
+development, erection and 
+commissioning of WTGs 
+and modules, cranes and 
+transformer manufacturing
+Inox Neo is a RE 
+power generation 
+platform targeting 10 
+GW of hybrid RE 
+capacity – wind + 
+solar + BESS – within 
+the next 2-3 years
+Inox Solar is a fully 
+integrated solar 
+manufacturing player 
+targeting 7.5 GW of 
+solar cell & module 
+manufacturing 
+capacity
+#
+#
+#
+# Company listed on the Indian stock exchanges
+* includes investment already made by Inox Green to acquire 6.5 GW of wind O&M assets
+Inox Clean is the holding company of Inox Neo Energies, 
+the RE IPP, and Inox Solar, the solar cell & module 
+manufacturing entity
+
+10
+INOXGFL Group has one of the most integrated presence across the energy transition value chain
+Manufacturing
+RE Power Purchase 
+RE Independent Power Producer
+Services
+INOXGFL GROUP – LEADERS IN ENERGY TRANSITION
+11
+WIND SECTOR IN INDIA – A MULTI-DECADAL GROWTH STORY BOOSTED BY 
+FAVORABLE POLICY & REGULATORY ENVIRONMENT
+12
+INDIA WIND SECTOR – A MULTI-DECADAL GROWTH STORY
+Sources: CEA, SECI, MNRE, NIWE, GWEC, NITI Aayog, PIB, National Green Hydrogen Mission , JMK Research
+• India targets 122 GW of installed wind capacity from 53 GW currently  – provides visibility of > Rs 5 trn for wind OEMs 
+and a large multi-year opportunity for O&M service providers
+• Demand from commercial & industrial (C&I) players for renewable power continues to be strong due to its green 
+credentials and price arbitrage w.r.t. grid based / merchant power.
+• India’s Green Hydrogen targets of 5 mmtpa may result in incremental ~ 125 GW of RE capacity addition (solar + wind)
+• Wind continues to be one of the cheapest sources of power, much lower than APPC
+• Wind’s complementarity to solar in Indian conditions makes it an important source for grid stabilization and higher grid 
+utilization 
+• Hybrid / RTC / FDRE projects, with significant proportion of wind capacity, is the way forward due to: 1. Higher project 
+PLFs, 2. Increased grid utilization & stability, 3. Round-the-clock generation potentially replacing conventional sources for 
+base power supply, 4. Lower LCoE and better IRRs for project developers
+• GST on wind components reduced from 12% to 5%
+• MNRE notifies ALMM (Wind) and ALMM (Wind Turbine Components) mandating domestic sourcing of ~75-80% of WTG 
+components including blades, towers, gearbox, generators and special bearings, as well as locating R&D, data centers & 
+servers within India
+• CERC has notified amendments to connectivity and GNA regulations for ISTS, allowing hybridization of existing solar and 
+wind transmission projects with capacity upwards of 50 MW.
+• India’s onshore wind potential stands at 695 GW at 120m hub height and 1,164 GW at 150m hub height
+• NIWE estimates India’s repowering potential at ~ 25 GW across multiple states
+• India has announced a VGF scheme for setting up 1 GW of offshore wind capacity with ~ Rs 7,500 crore outlay
+Economics & 
+complementarity to 
+solar to aid demand 
+for wind
+Large capacity 
+targets leading to 
+demand growth
+Immense potential 
+for wind capacity 
+addition in India
+Favorable policy 
+environment
+13
+INDIA WIND SECTOR – FAVORABLE MACRO ENVIRONMENT
+~8.3 GW
+RE capacity 
+Awarded in 
+7MFY26
+800 MWWind
+3,086 MW wind capacity was added in H1 FY26; All-India RE capacity (including large hydro of 50GW) reached ~ 247 GW by Sep’25
+24.8 GW RE capacity was added in H1 FY26 Break up of India’s RE capacity (ex-large hydro) of ~ 197 GW as of  Sep’25
+Out of ~ 8.3 GW renewables capacity awarded through tenders 
+in Apr-Oct’26, ~ 3 GW comprised of wind / FDRE projects
+India targets to reach 596 GW of RE capacity by 2032
+Sources: CEA, SECI, PIB, JMK Research
+2170 MWFDRE
+350 MWSolar
+5000 MW
+Solar + 
+ESS
+Wind Power, 
+3,086 MW
+Solar Power, 
+21,686 MW
+Small Hydro 
+Power, 33 MW
+Others, 28 MW
+Wind Power, 
+53,124 MW
+Solar Power, 
+1,27,332 MW
+Small Hydro 
+Power, 5,134 MW
+Others, 11,612 
+MW
+14
+INOX WIND – LEADING INDIAN OEM PROVIDING END-TO-END WIND SOLUTIONS
+15
+IWL – WELL POSITIONED TO CAPITALIZE ON THE BURGEONING WIND SECTOR
+Creating and enhancing value across companies within the Renewables vertical of the INOXGFL Group
+Healthy Balance 
+sheet
+Technologically 
+equipped
+Large Revenue 
+visibility / Order 
+book
+High Value 
+Project 
+Development 
+Pipeline
+Operations 
+ramped up
+Inox Wind
+✓ Amongst the leading wind 
+OEMs in India
+✓ Clear focus in profitability
+Inox Green
+✓ Subsidiary of Inox Wind
+✓ Amongst the only listed 
+pureplay renewable O&M 
+companies in India
+✓ O&M portfolio ~12.5 GW
+Inox Renewable Solutions
+✓ Subsidiary of Inox Wind
+✓ Amongst the leading wind EPC 
+companies in India
+✓ Expanding beyond wind EPC and 
+power evacuation to offering 
+solar & hybrid RE EPC as well as 
+crane services amongst others
+Inox Neo Energies
+✓ Subsidiary of Inox Clean 
+Energy
+✓ Renewables IPP business 
+being set up to leverage 
+the strong synergies 
+across Group companies. 
+Inox Solar
+✓ Subsidiary of Inox Clean 
+Energy 
+✓ Fully integrated solar energy 
+player offering end-to-end 
+turnkey solar solutions 
+* Source: National Electricity Plan for Generation
+Fully integrated wind energy player providing end-to-end solutions – from conception to manufacturing to 
+execution to commissioning to O&M
+Amongst the select few wind OEMs in India offering plug & play turnkey solutions and post commissioning O&M 
+services; Product portfolio includes 2MW & 3MW WTGs (under production) & 4MW (license secured)
+Strong operational track record of > 13 years and manufacturing capacity of > 2.5GW across 4 facilities
+Group’s foray into solar manufacturing to complement IWL enabling in providing comprehensive 
+renewable solutions to tap large hybrid opportunities
+Robust and well diversified order book of > 3.2 GW
+Sizeable holding by a strong promoter group and good mix of marquee global and domestic investors
+Subsidiary Inox Green is one of India's leading renewable O&M services player, with a portfolio of ~ 12.5 
+GW
+16
+IWL – JOURNEY TOWARDS 2 GW ANNUAL EXECUTION AND BEYOND
+FY23
+• Commencement of 
+turnaround journey
+• Capital infusion by 
+promoter family
+• IPO of Inox Green 
+Energy Services Ltd.
+• 3 MW WTG 
+prototype installed
+FY24
+• Raised equity capital 
+from marquee 
+investors
+• Completed transition 
+to 3 MW WTG 
+production 
+• Ramped up 3MW 
+WTG supply chain
+• Divested non-core 
+asset
+• Order intake of > 2 
+GW
+Execution: 
+104 MW
+Execution: 
+376 MW
+FY25
+• Delivered strong 
+operational and 
+financial 
+performance
+• Raised equity capital 
+across companies 
+from marquee 
+investors
+• Achieved net cash 
+status
+• Entered into Solar 
+O&M business 
+through IGESL 
+• Order intake of ~ 1.5 
+GW
+Execution: 
+705 MW
+FY25
+Execution target: 
+> 1,200 MW
+FY26
+• Current 
+orderbook stands 
+at ~ 3.2 GW
+• Execution target 
+backed by large 
+existing 
+orderbook and 
+strong pipeline 
+of orders
+• O&M portfolio 
+growth through 
+organic and 
+inorganic means
+To targeting    
+> 2 GW of 
+annual 
+execution in 
+FY27 as 
+India moves 
+towards 
+10GW of 
+annual wind 
+addition
+From 
+averaging 
+~ 100 MW 
+of annual 
+execution
+17
+IWL – WHAT SETS US APART – 5 PILLARS OF STRENGTH
+• Strong backing of 
+the multi-billion 
+dollar INOXGFL 
+Group
+• Sizeable promoter 
+holding
+• Synergies among 
+Group companies 
+resulting in 
+additional 
+opportunities
+• Unparalleled 
+management team 
+expertise
+• Net cash balance 
+sheet
+• Strong relationships 
+with all banks
+• Highest ratings for 
+short term banking 
+facilities by CARE & 
+Acuite Ratings
+• One of India’s largest 
+wind turnkey 
+solutions provider, 
+with high value 
+project 
+development 
+pipeline
+• Plug & play 
+common 
+infrastructure is a 
+strong moat for IWL
+• Smartly building 
+common 
+infrastructure at 
+additional sites 
+across the country
+• Robust orderbook 
+of > 3.2 GW
+• Executing the single 
+largest wind project 
+order of 1.5 GW – 
+mix of turnkey and 
+equipment supply
+• Orderbook is 
+diversified across all 
+customer segments 
+– PSUs, IPPs, C&I 
+and retail
+• Healthy mix of 
+turnkey and 
+equipment supplies
+• Manufacturing 
+Capacity of > 2.5 GW
+• Manufacturing & 
+operating 2 MW & 3 
+MW WTG platforms 
+with multiple variants
+• On track to launch 
+4.X MW WTGs
+• New nacelle & hub 
+manufacturing unit 
+operating in full 
+swing
+• Backward 
+integration through 
+in-house cranes and 
+transformer 
+manufacturing
+Strong Group 
+Pedigree
+Robust 
+Creditworthiness
+Exceptional Turnkey 
+Capabilities
+Diversified 
+Orderbook
+Manufacturing & 
+Technological 
+Prowess
+18
+IWL – ROBUST AND WELL-DIVERSIFIED ORDER BOOK OF > 3.2 GW
+Order book currently stands at > 3.2 GW providing a large revenue visibility in the next 18-24 months;
+IWL has added orders from First Energy, Amplus, Jakson, among others in FY26
+ORDER BOOK MOVEMENT (MW) ORDER BOOK BREAK UP*
+* Equipment supply includes orders with limited scope EPC
+IWL’s well-diversified orderbook includes orders from NTPC, CESC, NLC India, Hero Future Energies, Inox Clean 
+Energy, Continuum, Oyster Renewables amongst others
+3,203 
+380 
+(348)
+3,235 
+FY26 opening Additions Supplies Current
+End-to-end 
+Turnkey, 1.8 
+GW, 56%
+Equipment 
+supply*, 1.4 
+GW, 44%
+19
+INOX WIND – KEY RENEWABLES CUSTOMERS / ASSOCIATIONS
+
+20
+INOX RENEWABLE SOLUTIONS – A FULL SERVICE RENEWABLE EPC PLAYER
+21
+INOX RENEWABLE SOLUTIONS – A FULL SERVICE RENEWABLE EPC PLAYER
+Inox Renewable Solutions Limited (formerly Resco Global) is a leading renewable EPC service provider with 
+a pan-India presence and a very strong presence in Western India
+Expanding offerings beyond wind EPC and power evacuation to solar EPC, transformer manufacturing and hybrid RE 
+solutions, amongst others
+Strong operational track record of >14 years across major states; Offers end-to-end services – from project 
+conceptualization stage up to project commissioning 
+Group’s foray into solar and IPP to provide IRSL large-scale EPC and project development opportunities
+Robust order book of > 3.2 GW of Inox Wind (end-to-end EPC / limited scope EPC) supported by its large 
+order pipeline provides a strong revenue growth visibility
+Backed by a strong promoter group with synergies across sister companies
+Well positioned to capture a large market share in one of the fastest growing sectors in India; India’s 
+renewable sector is set to add ~350 GW of capacity over the next 8 years from current ~ 200 GW
+Executed > 3 GW of 
+projects across India
+Ongoing EPC activities 
+across multiple states
+Customers include large 
+PSUs, IPPs and C&I 
+developers
+22
+IGESL – RENEWABLE O&M BUSINESS – STABILITY WITH GROWTH
+23
+INOX GREEN – ON TRACK TO BECOME INDIA’S LARGEST O&M COMPANY
+✓ Provides comprehensive O&M Solutions for WTGs, solar & hybrid projects 
+as well as for the common infrastructure for renewable projects through 
+long-term contracts of 5-20 years
+✓ Presence across India with an established track record of > 10 years 
+✓ Portfolio of ~12.5 GW* of renewable O&M assets including ~ 10 GW* wind 
+and ~ 2.5 GW solar
+✓ Robust relationships with renewable asset owners – customers include 
+PSUs, IPPs and private investors
+✓ Reliable & stable cash flows through long-term O&M services for 
+renewable projects as well as value added services
+✓ Natural beneficiary of the WTG business of parent Inox Wind, hybrid 
+project development by Inox Clean Energy’s IPP arm and solar project 
+development by Inox Solar 
+✓ Strong technological capabilities with 24x7 centralized monitoring of assets 
+and focus on preventive rather than reactive maintenance
+✓ Value-added services, which includes refurbishment, booster sales, carbon 
+credit trading, amongst other offerings, is a high growth vertical
+Inox Green’s 12.5 GW* O&M portfolio is spread 
+across 12 key renewable states of India
+* includes investment already made by Inox Green to acquire 6.5 GW of wind O&M assets
+Wind + Solar assets
+Solar assets
+Wind assets
+Map not to scale
+
+24
+IWL – FINANCIALS & SHAREHOLDING
+25
+IWL – KEY FINANCIALS – CONSOLIDATED INCOME STATEMENT
+Particulars (Rs cr) Q2 FY26 Q1 FY26 Q2 FY25^
+a) Revenue from operation (net of taxes) 1,119 826 733
+b) Other Income 43 36 11
+Total Income from operations (net) 1,162 863 744
+Expenses 
+a) Cost of materials consumed 659 397 399
+b) Purchases of stock in trade 38 38 -
+c) Changes in inventories of finished goods, (74) 38 12
+d) Erection, Procurement & Commissioning Cost 86 56 38
+e) Employee benefits expense 56 44 41
+f) Finance costs 51 34 44
+g) Depreciation and amortization expense 51 49 45
+h) Other expenses 125 70 77
+Total Expenses (a to h) 993 725 656
+Profit/(Loss) before & tax  169 138 88
+Exceptional items - - -
+Profit from ordinary activities before tax (3-4)  169 138 88
+a) Current Tax 0 0 15
+b) MAT Credit Entitlement - - (15)
+c) Deferred Tax * 49 40 3
+Total Provision for Taxation  49 40 3
+Profit/(Loss) after tax from continuing operations  121 97 84
+Profit/(loss) after tax for the period 121 97 84
+EBITDA including discontinued operations 271 220 183
+Cash PAT 220 186 133
+* Cash PAT = PAT + Depreciation + Deferred Taxes + MAT credit entitlement
+^ Figures for Q2 FY25 have been restated following the completion of merger of IWEL into IWL
+26
+IWL – KEY FINANCIALS - AUDITED CONSOLIDATED BALANCE SHEET
+Particulars  (Rs cr) As at 30 September 2025 As at 31 March 2025^
+ASSETS 
+(1 ) Non-current assets 
+(a)  Property, Plant and Equipment  2092 1980
+(b)  Capital work-in-progress  402 296
+(c) Goodwill 10 10
+(d) Intangible assets   219 234
+(e)  Right-of-use-assets 68 66
+(f)  Financial Assets  
+(i) Investments 285 265
+(ii) Loans 0 0
+(iii) Other non- current financial assets 408 430
+(g)  Deferred  tax assets (Net) 298 350
+(h) Income tax assets (net) 29 27
+(i)  Other non-current assets  111 116
+Total Non - Current Assets (I) 3922 3775
+(2) Current assets  
+(a) Inventories 1455 1352
+(b) Financial Assets  0 0
+(i) Investments 204 181
+(ii) Trade receivables 3271 2688
+(iii) Cash and cash equivalents 50 21
+(iv) Bank Balances other than (iii) above 290 192
+(v) Loans 40 42
+(vi)  Other current financial assets 143 128
+(c) Income tax assets (net) 0 21
+(d) Other current assets 629 396
+(e) Assets classified as held for sale 0 0
+Total Current Assets (II) 6083 5020
+Total Assets (I+II) 10005 8795
+Particulars  (Rs cr) As at 30 September 
+2025 As at 31 March 2025^
+Equity  
+(a) Equity Share capital 1728 863
+(b) Share capital pending issuance 0 761
+(c) Money Received against Share Warrant 152 152
+(d)  Other Equity  4792 3270
+(e) Non Controlling Interest 581 559
+Total equity (I) 7254 5606
+Non-current liabilities 
+(a) Financial Liabilities 
+(i)  Borrowings 1 2
+(ia) Lease liabilities   31 29
+(ii) Other non-current  financial liabilities  2 2
+(b) Provisions 18 17
+(c) Deferred tax liabilities (Net) 15 3
+(c) Other non-current liabilities 87 82
+Total Non – Current Liabilities (II) 154 134
+Current liabilities 
+(a) Financial Liabilities 
+(i)  Borrowings 1102 1464
+a) Lease liabilities   6 5
+(ii)  Trade payables 0 0
+a) total outstanding dues of MSMEs 3 2
+b) total outstanding dues of creditors other than MSMEs 922 1063
+(iii) Other current  financial liabilities 115 126
+(b) Other current liabilities 446 392
+(c) Provisions 2 2
+(d) Current Tax Liabilities (Net) 2 1
+(e) Liabilities classified as held for sale 0 0
+Total Current Liabilities (III) 2596 3055
+Total Equity and Liabilities (I+II+III) 10005 8795
+^ Figures for FY25 have been restated following the completion of merger of IWEL into IWL
+Inox Wind's Debt Profile Amount (Rs Cr)
+Gross Debt as on Sep’25 1,103
+Less: Cash & bank balances as on Sep’24 (including non-current FDs) & investments 829
+Net Debt as on Sep’25 274
+Less: Suppliers Credit & invoice financing 496
+Net cash as on Sep’25 222
+27
+IWL – SHAREHOLDING PATTERN
+Name
+Capital Research Global Investors
+Motilal Oswal AMC
+ICICI Prudential AMC
+Nippon Life India Mutual Fund
+Vanguard
+Matthews
+Blackrock
+Bandhan Mutual Fund
+Kuwait Investment Authority Fund
+Invesco Mutual Fund
+Kotak Mutual Fund
+HDFC Mutual Fund
+List of top Institutional Shareholders
+Sizeable holding of a strong promoter group 
+and good mix of marquee global and 
+domestic investors
+As of 11th November, 2025
+Promoters, 44%
+Foreign Investors, 
+15%
+Domestic 
+Institutional 
+Investors, 19%
+Retail Investors, 
+20%
+Others, 2%
+28
+THANK YOU
+Investor Relations
+Contact No: +91 120 614 9600 
+Email : Investors.iwl@inoxwind.com
+This presentation and the related discussions may contain “forward looking statements” by Inox Wind Limited (“IWL” or “the Company”) that are not historical in nature. These forward-looking statements, which may include statements relating to 
+future state of affairs, results of operations, financial condition, business prospects, plans and objectives, are based on the current beliefs, assumptions, expectations, estimates, and projections of the management of IWL about the business, industry 
+and markets in which IWL operates.
+These statements are not guarantees of future performance, and are subject to known and unknown risks, uncertainties, and other factors, some of which are beyond IWL’s control and difficult to predict, that could cause actual results, performance or 
+achievements to differ materially from those in the forward looking statements.
+Such statements are not, and should not be construed, as a representation as to future performance or achievements of IWL. In particular, such statements should not be regarded as a projection of future performance of IWL. It should be noted that 
+the actual performance or achievements of IWL may vary significantly from such statements.
+Accordingly, this presentation is subject to disclaimer and qualified in its entirety, by assumptions and qualifications and therefore, the readers and participants are cautioned not to place undue reliance on forward looking statements as a number of 
+factors could cause assumptions, actual future results and events can differ materially from those expressed in the forward looking statements.
+Follow us on 
+Social Media:
+Download Twitter's new X logo here! | Disobey
+

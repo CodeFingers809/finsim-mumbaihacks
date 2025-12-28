@@ -1,0 +1,888 @@
+Date: 14th November 2025 
+To 
+The Corporate Relations Department, 
+BSELIMITED 
+P J Towers, Dalal Street, 
+Mumbai- 400001 
+Dear Sir/ Madam, 
+Sub: Outcome of the Board Meeting 
+Ref: Scrip Code 517429 
+::.~/\T·H~N/\ ~~ . C. . 
+GLOBAL TECHNOLOGIES 
+,..__ _____ Emb:idd 1."tl l11td lip ncc: 
+With reference to the subject cited, this is to inform the Exchanges that the Board of Directors of Athena 
+Global Technologies Limited at their meeting held on Friday, 14th November, 2025 at the registered office 
+of the Company and considered and approved the following: 
+1. Standalone & Consolidated Un-Audited financial results for the second quarter and half year 
+ended 30th September 2025 copy enclosed as Annexure-1. 
+2. Standalone & Consolidated Un-Audited segment wise Revenue, Results, Assets and Liabilities 
+Statement, Cash Flow Statement for the second quarter and half ended 30th September 2025 copy 
+enclosed as Annexure-2. 
+3. Standalone & Consolidated Limited Review Report for the second quarter and half year ended 
+30th September 2025 copy enclosed as Annexure-3. 
+4. Disclosure under Regulation 32(1) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 copy enclosed as Annexure- 4 
+5. Long-term Lease Agreement with Centaurus SP AV Ventures LLP. 
+Disclosure as required under Regulation 30 of SEBI LODR read with SEBI Circular No. 
+SEBI/HO/CFD/CFDPoD-1/P /CIR/2023/123 dated July 13, 2023 read with SEBI Master Circular 
+no. SEBI/HO / CPD /PoD2/ CIR/P / 0155 dated November 11, 2024, is enclosed as Annexure 5. 
+Meeting Commenced at 8.30 PM and concluded at 9.15 PM 
+This is for your information and records. 
+Thanking you, 
+Regards, 
+For Athena Global Technologies Limited 
+Gayathri Prithviraj 
+Company Secretary & Compliance Officer 
+ATHENA GLOBAL TECHNOLOGIES LIMITED 
+CIN No L74140TG1992PLC014182 
+g 2nd floor, Unit No. 203 Gowra Palladium, Sy.No 8A & 8B1 in Survey Nos. 83/ 1,Serilingampally Manda I, 
+Ranga Reddy District, Hyder abad-500081 Telangana India . 
+~ +(91) 4023119633 ili!s +(91) 4023119614 m info @athenagt.com 8 www.athenagt.com 
+~~/\T·H-N/\ ~~ . t.. . 
+GLOBA L TECHNOLOGIES 
+ATHENA GLOBAL TECHNOLOGIES LIMITED 
+STATEMENT OF STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30TH SEPTEMBER, 2025. 
+Particulars 
+Income: 
+Revenue from operations 
+Other Income 
+Total Income (I) 
+Expenses: 
+Cost of software sold 
+Employee benefits expense 
+Finance cost 
+Depreciation and amortization expense 
+Other expenses 
+Total Expenses (II) 
+Ill. Profit/(Loss) before exceptional items and 
+tax (I - II) 
+IV. Exceptional Items 
+V. Profit/(Loss) before tax (Ill-IV) 
+VI. Tax expense: 
+(1) Current tax 
+(2) Deferred tax 
+VII. Profit/(Loss) for the period (V-VI) 
+VIII. Other Comprehensive Income 
+(a) Items that will not be reclassified to profit 
+or loss (net of taxes) 
+(b)ltems that will be reclassified to profit or 
+loss. ( Net of Taxes) 
+Total Other Comprehensive income 
+IX. Total Comprehensive Income for the 
+period (Vll+VIII) 
+X. Equity Share Capital: 
+(Rs.10/- per Equity Share) 
+Other Equity 
+XI. Earning per equity share: (Not annualised 
+for quarters) 
+(1) Basic 
+(2) Diluted 
+(Rs in Lakhs except for EPS in Rupees) 
+Quarter ended Half yeaIr ended Year ended 
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024 31.03.2025 
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) i(Unaudited) (Audited) 
+229.48 252.97 304.19 482.45 580.24 1,217.80 
+104.31 54.95 67.31 159.26 131.58 247.79 
+333.79 307.92 371.50 641.71 711.82 1,465.60 
+- - 28.64 - 55.40 74.47 
+170.63 190.17 188.21 360.81 406.02 828.20 
+252.22 252.07 284.99 504.28 569.06 1,206.58 
+31.79 31.52 1.56 63.31 3.39 46.92 
+290.07 90.03 211.38 380.10 295.29 632.52 
+744.70 563.79 714.78 1,308.49 1,329.16 2,788.70 
+(410.91) (255.87) (343.28) (666.79) (617.34) (1,323.10) 
+- - - - - -
+(410.91) (255.87) (343.28) (666.79) (617.34) (1,323.10) 
+- - - - - -
+(2.87) (14.57) 89.68 (17.44) 100.32 88.88 
+(408.04) (241.30) (432.96) (649.34} (717.66) (1,411.98) 
+- - - - - -
+(8.38) (25.00) (7.24) (33.38) (5.57) 3.93 
+(8.38) (25.00) (7.24) (33.38) (5.57) 3.93 
+(416.42) (266.29) (440.20) (682.72) (723.23) (1,408.05) 
+1,471.16 1,405.00 1,405.00 1,471.16 :L,405.00 1,405.00 
+19,747.62 
+(2.82) (1.72) (3.08) (4.62) (5.11) 110 nc:1 
+(2.77) {1.64) (2.95) {4.41) (4.88) ~~ ~ 
+ATHENA GLOBAL TECHNOLOGIES LIMIT E ~ "'/ %,1) 
+CIN No L74140TG1992PLC014182 ljPl'qeJep,1'.H ~ -------==--=~~=--=-:_ ______ ___:_~,:,□·H~-\ 0 
+g 2nd floor, Unit No. 203 Gowra Palladium, Sy.No 8A & 8B1 in Survey Nos. 83/1,~erilingamp~ ; MarThia1,~oa1. ,0~" 
+Ranga Reddy District, Hyderabad-500081 Telangana India. _____ 
+~ +(91)4023119633 ~ +(91) 4023119614 m info@athenagt.com ~~ www.athenagt.com 
+Notes: 
+1) The Standalone financial results of the company have been prepared in accordance with Indian Accounting Standards 
+(IND AS) notified under the Companies (Indian Accounting Standards) Rules, 2015 as am mended by the companies (Indian 
+Accounting Standards) (Amemdment) Rules, 2016. 
+2) The aforementioned Standalone financial results are reviewed by the Audit Committee of the Board and susequently 
+taken on record by the board of directors at its meeting held on 14.11.2025. 
+3) The aforementioned Standalone financial results are reviewed by the Statutory Auditors of the Company as per 
+Regulation 33 of the SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015. 
+4) Other Income includes accrued interest of Rs. 36.25 lakhs and Rs. 72.12 lakhs on loan given to subsidiary company 
+Medley Medical Solutions Pvt Ltd for quarter ended 30th September, 2025 and for the half year ended 30th September, 
+2025 respectively. Further, it includes accrued interest of Rs. 36.04 lakhs and Rs. 53.13 lakhs on loan given to subsidiary 
+company Tutoroot Technologies Pvt Ltd for quarter ended 30th September, 2025 and for the half year ended 30th 
+September, 2025 respectively. 
+5) Figures for the previous year/period have been regrouped/reclassified where ever necessary to confirm to the current 
+year's/period's presentation without materially effecting the financial results 
+6) The Standalone financial results for the quarter and half year ended 30.09.2025 are also available on the Bombay Stock 
+Exchange website and on the Company's website i.e. www.bseindia.com and www.athenagt.com 
+For chnologies Ltd 
+Place : Hyderabad 
+Date : 14th November, 2025 ~ g !Director 
+~~/\T.H .-N/\ ~~ . c.. . 
+GLOBAL TECHNOLOG I ES 
+ATHENA GLOBAL TECHNOLOGIES LIMITED 
+STATEMENT OF CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30TH SEPTEMBER, 2025. 
+Particulars 
+I. Income 
+Revenue from operations 
+Other Income 
+Total Income (I) 
+II. Expenses: 
+Cost of goods sold/services rendered 
+Employee benefits expense 
+Finance cost 
+Depreciation and amortization expense 
+Other expenses 
+Total Expenses (II) 
+Ill. Profit/(Loss) before exceptional items and tax (I - II) 
+IV. Exceptional Items 
+V. Profit/(Loss) before tax (Ill-IV) 
+VI. Tax expense: 
+(1) Current tax 
+(2) Deferred tax 
+VII. Profit/(Loss) for the period (V-VI) 
+VIII Other Comprehensive Income 
+(i) Items that will not be reclassified to profit or loss (net of 
+taxes) 
+(i) Items that will be reclassified to profit or loss (net of Taxes) 
+Total Other Comprehensive income 
+IX. Total Comprehensive Income for the period (VII+VIII) 
+X. Equity Share Capital: 
+(Rs.10/- per Equity Share) 
+Other Equity 
+Total Comprehensive Income attributable to: 
+a) Owners of the company 
+b) Non Controlling Interest 
+Xi. Earning per equity share: (not Annualised) 
+(1) Basic 
+(2) Diluted 
+(Rs in Lakh!; except for EPS in Rupees) 
+Quarter ended Half yea1r ended Year ended 
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024 31.03.2025 
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited) 
+256 .92 
+33.70 
+290.62 
+36.23 
+254.27 
+288.96 
+38.70 
+321.77 
+939.94 
+(649.33) 
+•(649.33) 
+(11.91) 
+(637.41) 
+(17.01) 
+302.22 
+1.99 
+304.21 
+272.90 
+262.53 
+35.41 
+168.41 
+739.25 
+(435.04) 
+(435.04) 
+(1.40) 
+(433.64) 
+(3.09) 
+(8.36) (25.00) 
+(25.38) (28.08) 
+{662.79) (461.72) 
+1,471.16 1,405.00 
+(658.53) 
+(4.25) 
+(454.59) 
+(7.12) 
+437.25 
+17.51 
+454.76 
+559.14 
+35.69 
+594.83 
+28.62 36.23 
+286.17 527 .17 
+280 .30 551.50 
+3.09 74.12 
+206 .58 490.18 
+804.75 1,679.20 
+(350.00) (1,084.36) 
+(350.00) (1,084.36) 
+118 .80 (13.32) 
+(468.80) (1,071.05) 
+(0.50) (20.10) 
+(7.24) (33.36) 
+(7.74) (53.46) 
+(476.54) (1,124.50) 
+1,405.00 1,471.16 
+(436.94) 
+(39.60) 
+(1,113.13) 
+(11.38) 
+853.96 
+20.15 
+874.11 
+96.64 
+601.42 
+549.09 
+9.91 
+456.87 
+1,713.94 
+(839.83) 
+(839.83) 
+103.11 
+(942.94) 
+(0.60) 
+1,562 .44 
+66.18 
+1,628.62 
+115.73 
+1,237.03 
+1,204.48 
+61.09 
+932.94 
+3,551.27 
+(1,922.65) 
+(1,922.65) 
+91.77 
+(2,014.42) 
+(1.60) 
+(5.57) 3.93 
+(6.17) 2.33 
+(949.11) (2,012.09) 
+1,405.00 1,405.00 
+(870.24) 
+(78.87) 
+16,469.50 
+(1,985 .15) 
+(26.94) 
+(4.40) (3.09) (3.34) (7.51) _ (6.71) (14.34) 
+(4.33) (2.95) (3.19) 1.,;- ~ 6.41) (13.70) 
+ATHENA G!.':'~ '_!_ 1 t.' ,;--..:~:.u ===~ u vii 7 0 -- 1'( -:1\~ 
+CIN No L74140TG1992PLC014182 / ·ai~~S, 1~ -
+~ ~---) w g 2nd floor, Unit No. 203 Gowra Palladium, Sy.No SA & 8B 1 in Survey Nos. 83/1,~eri pally I, 
+Ranga Reddy District, Hyderabad-500081 Telangana India . ~vEI.L 1eoP' 
+~ i1ii11 +(91) 4023119614 m info @athenagt.com , .athenagt.com · \!' +(91) 4023119633 
+Notes: 
+1) The Consolidated financial results of the Group have been prepared in accordance with Indian Accounting Standards (IND AS) notified under 
+the Companies (Indian Accounting Standards) Rules, 201S as ammended by the companies (Indian Accounting Standards) (Amemdment) Rules, 
+2016. 
+2)The aforementioned Consolidated financial results are reviewed by the Audit Committee of the Board and susequently taken on record by the 
+board of directors at its meeting held on 14.11.2025. 
+3) The Consolidated Financial results are reviewed by the Statutory Auditors of the Company as per Regulation 33 of the SEBI (Listing Obligation 
+and Disclosure Requirements) Regulations, 2015 and financial results of M/s. Tutoroot Technologies Private Limited, material overseas 
+subsidiaries of the Company were reviewed by other auditors. 
+4) Figures for the previous year/period have been regrouped/reclassified where ever necessary to confirm to the current year's/period's 
+presentation without materially effecting the financial results. 
+5) The Consolidated financial results for the quarter and half year ended 30.09.2025 are also available on the Bombay Stock Exchange website and 
+on the Company's website i.e. www.bseindia .com and www.athenagt.com. 
+ogies Ltd 
+Place : Hyderabad 
+Date : 14th November, 2025 o;~ 
+ATHENA GLOBAL TECHNOLOGIES LIMITED 
+;:.~ /\T·H-N/\ ~~ . i::.. . 
+GLOBAL TECHNOLOGIES 
+o-------Em l,.,.l,1,·,11 111,·lli;:-~uc,· 
+STANDALONE SEGMENT-WISE REVENUE, RESULTS, ASSETS AND LIABILITIES FOR THE QUARTER AND HALF VEAR ENDED 30TH 
+SEPTEMBER 2025. 
+(Rs in Lakhs) 
+Particulars Quarter ended Half year ended Year ended 
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30 .. 09.2024 31.03.2025 
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Ulllaudited) (Audited) 
+1. Segment Revenue 
+(a) Software services 331.78 307.92 259 .14 639.69 599.46 1,353.23 
+(b) Real Estate - - 112.36 - 112.36 112.36 
+(c) Leasing Activity 2.01 - - 2.01 - -
+Gross Revenue 333.79 307.92 371.50 641.71 711.82 1,465.60 
+2. Segment Results 
+(a) Software services (195.34) (255.87) (452.13) (451.22) (726.18) (1,431.95) 
+(b) Real Estate - - 108 .85 - 108.85 108.85 
+(c) Leasing Activity (215.57) - - (215 .57) - -
+Profit before tax (410.91) (255.87) (343.28) (666.79) (617.34) (1,323.10} 
+3. Segment Assets 
+(a) Software services 12,405.19 11,105.42 9,586 .67 12,405 .19 9,586.67 10,848.91 
+(b) Real Estate 14.85 14-.85 14.85 14.85 14.85 14.85 
+(c) Leasing Activity 24,166 .90 24,104.61 24,104 .61 24,166.90 24,104.61 24,104.61 
+Total Assets 36,586.93 35,224.88 33,706.13 36,586.93 33,706.13 34,968.37 
+4. Segment Liabilities 
+(a) Software services 8,738.86 9,027.16 10,307.52 8,738.86 10,307.52 9,745.85 
+(b) Real Estate 74.00 74.00 74.00 74.00 74.00 74.00 
+(c) Leasing Activity 6,731.71 5,095.62 1,357.94 6,731.71 1,,357.94 3,854 .52 
+Total Liabilities 15,544.57 14,196.78 11,739.46 15,544.57 11,,739.46 13,674.38 
+Notes: 
+1) The company 's corporate strategy aims at creating multiple drivers of growth anchored on its core competence . The 
+company is currently focused on three segments . 
+2) The business segments comprise the following: 
+(a) Software services : Software development and maintenance services. 
+(b) Real Estate : Revenue from Sale of flats. 
+(c) Leasing Activity : Lease and Other Income from Investment property. 
+3) The segment wise Revenue, Results, Assets and Liabilities figures related to the respective amounts directly identifiable to 
+each of the segments . Unallocable expenditure include expenses incurred on common services at the corporate level. 
+4) Figures for the previous year/period have been regrouped/reclassified where ever necessary to confirm to the current 
+year's/period 's presentation without materially effecting the segment results. 
+g 2nd floor , Unit No. 203 Gowra Palladium , Sy.No 8A & 8B 1 in Survey Nos. 83/ 1,Serilingampally Manda I, 
+Ranga Reddy District, Hyderabad-500081 Telangana India . 
+\!' +(91) 4023119633 i1i!J +(91)4023119614 m info @athenagt.com ~~ www.athenagt.com 
+~~/\T.H .-N/\ ~~ . c.. . 
+GLOBAL TECHNOLOGIES 
+---- - -Eml , ... ldcd l ntd li;.::mcr 
+ATHENA GLOBAL TECHNOLOGIES LIMITED 
+CONSOLIDATED SEGMENT-WISE REVENUE, RESULTS, ASSETS AND LIABILITIES FOR THE 
+QUARTER AND HALF YEAR ENDED SEPTEMBER 30 2025. 
+(Rs in Lakhs) 
+Particulars Quarter ended Half year ,ended Year ended 
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024 31.03.2025 
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited) 
+1. Segment Revenue 
+(a) Software services 202.88 258.78 291.25 461.66 629.26 · 1,210.70 
+{b) Online Pharmacy Platform Services 2.62 - - 2.62 1.15 33.45 
+(c) Online Trade of pharmaceutical products - - - 44.18 59.04 
+(d) Online Education Services 83.11 45.44 51.15 128.54 87.16 213.07 
+(e) Real Estate - - 112.36 - 112.36 112.36 
+(f) Leasing Activity 2.01 - - 2.01 - -
+Gross Revenue 290.62 304.21 454.76 594.83 874.11 1,628.62 
+2. Segment Results 
+(a) Software services (424.01) (452.79) {466.72) (728.08) {948.69) (1,960.33) 
+(b) Online Pharmacy Platform Services 29.38 (0.03) (133.81) (0.27) (155.62) 
+(c) Online Trade of pharmaceutical products {2.84) 0.38 10.20 (1.53) 0.94 
+(d) Online Education Services (6.91) (12.01) {2.30} {6.91) 1.81 83.51 
+(e) Real Estate - - 108.85 - 108.85 108.85 
+(f) Leasing Activity (215.57) - - (215.57) - -
+Profit before tax (649.33) (435.04) (350.00} (1,084.36} (839.83) (1,922.65) 
+3. Segment Assets 
+(a) Software services 2,331.66 4,747.22 4,266.19 2,331.66 4,266.19 4747.22 
+(b) Online Pharmacy Platform Services 2,283.26 2,308.80 2,293.34 2,283.26 2,293.34 2308.80 
+(c) Online Trade of pharmaceutical products 58.81 59.96 57.83 58.81 57.83 59.96 
+{d) Online Education Services 3,096.88 2,909.23 2,642.08 3,096.88 2,642.08 2,909.23 
+(e) Real Estate 14.85 14.85 14.85 14.85 14.85 14.85 
+(f) Leasing Activity 24,166.90 24,104.61 24,104.61 24,166.90 24,104.61 24,104.61 
+Total Assets 31,952.36 34,144.67 33,378.90 31,952.36 313,378.90 34,144.67 
+4. Segment Liabilities 
+(a) Software services 8,824.44 12,475.19 4,220.90 8,824.44 4,220.90 12,475.19 
+(b) Online Pharmacy Platform Services 931.82 623.65 2,191.61 931.82 2,191.61 623.65 
+(c) Online Trade of pharmaceutical products 45.40 55.21 949.42 45.40 949.42 55.21 
+(d) Online Education Services 925.60 1,617.80 2,639.05 925.60 2,639.05 1,617.80 
+(e) Real Estate 74.00 74.00 74.00 74.00 74.00 74.00 
+(f) Leasing Activity 6,731.71 1,357.94 3,854.52 6,731.71 3,854.52 3,854.52 
+Total Liabilities 17,532.97 16,203.79 13,929.50 17,532.97 13,929.50 18,700.38 
+Notes: 
+1) The Group's corporate strategy aims at creating multiple drivers of growth anchored on its core competence. Th·e Group is 
+currently focused on six segments. 
+2) The business segments comprise the following: 
+(a) Software services : Software development and maintenance services. 
+(b) Online Pharmacy Platform services: provision of software platform and business support services using Software. 
+(c) Online trade of pharmaceutical products: Revenue from Sale of Pharmaceutical Produc --~ -- ~ 
+{d) Online Education Services. 
+~~ 
+00 ',, y (e) Real Estate: Revenue from Sale of flats. I ~ \0 CJ Hvr1,.~_, ai (f) Leasing Activity : Lease an~ n+h-- •---,er -· -- -· ..... )1k /4_ ■■• -----
+K ■ ■ ■ .. ■•~ - ■- ..... ■■■---- -
+~~# ~~ CIN No L74140TG1992PLC014182 
+~ 
+g 2nd floor, Unit No. 203 Gowra Palladium, Sy.No 8A & 8B 1 in Survey Nos. 83/1,Senlingampally Manda I, 
+Ranga Reddy District, Hyderabad-500081 Telangana India . 
+~ +(91) 4023119633 iii!. +(91) 4023119614 m info @athenagt.com ~t www.athenagt.com 
+3) The segment wise Revenue, Results, Assets and Liabilities figures related to the respective amounts directly identifiable to each 
+of the segments after elminination of inter company transactions. Unallocable expenditure include expenses incurred on common 
+services at the corporate level. · 
+4) Figures for the previous year/period have been regrouped/reclassified where ever necessary to confirm to the current 
+year's/period's presentation without materially effecting the segment results. 
+lobal Te~hnologies Ltd 
+Place : Hyderabad . tyendra) 
+Date : 14th November, 2025 1 & Managing Director 
+. 
+ATHENA GLOBAL TECHNOLOGIES LIMITED 
+U l '--' u n 1.. C , V L VU 
+Emlnd,lc,1 1111,·lli;:::1 ·, 
+Standalone Statement of Assets and Liablities 
+i[Rs.in Lakhs) 
+Particulars 30.09.2025 3ll.03.2025 
+(Unaudited) (Audited) 
+Assets 
+Non-current assets 
+(a) Property, plant and equipment 4.12 3.89 
+(b) Right-of-use assets 992 .66 1,046 .21 
+(c) Capital work in progress 62.28 -
+(d) Investment property 23,900 .00 23,900.00 
+(fl Intangibles under development 2.99 2.88 
+(g) Financial assets 
+(i) Investments 4,818 .75 4,818.75 
+(ii) Other financial assets 71.02 52.50 
+(h) Deferred tax assets (net) 44.00 26.55 
+29,895.82 29,850.79 
+Current assets 
+(a) Inventories - -
+(b) Financial assets 
+(i) Trade receivables 1,746 .39 1,390.75 
+(ii) Loans and advances 3,631.22 2,687 .58 
+(iii) Cash and cash equivalents 164.37 31.05 
+(iv) Other financial assets 515.27 431 .58 
+(c) Current tax assets (net) 12.49 24.86 
+(d) Other current assets 621.37 551.77 
+6,691.11 5,117.59 
+TOTAL 36,586.93 34,968.37 
+EQUITY AND LIABILITIES 
+Equity 
+(a) Equity share capital 1,471.16 1,405.00 
+(bl Other equity 19,571 .20 19,747.62 
+(c) Money received against share warrents - 141.38 
+21,042.36 21,294.00 
+Liabilities 
+Non-Current Liabilities 
+(a) Financial liabilities 
+(i) Borrowings 2,872.72 3,705 .28 
+(ii) Lease liabilities 986.03 1,011.98 
+(iii) Other financial liabilities 1,453 .72 1,856 .90 
+(b) Other non-current liabilities 92.60 -
+(c) Provisions 84.83 94.36 
+5,489.89 6,668.52 
+Current Liabilities 
+(a) Financial liabilities 
+(i) Borrowings 3,528.02 3,743.42 
+(ii) Lease liabilities 49.56 42.30 
+(iii) Other financial liabilities 5,930.06 2,669.20 
+(b) Other current liabilities 539.19 543.09 
+(c) Provisions 7.84 7.84 
+10,054.67 7,005.86 
+TOTAL 36,586.93 34,968.37 
+.. , 
+ATHENA GLOBAL TECHNOLOGl'"~-~,,.1\11 ~~ 
+CIN No L74140TG1992PLC01418 
+_g_ 2_n_d_fl_o_o_r,-U-n-it_N_o ___ 2-03_ G_o_w_ra--Pa_l_la-d-iu_m_,_S_y.-N-o_8_A_&- -8B_l_i_n_S_u_rv_e_y_N_o_,sk\-.~-"a:;~-;~-~-;;a-J~':f~--;-lly Manda, 
+Ranga Reddy District, Hyderabad-500081 Telangana •l'IQ~-::::;:;, 
+~ +(91) 40 2311963 3 ~ +(91) 4023119614 m info @athenagt.com @ w ww. ath enagt.com 
+0 GIES 
+ATHENA GLOBAL TECHNOLOGIES LIMITED 
+Consolidated Statement of Assets and Liablities 
+------- Eu,I,· 1,1.,d lut,,lli wm~r 
+Particulars 
+Assets 
+Non-current Assets 
+(a) Property, plant and equipment 
+(b) Right-of-use assets 
+(c) Capital work in progress 
+(d) Investment property 
+(e) Other Intangible assets 
+(f) Intangibles under development 
+(g) Financial Assets 
+(i) Investments 
+(ii) Other financial assets 
+(h) Deferred tax assets (net) 
+Current assets 
+(a) Financial assets 
+(i) Trade receivables 
+(ii) Cash and cash equivalents 
+(iii) Other financial assets 
+(b) Current tax assets (net) 
+(c) Other current assets 
+EQUITY AND LIABILITIES 
+Equity 
+(a) Equity share capital 
+(b) Other equity 
+(c) Money received against share warrants 
+Non- Controlling Interest 
+Liabilities 
+Non-Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 
+(ii) Trade payables 
+(iii) Lease liabilities 
+(iv) Other financial liabilities 
+(b) Deferred tax liabilities (net) 
+(c) Other non-current liabilities 
+(d) Provisions 
+Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 
+(ii) Trade Payables 
+I. Total outstanding dues of micro & small enterprises 
+II. Total outstanding dues of others 
+(iii) Lease liabilities 
+(iv) Other Financial Liabilities 
+(b) Other Current Liabilities 
+(c) Provisions 
+(Rs.in Lakhs) 
+30.09 .2025 31.03.2025 
+(Unaudited) (Audited) 
+18.51 21.94 
+992.66 1,046.21 
+62.28 
+23,900 .00 23,900 .00 
+484.98 3,213.35 
+4,086 .26 4,015.56 
+71.02 40.88 
+4.97 (8.36) 
+29,620.70 32,n9.57 
+580.17 387.00 
+183.98 81.32 
+503.66 ~131.58 
+13.17 24.86 
+1,050 .68 990.33 
+2,331.66 1,9'15.10 
+31,952.36 34,144.67 
+1,471.16 1,405.00 
+13,034.85 16,469.51 
+141.38 
+14,506.01 18,015.89 
+(86.62) (75.01) 
+3,436.10 3,705 .28 
+58.16 
+986.03 1,011.98 
+1,453.72 1,856 .90 
+-
+92.60 
+107.15 116.68 
+6,133.75 6,690.84 
+4,049.64 5,197 .10 
+- -
+83.65 1159.47 
+49.56 42.30 
+6,200.64 2,940.49 
+1,007 .12 1,lS0 .54 
+8.61 13.05 
+11,399.22 9,512.95 
+g 2nd floor, Unit No. 203 Gowra Palladium , Sy.No 8A & 8B1 in Survey Nos. ~!ll.iJ:i.g.:~o§ly Manda!, 
+Ranga Reddy District, Hyderabad-500081 Telangana I 
+~ +(91) 4023119633 ili1I +(91) 4023119614 m info @athenagt.com ~D www.athenagt.com 
+ATHENA GLOBAL TECHNOLOGIES LIMITED 
+;:-~ AT"H.-N /\ ~~I '. C.. I '. 
+GLOBAL TECHNOLOGIES 
+~------E rnl,,..l,l.-,llntrlli;::111<:o, 
+STANDALONE STATEMENT OF CASH FLOWS FOR THE PERIOD ENDED 30TH SEPTEMBER, 2025 
+All amounts in Lakhs. unless otherwise stated 
+30.09.2025 31.03.2025 
+Particulars (Unaudited) (Audited) 
+Cash Flows from Operating Activities 
+Net profit/(loss) before tax {666.79) (1,323.11) 
+Adjustments for : 
+Depreciation and amortization expense 63.31 46.92 
+Exchange rate fluctuations (32.98) 2.44 
+Provision for doubtful debts/advances/ impairment 15.70 41.82 
+Finance cost 504.28 1,206.58 
+Other comprehensive income (net of tax) (33.38) 16.08 
+Operating profit before working capital changes (149.85) (9.26) 
+Movements in Working Capital 
+{lncrease)/Decrease in inventories 0.10 
+(lncrease)/Decrease in trade receivables (338.37) (371.20) 
+{lncrease)/Decrease in other financial assets (110.93) (10.82) 
+(lncrease)/Decrease in loans and advances (943.64) 205.02 
+(lncrease)/Decrease in other current assets (69.60) (65.73) 
+lncrease/(Decrease) in other financial liabilities 3,260.86 2,089.30 
+lncrease/(Decrease) in other liabilities 88.70 (4.16) 
+lncrease/(Decrease) in provisions {9.53) 3.41 
+Changes in working capital 1,877.50 1,845.93 
+Cash generated from operations 1,727.64 1,836.67 
+lncometax paid 12.37 8.69 
+Net Cash from operating activities 1,740.01 1,845.36 
+Cash flow from investing activities 
+Profit on sale of lntangiables 
+Purchase of property, plant and equipment (1.26) (0.17) 
+Investment in Capital work-in-progress (62.39) 
+Sale of Investment 254.81 
+Net cash flow from /(used in) investing activities (63.65) 254.63 
+Cash flows from/(used in) financing activities 
+Issue of equity share capital including securities premium 431.08 
+Fina nee cost (504.28) (1,206.58) 
+Proceeds from /(Repayment of)Long term borrowings (832.56) (1,581.18) 
+Proceeds from/(Repayment of) Short-term borrowings (215.40) 321.53 
+lncrease/(Decrease) in lease liabilities (18.69) (33.36) 
+Changes in other financial liabilites (403.19) 425.00 
+Net cash used in financing activities (1,543.04) (2,074.59) 
+Net lncrease/(Decrease) in cash and cash equivalents 133.32 25.40 
+Cash and Cash equivalents at the beginning of the year 31.05 5.65 
+Cash and Cash equivalents at the ending of the year 164.36 31.05 
+Standalone statement of cash flows has been prepared under the indirect method as set out in Ind AS - 7 specified under 
+Section 133 of the Companies Act 2013. 
+ATHENA GLOBAL TECHNOLOGIE 
+CIN No L74140TG1992PLC014182 
+g 2nd floor, Unit No. 203 Gowra Palladium , Sy.No 8A & 881 in Survey Nos. 83/ 1,Serilingampally Manda!, 
+Ranga Reddy District, Hyderabad-500081 Telangana India . 
+~ +(91)4023119633 ~ +(91)4023119614 m info @athenagt.com @D www.athenagt.com 
+~~ I\ 1· H .- N /\ ~~ . c... . 
+GLOBAL TECHNOLOGIES 
+ATHENA GLOBAL TECHNOLOGIES LIMITED 
+CONSOLIDATED STATEMENT OF CASH FLOWS FOR THE PERIOD ENDED 30TH SEPTEMBER, ZOZS 
+All amounts in Lakhs unless othe•rwise stated 
+30.09.2025 31.03.2025 
+Particulars (Unaudited) (Audited) 
+Cash Flows from Operating Activities 
+Net profit/(loss) before tax (1,084.36) (1,922 .65) 
+Adjustments for : 
+Depreciation and amortization expense 74.12 61.09 
+Finance cost 551.50 1,204.48 
+Provision for doubtful debts/advances/ impairment 15.70 -
+Exchange fluctuation gain (32.02) -
+Operating profit before working capital changes (475.08) (657.08) 
+Movements in working capital 
+(lncrease)/Decrease in Inventories - 0.71 
+(lncrease)/Decrease in trade receivables (175 .89) (126.34) 
+(lncrease)/Decrease in other financial assets (102 .22) (142.69) 
+(lncrease)/Decrease in other current assets (60.35) (33.61) 
+lncrease/(Decrease) in trade payables (27.66) (18.27) 
+lncrease/(Decrease) in other financial liabilities 3,260.15 1,706.81 
+lncrease/(Decrease) in other liabilities (50.88) 225.83 
+lncrease/(Decrease) in provisions (13.97) (2.69) 
+Changes in working capital 2,829.18 1,609 .76 
+Cash generated from operations 2,354.11 952.68 
+Taxes Paid 11.69 8.79 
+Net Cash from operating activities (A) 2,365.80 961.47 
+Cash flows from Investing Activities 
+Purchase of Fixed Assets (Including CWIP) (47.00) 18.97 
+Purchase/ Sale of other intangible assets (388.35) 136.43 
+lncrease/(Decrease) in Non-current Investments - 254.81 
+(Increase) in Intangibles under development 131.16 (782.94) 
+Net Cash used in Investing Activities (304.19) (372.73) 
+Cash flows from/(used in) Financing Activities 
+Issue of equity share capital including securities premium 431.08 -
+Finance cost (551.50) (1,204.48) 
+Proceeds from Long term borrowings (269.18) (1,581.18) 
+lncrease/(Decrease) in lease liabilities (18.69) (33.36) 
+Changes in other financial liabilites (403.19) 425.00 
+Proceeds from/(Repayment of) Short-term borrowings (1,147.46) 1,849.23 
+Net Cash used in Financing Activities (1,958.94) (544.80) 
+Net lncrease/(Decrease) in cash and cash equivalents 102.67 43.94 
+Cash and Cash equivalents at the beginning of the year 81.32 37.38 
+Cash and Cash equivalents at the ending of the year 183.98 81.32 
+Consolidated statement of cash flows has been prepared under the indirect method as set out in Ind AS - 7 spe,cified under 
+Section 133 of the Companies Act 2013. 
+,., ..... ~ ..... -.. 
+ATHENA GLOBAL TECHNOLOG 
+CIN No L74140TG1992PLC014182 
+g 2nd floor, Unit No. 203 Gowra Palladium, Sy.No BA & 8B 1 in Survey Nos. 83/1,Ser ilingampally Manda I, 
+Ranga Reddy District, Hyderabad -500081 Telangana India . 
+~ +(91) 4023119633 iliJi +(91) 4023119614 m info @athenagt.corri g www.athenagt.com 
+Ramanatham t lmm 
+Chartere d Acc oun t a nts 
+P. B. No. 2102, Flat # 302, Kala Mansion, 
+Sarojini Devi Road, Secunderabad - 500 003 
+www.ramanathamandrao.in 
+mail@ramanathamandrao.in 
+ramanathamandrao@gmail.com 
+040- 27814147, 27849305, 27840307 
+Independent Auditor's Review Report on Standalone Quarterly Unaudited Financial 
+Results 
+THE BOARD OF DIRECTORS OF Athena Global Technologies Limited (Formerly 
+known as V JIL Consulting Limited) 
+We have reviewed the accompanying statement of Standalone unaudited financial results of 
+ATHENA GLOBAL TECHNOLOGIES LIMITED ('the Company') for the Quarter ended 
+30th September , 2025 and for the period from 1st April,2025 to 30th September,2025. This 
+statement is the responsibility of the Company's Management and has been approved by the 
+Board of Directors. Our responsibility is to issue a report on these financial statements based 
+on our review. 
+We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410 "Review of Interim Financial Information Performed by the 
+Independent Auditor of the Entity", issued by the Institute of Chartered Accountants of India. 
+This standard requires that we plan and perform the review to obtain moderate assurance as to · 
+whether the financial statements are free of material misstatement. A review is limited 
+primarily to inquiries of company personnel and analytical procedures applied to financial data 
+and thus provide less assurance than an audit. We have not performed an audit and accordingly , 
+we do not express an audit opinion . 
+Based on our review conducted as above, nothing has come to our attention that causes us to 
+believe that the accompanying statement of unaudited financial results prepared in accordance 
+with applicable accounting standards and other recognized accounting practices and policies 
+has not disclosed the information required to be disclosed in terms of Regulation 33 of the 
+SEBI (Listing Obligations and Disclosure Requirements) Regulations , 2015 including the 
+manner in which it is to be disclosed, or that it contains any material misstatement. 
+For Ramanatham & Rao 
+Chartered Accountants 
+FRN:29 4S 
+Partner 
+ICAI Regn.No.243569 
+UDIN: 25243569BMMIQO4620 
+Place: Hyderabad 
+Date: 14-11-2025 
+( (A, J Ch aft e fed A CC O ~!!!1:~ 
+P. B. No. 2102, Flat # 302, Kala Mc:insion, 
+Sarojini Devf Road, Secunderabad - 500 003 
+www.ramanathamandrao.in 
+mail@ramanatharnandrao.in 
+ramanathamandrao@gmail.com 
+040- 27814147, 27849305, 27840307 
+Independent Auditor's Review Report on Consolidated unaudited quarterly financial 
+results 
+THE BOARD OF DIRECTORS OF Athena Global Technologies Limited (Formerly 
+known as V JIL Consulting Limited) 
+1. We have reviewed the accompanying Statement of Consolidated Unaudited Financial 
+Results of ATHENA GLOBAL TECHNOLOGIES LIMITED ('the Parent') ("the 
+Parent") and its subsidiaries (the Parent and its subsidiaries together referred to as "the · 
+Group"), for the quarter ended 30th September, 2025 and for the period from 1st 
+April,2025 to 30th September,2025 ("the Statement"), being submitted by the Parent 
+pursuant to the requirement of Regulation 33 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations 2015, as amended. 
+2. This Statement, which is the responsibility of the Parent's Management and 
+approved by the Parent's Board of Directors, has been prepared in accordance with 
+the recognition and measurement principles laid down in Indian Accounting 
+Standard 34 "Interim Financial Reporting" ("Ind AS 34"), prescribed under Section 
+133 of the Companies Act, 2013, and other accounting principles generally 
+accepted in India. Our responsibility is to express a conclusion on the Statement 
+based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410 "Review of Interim Financial Information Performed by the 
+Independent Auditor of the Entity", issued by the Institute of Chartered Accountants of 
+India. A review of interim financial information consists of making inquiries, primarily 
+of persons responsible for financial and accounting matters, and applying analytical and 
+other review procedures. A review is substantially less in scope than an audit conducted 
+in accordance with Standards on Auditing and consequently does not enable us to obtain 
+assurance that we would become aware of all significant matters that might be identified 
+in an audit. Accordingly , we do not express an audit opinion. 
+We also performed procedures in accordance with the circular issued by the SEBI under 
+Regulation 33 (8) of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended , to the extent applicable. 
+4. The Statement includes the results of the following entities: 
+(i) Medley Medical Solutions Private Limited, Hyderabad and its Two indian 
+Subsidiaries and one foreign subsidiary(Consolidated results of Medley 
+Medical Solutions Private Limited). 
+(ii) Tutoroot Technologies Private Limited, Hyderabad 
+~-r---,....--L-:n:~~,___ (iii)Athena Global Technologies , Inc, Unites Sates of America. 
+Ramanatham ~ Rao 
+Chartered Accountants 
+5. Based on our review conducted and procedures performed as stated in paragraph 3 
+above and based on the consideration of the review reports of the branch auditors and 
+other auditors referred to in paragraph 6 below, nothing has come to our attention that . 
+causes us to believe that the accompanying statement, prepared in accordance with the 
+recognition and measurement principles laid down in the aforesaid Indian Accounting 
+Standard and other accounting principles generally accepted in India, has not disclosed 
+the information required to be disclosed in terms of Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended, including 
+the manner in which it is to be disclosed, or that it contains any material misstatement. 
+6. The consolidated un audited financial results includes the financial results of . I 
+(One) subsidiaries which have been reviewed by their auditors, whose financial 
+results reflect total revenue of Rs. 83 .11 Lakhs for the quarter ending 30th 
+September, 2025 and Rs. l28.54Lakhs for the half year ending 30th September, 
+September 2025, total net profit/(loss) after tax of Rs. 0.50 Lakhs for the quarter 
+ending 30th September, 2025 and Rs. (10.46) Lakhs for the half year ending 30th 
+September, 2025, total comprehensive income/(loss) of Rs. 0.50 Lakhs for the 
+quarter ending 30th September, 2025 and Rs. (10.46) Lakhs for the half year ending 
+30th September, 2025, and Cash flows (net) of Rs. (1.09) Lakhs for the period from 
+1st April, 2025 to 30th September, 2025, as considered in the consolidated unaudited 
+financial results. According to the information and explanations given to us by the 
+Management, these financial results are not material to the Group. 
+Our conclusion on the Statement is not modified in respect of the matters .. 
+7. The consolidated unaudited financial results includes the financial results of l(One) 
+subsidiaries which have been reviewed by Us, whose financial results reflect total 
+revenue of Rs. 2.62 I:akhs for the quarter ending 30th September, 2025 and Rs. 2.62 
+Lakhs for the half year ending 30th September, 2025, total net profit/(loss) after tax 
+of Rs. (51.19)Lakhs for the quarter ending 30th September, 2025 and Rs. (133.81) 
+Lakhs for the half year ending 30th September, 2025, total comprehensive 
+income/(loss) of Rs. (54.29) Lakhs for the quarter ending 30th September, 2025 and 
+Rs. (136.91) Lakhs for the half year ending 30th September, 2025, and Cash flows 
+(net) of Rs. (6.96) Lakhs for the period from 1st April, 2025 to 30th September, 
+2025, as considered in the consolidated unaudited financial results. According to 
+the information and explanations given to us by the Management, these financial 
+results are not material to the Group. 
+8. The consolidated unaudited financial results includes the financial results of 1 
+(One) subsidiaries which have not been reviewed by their auditors,, whose financial 
+~~~ esults total revenues of Rs. 111.91 Lakhs for the quarter emding 30th 
+//_"<r-~ H:s.~~~tember,2025 and Rs. 309.39 lakhs for the half year ending 30th September,2025, 
+l~~~~~~l~n~e:tJp~rofit/(loss) after tax of Rs. (144.89) Lakhs for the quarter ending 30th 
+Ramanatham t Rao 
+Chartered Accountants 
+September,2025 and Rs. (254.74) lakhs for the half year ending 30th 
+September,2025 and total comprehensive income/loss of Rs. (160.85) Lakhs for the 
+quarter ending 30th September,2025 and Rs. (261.78) For the half year ending 30th 
+September,2025 and cash Flows (net) of Rs. (22.58) lakhs for the period from 1st 
+April,2025 to 30th September,2025, considered in the consolidated unaudited 
+financial results. These financial results have been reviewed by other auditors 
+whose reports have been furnished to us by the Management and our conclusion on 
+the Statement, in so far as it relates to the amounts and disclosures included in 
+respect of these subsidiaries, associates and joint ventures, is based solely on the 
+reports of the other auditors and the procedures performed by us stated in paragraph 
+3 above. 
+For Ramanatham & Rao 
+(VVLAKSH 
+Partner 
+ICAI Regn.No.243569 
+UDIN: 25243569B:MMIQP7456 
+Place: Hyderabad 
+Date: 14.11.2025 
+ 
+ 
+ 
+  
+ 
+                                     Statement of Deviation / Variation in utilisation of funds raised 
+Name of listed entity Athena Global Technologies Limited  
+Mode of Fund Raising Preferential Issues of share warrants 
+Date of Raising Funds February 12th, 2024 (25 % up front amount of the 
+Share warrants) 
+August 11, 2025 (75% amount of the share warrants) 
+Amount Raised Rs. 5,65,50,000 (Received 25% up front amount of 
+the Share Warrants amounting Rs. 1,41,37,500 and 
+remaining 75% of Share Warrants amounting to 
+4,24,12,500 received on August 11th, 2025.) 
+ 
+Report filed for Quarter ended 30th September, 2025 
+ Monitoring Agency Not Applicable 
+ Monitoring Agency Name, if applicable Not Applicable 
+Is there a Deviation/Variation in use of funds 
+raised 
+No 
+If yes, whether the same is pursuant to change 
+in terms of a contract or objects, which was 
+approved by the shareholders 
+ 
+If Yes, Date of shareholder Approval Not Applicable 
+Explanation for the Deviation / Variation  Not Applicable 
+Comments of the Audit Committee after review Not Applicable 
+Comments of the auditors, if any Not Applicable 
+Objects for which funds have been raised and 
+where there has been a deviation, in the following 
+table 
+ 
+Original Object Modified Object, if any 
+Original Allocation as on 12th 
+February, 2024 
+Modified 
+allocation, 
+if any 
+Funds Utilized till 
+30th September, 
+2025 
+Amount of Deviation/ Variation 
+for the quarter according 
+to applicable object 
+Remarks 
+if any 
+ 
+The object of raising equity share capital by 
+issuing warrants are: 
+i. To fund long term capital requirements for 
+future growth of the Company 
+ii. To meet working capital requirement and 
+reducing debts; and 
+iii. To meet General Corporate Purpose. 
+Not Applicable 
+Rs.1,41,37,500 (25% Up front 
+amount of total allotment  of share 
+warrants) Remaining  75% 
+aggregate to Rs. 4,24,12,500 received 
+on August 11th, 2025. 
+Not 
+Applicable Rs. 5,65,50,000 Not Applicable No 
+Deviation 
+       Deviation or variation could mean: 
+         (a) Deviation in the objects or purposes for which the funds have been raised or 
+         (b) Deviation in the amount of funds actually utilized as against what was originally disclosed or 
+         (c) Change in terms of a contract referred to in the fund raising document i.e. prospectus, letter of offer, etc 
+      For Athena Global Technologies Limited 
+ 
+ 
+ 
+       M. Satyendra 
+      Chairman & Managing Director 
+      DIN: 01843557 
+       
+       
+Annexure-5Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 as amended:Sr.NoParticularsDisclosure   1.Name(s) of parties with whom the agreement is enteredCentaurus SPAV Ventures LLP2.Purpose of entering into the agreementEntered into lease agreement for leasing of  1,25,048 square feet square feet, which is entire 14thfloor (North & South Wing) of the building3.Size of agreementThe Lessee agrees to pay to the Lessor a one-time upfront lease premium of 85,87,50,000 (Rupees Eighty-Five Crore Eighty-Seven Lakh Fifty Thousand only)for the use and occupation of the Leased Premises, as mutually agreed upon between the parties.4.Shareholding, if any, in the entity with whom the agreement is executedNO 5.Significant terms of the agreement (in brief) special rights like right to appoint directors, first right to share subscription in case of issuance of shares, right to restrict any change in capital structure etc.;The property is leased for a long-term period of 99 years, giving the Lessee long-term possession and usage rights over the premises.6.Whether the promoter/ promoter group/group companies have any interest in that entity to whom the order(s)/contract(s) If Yes, nature ofinterest and details thereof;NO7.Whether the same would fall within related party transactions? If yes, Not a related party transaction8.In case of issuance of shares to the parties, details of issue price, class of shares issuedNot Applicable9.any other disclosures related to such agreements, viz., details of nominee on the board of directors of the listed entity, potential conflict of interest arising out of such agreements, etc.Not Applicable
+10.In case of termination or amendment of agreement, listed entity shall disclose additional details to the stock exchange(s):Not Applicable-a.name of parties to the agreement;b.nature of the agreement;c.date of execution of the agreement;d.details of amendment and impact thereof or reasons of termination and impact thereof.This is for your information and records.Thanking you,Regards,For Athena Global Technologies Limited Gayathri PrithvirajCompany Secretary & Compliance Officer

@@ -1,0 +1,261 @@
+ 
+November 17, 2025 
+  
+Department of Corporate Services Listing Department  
+BSE Limited  National Stock Exchange of India Limited  
+Phiroze Jeejeebhoy Towers Dalal Street,  C-1, Block G, Bandra -Kurla Complex 
+Mumbai - 400001 Bandra (East), Mumbai- 400051 
+   
+Scrip Code: 544395 Scrip Symbol: STLNETWORK 
+  
+Sub: Credit Rating 
+ 
+Dear Sir/ Madam, 
+ 
+Pursuant to Regulation 30 and 51 of the SEBI Listing Regulations, we wish to inform you that India 
+Ratings and Research Pvt Ltd, vide its release dated November 17, 2025 has assigned following rating 
+on proposed non-convertible debentures: 
+ 
+Name of Company Ratings 
+STL Networks Limited IND A-/Stable 
+ 
+Copy of credit rating issued, is attached herewith for your reference. 
+ 
+We request you to kindly take this on your record. 
+ 
+Thanking You,  
+ 
+For STL Networks Limited  
+ 
+ 
+Meenal Bansal 
+Company Secretary and Compliance Officer  
+Membership No.- ACS 35091 
+ 
+Enclo:a/a 
+ 
+India Ratings Assigns STL Networks’s Proposed NCDs 'IND A-'/Stable; Affirms Bank
+Loan Facilities
+Nov 17, 2025
+|
+T elecom - Infrastructure
+India Ratings and Research (Ind-Ra) has taken the following rating actions on STL Networks Limited’s (STLN) debt
+instruments:
+Details of Instruments
+Instrument Type Date of
+Issuance
+Coupon
+Rate
+Maturity
+Date
+Size of Issue
+(million)
+Rating assigned along
+with Outlook/Watch
+Rating
+Action
+Proposed non-
+convertible debentures- - - INR3,000 IND A-/Stable Assigned
+Bank loan facilities - - - INR25,000 IND A-/Stable/IND A2+ Affirmed
+Analytical Approach
+Ind-Ra continues to take a fully consolidated view of STLN and its wholly owned subsidiaries - Sterlite Technologies UK
+Ventures Limited, STL UK Holdco Limited, and Clearcomm Group Limited, to arrive at the rating. This is in view of the
+strong operational and strategic linkages among them.
+Detailed Rationale of the Rating Action
+The rating reflects STLN's robust business profile, supported by an established track record of operations in the telecom
+industry and end-to-end capabilities, coupled with an ability to execute complex and mission critical projects. The rating
+also reflects Ind-Ra's expectation of healthy revenue growth over 2HFY26-FY27, supported by a) a strong outstanding
+order book of over INR65.0 billion at end-June 2025, leading to a book-to-bill ratio (based on FY25 revenue) of over 5.5x;
+b) favourable industry tailwinds; and c)  the company’s focus on increasing the revenue share from technology and
+annuity-led revenue lines such as data centre network set up, maintenance, and system
+integration, operations & maintenance (O&M).
+The rating is partially constrained by STLN's modest credit metrics, elongated working capital cycle (on a normalised
+basis), and a lock up of a significant chunk of working capital in a few projects. Nevertheless, Ind-Ra expects the net
+leverage and interest coverage to improve over the near to medium term, driven by an improvement in the EBITDA, led by
+revenue growth, a gradual release of locked-up funds, and a moderation in the net working capital cycle due to changes in
+business mix, which remain key monitorables for Ind-Ra.
+List of Key Rating Drivers
+Strengths
+Healthy business profile
+Favourable industry tailwinds
+Adequate revenue visibility over 2HFY26-FY27
+Improvement in profitability likely over 2HFY26-FY27
+Weaknesses
+Working capital lockup in slow-moving and disputed projects
+Elongated working capital cycle 
+Modest credit metrics; gradual improvement likely over near to medium term
+Order book concentration
+ 
+Detailed Description of Key Rating Drivers
+Healthy Business Profile: STLN's healthy business profile is underpinned by a) its more than a decade of experience of
+designing, deploying, and  managing secure networks for defence, enterprises, are telecom companies; b) a track record
+of laying of over 1,00,000  fibre route km;  completion of 2,50,000 home passes,
+and establishing and/or managing a network of about 50 data centres; c) comprehensive end-to-end
+services capabilities from design and implementation to ongoing maintenance; d) robust service standards substantiated
+by the mission-critical projects completed in past; and e) a reputed clientele which includes Bharti Airtel Limited
+(CP rated at ‘IND A1+’), Bharat Sanchar Nigam Limited (debt rated at ‘IND BBB’/ Stable), National Highways Authority of
+India (debt rated at ‘IND AAA’/ Stable), and RailTel Corporation of India Limited.
+Favourable Industry Tailwinds: STLN is well positioned to capitalise on India’s accelerating digital transformation, which
+is creating robust opportunities for data centre expansion. Key government initiatives such as BharatNet Phase III, Smart
+Cities Mission, and Digital India are driving large-scale connectivity and infrastructure development across urban and rural
+regions. The nationwide rollout of 5G technology and the increasing adoption of Fiber to the Home are further
+amplifying the demand for high-speed and reliable networks.
+Adequate Revenue Visibility over FY26-FY27: In FY25, the consolidated revenue declined about 20% yoy to INR11.8
+billion, due to STLN’s focused approach on profitability and return on investment by being selective in order acquisition.
+During 1QFY26, STLN secured a contract worth about INR22 billion under Bharat Net Phase III, enhancing its outstanding
+order book to over INR65 billion as of June 2025. This robust order book, having a balanced mix between O&M
+and capex, provides  strong revenue visibility with a book-to-bill ratio of over 5.5x based on FY25 revenue.
+In FY25, about 50% of STLN's revenue came from the less working capital-intensive and higher-margin O&M and
+technology business. The management aims to increase this contribution to 70% in the near-to-medium term.
+While STLN reported a muted revenue of INR4.2 billion in 1HFY26, Ind-Ra expects revenue growth to pick up in 2HFY26
+to about 25% on average over FY26-FY27, driven by: a) the execution of the Bharat Net Phase III project, which
+commenced in 2QFY26; b) an increase in O&M revenue from the existing order book; and c) a strong potential and focus
+on expanding technology-led revenue in both India and the UK.
+Improvement in Profitability Likely over 2HFY26-FY27: In FY25, the consolidated EBITDA margin moderated slightly to
+6.3% (FY24: 6.7%), primarily due to a decline in the revenue. While the profit margin for the India business
+remained comfortable in the range of 9%-10% during FY24-FY25, the consolidated margin has been impacted by losses
+in the UK business. During 1HFY26, STLN reported a modest EBITDA margin of 2.5% (1HFY25: 6.4%). However, Ind-Ra
+expects that the projected increase in revenue, coupled with the benefits of operating leverage, to support an improvement
+in the profitability and EBITDA margins in the near-to-medium term.
+Working Capital Lockup in Slow-moving and Disputed Projects: STLN has been experiencing a working capital
+lockup due to delays and disputes in some projects. A major project (contributing meaningfully to the orderbook) has
+been delayed due to right-of-way clearance issues, resulting in a delay in milestone achievements and locking up
+of sizeable amount of working capital. Additionally, disputes in few other projects have led to receivables of INR2.5 billion-3
+billion being stuck.
+While STLN's management expects a significant portion of the locked-up amount to be cleared by 1HFY27, Ind-Ra has
+assumed a gradual release of these funds in its base case scenario. Any receipt that is significantly greater-than-Ind-Ra-
+expected, leading to a substantial improvement in the credit metrics, will be positive for the rating.
+Elongated Working Capital Cycle:  STLN’s working capital cycle elongated further during FY25, with gross current
+assets (GCA) and net current assets, both excluding cash and equivalents, accounting for 193% and 113% of the revenue,
+respectively, compared to 165% and 72% in FY24. On a normalised basis, excluding the exceptions, the GCA
+cycle was 90%-100% during FY24 and FY25.
+However, STLN has initiated back-to-back arrangements and contracts with large suppliers and vendors, which
+partially aids in managing working capital. Additionally, an increasing share of revenue from quick turnaround projects
+and favourable terms in Bharat Net Phase III projects, characterised by shorter milestones, is likely to moderate the
+working capital cycle, which remains a key monitorable for Ind-Ra.
+Modest Credit Metrics; Gradual Improvement Likely over Near to Medium Term: At end-March 2025, STLN’s
+total consolidated debt (including lease liabilities and acceptances) increased to INR9.3 billion (FY24: INR5.2
+billion) and its net debt increased to INR7.2 billion (INR4.6 billion). The increase was mainly due to unfavourable changes
+in the working capital, leading to a rise in the outstanding fund-based working capital debt to INR7.0 billion in FY25 (FY24:
+INR2.4 billion).
+The elevated debt levels, combined with a moderation in the EBITDA, resulted in a sharp increase in the net leverage to
+9.7x in FY25 (FY24: 4.7x), and deterioration in the interest coverage to 1.0x (1.4x). However, Ind-Ra expects an gradual
+improvement in the net leverage and interest coverage over the near-to-medium term, driven by an enhanced profitability,
+a moderated working capital cycle, and the release of locked-up funds, which remains a key monitorable.  
+Order Book Concentration: STLN’s top three orders accounted for over 70% of the total outstanding order book at end-
+June 2025. Geographically as well, there is a sizeable concentration with three states/union territories constituting over
+60% of the order book. Despite this concentration, Ind-Ra draws comfort from several mitigating factors. Notably, there is
+a balanced mix in the order book between capex and O&M, where O&M carries limited execution risk. Furthermore, orders
+from private players and for the technology business are typically received for shorter tenors on a running basis.
+Liquidity
+Adequate: STLN’s liquidity position is supported by its adequate free cash and equivalent, undrawn working capital
+limits, likely positive cash flow from operations over 2HFY26-FY27 and a moderate capex requirement. The company had
+a consolidated free cash & equivalent of INR792 million at end-September 2025. In FY25, the company’s cash flow from
+operation (gross of finance cost) turned negative at INR1.8 billion (FY24: positive INR3.9 billion) due to unfavourable
+working capital changes. However, Ind-Ra expects the same to be in the range of INR0.9 billion-1.2 billion over FY26-
+FY27, driven by an improvement in the profitability, a moderation in the working cycle and a gradual release of locked up
+funds. The company has a term debt principal repayment obligation of INR360 million- INR370 million each in FY26 and
+FY27, which Ind-Ra expects will be serviced through internal accruals and the existing liquidity.
+The ongoing process to carve out working capital limits in the name of STLN is underway, with the management expecting
+fund-based working capital limits of around INR8.3 billion and non-fund-based working capital limits of around INR15.5
+billion. As of September 2025, the unutilised amount in the fund-based working capital limit stood at about INR1.3 billion.
+Additionally, STLN's liquidity is supported by adequate financial flexibility, demonstrated through competitive pricing and no
+margin requirement for non-fund-based limits for the already sanctioned working capital facilities.
+Rating Sensitivities
+Positive: Developments which could, individually or collectively, lead to a positive rating action include: 
+an improvement in working capital situation with (a) GCA (excluding disputed and stuck portion) reducing below
+85% of revenue along with reasonable payment receipt track-record, (b) reasonable revenue receipt and timely
+release of working capital (fund-based and non-fund based) from delayed/ stuck projects
+timely execution of the orders along with an improvement in the profitability, leading to a higher scale of operations,
+and an improvement in interest coverage on a sustained basis
+a continued order inflow, leading to healthy diversification of order book
+ Negative: Developments which could, individually or collectively, lead to a negative rating action include: 
+any further elongation in the working capital cycle of moving orders and/or a lower-than-expected recovery in
+working capital from delayed/ stuck projects leading to the consolidated working capital cycle remaining stretched
+slower-than-Ind-Ra-expected execution of the order book or a lower-than-expected profitability, leading
+to a reduction in the overall cash flow generation and the interest coverage remaining below 1.5x on a sustained
+basis 
+Any Other Information
+Standalone Summary: STLN reported revenue of INR10.6 billion in FY25 (FY24: INR13.0 billion) and an EBITDA
+of INR1.0 billion (INR1.2 billion), translating into an EBITDA margin of 9.4% (9.1%). During FY25, the company had a net
+leverage ratio of 6.6x (FY24: 3.2x) and an interest coverage ratio of 1.4x (1.9x).
+ESG Issues
+ESG Factors Minimally Relevant to Rating: Unless otherwise disclosed in this section, the ESG issues are credit neutral
+or have only a minimal credit impact on STLN, due to either their nature or the way in which they are being managed by
+the entity. For more information on Ind-Ra’s ESG Relevance Disclosures, please click here. For answers to frequently
+asked questions regarding ESG Relevance Disclosures and their impact on ratings, please click here.
+About the Company
+STLN represents the Global Services Business of Sterlite Technologies Limited, demerged from latter effective 31 March
+2025. STLN provides comprehensive solutions across fibre network services, system integration, IT infrastructure
+management, data centre network setup, network operations centres and security operations centres. It undertakes end-
+to-end network services ranging from designing to fibre deployment to O&M.
+Key Financial Indicators
+Financial Summary (Consolidated) FY25 FY24(Restated)
+Revenue (INR billion) 11.8 14.7
+EBITDA (INR billion) 0.7 1.0
+EBITDA margin (%) 6.3 6.7
+Interest coverage (x) 1.0 1.4
+Net leverage (x) 9.7 4.7
+Source: STLN; Ind-Ra   
+ 
+Status of Non-Cooperation with previous rating agency
+Not applicable
+Rating History
+Current Rating/ Outlook Historical Rating/Outlook
+Instrument Type Rating Type Rated Limits
+(million)
+Current Rating/ Outlook 13 August 2025
+Bank Loan Facilities Long-term/ Short-term INR 25,000 IND A-/ Stable/ IND A2+ IND A-/ Stable/ IND A2+
+Proposed non-convertible debentures Long-term INR 3,000 IND A-/ Stable -
+ 
+Bank wise Facilities Details
+Complexity Level of the Instruments
+Instrument Type Complexity Indicator
+Bank loan facilities Low
+Non-convertible debentures Low
+For details on the complexity level of the instruments, please visit https://www.indiaratings.co.in/complexity- indicators.
+Contact
+Primary Analyst
+Divyanka Bhutada
+Senior Analyst
+India Ratings and Research Pvt Ltd
+Wockhardt Towers, 4th Floor, West Wing, Bandra Kurla Complex, Bandra East,Mumbai - 400051
++91 22 40356168
+For queries, please contact: infogrp@indiaratings.co.in
+Secondary Analyst
+Priyanka Bansal
+Associate Director
++91 22 4035 6148
+Media Relation
+Ameya Bodkhe
+Marketing Manager
++91 22 40356121
+About India Ratings
+India Ratings and Research (Ind-Ra) is India's SEBI registered credit rating agency committed to providing India's credit
+markets accurate, timely and prospective credit opinions. Built on a foundation of independent thinking, rigorous analytics,
+and an open and balanced approach towards credit research, Ind-Ra has grown rapidly during the past decade, gaining
+significant market presence in India's fixed income market.                                                                                                       
+        
+Ind-Ra currently maintains coverage of corporate issuers, financial institutions (including banks and insurance companies),
+finance companies, urban local bodies, and structured finance and project finance companies. 
+Headquartered in Mumbai, Ind-Ra has seven branch offices located in Ahmedabad, Bengaluru, Chennai, Gurugram,
+Hyderabad, Kolkata and Pune. Ind-Ra is recognised by the Securities and Exchange Board of India and the Reserve Bank
+of India.  
+Ind-Ra is a 100% owned subsidiary of the Fitch Group.
+Solicitation Disclosures
+Additional information is available at www.indiaratings.co.in. The ratings above were solicited by the issuer, and therefore,
+India Ratings has been compensated for the provision of the ratings. 
+Ratings are not a recommendation or suggestion, directly or indirectly, to you or any other person, to buy, sell, make or hold
+any investment, loan or security or to undertake any investment strategy with respect to any investment, loan or security or
+any issuer.
+APPLICABLE CRITERIA AND POLICIES
+Evaluating Corporate Governance
+Corporate Rating Methodology
+Short-Term Ratings Criteria for Non-Financial Corporates
+The Rating Process
+DISCLAIMER
+All credit ratings assigned by india ratings are subject to certain limitations and disclaimers. Please read these limitations and disclaimers by
+following this link: https://www.indiaratings.co.in/rating-definitions. In addition, rating definitions and the terms of use of such ratings are
+available on the agency's public website www.indiaratings.co.in. Published ratings, criteria, and methodologies are available from this site at all
+times. India ratings’ code of conduct, confidentiality, conflicts of interest, affiliate firewall, compliance, and other relevant policies and procedures
+are also available from the code of conduct section of this site.

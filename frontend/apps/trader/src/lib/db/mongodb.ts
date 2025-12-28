@@ -7,6 +7,8 @@ if (!process.env.MONGODB_URI) {
 const uri = process.env.MONGODB_URI;
 const options = {};
 
+const dbName = process.env.MONGODB_DB || "brnch-htf";
+
 let client: MongoClient;
 let clientPromise: Promise<MongoClient>;
 
@@ -30,7 +32,7 @@ if (process.env.NODE_ENV === "development") {
 
 export async function getDatabase(): Promise<Db> {
     const client = await clientPromise;
-    return client.db("brnch-htf"); // Your database name
+    return client.db(dbName);
 }
 
 export default clientPromise;

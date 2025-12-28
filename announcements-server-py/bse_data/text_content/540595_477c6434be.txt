@@ -1,0 +1,867 @@
+                                         
+ 
+     
+ November 18, 2025 
+The Secretary 
+National Stock Exchange of India Ltd 
+Exchange Plaza, C/1, Block G, 
+Bandra Kurla Complex, Bandra (East) 
+Mumbai – 400 051 
+NSE Symbol: TEJASNET 
+The Secretary 
+BSE Limited 
+P J Towers,  
+Dalal Street,  
+Mumbai – 400 001 
+BSE Scrip Code: 540595 
+ Dear Sir/Madam, 
+ Re: Investors’ Presentation 
+ 
+Pursuant to our letter dated November 13, 2025, in connection with the Analyst / 
+Institutional Investors’ Meeting to be held on November 18, 2025, and November 20, 2025,             
+respectively, please find attached the copy of the P resentation which will be shared during 
+the said Analyst / Institutional Investors’ Meeting. 
+ 
+This is for your kind information and record. 
+ 
+Yours sincerely,  
+For Tejas Networks Limited 
+   
+ 
+ 
+ 
+Anantha Murthy N 
+Company Secretary & Compliance Officer 
+ 
+ 
+ Encl: as above 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+November 2025
+Corporate 
+Overview
+
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Tejas Networks: A Snapshot
+End -to -End Wireless & 
+Wireline Products
+Wireless: 4G/5G RAN, SatCom 
+and  D2M Broadcast
+Wireline: FTTx, Optical 
+Transport and Switching
+Products Applications
+Mobile RAN and Backhaul
+Wholesale & Enterprise 
+Bandwidth Services
+Fixed Broadband
+Critical Infrastructure Networks
+Satcom for Asset Tracking
+Business Success
+Deployed in 500+ Networks 
+across 75+ Countries
+Incumbent in all large public and 
+private telcos in India
+Global recognition for innovation 
+and business excellence 
+2400+ Employees; 1.7X growth 
+since FY23
+585+ patents filed globally; 364 
+patents granted
+>65% employees in R&D; a leading 
+R&D spender among public 
+companies in India
+Key Statistics
+Vision: To be a Global top-tier Telecom and Networking 
+Equipment Company
+ ▪ Founded in 2000, headquartered in Bangalore, publicly listed since 2017
+▪ India’s premier indigenous developer and manufacturer of telecom and 
+networking equipment, wireless and wireline
+▪ Part of Tata Group, global enterprise comprising 30+ companies across 
+verticals and operating in over 100 countries
+
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Rich Product Portfolio : Wireless, Wireline, Satcom
+4G/5G RAN & Core
+Fiber Broadband
+Solutions
+Optical 
+Transport Solutions
+Sat-IoT Solutions Switching & 
+Routing Solutions
+Direct To Mobile (D2M) 
+Broadcast Solution
+i
+Wireless
+Wireline
+Intelligent Unified 
+Domain Controller
+iUDC
+
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+4G/5G Mobile, FWA, FTTX, 
+4G/5G MaMIMO
+GPON/ 
+10G-PON
+1GE/10GE
+Converged Edge 
+& Backhaul
+800G/1.2T+
+DWDM/OTN
+100G/200G 
+PTN/IP-MPLS
+C+L Band
+DWDM
+Broadband Access 
+(LTE/LTE-A, xPON, Ethernet)
+Metro Aggregation & Routing 
+(PTN, OTN, IP/MPLS)
+Metro Core & Long-haul 
+(DWDM & OTN)
+Enterprise
+Residence
+Mobile 
+Tower
+Delivering End-to-End Telecom Networks
+Universal, SDN-ready Network Management System (NMS)
+4G 
+3GPP 
+RAN
+Satellite IoT & 5G 
+Broadcast
+5G 
+3GPP 
+O-RAN
+We are a source of trusted Wireless and Wireline products
+Wireless: 4G RAN (Radio Access Network) for Fixed/Mobile Broadband; 5G (3GPP and O-RAN), Broadcast & Satellite IoT
+Wireline: Broadband Access, Secured Ethernet Switches, Carrier-routing, Optical Transmission
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Typical Applications Served
+4G/5G Mobile 
+RAN & 
+Backhaul
+Wholesale & 
+Enterprise Data 
+Services
+Critical 
+Infrastructure
+Home & 
+Business 
+Broadband
+SatCom 
+enabled asset 
+tracking, D2M 
+Broadcast
+5
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Global Footprint
+Tejas Global Presence
+1 Million + 
+Systems Shipped 500+ Networks
+75 + 
+Countries
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Workforce in R&D
+Carrier-grade 
+Products
+Complex, multi-disciplinary skills
+Multi-Disciplinary R&D Team
+Silicon and FPGA 
+IPs
+Lines of Code
+>65% 350+
+3M+ 50+
+Award-winning Software Defined 
+Radio (SDR) chip with 27 international 
+patents; 100K+ chips shipped
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Asset-lite Manufacturing in India
+• In line with global best practices, we outsource PCB assembly to 
+Electronics Manufacturing Services (EMS) partners
+− Redundancy and Scalability ensured by using multiple EMS 
+companies
+• EMS responsibility is to procure components (as per Tejas design), 
+manufacture Printed Circuit Boards (PCB), test and assemble
+• Tejas does final configuration, assembly and testing of PCBs in-house 
+and ships to customers
+− 200,000+ sq. ft of production and warehousing facilities
+− 16X scale-up in daily shipment capacity in FY25
+− Certified as per TL9000, ANSI and IEC standards
+Sales 
+Forecast Planning EMS 
+Ordering
+Component 
+Ordering
+Electronic 
+Assembly 
+and Testing
+Integration 
+and Testing
+Packaging & 
+Shipment
+Tejas 
+responsibility
+EMS 
+responsibility
+
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Experience in Building Countrywide Telecom Networks
+BSNL 4G/5G International
+Strategic Sector
+• Shipped 300,000+ radios and 100,000+ 
+baseband systems for BSNL 4G/5G
+• 13,000+ IP/MPLS Routers deployed in 
+pan-India MAAN backhaul network
+• Pan-India Sat-IoT installations in ~50,000 
+motorized and mechanized fishing vessels 
+• Innovative D2M (Direct-to-Mobile) Broadcast 
+solution trials
+Pan-India  Networks
+• India’s largest domestic supplier of optical 
+(PTN, OTN/DWDM, MSPP) & home 
+broadband (GPON) products
+• Leading supplier of GPON and Routers for 
+BharatNet; 100,000+ GPs and 3000+ Blocks
+Critical Infrastructure 
+ Space and Broadcasting
+• 100G/200G/400G wavelength services on 
+10,000+ kms of fiber across Africa
+• Country-wide optical network in Italy
+• State-wide optical and fixed wireless 
+network in  Malaysia
+• Built high-capacity optical backbones for 
+railways, metro rail, power, oil & gas 
+companies
+• Public WiFi deployments at 4500+ 
+Railway Stations; 15+ Smart/Safe Cities
+• Supplied 40,000+ switches for strategic 
+projects such as AFNet, NFS, DRDO, MAFI, 
+CIDSS 
+• Ruggedized MIL-grade switches for 
+MRSAM; advanced Bulk Encryptors for BEL
+
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Our Competitive Strengths
+Full Stack: Silicon to Satcom
+Extensive product portfolio encompassing 
+mobile, fixed line, broadcast and satcom 
+products with in-house chip design 
+capabilities
+Software-defined Hardware
+Pioneering programmable hardware that 
+can be flexibly adapted to new 
+technologies, standards and features 
+through software upgrades
+Universal Network Management
+Powerful, AI-ready network management suite with 
+point-and-click service provisioning and operational 
+monitoring capabilities across multiple technology 
+layers 
+Ultra-converged Architecture
+Unique product architecture that 
+converges Mobility (4G/5G), Broadband 
+(FTTx, Ethernet) and Backhaul (optical, 
+packet) technologies in a single shelf
+Innovative Solutions
+Advanced, field-proven offerings such as high-
+capacity circuit emulation, 100G/200G/400G alien 
+wavelengths, micro-OTN switches for network 
+optimization 
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Arnob Roy
+Executive Director & COO
+Co-Founder & COO, Tejas Networks |
+ Ex-Synopsys & Cadence 
+Dr. Randhir Thakur
+Additional Director (Non-Executive and 
+Non-Independent Director)
+CEO & MD, Tata Electronics | Ex-Intel 
+President, Foundry Services | IEEE Fellow
+Prof. Bhaskar Ramamurthi
+Non-Executive Independent Director
+Ex-Director, IIT Madras | Head, CoE Wireless 
+Tech | 5G Test Bed National Coordinator | 
+Fellow IEEE & INAE
+P R Ramesh
+Non-Executive Independent Director
+Ex-Chairman, Deloitte India | Former Global & 
+Asia Pacific Board Member | Fellow, ICAI
+Board of Directors
+N. Ganapathy Subramaniam
+Non-Executive Chairman & Non-Independent 
+Director
+▪ Ex-COO & Executive Director, TCS
+▪ Chairman of Tata Communications and 
+Tata Elxsi
+Alice G Vaidyan
+Non-Executive Independent Director
+Ex-CMD, GIC Re 
+
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Arnob Roy
+Executive Director & COO
+Co-Founder, Tejas Networks |
+ Ex-Synopsys & Cadence 
+Asha Ranjan Mathews
+Chief Human Resource Officer
+Ex- TCS, Business Group HR head
+Anantha Murthy N
+Company Secretary and 
+Compliance Officer
+Ex- Head Legal and Company Secretary of 
+Tata Coffee Limited
+Dr. Kumar N. Sivarajan
+CTO
+Co-founder, Tejas Networks | 
+Ex-Associate Prof. IISc, Bangalore
+Sumit Dhingra
+CFO
+Ex-Assistant Vice President in the Group 
+CFO’s Office at Tata Sons Private Limited
+Sanjay Malik
+Chief Strategy & Business Officer
+Ex- Senior Vice-President and India Country 
+Head of Nokia Networks
+Key Management
+
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Business Updates
+
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+One of the largest single-vendor 4G/5G RAN networks in the world
+~4 PB
+data traffic carried daily
+100,000+
+cell sites
+5G NSA
+upgradable
+Compact
+Rugged
+~18 months
+Record delivery time
+13,000+
+Backhaul Routers
+Launch of BSNL Pan-India 4G/5G Network
+22+ Million
+subscribers
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Wireless Business Updates
+Launch of 64TR mMIMO 
+5G Radio at IMC, Delhi
+1st Private 5G POC in Amlohri 
+Mine under CNPN* initiative
+D2M partnerships with Intel, 
+Lava, HMD, Khushtech
+Successful conclusion of 1st 
+international 4G RAN POC
+Strategic partnerships with 
+NEC and Rakuten
+Note*: Captive Non-Public 
+Network (CNPN), BSNL
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Wireline Business Updates
+Launch of 1.2T/channel 
+Coherent DWDM
+400Gbps wins in India, 
+Europe, Africa, Cambodia 
+Largest OEM supplier by the 
+number of packages
+PTN/DWDM orders from Tier-1 
+Indian Telcos for 4G/5G Backhaul
+Strategic wins at multiple US ISPs for 
+our Network Modernization solution
+
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+ITU​ TSDSI​
+ORAN​ Bharat 6G​
+• 6G Vision and 
+Standardization​
+• Network protection​
+• Driving standards for India​
+• xHaul, 5Gi, Reconfigurable 
+Intelligent Surfaces​
+• AI-ML, Massive MIMO​
+• Sub-band Full Duplexing​
+• Network Energy Savings​
+3GPP​
+• Open RAN​
+• Cloudification & 
+Orchestration​
+• Research on multiple 6G 
+projects - AOC, OAM, THz 
+research​
+• Industry Academia Research​
+• IEEE Communication Society 
+(Comsoc) Chair (Bangalore)​
+IEEE​
+Contributing to Global Wireless Standards 
+100+ 3GPP Standards Contributions in FY25
+58 patents in 5G-Adv and 6G filed in H1FY26
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Investments for Future Growth
+Global Patents FiledNumber of Employees R&D Expense and Other Investments
+▪ Gross R&D expense of ~1,200 Cr over FY23-FY25  
+(60%+ capitalized)
+▪ Capex(1) of ~550 Cr related to equipment, intangible and 
+other assets
+▪ ~70% increase in overall Headcount since FY23
+▪ ~70% of total employees are in R&D
+1,417 
+1,980 
+2,370 2,424 
+64% 64%
+67%
+69%
+FY23 FY24 FY25 FY26 H1
+Total Headcount R&D %
+259 
+404 
+557 
+74 
+135 
+347 
+FY23 FY24 FY25
+Gross R&D Expense Capex (excl capitalized R&D) (1)
+445 446 
+529 
+587 
+FY23 FY24 FY25 FY26 H1
+Notes: 
+1. Capex calculated as payments for PPE and intangible assets less capitalized R&D/PD expenses (which are included in Gross R&D expenses)
+▪ 364 patents granted as of  Q2-FY26
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Growth Drivers and 
+Strategy
+
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Macro Trends favoring our Business
+Increase in 
+Connected Devices 
+& Content
+Growth in 
+Connectivity 
+Services
+Greater Adoption of 
+AI
+Investments in 
+Critical Infrastructure
+▪ Cellular IoT revenues to grow 
+from $18bn to $30bn by 2030
+▪ 200% growth in VR devices by 
+2030
+▪ 8K video & XR will demand 
+300Mbps/1Gbps speeds
+▪ AI traffic to cross non-AI 
+traffic by 2031
+▪ Investment in data centers 
+to reach $580 billion in 2025
+▪ 5G mobile subs to be  more 
+than 50% by 2029
+▪ 5-yr CAGR of 12.8% in FWA 
+subscriptions from 2025-30
+▪ 1.9 billion fixed broadband 
+users by 2030
+4G/5G Mobile, FWA, FTTX, 
+▪ Annual spend on smart grids 
+to touch $300 billion in 
+developing countries by 2030
+Policy Push for 
+Indigenization in 
+India
+▪ Strong focus on achieving 
+“Atmanirbharta” in Telecom 
+Products
+Sources: Omdia, OECD, WBA, 
+McKinsey, GSMA
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+AI is driving a Network Infrastructure Build Super-cycle
+Central AI 
+data center 
+Central AI 
+data center 
+Edge AI 
+Node Edge AI Node
+AI 
+device
+AI 
+device
+AI 
+device
+Source: 2025 Omdia
+AI 
+device
+Edge AI 
+Node 
+Backbone networks connecting central AI DCs as well as edge AI nodes, 
+metro networks
+Metro networks aggregating traffic from access networks and 
+connecting edge AI nodes 
+Access networks connecting AI devices to the cloud
+Current CSP networks will not suffice to handle 
+AI traffic in the coming years 
+Significant investments in new “AI Middle-Mile” 
+networks with resilient 400G/800G connectivity
+46% of net new AI traffic will be processed at 
+“Edge AI” nodes accessed at 100G/200G speeds
+AI-powered apps (e.g., gen-AI assistants, AR/VR) are 
+increasing uplink triggering 4G/5G network 
+densification and offload solutions (e.g., broadcast)
+Business Impact
+Terabit-scale DCI products for AI cloud 
+interconnect
+Converged broadband access, backhaul and 
+compute at the network edge
+400G/800G coherent DWDM, packet switching 
+and routing solutions in Metro networks
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Growing Investments in Network Infrastructure
+▪ 4G expansion and densification in 
+emerging markets
+▪ 4G network refresh in USA and 
+Europe
+▪ Multi-year 5G capex cycle in India 
+and across the world
+▪ Growing private 4G/5G deployments 
+in utilities, manufacturing
+4G/5G Mobile 
+Infrastructure
+Wholesale and 
+Enterprise Services
+Critical Infrastructure Fixed Broadband
+▪ High-bandwidth interconnections 
+between AI data centers (400G+)
+▪ Multi-fold optical network capacity 
+augmentation by telcos & “Carrier 
+of Carriers”
+▪ Digital transformation of 
+enterprises, cities and economies 
+driving backbone upgrades
+▪ Accelerating adoption of FTTX and 
+FWA globally
+▪ Stimulus funding for FTTX in USA 
+and Europe
+▪ Enterprise-grade xPON for SMEs, 
+backhaul, smart cities
+▪ Modernization of utilities from TDM 
+to PTN, IP/MPLS
+▪ Long tail for legacy SDH/SONET 
+technologies
+▪ 5G and LTE-R emerging as 
+successors to GSM-R for Future 
+Railways Communications
+Total Addressable Market 
+(ex-China), US$ Billion
+49
+58
+2024 2029
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Strong Policy Push for Indigenization in India
+Preference 
+to Make in
+India (PMI)
+Tejas is a Class-1 local 
+supplier and the 
+majority of our 
+products are included 
+in the PMI list 
+published by DoT.
+Tejas products have received
+Trusted Source certification
+from NSDTS (National
+Security Directive on the
+Telecom Sector).
+‘Trusted’
+Telecom 
+Equipment
+Tejas Networks received ₹ 123 Cr as 
+incentives under the Government of 
+India’s PLI scheme for FY24 and ₹ 312 
+Cr for FY25
+Production 
+Linked
+Incentive (PLI) 
+Scheme
+Research, 
+Development
+Innovation (RDI) 
+Scheme
+DST has announced a Rs 
+1 lac crore fund to boost 
+private sector R&D in 
+India to strengthen 
+technological self-
+reliance
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Strategic Initiatives
+Evolving our Portfolio 
+for the AI Era
+Partnerships to Expand 
+Global Market Reach
+Actively Contributing 
+to Emerging Standards 
+1 2 3
+• Early investments in 5G-Adv/6G,  Edge 
+AI and AI data center products
+• Integration of NTN capabilities to 
+address 5G-Advanced requirements
+• Purpose-built products for AI data 
+center interconnectivity (DCI) and 
+networked edge
+• Fostering strategic partnerships to 
+increase addressable market
+• Joint Go-to-Market (GTM) with NEC for 
+5G and beyond
+• Tapping global Open RAN opportunities 
+with Rakuten Symphony
+• Working on 5G-Adv/6G standards and 
+technologies (e.g., RIS, ISAC, AI/ML)
+• Participation in B6GA, TSDSI to drive 
+standards contributions in 6G
+• Increase portfolio of Standards 
+Essential Patents (SEPs)
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Roadmap - Expanding Product Capabilities
+5G mMIMO Radios  
+(64TR and beyond)
+6G RAN & Converged 
+4G/5G/6G Core
+1.2T/ch. DWDM & beyond
+Ultra-fast 50G-PON
+Purpose-built, multi-terabit 
+data center interconnect
+4-16 Tbps IP/MPLS 
+aggregation routers
+Agentic AI for network 
+analytics and 
+troubleshooting 
+Accurate long-horizon 
+forecasting of telecom 
+parameters
+Cognitive RAN for optimal 
+radio performance
+4G/5G 
+Wireless
+Optical Transport, 
+FTTX, DCI
+Advanced AI
+Satcom-IoT
+Switching & 
+Routing
+Next-generation Satcom 
+IOTs and D2M solutions
+
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Well-positioned for an Exciting Future
+Technology 
+Leadership
+ Cost Leadership
+Favorable Macro 
+Environment
+• Software defined Hardware 
+• Platform Convergence
+• Customer-specific Adaptations 
+• Cost-efficient India-based R&D
+• Scalable EMS model for 
+Manufacturing
+• Lean Overheads enabling Agile 
+Operations 
+• Large and Growing Market
+• Demand for Trusted Suppliers
+• Adoption of Open Networking 
+Technologies 
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Financial Update
+
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Revenue and Business Mix
+922
+2,471
+8,923
+464
+FY23 FY24 FY25 FY26 H1
+▪ Significant growth in revenue in FY24 and FY25 
+driven by large projects (BSNL 4G, BSNL MAAN)
+▪ Delay in some of the large opportunities partially 
+impacted revenue ramp-up in H1FY26
+▪ Actively pursuing large wireless and wireline 
+opportunities to expand the order book
+Revenue (INR Cr)
+26% 36%
+3% 23%
+50%
+54%
+94% 57%
+24% 10% 3% 20%
+FY23 FY24 FY25 FY26 H1
+Ind Govt Ind Pvt International
+Revenue Mix % (1)
+▪ In H1FY26, revenue mix – 
+▪ India Private - 57% 
+▪ India Government - 23%
+▪ International - 20%
+▪ Contribution from India private customers was 
+significantly higher for FY25 due to execution of 
+BSNL 4G project
+(1) Revenue Mix excludes other operating revenue 
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Key Opportunities being Targeted
+▪ Expansion of BSNL’s 4G Network and 5G 
+Upgrade; Greenfield 5G SA
+▪ Expansion of 4G and 5G networks by leading 
+private telcos in India
+▪ Conversion of ongoing international 4G/5G POCs 
+to commercial orders
+▪ 4G/5G opportunities through GTM partners such 
+as NEC and Rakuten
+Wireless Wireline
+▪ BharatNet Phase-III
+▪ Capacity augmentation of DWDM networks 
+(400G+) in utility segment
+▪ Metro network expansion for operators in India 
+for backhaul and enterprise services
+▪ GPON/XGS-PON opportunities in EMEA and 
+Americas
+▪ Network modernization deals in North America
+▪ Order Book at the end of Q2-FY26:  INR 1204 Cr
+▪ Order Book Mix:   India (93%), International (7%)
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Financial Summary
+INR Cr FY23 FY24 FY25 FY26 YTD
+Revenue from Operations 922 2,471 8,923 464
+Gross Margin % 26% 28% 22%
+EBIT (1) -106 93 905 -626
+EBIT % NM 4% 10% NM
+PAT -36 63 447 -501
+INR Cr FY23 FY24 FY25 FY26 YTD
+Inventory 647 3,738 2,367 2,383
+Trade Receivables 518 1,458 4,884 4,026
+Less: Payables (301) (1,839) (1,184) (355)
+Less: Customer Adv and Others 71 (209) (1,544) (1,148)
+Net Working Capital(2) 935 3,147 4,524 4,906
+Borrowings - 1,744 3,269 4,156
+Cash and Cash Equivalents(3) 1,306 641 827 417
+Summary P&L
+Select Balance Sheet Items
+▪ Working capital started to taper off in H1FY26; build-up 
+mainly on account of: 
+▪ Receivables (mainly for BSNL 4G project offset by 
+advance received)
+▪ Inventory procurement for anticipated projects 
+▪ Partly offset by lower payables
+▪ Increase in borrowings mainly to fund working capital 
+requirements and capex
+(1) EBIT = PBT – Other Income + Finance Cost including Net forex loss 
+(2) Net working capital calculated as Current Assets (excluding Cash & Cash Equivalents) net of Current Liabilities (excluding Borrowings and lease liabilities) 
+(3) Cash and cash equivalents includes investment in liquid mutual funds, deposits, other Bank balances 
+▪ Revenue increased by ~9x between FY23 and FY25 
+mainly due to large project execution (BSNL 4G, BSNL 
+MAAN)
+▪ H1FY26 profitability impacted due to 
+▪ Delay in receipt of select large orders
+▪ Inventory and warranty related provisions
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Discover how we can revolutionize your network
+HQ: Bangalore, India
+New Delhi | Gurgaon | Mumbai | Kolkata | Chennai
+www.tejasnetworks.com | +91-80-4179-4600
+info@tejasnetworks.com
+USA
+UK
+KENYA
+SOUTH AFRICA
+NIGERIA
+ALGERIA
+UAE
+MALAYSIA
+SINGAPORE
+MEXICO
+BANGLADESH
+Thank You
+
+T e j a s  N e t w o r k s  C o n f i d e n t i a l
+Disclaimer
+This presentation has been prepared by Tejas Networks Limited  (“Company") solely for 
+information purposes without any regard to any specific objectives, financial situations or 
+informational needs of any particular person. This presentation may not be copied, distributed 
+or disseminated, directly or indirectly, in any manner. The contents of this presentation may 
+contain unpublished price sensitive information (“UPSI”) and you are hereby required not to 
+trade in any securities of the Company based on such UPSI and any breach of the same shall 
+constitute a punishable offence under the SEBI (Prohibition of Insider Trading) Regulations, 
+2015. Failure to comply with this directive may result in a violation of the applicable law in 
+certain jurisdictions. By reviewing this presentation, you agree to be bound by the restrictions 
+contained herein, and to maintain absolute confidentiality, regarding the information 
+disclosed in these materials.
+This presentation does not constitute or form part of and should not be construed as, directly or 
+indirectly, any offer or invitation or inducement to sell or issue, or any solicitation of any offer to 
+purchase or subscribe for, any securities of the Company by any person in any jurisdiction, 
+including in India, nor shall it or any part of it or the fact of its distribution form the basis of, or 
+be relied on in connection with, any investment decision or any contract or commitment 
+therefor.
+This presentation contains statements that constitute forward looking statements. These 
+statements include descriptions regarding the intent, belief or current expectations of the 
+Company or its directors and officers with respect to the results of operations and financial 
+condition of the Company. These statements can be recognized by the use of words such as 
+''expects", "plans", 'will", "estimates", "projects", or other words of similar meaning. Such forward-
+looking statements are not guarantees of future performance and involve risks and 
+uncertainties, and actual results may differ materially from those in such forward-looking 
+statements as a result of various factors and assumptions which the Company believes to be 
+reasonable in light of its operating experience in recent years. The risks and uncertainties 
+relating to these statements include, but not limited to, risks and uncertainties, regarding 
+fluctuations in earnings, our ability to manage growth, competition, our ability to manage our 
+international operations, government policies, regulations, etc. The Company does not 
+undertake any obligation to revise or update any forward looking statement that may be 
+made from time to time by or on behalf of the Company including to reflect actual results, 
+changes in assumptions or changes in factors affecting these statements. Given these risks, 
+uncertainties and other factors, viewers of this presentation are cautioned not to place undue 
+reliance on these forward looking statements. This presentation may contain certain currency 
+exchange rates and the same have been provided only for the convenience of readers. No 
+representation is made that the Rupee amounts actually represent such USD amounts or 
+could have been, or could be, converted into USD at the indicated rates.
+This presentation is not a complete description of the Company and may not be all inclusive 
+and may not contain all of the information that you may consider material. The information 
+contained in this presentation has not been independently verified. No representation, 
+warranty, guarantee or undertaking, express or implied, is or will be made as to, and no 
+reliance should be placed on, the accuracy, completeness, correctness or fairness of the 
+information, estimates, projections and opinions contained in this presentation. Viewers of this 
+presentation must make their own assessment of the relevance, accuracy and adequacy of the 
+information contained in this presentation and must make such independent investigation as 
+they may consider necessary or appropriate for such purpose. Such information and opinions 
+are in all events not current after the date of this presentation. Further, past performance is not 
+necessarily indicative of future results. Any opinions expressed in this presentation or the 
+contents of this presentation are subject to change without notice. 
+This presentation should not be construed as legal, tax, accounting, investment or other advice.
+Any person placing reliance on the information contained in this presentation or any other 
+communication by the Company does so at his or her own risk and none of the Company nor 
+any of its affiliates, advisers or representatives, any placement agent, promoters or any other 
+persons that may participate in any offering of any securities of the Company shall have any 
+responsibility or liability whatsoever, whether arising in tort, contract or otherwise, for any 
+errors, omissions, insufficiencies or inaccuracies in such information or opinions or for any loss, 
+cost or damage suffered or incurred howsoever arising, directly or indirectly, from any use of 
+this presentation or its contents or otherwise in connection with this presentation.
+This presentation has not been and will not be registered as a prospectus with any Registrar of 
+Companies in India. This presentation is not a prospectus, a statement in lieu of a prospectus, 
+an offering circular, an advertisement, a private placement offer letter or an offer document 
+under the Companies Act, 2013 and the rules made thereunder, the Securities and Exchange 
+Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2009, as amended, 
+or any other applicable law.

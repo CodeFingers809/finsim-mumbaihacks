@@ -1,0 +1,791 @@
+ 
+Date: November 14, 2025 
+To 
+BSE Limited, 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, 
+Mumbai – 400001 
+ 
+Ref: Scrip Code: 543351 / Scrip ID: NBL 
+Subject: Outcome of Board Meeting held on November 14, 2025 
+ 
+Dear Sir/Madam, 
+ 
+Pursuant to the Regulation 33 of the SEBI (Listing Obligation and Disclosure Requirements) Regulations, 
+2015, we wish to inform you that the Board of Directors of the company at its meeting held today i.e. 
+November 14, 2025 at 04:15 P.M. has inter alia, approved and taken on record the following items:  
+ 
+1. Approved the Standalone and Consolidated Audited Financial Results of the Company for the half 
+year ended on September 30, 2025.  
+ 
+2. Approved the Report of the Statutory Auditor with Unmodified Opinion with respect to Standalone 
+and Consolidated audited financial results of the company for the half year ended September 30, 
+2025. 
+ 
+3. Declaration pursuant to Regulation 33(3)(d) of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 enclosed herewith as Annexure A. 
+ 
+4. Declaration pursuant to Regulation 33(2)(a) of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 enclosed herewith as Annexure B. 
+ 
+5. Statements of Deviation(s) and variation(s) under Regulation 32 of SEBI (Listing Obligation and 
+Disclosure Requirements) Regulations, 2015 enclosed herewith as Annexure C. 
+ 
+6. Statement of Related Party Transactions enclosed herewith as Annexure D. 
+ 
+The Board Meeting commenced at 04:15 P.M. and concluded at 04:33 P.M. 
+Please take the above information on your records. 
+ 
+For, NAAPBOOKS LIMITED 
+ 
+ 
+ 
+CS Khushi Golani 
+Company Secretary & Compliance Officer 
+ACS No. 78126 
+Encl.: As above 
+Unaudited Audited
+As at As at
+Particulars 30th September 2025 31st March 2025
+(₹ Lakhs) (₹ Lakhs)
+I. EQUITY AND LIABILITIES
+(1) Shareholders' funds
+Share capital 1078.62 1071.42
+Reserves and surplus 2457.31 2091.39
+Money received against share Warrants 387.52 398.50
+3923.45 3561.31
+(2) Non-current liabilities
+Long-term borrowings 32.53 41.12
+Deferred tax liabilities (Net) 0.00 0.64
+32.53 41.76
+(3) Current liabilities
+Short-term borrowings 89.93 22.57
+Trade payables
+-[A] Total outstanding dues of micro enterprises and small enterprises 0.00 0.00
+-[B] Total outstanding dues of creditors other than micro enterprises and 
+small enterprises 111.44 471.50
+Other current liabilities 48.35 24.60
+Short-term provisions 272.99 164.63
+522.71 683.29
+Total 4478.69 4286.37
+II. ASSETS
+(1) Non-current assets
+Property Plant & Equipment and Intangible assets
+a) Property, Plant and Equipment 136.78 147.94
+b) Intangible assets 41.67 45.60
+c) Intangible assets under development 2246.50 518.56
+Non Current Investments 566.66 560.81
+Deferred Tax Assets 1.27 0.00
+Other Non Current Assets 6.30 6.30
+2999.18 1279.21
+(2) Current assets
+Trade receivables 219.28 576.48
+Cash and cash equivalents 47.46 70.59
+Short-term loans and advances 1069.09 2320.36
+Other Current Assets 143.68 39.72
+1479.51 3007.15
+Total 4478.69 4286.37
+Yaman Saluja
+Whole Time Director & CFO
+Place: Ahmedabad DIN: 07773205
+Date: 14th Nov, 2025
+E Mail id: compliance@naapbooks.com Mobile No:  9016323227
+Standalone Balance Sheet
+For and on behalf of the Board of Directors of Naapbooks 
+Limited
+Naapbooks Limited
+901, SHIVARTH- THE ACE, SINDHU BHAVAN ROAD
+SINDHU BHAVAN, BODAKDEV, AHMEDABAD - 380054
+CIN - L72900GJ2017PLC096975
+SALUJA 
+YAMAN
+Digitally signed by 
+SALUJA YAMAN 
+Date: 2025.11.14 
+17:19:44 +05'30'
+Unaudited Audited Unaudited Audited
+For the half year ended For the half year ended For the half year ended For the year ended
+30th September 2025 31st March 2025 30th September, 2024 31st March 2025
+(₹ Lakhs) (₹ Lakhs) (₹ Lakhs) (₹ Lakhs)
+I. Revenue from operations 972.65 840.19 378.20 1218.39
+II. Other income 5.85 11.24 12.37 23.61
+III. Total Income 978.50 851.43 390.57 1242.00
+IV. Expenses
+Development expenses 356.82 207.88 84.77 292.65
+Employee benefits expenses 109.51 87.83 74.10 161.93
+Finance costs 8.08 20.02 9.00 29.02
+Depreciation and Amortisation expenses 31.77 37.83 24.81 62.64
+Other expenses 34.37 42.47 33.21 75.68
+Total expenses 540.54 396.02 225.89 621.92
+V. Profit before exceptional and extraordinary items and tax - 437.96 455.41 164.68 620.09
+(III- IV)
+VI. Exceptional items 0.00 0.00 0.00 0.00
+VII. Profit before extraordinary items and tax (V - VI) 437.96 455.41 164.68 620.09
+VIII. Extraordinary items
+IV. Profit before tax 437.96 455.41 164.68 620.09
+V. Tax expense:
+Current tax 110.67 125.97 42.43 168.40
+Tax for Earlier Years 0.00 6.55 0.00 6.55
+Deferred tax (1.91) (1.64) (1.31) (2.96)
+VI. Profit for the year 329.20 324.54 123.56 448.10
+VII. Earnings per equity share: - Not Annualized
+Basic and diluted (In Rupees) 3.06 3.03 1.37 4.70
+Adjusted EPS (In Rupees) 3.06 3.03 1.37 4.70
+Significant accounting policies
+See accompanying notes to financial statements
+Debt Equity Ratio 0.03 0.02 0.12 0.02
+Debt Service Ratio 19.22 15.55 9.67 15.55
+Interest Service/Coverage Ratio 47.51 31.43 17.34 31.43
+Yaman Saluja
+Whole Time Director & CFO
+Place: Ahmedabad DIN: 07773205
+Date: 14th Nov, 2025
+i)
+ii)
+iii)
+iv)
+v)
+vi)
+Particulars
+For and on behalf of the Board of Directors of Naapbooks Limited
+Naapbooks Limited
+901, SHIVARTH- THE ACE, SINDHU BHAVAN ROAD
+SINDHU BHAVAN, BODAKDEV, AHMEDABAD - 380054
+CIN - L72900GJ2017PLC096975
+E Mail id: compliance@naapbooks.com Mobile No:  9016323227
+The company has only one business segment therefore as per AS 17 Segment information disclosure is not applicable
+The above Standalone financial results were reviewed by the Audit Committee and approved by the Board of Directors at their meeting held on 14th November, 2025
+The Standalone financial results include the results for the Half Year ended 31st March, 2025 being the balancing figure between the audited figures in respect of the full financial 
+year and the published unaudited  figures upto the half year ended 30th September, 2024 of that financial year
+Earning per share (EPS): Earning per share have been calculated on the weighted average of the Share capital outstanding during the year.
+Previous year/period figures have been re-grouped and re-arranged wherever necessary.
+The Standalone Financial Results have been prepared in accordance with the Generally Accepted Accounting Standards as  notified under Section 133 of Companies Act, 2013 and 
+other accounting principles generally accepted in India as amended from time to time. As per MCA Notification dated 16th February, 2015 Companies whose Shares are listed on 
+SME Exchange as referred to in Chapter IX of SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018, are exempted from the compulsory requirement of adoption of 
+Standalone Statement of Profit and Loss 
+SALUJA 
+YAMAN
+Digitally signed by 
+SALUJA YAMAN 
+Date: 2025.11.14 
+17:20:01 +05'30'
+Unaudited Audited
+A CASH FLOW FROM OPERATING ACTIVITIES:
+Profit for the year 437.96 620.09
+Add:
+(a) Depreciation & Amortization 31.77 62.64
+(b) Financial & Interest Expenses 8.08 29.02
+Less:
+(a) Interest Income 0.00 5.19
+OPERATING PROFIT BEFORE WORKING CAPITAL CHANGES 477.81 706.56
+Add/Deduct:
+(a) Increase/Decrease in Short Term Provisions
+(a) Increase/Decrease in Trade Payables (360.06) 465.75
+(b) Increase/Decrease in Other Current Liabilities 23.76 10.56
+(c) Increase/Decrease in Inventories
+(c) Increase/Decrease in Trade Receivables 357.21 (165.46)
+(d) Increase/Decrease in Short Term Loans & Advances 1251.27 (1724.47)
+(e) Increase/Decrease in Short Term Borrowing 67.36 (118.48)
+(f) Increase/Decrease in Other Current Assets (103.96) (36.49)
+Total Working Capital Adujustment 1235.57 (1568.60)
+CASH GENERATED FROM OPERATIONS 1713.38 (862.04)
+Deduct:
+Direct Taxes Paid  (Net) 2.31 56.49
+NET CASH FROM OPERATING ACTIVITIES 1711.07 (918.53)
+B CASH FLOW FROM INVESTING ACTIVITIES:
+(a) Purchase of Fixed Assets  & Intangible Assets under Development (1744.62) (488.29)
+(b) Intangible Assets under development amortized 0.00 84.77
+(c) Change in Long Term Investments (5.85) (18.41)
+(d) Change in Other Non Current Assets 0.00 (1.55)
+(e) Interest Income 0.00 5.19
+(d) Deferred Revenue Expenditure
+NET CASH USED IN INVESTING ACTIVITIES (1750.47) (418.29)
+C CASH FLOW FROM FINANCING ACTIVITIES:
+(a) Share and Warrant Issue Proceeds 32.94 1432.08
+(b) Net Increase in Borrowings (8.59) 0.60
+(c) Interest exps (8.08) (29.02)
+NET CASH FROM IN FINANCING ACTIVITIES 16.27 1403.66
+NET INCREASE(DECREASE) IN CASH AND CASH EQUIVALENTS (23.13) 66.83
+OPENING BALANCE- CASH AND CASH EQUIVALENT 70.59 3.76
+CLOSING BALANCE- CASH AND CASH EQUIVALENT 47.46 70.59
+ *Previous year’s figures have been regrouped/reclassified wherever applicable. 
+Yaman Saluja
+Place: Ahmedabad Whole Time Director & CFO
+Date: 14th Nov, 2025 DIN: 07773205
+E Mail id: compliance@naapbooks.com Mobile No:  9016323227
+Year ended 31st March 
+2025
+(₹ Lakhs)
+For and on behalf of the Board of Directors of Naapbooks 
+Limited
+Naapbooks Limited
+901, SHIVARTH- THE ACE, SINDHU BHAVAN ROAD
+CIN - L72900GJ2017PLC096975
+SINDHU BHAVAN, BODAKDEV, AHMEDABAD - 380054
+Standalone Statement of Cash Flows
+PARTICULARS
+Half Year ended 30th 
+September 2025
+(₹ Lakhs)
+SALUJA 
+YAMAN
+Digitally signed by 
+SALUJA YAMAN 
+Date: 2025.11.14 
+17:20:23 +05'30'
+Unaudited Audited
+As at As at
+Particulars 30th September 2025 31st March 2025
+(₹ Lakhs) (₹ Lakhs)
+I. EQUITY AND LIABILITIES
+(1) Shareholders' funds
+Share capital 1078.62 1071.42
+Reserves and surplus 2457.22 2091.30
+Money received against Share Warrants 387.52 398.50
+3923.36 3561.22
+(2) Non-current liabilities
+Long-term borrowings 32.53 41.12
+Deferred tax liabilities (Net) 0.00 0.64
+32.53 41.76
+(3) Current liabilities
+Short-term borrowings 89.93 22.57
+Trade payables
+-[A] Total outstanding dues of micro enterprises and small enterprises 0.00 0.00
+-[B] Total outstanding dues of creditors other than micro enterprises and 
+small enterprises 111.44 471.50
+Other current liabilities 48.35 24.60
+Short-term provisions 272.99 164.63
+522.71 683.29
+Total 4478.59 4286.28
+II. ASSETS
+(1) Non-current assets
+Property Plant & Equipment and Intangible assets
+a) Property, Plant and Equipment 136.78 147.94
+b) Intangible assets 41.67 45.60
+c) Intangible assets under development 2246.50 518.56
+Non Current Investments 566.57 560.72
+Deferred Tax Assets 1.27 0.00
+Other Non Current Assets 6.30 6.30
+2999.09 1279.12
+(2) Current assets
+Trade receivables 219.28 576.48
+Cash and cash equivalents 47.46 70.59
+Short-term loans and advances 1069.09 2320.36
+Other Current Assets 143.68 39.72
+1479.51 3007.15
+Total 4478.59 4286.28
+Yaman Saluja
+Whole Time Director & CFO
+Place: Ahmedabad DIN: 07773205
+Date: 14th November, 2025
+E Mail id: compliance@naapbooks.com Mobile No:  9016323227
+Naapbooks Limited
+901, SHIVARTH- THE ACE, SINDHU BHAVAN ROAD
+SINDHU BHAVAN, BODAKDEV, AHMEDABAD - 380054
+CIN - L72900GJ2017PLC096975
+CONSOLIDATED BALANCE SHEET
+For and on behalf of the Board of Directors of Naapbooks 
+Limited
+SALUJA 
+YAMAN
+Digitally signed by 
+SALUJA YAMAN 
+Date: 2025.11.14 
+17:28:12 +05'30'
+Unaudited Audited Unaudited Audited
+For the half year ended For the half year ended For the half year ended For the year ended
+30th September 2025 31st March 2025 30th September, 2024 31st March 2025
+(₹ Lakhs) (₹ Lakhs) (₹ Lakhs) (₹ Lakhs)
+I. Revenue from operations 972.65 840.19 378.20 1218.39
+II. Other income - Including Share of Associates 5.85 11.25 12.37 23.62
+III. Total Income 978.50 851.44 390.57 1242.01
+IV. Expenses
+Development expenses 356.82 207.88 84.77 292.65
+Employee benefits expenses 109.51 87.83 74.10 161.93
+Finance costs 8.08 20.02 9.00 29.02
+Depreciation and Amortisation expenses 31.77 37.83 24.81 62.64
+Other expenses 34.37 42.47 33.21 75.68
+Total expenses 540.54 396.02 225.89 621.92
+V. Profit before exceptional and extraordinary items and tax - 437.96 455.42 164.68 620.10
+(III- IV)
+VI. Exceptional items 0.00 0.00 0.00 0.00
+VII. Profit before extraordinary items and tax (V - VI) 437.96 455.42 164.68 620.10
+VIII. Extraordinary items
+IV. Profit before tax 437.96 455.42 164.68 620.10
+V. Tax expense:
+Current tax 110.67 125.97 42.43 168.40
+Tax for Earlier Years 0.00 6.55 0.00 6.55
+Deferred tax (1.91) (1.64) (1.31) (2.96)
+VI. Profit After Tax before Minority Interest 329.20 324.55 123.56 448.11
+VII Minority Interest 0.00 0.00 0.00 0.00
+VIII Profit for the year after tax and Minority Interest 329.20 324.55 123.56 448.11
+IX Earnings per equity share: Not Annualized
+Basic and diluted (In Rupees) 3.06 3.03 1.37 4.70
+Debt Equity Ratio 0.03 0.02 0.12 0.02
+Debt Servive Ratio 19.22 15.55 9.67 15.55
+Interest Service/Coverage Ratio 47.51 31.43 17.34 31.43
+For and on behalf of the Board of Directors of Naapbooks Limited
+Yaman Saluja
+Place: Ahmedabad Whole Time Director & CFO
+Date: 14th November, 2025 DIN: 07773205
+i)
+ii)
+iii)
+iv)
+v)
+vi)
+vii)
+Cafe Blockchain Private Limited, formerly a subsidiary of our Company, allotted equity shares on right basis to its existing shareholders on September 30, 2024. As a result, 
+our Company’s shareholding was diluted to 50%, and Cafe Blockchain Private Limited ceased to be a subsidiary. Accordingly, the investment in Cafe Blockchain Private 
+Limited has been accounted for using the equity method, and it is now classified as an Associate Company
+The company has only one business segment therefore as per AS 17 Segment information disclosure is not applicable
+The above consolidated financial results were reviewed by the Audit Committee and approved by the Board of Directors at their meeting held on 14th November, 2025
+The consolidated financial results include the results for the Half Year ended 31st March, 2025 being the balancing figure between the audited figures in respect of the full 
+financial year and the published unaudited  figures upto the half year ended 30th September, 2024 of that financial year
+Earning per share (EPS): Earning per share have been calculated on the weighted average of the Share capital outstanding during the year.
+Previous year/period figures have been re-grouped and re-arranged wherever necessary.
+The Consolidated Financial Results have been prepared in accordance with the Generally Accepted Accounting Standards as  notified under Section 133 of Companies Act, 
+2013 and other accounting principles generally accepted in India as amended from time to time. As per MCA Notification dated 16th February, 2015 Companies whose 
+Shares are listed on SME Exchange as referred to in Chapter IX of SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018, are exempted from the 
+compulsory requirement of adoption of IND-AS. 
+Particulars
+CONSOLIDATED STATEMENT OF PROFIT AND LOSS 
+Naapbooks Limited
+901, SHIVARTH- THE ACE, SINDHU BHAVAN ROAD
+SINDHU BHAVAN, BODAKDEV, AHMEDABAD - 380054
+CIN - L72900GJ2017PLC096975
+E Mail id: compliance@naapbooks.com Mobile No:  9016323227
+SALUJA 
+YAMAN
+Digitally signed 
+by SALUJA 
+YAMAN 
+Date: 2025.11.14 
+17:28:33 +05'30'
+Unaudited Audited
+A CASH FLOW FROM OPERATING ACTIVITIES:
+Profit for the year 437.96 620.10
+Add:
+(a) Depreciation & Amortization 31.77 62.64
+(b) Financial & Interest Expenses 8.08 29.02
+Less:
+(a) Interest Income 0.00 5.19
+OPERATING PROFIT BEFORE WORKING CAPITAL CHANGES 477.81 706.57
+Add/Deduct:
+(a) Increase/Decrease in Short Term Provisions
+(a) Increase/Decrease in Trade Payables (360.06) 465.75
+(b) Increase/Decrease in Other Current Liabilities 23.76 10.56
+(c) Increase/Decrease in Inventories
+(c) Increase/Decrease in Trade Receivables 357.21 (165.46)
+(d) Increase/Decrease in Short Term Loans & Advances 1251.27 (1724.47)
+(e) Increase/Decrease in Short Term Borrowing 67.36 (118.48)
+(f) Increase/Decrease in Other Current Assets (103.96) (36.49)
+Total Working Capital Adujustment 1235.57 (1568.60)
+CASH GENERATED FROM OPERATIONS 1713.38 (862.03)
+Deduct:
+Direct Taxes Paid  (Net) 2.31 56.49
+NET CASH FROM OPERATING ACTIVITIES 1711.07 (918.52)
+B CASH FLOW FROM INVESTING ACTIVITIES:
+(a) Purchase of Fixed Assets  & Intangible Assets under Development (1744.62) (488.29)
+(b) Intangible Assets under development amortized 0.00 84.77
+(c) Change in Long Term Investments (5.85) (18.41)
+(d) Change in Other Non Current Assets 0.00 (1.55)
+(d) Deferred Revenue Expenditure
+(e) Interest Income 0.00 5.19
+(f) Proceeds from loss of control of subsidiary, net of cash disposed 0.00 (1.01)
+NET CASH USED IN INVESTING ACTIVITIES (1750.47) (419.30)
+C CASH FLOW FROM FINANCING ACTIVITIES:
+(a) Share Issue Proceeds 32.94 1432.08
+(b) Net Increase in Borrowings (Net of Loan Converted to Equity) (8.59) 0.60
+(c) Interest exps (8.08) (29.02)
+(d) Minority Interest 0.00 0.00
+NET CASH FROM IN FINANCING ACTIVITIES 16.27 1403.66
+NET INCREASE(DECREASE) IN CASH AND CASH EQUIVALENTS (23.13) 65.83
+OPENING BALANCE- CASH AND CASH EQUIVALENT 70.59 4.76
+CLOSING BALANCE- CASH AND CASH EQUIVALENT 47.46 70.59
+*Previous year’s figures have been regrouped/reclassified wherever applicable.
+For and on behalf of the Board of Directors of Naapbooks Limited
+Yaman Saluja
+Place: Ahmedabad Whole Time Director & CFO
+Date: 14th November, 2025 DIN: 07773205
+E Mail id: compliance@naapbooks.com Mobile No:  9016323227
+Year ended 31st March 2025
+(₹ Lakhs)
+Half Year ended 30th 
+September 2025
+(₹ Lakhs)
+Naapbooks Limited
+901, SHIVARTH- THE ACE, SINDHU BHAVAN ROAD
+CIN - L72900GJ2017PLC096975
+SINDHU BHAVAN, BODAKDEV, AHMEDABAD - 380054
+CONSOLIDATED CASH FLOW STATEMENT
+PARTICULARS
+SALUJA 
+YAMAN
+Digitally signed by 
+SALUJA YAMAN 
+Date: 2025.11.14 
+17:28:48 +05'30'
+ 
+         Annexure A  
+ 
+                                                                                                                                    Date: November 14, 2025 
+ 
+To 
+BSE Limited, 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, 
+Mumbai – 400001 
+ 
+Ref: Scrip Code: 543351 / Scrip ID: NBL 
+ 
+Subject: Declaration pursuant to Regulation 33(3)(d) of the SEBI (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015. 
+Dear Sir/Madam, 
+In Compliance with Regulation 33(3)(d) of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, and circular no. SEBI/HO/CFD/PoD2/CIR/P/0155 dated 
+November 11, 2024, I hereby declare that the Statutory Auditor of the Company, M/s. Chirag R. 
+Shah & Associates, Chartered Accountants, Ahmedabad have issued an Audit Report with 
+unmodified opinion on the Consolidated and Standalone Audited Financial Results of the 
+Company for the half year ended September 30, 2025. 
+ 
+You are requested to take the same on record. 
+ 
+For, Naapbooks Limited,                                                      
+ 
+ 
+Yaman Saluja                                                                                             
+Whole-Time Director & CFO 
+DIN: 07773205 
+ 
+ 
+SALUJA 
+YAMAN
+Digitally signed by 
+SALUJA YAMAN 
+Date: 2025.11.14 
+17:11:11 +05'30'
+ 
+Annexure-B                                                                                                                             
+ 
+Date: November 14, 2025 
+ 
+ 
+To 
+BSE Limited, 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, 
+Mumbai – 400001 
+ 
+Ref: Scrip Code: 543351 / Scrip ID: NBL 
+ 
+Subject: Declaration pursuant to Regulation 33(2)(a) of the SEBI (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015. 
+Dear Sir/Madam, 
+Pursuant to Regulation 33(2)(a) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we do hereby confirm, declare and certify that the Audited Consolidated and 
+Standalone Financial Results of the half year ended September 30, 2025 do not contain any 
+false or misleading statement or figures and do not omit any material fact which may make the 
+statements or figures contained therein misleading.  
+ 
+You are requested to take the same on record. 
+For, Naapbooks Limited                                             
+ 
+ 
+ 
+Ashish Jain     Yaman Saluja                                                                                             
+Director & CEO    Whole-Time Director & CFO 
+DIN: 07783857    DIN: 07773205 
+ 
+ 
+Ashis
+h Jain
+Digitally signed 
+by Ashish Jain 
+Date: 
+2025.11.14 
+17:09:41 +05'30'
+SALUJA 
+YAMAN
+Digitally signed 
+by SALUJA 
+YAMAN 
+Date: 2025.11.14 
+17:10:36 +05'30'
+ 
+ 
+ 
+          Annexure C 
+STATEMENT ON DEVIATION OR VARIATION FOR CONVERSION OF 72,000 CONVERTIBLE WARRANTS ISSUED 
+AT THE FACE VALUE OF ₹10/- (RUPEES TEN ONLY) AT A PRICE OF ₹61/- (RUPEES SIXTY-ONE ONLY) EACH 
+INCLUDING SHARE PREMIUM OF ₹51/- (RUPEES FIFTY-ONE ONLY) INTO 72,000 EQUITY SHARES OF THE 
+COMPANY: 
+Name of listed entity Naapbooks Limited 
+Mode of Fund Raising Preferential Issue of Convertible Warrants 
+Date of Raising Funds December 10, 2024 
+Amount Raised The minimum amount of Rs. 3,98,49,775/- (Rupees 
+Three Crores Ninety-Eight Lacs Forty-Nine Thousand 
+Seven Hundred Seventy-Five Only), which is equivalent 
+to 25%, (twenty five percent) of the Warrants Issue 
+Price was paid at the time of subscription and allotment 
+of each Warrant (“Warrant Subscription Amount”).  
+ 
+Further, the Warrant holders will be required to make 
+further payments of Rs. 11,95,49,325/- (Rupees Eleven 
+Crores Ninety-Five Lacs Forty-Nine Thousand Three 
+Hundred Twenty-Five Only), which is equivalent to 75%, 
+(seventy five percent) of the Warrants Issue Price at the 
+time of exercise of the right attached to the Warrant(s), 
+to subscribe to equity share(s) of the Company 
+(“Warrant Exercise Amount”). 
+Report filed for the Half Year & Year ended 30.09.2025 
+Monitoring Agency Not Applicable 
+Monitoring Agency Name, if applicable Not Applicable  
+Is there a Deviation/Variation in use of funds raised No 
+If yes, whether the same is pursuant to change in 
+terms of a Contract or objects, which was approved 
+by the Shareholders 
+Not Applicable  
+If yes, Date of Shareholder Approval Not Applicable  
+Explanation for the Deviation / Variation Not Applicable  
+Comments of the Audit Committee after review Noted  
+Comments of the auditors, if any There is no deviation or variation 
+Objects for which funds have been raised and where there has been a deviation, in the following table: 
+Original 
+Object 
+ 
+Modified 
+Object, if 
+any 
+ 
+Original 
+Allocation  
+(Rs.) 
+Modified 
+allocation, 
+if any 
+ 
+Funds 
+Utilized  
+(Rs.) 
+Amount of 
+Deviation/Variation 
+for the quarter 
+according to 
+applicable object 
+Remarks if 
+any 
+ 
+Working 
+Capital 
+Requirements  
+ 
+Not 
+Applicable 
+ 
+Rs. 32.94 
+Lacs 
+ 
+ 
+Not 
+Applicable 
+Rs. 32.94 
+Lacs 
+ 
+NIL NIL 
+Capital 
+Expenditure 
+Not 
+Applicable 
+ 
+Not 
+Applicable 
+Not 
+Applicable 
+Not 
+Applicable 
+NIL NIL 
+General 
+Corporate 
+Purpose  
+ 
+Not 
+Applicable 
+Not 
+Applicable 
+Not 
+Applicable 
+Not 
+Applicable 
+NIL NIL 
+ 
+ 
+ 
+Deviation or variation could mean:  
+(a) Deviation in the objects or purposes for which the funds have been raised or  
+(b) Deviation in the amount of funds actually utilized as against what was originally disclosed or  
+(c) Change in terms of a contract referred to in the fund-raising document i.e. prospectus, letter of offer, etc.  
+ 
+ 
+ 
+ 
+Name of Signatory: Yaman Saluja                                                        Date:   September 30, 2025 
+Designation: Whole Time Director & CFO                                        Place: Ahmedabad 
+DIN: 07773205 
+ 
+NOTE:   
+Out of 26,13,100 (Twenty-Six Lacs Thirteen thousand and Hundred) convertible warrants having face value of ₹10/- 
+(Rupees Ten only) at a price of ₹61/- (Rupees Sixty-One only) each including share premium of ₹51/- (Rupees Fifty-
+One Only), 72,000 warrants held by Two Allottees were converted to 72,000 equity shares as 75% of the Warrant 
+Issue price was duly received, the total consideration of ₹32,94,000/- has been received by the Company. 
+The total cash consideration amount of ₹32,94,000/- (Rupees Thirty-Two Lakhs and Ninety-Four Thousand) were 
+fully utilized by the company during the half year i.e. 1st April, 2025 to 30th September, 2025, for the purpose for 
+which the amount was raised by the company. 
+SALUJA 
+YAMAN
+Digitally signed 
+by SALUJA 
+YAMAN 
+Date: 2025.11.14 
+17:14:07 +05'30'
+ 
+Annexure D 
+ 
+Date: November 14, 2025 
+ 
+To 
+BSE Limited, 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, 
+Mumbai – 400001 
+ 
+Ref: Scrip Code: 543351 / Scrip ID: NBL 
+ 
+Subject:   Intimation pursuant to Regulation 23 (9) of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 for the half year ended 30th September, 2025. 
+ 
+Dear Sir/Madam, 
+ 
+In terms of Regulation 23(9) of the SEBI Listing Regulations, we enclose disclosure of Related Party 
+Transactions in the format specified under SEBI Circular No. SEBI/HO/CFD/CFD-PoD2/CIR/P/2024/185 
+dated December 31, 2024 for the half year ended on September 30, 2025. 
+ 
+Kindly acknowledge the same.  
+ 
+For, NAAPBOOKS LIMITED 
+ 
+ 
+Yaman Saluja                                                                                             
+Whole-Time Director & CFO 
+DIN: 07773205 
+ 
+Amount in (Lakhs)
+Name PAN Name PAN Relationship of the counterparty with 
+the listed entity or its subsidiary Opening balance Closing balance
+Nature of 
+indebtedness (loan/ 
+issuance of debt/ 
+any other etc.)
+Details of other indebtedness Cost Tenure
+Nature (loan/ advance/ 
+intercorporate deposit/ 
+investment)
+Interest Rate (%) Tenure Secured/ 
+unsecured
+Purpose for which the 
+funds will be utilised by 
+the ultimate recipient of 
+funds (endusage)
+Notes
+1 NAAPBOOKS LIMITED PROEX ADVISORS LLP ASSOCIATE Advance 665.73 NOTED 665.73 06-09-2025 665.73 1128.76 463.04
+2 NAAPBOOKS LIMITED ABHISHEK JAIN DIRECTOR Any other transactionSitting fees 0.30 NOTED 0.30 06-09-2025 0.30 0.00 0.00
+3 NAAPBOOKS LIMITED ABHISHEK JAIN DIRECTOR Loan 0.20 NOTED 0.20 06-09-2025 0.20 0.20 0.00
+4 NAAPBOOKS LIMITED SIDDHARTH SONI DIRECTOR Any other transactionSitting fees 0.06 NOTED 0.06 06-09-2025 0.06 0.36 0.42
+5 NAAPBOOKS LIMITED PUJA KASERA INDEPENDENT DIRECTOR Any other transactionSitting fees 0.24 NOTED 0.24 06-09-2025 0.24 0.20 0.44
+6 NAAPBOOKS LIMITED SUNIT SHAH INDEPENDENT DIRECTOR Any other transactionSitting fees 0.12 NOTED 0.12 06-09-2025 0.12 0.66 0.78
+7 NAAPBOOKS LIMITED NIRMAL JAIN FORMER DIRECTOR Remuneration 1.67 NOTED 1.67 06-09-2025 1.67 0.00 0.00
+8 NAAPBOOKS LIMITED YAMAN SALUJA DIRECTOR Remuneration 6.00 NOTED 6.00 06-09-2025 6.00 0.00 0.00
+9 NAAPBOOKS LIMITED ASHISH JAIN DIRECTOR Remuneration 7.50 NOTED 7.50 06-09-2025 7.50 0.00 0.00
+10 NAAPBOOKS LIMITED NISHA DARJI FORMER COMPLIANCE OFFICER Any other transactionSalary 1.38 NOTED 1.38 06-09-2025 1.38 0.42 0.00
+11 NAAPBOOKS LIMITED SANCHAL PROJECTS PRIVATE 
+LIMITED
+ENTITY IN WHICH DIRECTOR IS 
+INTERESTED
+Purchase of fixed assets 9.13 NOTED 9.13 06-09-2025 9.13 0.00 0.00
+12 NAAPBOOKS LIMITED KHUSHI GOLANI COMPLIANCE OFFICER Any other transactionSalary 0.41 NOTED 0.41 06-09-2025 0.41 0.00 0.40
+13 NAAPBOOKS LIMITED NIRMAL JAIN FORMER DIRECTOR Loan 0.00 NOTED 0.00 06-09-2025 0.00 1.38 0.00
+14 NAAPBOOKS LIMITED ASHISH JAIN DIRECTOR Loan 0.00 NOTED 0.00 06-09-2025 0.00 0.08 4.98
+15 NAAPBOOKS LIMITED YAMAN SALUJA DIRECTOR Loan 0.00 NOTED 0.00 06-09-2025 0.00 7.54 8.36
+16 NAAPBOOKS LIMITED RUCHITA JAIN WIFE OF DIRECTOR Any other transactionSalary 0.00 NOTED 0.00 06-09-2025 0.00 0.46 0.46
+17 NAAPBOOKS LIMITED NDEAR TECHNOLOGIES PRIVATE 
+LIMITED
+ENTITY IN WHICH DIRECTOR IS 
+INTERESTED
+Advance 0.00 NOTED 0.00 06-09-2025 0.00 1.00 1.00
+18 NAAPBOOKS LIMITED VCAN & CO ENTITY IN WHICH DIRECTOR IS 
+INTERESTED
+Advance 0.00 NOTED 0.00 06-09-2025 0.00 2.00 2.00
+19 NAAPBOOKS LIMITED SANCHAL PROJECTS PRIVATE 
+LIMITED
+ENTITY IN WHICH DIRECTOR IS 
+INTERESTED
+Advance 0.00 NOTED 0.00 06-09-2025 0.00 0.27 0.00
+20 NAAPBOOKS LIMITED PROEX ADVISORS LLP ASSOCIATE Investment 0.00 NOTED 0.00 06-09-2025 0.00 559.68 565.53
+21 NAAPBOOKS LIMITED CAFÉ BLOCKCHAIN PRIVATE LIMITED ASSOCIATE Investment 0.00 NOTED 0.00 06-09-2025 0.00 0.75 0.75
+22 NAAPBOOKS LIMITED NPBOOKS SOFTWARE ENTITY IN WHICH DIRECTOR IS 
+INTERESTED
+Advance 0.00 NOTED 0.00 06-09-2025 0.00 580.95
+0
+23 NAAPBOOKS LIMITED SHASA GLOBAL VENTURES LIMITED ENTITY IN WHICH DIRECTOR IS 
+INTERESTED
+Advance 0.00 NOTED 0.00 06-09-2025 0.00 6.75 6.75
+Total value of transaction during the reporting period 692.74
+Notes:
+Date of Audit Committee 
+Meeting where the 
+ratification was 
+approved
+1. The details in this format are required to be provided for all transactions undertaken during the reporting period. However, opening and closing balances, including commitments, 
+to be disclosed for existing related party transactions even if there is no new related party transaction during the reporting period.
+2. Where a transaction is undertaken between members of the consolidated entity (between the listed entity and its subsidiary or between subsidiaries), it may be reported once.
+3. Listed banks shall not be required to provide the disclosures with respect to related party transactions involving loans, inter-corporate deposits, advances or investments made or given by the listed banks.
+4. For companies with financial year ending March 31, this information has to be provided for six months ended September 30 and six months ended March 31. 
+Companies with financial years ending in other months, the six months period shall apply accordingly.
+5. Each type of related party transaction (for e.g. sale of goods/services, purchase of goods/services or whether it involves a loan, inter-corporate deposit, advance or investment) with a single party shall be disclosed separately and there should be no clubbing or netting of 
+transactions of same type. 
+However, transactions with the same counterparty of the same type may be aggregated for the reporting period. For instance, sale transactions with the same party may be aggregated for the reporting period and purchase transactions may also be disclosed in a similar manner. There 
+should be no netting off for sale and purchase transactions. Similarly, loans advanced to and received from the same counterparty should be disclosed separately, without any netting off.
+6. In case of a multi-year related party transaction:
+  a. The aggregate value of such related party transaction as approved by the audit committee shall be disclosed in the column “Value of the related party transaction as approved by the audit committee”.
+  b. The value of the related party transaction ratified by the audit committee shall be disclosed in the column “Value of the related party transaction ratified by the audit committee”.
+  c. The value of the related party transaction undertaken in the reporting period shall be reported in the column “Value of related party transaction during the reporting period”.
+7. "Cost" refers to the cost of borrowed funds for the listed entity. 8. Transactions such as acceptance of fixed deposits by banks/NBFCs, undertaken with related parties, at the terms uniformly applicable /offered to all shareholders/ public shall also be reported.
+Format for Disclosure of Related Party Transactions (applicable only for half-yearly filings i.e., 2nd and 4th quarter)
+Additional disclosure of related party transactions - applicable only in case the related party transaction relates to loans, inter-corporate deposits, advances or investments made or given by the listed entity/subsidiary. These details need to be disclosed only once, during the reporting period when such transaction was undertaken.
+Sr. No.
+Details of the party (listed entity /subsidiary) entering into 
+the transaction Details of the counterparty
+Type of related party 
+transaction
+Details of  other related 
+party transaction
+Value of the related 
+party transaction as 
+approved by the audit 
+committee
+Remarks on approval by 
+audit committee
+Value of the related 
+party transaction ratified 
+by the audit committee
+Value of transaction 
+during the reporting 
+period
+In case monies are due to either party as a result of 
+the transaction
+In case any financial indebtedness is incurred to make or give loans, inter-corporate deposits, advances or 
+investments Details of the loans, inter-corporate deposits, advances or investments
+Home
+Validate
+Delete
+Add

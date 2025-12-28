@@ -1,0 +1,659 @@
+ 
+November 14, 2025 
+To, 
+BSE Limited, 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Mumbai - 400 001, 
+Maharashtra, India. 
+Sub:       Transcript – Investor Call to share update on performance of the Trust and Highlights for H1 FY26 
+Ref: Altius Telecom Infrastructure Trust (formerly known as Data Infrastructure Trust) (“Trust”) (Scrip Code: 
+543225, 975310, 975969, 975996, 975997, 976624; ISIN: INE0BWS23018, INE0BWS08019, INE0BWS07011, 
+INE0BWS07029, INE0BWS07037, INE0BWS07045)  
+Dear Sir/Madam, 
+Further to our intimation dated November 5, 2025, we hereby inform that the Transcript of Investor Call to share update 
+on performance of the trust and highlights for H1 FY26 of Altius Telecom Infrastructure Trust (formerly known as Data 
+Infrastructure Trust) held on Thursday, November 13, 2025 at 04:00 P.M. (IST), is attached herewith and the same is also 
+available on the website of the Trust i.e. https://www.altiusinfra.com/investors/altius#investor-update .  
+You are requested to kindly take the same on record.  
+Thanking you, 
+For Altius Telecom Infrastructure Trust 
+Data Link Investment Manager Private Limited 
+(formerly known as BIP India Infra Projects Management Services Private Limited) 
+(acting in its capacity as the Investment Manager of Altius Telecom Infrastructure Trust) 
+ 
+Yesha Maniar 
+Compliance Officer 
+C C :  
+Axis Trustee Services Limited (“Trustee of the Trust”) 
+Axis House, P B Marg, Worli, Mumbai – 400025, 
+Maharashtra, India. 
+Catalyst Trusteeship Limited (“Debenture Trustee”) 
+Unit No. 901, 9th Floor, Tower – B, Peninsula Business 
+Park, Senapati Bapat Marg, Lower Parel (W), Mumbai- 
+400013, Maharashtra, India.  
+ 
+
+Page 1 of 16 
+ 
+ 
+“Altius Telecom Infrastructure Trust 
+Investor Conference Call” 
+November 13, 2025 
+ 
+       
+MANAGEMENT: MR. MUNISH SETH   
+GROUP MANAGING DIRECTOR – ALTIUS TELECOM INFRASTRUCTURE TRUST 
+ 
+ MR. RAHUL KATIYAR   
+CHIEF FINANCIAL OFFICER – ALTIUS TELECOM INFRASTRUCTURE TRUST 
+ 
+ MR. ASHWANI KHILLAN   
+CHIEF OPERATING OFFICER – ALTIUS TELECOM INFRASTRUCTURE TRUST 
+ 
+ MR. ANSHUL NAGPAL   
+HEAD INVESTOR RELATIONS – ALTIUS TELECOM INFRASTRUCTURE TRUST 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  Altius Telecom Infrastructure Trust
+  November 13, 2025 
+ 
+Page 2 of 16 
+ 
+Moderator: Ladies and gentlemen, good day and welcome to the Investor Call of Altius Telecom 
+Infrastructure Trust. As a reminder, all participant lines will be in the listen-only mode and there 
+will be an opportunity for you to ask questions after the presentation concludes. Should you 
+need assistance during the conference call, please signal an operator by pressing star then zero 
+on your touchtone phone. 
+ Before we begin, please note that today's discussion may include forward-looking statements 
+which are subject to risk and uncertainties. Please refer to company's investor presentation 
+and disclaimers for further details. 
+ I now hand the conference over to Mr. Anshul Nagpal. Thank you and over to you. 
+Anshul Nagpal: Thank you. On behalf of Altius, I welcome you all to our first Investor Call. We declared our 
+half-yearly results for FY 25-26 yesterday and a detailed investor presentation which is 
+available on our website as well as on Stock Exchange. 
+ I will now take a minute to set the context for the call and then hand over to Munish to share 
+his insights on our business journey and our strategy. As I just mentioned, this is our first 
+investor call that we have initiated as part of our efforts to provide transparency, offer strategic 
+context and address stakeholder questions. Post ATC India acquisition in September 24, 
+rechristened as Elevar Digitel, we now have a platform of over 257,000 sites spread across 
+three entities. 
+ We begin with walking you through our presentation and later open for any questions you may 
+have. As part of this effort, we have decided to hold bi-annual investor calls after our half-
+yearly and annual results. Today's call is led by our Group Managing Director, Mr. Munish Seth 
+and our CFO, Mr. Rahul Katiyar. We also have Mr. Ashwani Khillan, our COO in the room. 
+ I would now invite Munish to begin the presentation. 
+Munish Seth: Thank you, Anshul. Hello, everyone and thank you for joining us today. I am Munish Seth, Group 
+Managing Director at Altius Telecom Infrastructure Trust. As Anshul just mentioned, today 
+marks an important milestone for us. This is our first Investor's Call as a unified platform under 
+the Altius brand and we are truly delighted to share with you today our insights into our 
+business and journey. 
+ Before we begin, on behalf of the entire management team, I would like to express our sincere 
+gratitude for your continued trust, support and engagement with Altius.  
+Moving on to Slide number 4, Altius is a SEBI registered infrastructure trust with a consistent 
+distribution track record since 2020. It is one of the largest and independent telecom 
+infrastructure platforms in the world. We manage over 257,000 macro towers, IBS and small 
+cell sites and support all major telecom operators in India. 
+  Altius Telecom Infrastructure Trust
+  November 13, 2025 
+ 
+Page 3 of 16 
+ 
+ With over 314,000 tenancies and a strong team of over 1400 professionals, we at Altius are 
+proud to be a part of the digital revolution of the country. Altius has a marquee investor base 
+which includes Brookfield, one of the world's largest alternative asset managers and other 
+globally renowned investors such as GIC and BCI. Brookfield also serves as a sponsor to the 
+trust. This partnership combines global investment expertise with local execution strength, 
+ensuring stability, governance and long-term capital support for our platform.  
+Slide number five, Altius has grown with a CAGR of 28% since inception. This growth is based 
+on the back of contractual escalations, organic and inorganic growth.  Our journey began with 
+the acquisition of Summit Digitel from Reliance in 2020 and since then we have built scale and 
+diversification through a series of disciplined acquisitions including Crest Digitel in 2022 and 
+most recently, Elevar Digitel from American Tower Corporation in 2024. Each step has 
+strengthened our portfolio, expanded our tenancies and reinforced our leadership in enabling 
+India's digital connectivity. 
+ Over the course of our journey, our site count has grown from 136,000 to over 257,000 today 
+and our tenancies have more than doubled, now exceeding 314,000. Our growth and scale are 
+reflective of our position as a partner to India's telecom operators. In March 2025, we 
+successfully completed the integration of these three businesses to form one Altius, a single 
+unified and scalable telecom infra platform which is well positioned to capture growth from 
+the next phase of digital expansion. 
+ Moving on to slide six, today Altius is a Pan-India platform operating across all the 22 circles in 
+India, from metros to deep rural regions. Our portfolio combines diverse tower types from 
+ground-based towers and rooftop sites to compact cell-cells, offering both wider coverage and 
+density to our partners' evolving 5G and data coverage needs. 
+ We hold a 52% market share in in-building solutions, underscoring our leadership in high-
+density data environments. This widespread presence gives us a diversified exposure and the 
+ability to serve our customers seamlessly across geographies. 
+ A look on the leadership team, our leadership team brings together deep and diversified 
+expertise with an average of over 30 years across telecom, technology and infra industries. Our 
+leaders have held senior leadership roles at global blue chip companies across big tech, big 
+four, telecom operators and healthcare industries. This unique combination of global 
+perspective and proven execution capabilities on the ground is one of our greatest strengths. 
+ Our Board, a look on the Board, the management team is backed by an eminent set of board 
+members with diverse and rich backgrounds. With half of our Board members independent, 
+our board has a great mix of neutral oversight and sponsor backing. The Board ensures high 
+governance standards and that we operate with transparency, compliance and strategic 
+discipline. 
+  Altius Telecom Infrastructure Trust
+  November 13, 2025 
+ 
+Page 4 of 16 
+ 
+ Moving on to Slide number 10 to talk about the investment thesis, we have five strategic pillars 
+which form the backbone of our business model, namely long-term cash flows with downside 
+protection, strong macro tailwinds, consistent distribution record, growth potential driven by 
+both organic and inorganic opportunities and a well-capitalized balance sheet. 
+ Together, these elements define Altius as a stable and scalable platform uniquely positioned 
+to deliver growth and returns. Long-term cash flows, our cash flow visibility is underpinned by 
+long-term inflation-linked contracts. 
+ We have a weighted average lease expiry spanning nearly 17 years and over 55% of our 
+tenancies are logged in for 30 years with contracted revenue and cost. This structure provides 
+long-term stability and predictable returns while strategic site locations continue to offer scope 
+for tenancies additions and yield improvement. 
+ Additionally, over 80% of our revenue is derived from blue-chip counterparties with strong 
+traded ratings. Talking about the sector, India telecom sector is being propelled by some robust 
+macro tailwinds in form of rapid economic growth, favorable demographics and surging digital 
+consumption. 
+ With projected GDP per capita growth far outpacing other major economies and a young tech-
+savvy population, digital consumption in India is growing rapidly. Today, India boasts over a 
+billion wireless users and over 640 million Indians own a smartphone. 
+ India's affordable mobile data costs have enabled massive data consumption and digital 
+transformation across the country. It is hard to imagine that less than a decade back, the 
+average data consumption in India was around 1 GB per user per month. Today, it stands at an 
+average of 22 GB per user per month at par with some of the developed economies in the 
+world. 
+ Interestingly, around 75% of these users are already consuming well over 30 GB per month. 
+Digitization is being further accelerated through supportive regulatory initiatives like Digital 
+Bharat Nidhi, National Broadband Mission and Telecom ROW Rules 2024. 
+ From the monumental success of UPI and Aadhaar that together form the bedrock of our digital 
+public infrastructure, to the rapid expansion of 5G IoT devices and AI-driven services, every 
+transaction, every interaction and every innovation demands robust connectivity. 
+ While the Indian telecom market has no doubt made major strides in the past, there exists a 
+significant headroom for growth, mainly driven by increasing internet penetration, smartphone 
+adoption and soaring data consumption. 
+ India's internet penetration today is currently at 71%, which is far lower than some of the other 
+major economies, nearly all of which have internet penetration upwards of 90%. Smartphone 
+penetration, which is at approximately 48% currently in India, is also lower than that of other 
+major economies, where it is upwards of 75% to 80%. 
+  Altius Telecom Infrastructure Trust
+  November 13, 2025 
+ 
+Page 5 of 16 
+ 
+ This means there is still a long runway before we reach full digital connectivity. Over the next 
+decade or so, data consumption and 5G connections are also expected to more than double. 
+Some studies project the average data consumption to reach 52 GB per month per user in the 
+next 5 years. 
+ To serve this growing market, both in terms of increasing tele-density and increase in data 
+consumption, the mobile operators will need to continuously optimize, upgrade and expand 
+their portfolio to support both coverage and capacity. Thankfully, within the independent 
+tower space, Altius holds a leading market share with a network of over 257,000 towers spread 
+across India and over 314,000 tenancies. 
+ Altius is a key enabler of the digital revolution in India by partnering with all the major telecom 
+operators and providing them with critical digital infrastructure. Our focus on quality 
+infrastructure, uptime and reliability continues to differentiate us. Long-term partnerships with 
+all major telecom operators ensures both tenancy visibility and diversification of our platform. 
+ Now, I'll request Rahul to take us through our financial portfolio. 
+Rahul Katiyar: Thank you, Munish, and a very good afternoon, everyone. For everyone's convenience, all the 
+figures that I speak to will be in Indian rupees.  
+Moving on to Slide 15 on distribution, as alluded a few times by Munish, Altius has a very 
+consistent distribution track record. As per our distribution policy, we distribute at least 90% 
+of our net distributable cash flow every quarter. Since inception, we have distributed INR71 
+per unit, totaling INR192 billion to our unit holders. Our distribution per unit has grown steadily 
+from INR 4 in FY21 to INR 20 in FY25, reflecting our ability to generate and return cash reliably. 
+ FY25 includes a one-time distribution of INR 28 billion, which is approximately INR 9 per unit, 
+stemming from the opening cash reserves available in Elevar at the time of its acquisition and 
+seven months of Elevar operations. 
+ For H1 FY26, we have announced distribution of INR 8.3 per unit. Our distribution guidance for 
+FY26 is INR 15.3 per unit, which includes 12 months of Elevar operations. This is also reflective 
+of a steady state distribution trajectory. 
+ Moving to Slide 16, we have a demonstrated track record of growing our platform, both 
+organically and inorganically. As we discussed during the earlier part of the presentation, we 
+have grown significantly, both in terms of towers and tenancies. This has enabled us to more 
+than double our adjusted revenue and EBITDA since FY21, representing a 28% revenue CAGR 
+and 24% EBITDA CAGR over the past five years. This growth has been fueled by a combination 
+of contractual escalations, consistent organic expansion through increased tower deployment 
+and tenancy additions, as well as strategic acquisitions that have strengthened our market 
+position.  
+  Altius Telecom Infrastructure Trust
+  November 13, 2025 
+ 
+Page 6 of 16 
+ 
+Moving over to slide 17,apart from maintaining high EBITDA margins, on the balance sheet 
+front, we remain resilient and conservatively financed. Over 80% of our revenue comes from 
+AAA rated customers, ensuring low credit risk and steady income. Our net debt to AUM stands 
+at 47%, which indicates that we have significant headroom to finance future growth capex via 
+additional debt. We are strategically partnered with over 40 lending institutions, ensuring 
+optimal financing. 
+ Moving over to the next slide, our overall debt book comprises of INR 440 billion with support 
+from over 40 lending partners. We have a well-diversified funding strategy in terms of local and 
+international funding, interest rate structure and instrument types. As we speak, 29% of our 
+loan book is floating and the balance fixed. Our leverage currently stands at 47% and we have 
+enough headroom and flexibility to further increase it.  
+As most of you would know, as per SEBI regulations, the leverage gap is at 70%. We have also 
+had certain notable achievements in financing. For example, Altius was the first tower company 
+in India to issue a USD 500 million bond. We have also been able to secure a 15-year NCD 
+anchored by NaBFID. These milestones reflect strong market confidence in our credit quality 
+and governance. 
+Moving over to slide 19, In the last year, we refinanced INR 66 billion of bank loans into longer-
+term bonds at lower yields. With INR 44 billion in upcoming maturities, we have further 
+opportunity to reduce cost of debt and extend duration. A floating book of INR 127 billion 
+provides flexibility amid changing interest rate cycles.  
+Moving over to the next slide, the InvIT ecosystem in India has grown rapidly with 27 registered 
+InvITs of which five are listed publicly. As of March 31, 2025, Altius ranks among the largest by 
+assets under management at INR 861 billion. While Altius represents nearly 11% of India's InvIT 
+AUM, its cash distribution as percentage to overall distribution by InvITs in India is much higher 
+at nearly 25%, underscoring a leadership position in India's infrastructure investment 
+landscape. 
+ We will now provide a brief on our H1 FY26 results. In H1 FY26, Altius delivered stable operating 
+performance. We delivered operating revenue of INR 121 billion, cash EBITDA of INR 42 billion, 
+and net distributable cash flow of INR 26 billion. Our assets under management as of 
+September 30, 2025 stand at INR 914 billion and NAVs per unit is at INR154.91 rupees.  
+That is from my side on financials. We will be happy to take questions now. 
+Moderator: Thank you very much. We will take our first question from the line of Vivekanand S from Ambit 
+Capital. Please go ahead, Vivekanand. Your line is unmuted. Please go ahead with your 
+question. 
+Vivekanand S: Hello, am I audible? 
+Moderator: Yes, but your volume is a little low. Can you speak louder, please? 
+  Altius Telecom Infrastructure Trust
+  November 13, 2025 
+ 
+Page 7 of 16 
+ 
+Vivekanand S: Okay, I will speak straight in my handset. Yes, it is better now. 
+Moderator: Yes. 
+Vivekanand S: Yes. Thank you very much for the opportunity and many thanks for initiating investor 
+engagement and your insightful opening remarks.  
+So, Munish, my first question is on your assessment of the telecom infrastructure market. The 
+two leading telcos have stated that they have completed their 5G rollout and they seem to be 
+guiding for moderation in capex. As things stand from the customer side, where do you see the 
+scalability of the telecom infrastructure business on the tower side and otherwise?  
+Because I see that you have also put a very good slide, slide number 14, which talks about the 
+overall tower market in terms of the numbers, 645,000. Where do you see that going, say, 3 
+years from now and five years from now? And what part of the new tower build opportunity 
+that will be presented will accrue to you?  
+That is my first question. I will ask follow-ups and then move to the second question. Thank 
+you. 
+Munish Seth: Thank you, Vivekanand, for asking the question and I really appreciate your compliments for 
+the call. So, I will give you a longish answer on this one. So, as I alluded to in my opening notes, 
+the data consumption in India is continuing to grow. So, if you look at the smartphone 
+penetration, today is 48%. That gives you a big headroom to grow. Combine it with the growth 
+of internet penetration in the rural country. 
+ So, a combination of these two factors will cause more consumption of data consumption. That 
+will require the network capacity to be augmented to support the demand. And that is where 
+we are very optimistic about the new future to see the demand. If you go through the earnings 
+of all the three operators, all of them have actually stated very objectively that they continue 
+to grow the data growth demand.  
+While Jio reflects about 50% of the users on 5G networks, Airtel and Vodafone are at about 
+80% and we have seen BSNL announce plans to expand the 4G networks. So, the spends are 
+happening. It will happen in different timescales. We have seen BSNL come out with RFP right 
+now, which we are engaged with. Vodafone is also planning the rollouts. I'm pretty sure Airtel 
+and Jio will actually follow with the increased user base. Hopefully, that answers your question. 
+Vivekanand S: Sure. Thanks. This is very good. If you could give us some color on the projections that you have 
+in terms of tower addition. I understand that your, I mean, InvITs are a different structure and 
+you also provide projections of future numbers in your valuation report as well. So, if it is 
+permitted within the norms of disclosure for InvITs, it would be great if you can outline your 
+expectations of the tower addition across the entities, let's say for the next couple of years. 
+  Altius Telecom Infrastructure Trust
+  November 13, 2025 
+ 
+Page 8 of 16 
+ 
+Rahul Katiyar: Yes. Hey, hi Vivek. This is Rahul. So, in terms of whether it is tower additions or tenancy 
+additions, we anticipate the revenue CAGR and the EBITDA CAGR to be in the range of 4% to 
+7%, which will actually be reflective of the underlying growth in towers and tenancies. And this 
+I'm talking at a platform level. So, it is more about extrapolation of these numbers into towers 
+and tenancies. 
+ But as Munish said, you know, this is in our view and what we have seen globally as well is that, 
+you know, the network rollouts happen at different points in time. So, our view is that we will 
+consistently be able to garner a disproportionate share of the market given our positioning or 
+as the telcos keep rolling out. I hope that answers the question. 
+Vivekanand S: Yes, just one follow up. So, when I look at the IP fee growth for this quarter versus the quarter 
+ending June, I see that growth is very marginal. I mean, it is almost flat, the IP income. So, was 
+there any depressing factor during this period that led to the IP income growth being different 
+from your long term outline of 4% to 7%? 
+Munish Seth: Not really. As I alluded to, it's like Brookfield took the initiative of getting Summit Digitel, Crest 
+Digitel and Elevar under a common platform called Altius. So, the first half of the year, 2025, 
+actually went into integrating the three companies together in a common platform. Having said 
+that, we kept adding tenancies during that time, not to the extent we should have added, but 
+I think we are very hopeful and confident of our future growth. 
+Vivekanand S: Okay, this is very helpful. The last question, which is perhaps what we don't understand very 
+well, because we only have one asset which is listed, Indus Towers on the tower side, is the 
+energy margins. Now, when I look at your financials you seem to be earning a very handsome 
+profit on energy. 
+And I calculate that profit as energy revenue, energy and other recovery revenue, minus the 
+energy charges which are part of your network operating expenses. How should one think 
+about this in the long run in your business? Am I looking at it correctly, or is there any error in 
+the, on my part on interpreting this? 
+Rahul Katiyar: Yes. So, Vivekanand, what we can do is you can on the specifics of the calculations, if you write 
+to us, we'll just get back to you with the details. But in terms of how you should be looking at 
+it is that energy essentially is a pass-through in this industry. What we do is, it isn't that we 
+make a lot of money on energy. It's just that it's in the nature of pass-through and due to 
+seasonalities, some quarters or some half years appear to be better than other quarters. But 
+overall, this is from a TowerCo perspective, it is a zero-sum game. 
+Vivekanand S: Understood. Thank you, Rahul and Munish for the detailed answers.  
+Moderator: Thank you. We'll take our next question from the line of Saurabh Handa from Citigroup. Please 
+go ahead. 
+  Altius Telecom Infrastructure Trust
+  November 13, 2025 
+ 
+Page 9 of 16 
+ 
+Saurabh Handa: Yes, thank you everyone for the opportunity. I had a couple of questions. Firstly, in your 
+presentation, you've spoken about the total tower market in India of 861,000 tenancies. Now, 
+I just wanted some granularity on this, because based on disclosures of Bharti, their number is 
+around 340,000. Vodafone Idea, give or take is around 200,000 and BSNL, I'm guessing, would 
+be around 100,000, which would leave the number for Jio at somewhere around 200 to 250, 
+which seems a bit low. So, my first question is, how can we reconcile this? 
+ Is there something that I'm doing incorrectly out here? And secondly, if we assume that today 
+Bharti is at, say, 350,000, and maybe just taking on from the previous question, if data 
+consumption for users is going to go from, say, 30 GB to 50 GB over five years, how much do 
+you think this 350,000 for a telecom operator could go to? So, two parts to this question, 
+please? 
+Munish Seth: Saurabh, thank you for asking the question. So, this is a pretty straightforward number, it 
+comes from the TRAI website. The macro number of towers is as published on TRAI website. 
+And these are published numbers coming from pretty much the TowerCo in themselves. 
+Saurabh Handa: Okay, so what would I be doing wrong out here because, I mean, so you got what I was saying. 
+So, are you trying to say that maybe, say, Jio, which maybe could be having some of its own 
+towers, those do not count as tenancy? Is that what you're trying to suggest? Because if you 
+do the math, then it wasn't adding up to 860,000. That's what I was thinking. For operators, 
+adding up to 860,000 seemed a bit low? 
+Rahul Katiyar: Yes. So, Saurabh there is an element. So, one is what you say, that is right. There will be a few 
+tenancies with the operators which may not have come here. The other one is also about some 
+of these small cells, which don't necessarily get captured as part of this count of 860,000 and 
+the BSNL number is obviously a guesswork because BSNL does not disclose its towers. 
+Saurabh Handa: Okay, all right. So, just my second part of this question, let's assume, go with Bharti's numbers, 
+where we have clear disclosures. So, they are at 340,000 right now. If your data consumption 
+usage goes as per your projections, say 30 GB to 50 GB, where do you think this number 
+potentially goes? I mean, just to get a rough sense, I think the previous participant was asking 
+a similar question. I mean, we just want to get a sense as what is the potential say site or tower 
+count for operator assuming no balance sheet issues, etcetera. Where do you think this 
+number could head to? 
+Munish Seth: So, Saurabh, if I may, there is not a direct correlation between the two numbers. So, for 
+example, Vodafone probably will add 4G networks disproportionately compared to the 5G 
+assets. Whereas, if you look at Jio and Airtel, they may actually upgrade the existing 
+infrastructure to give more 5G coverage and add 5G towers as well. 
+BSNL is today rolling out 4G only. So, it's very hard to put a number on the timescale. But if you 
+take the data consumption increasing to about 50 GB per user per month over the next five 
+  Altius Telecom Infrastructure Trust
+  November 13, 2025 
+ 
+Page 10 of 16 
+ 
+years, you will see disproportionate capacity being added in the networks and also coverage 
+optimization happening that may require some reforming to be happening. 
+Saurabh Handa: Okay, sure. I understand. Thank you for the color. And maybe just one question again on this. 
+Do we have a sense of say how is the penetration per 1000 subscribers in different countries 
+or where would India sort of rank there? Is that a metric which is worth considering in your 
+experience and would you have that off hand? 
+Munish Seth: Saurabh, I'd say the metric that matters in our business would be the consumption that matters 
+into the country over here. That is India and the function of technology. So, we can always give 
+you the number if you write to us on investorrelations.com, but at a macro level, we typically 
+pack our growth forecast based upon the data per user per month. 
+Rahul Katiyar: And just to add over there the points of presence is also a function of spectrum. So, when you 
+look at spectrum the bands in which other markets are operating and the spectrum availability 
+can actually create a meaningful difference between the number of users you have per site. 
+So, that metric, at least in our experience in the past has not been the most accurate metric to 
+look at. 
+Saurabh Handa: Got it. That makes a lot of sense. And my second question was on your projections of say 
+revenue and EBITDA CAGR of 4% to 7%. So, I'm guessing there would be sort of two key 
+elements to this. One would be an underlying tenancy CAGR and one would be, you know, the 
+annual escalations that you spoke about. Is there some way to get a sense? I mean, like, the 
+escalations would be in the ballpark, sort of 2.5% range. Is that broadly correct and does that 
+apply to all your tenancies? 
+Rahul Katiyar: Yes. So, it's a fair assumption to make. Our escalators would be in the range of 2.5% for all 
+tenancies and the balance would be a function of organic growth. 
+Saurabh Handa: Got it. And thank you. And if I can squeeze in just one more question. So you did mention that 
+over 50% of your, tenancies are over 30 years. So, I'm guessing those would be with one of 
+your anchor tenants. But the others which, suppose they are for 5 or 10 year duration. 
+ So, when these contracts come for renewal, how easy or difficult is it for you to retain these 
+tenants? Is there a risk that your tenant, tries to negotiate a bigger discount? Or is there a risk 
+that the tenant maybe moves to another TowerCo? Is that even an option, is it practical? I 
+mean, if you can just give us some, color on how this works when renewals come up? 
+Munish Seth: It's a demand supply market, right? The customer always has a right to ask for discounts. And 
+we are in the value game. We are not in the discounting game. But typically, the contract allows 
+for a certain number of exits at the end of the tenure. We haven't seen any surprises so far 
+beyond that. 
+Rahul Katiyar: Yes, and again, I can only go back to history, the way this industry is operated, in the India 
+ecosystem. What do you're alluding to is that is there a renewal discount? Yes, there are times 
+  Altius Telecom Infrastructure Trust
+  November 13, 2025 
+ 
+Page 11 of 16 
+ 
+when renewal discounts come into play. But it is, it is not something that is a practice that is 
+cast in stone. 
+ And to Munish's point, we are not into the discounting game necessarily. The renewals usually 
+do happen. And in the past, we've seen that, most of the tenancy is getting renewed. 
+Saurabh Handa: Okay. And is it easy for someone to just move tower co-operators? Because I would think it's 
+quite disruptive to the network. So your bargaining position starting point should be pretty 
+strong, I would think. Is that a fair assessment? 
+Rahul Katiyar: Yes, so I'll, I request Ashwani, our Chief Operating Officer to take that, given that he's been a 
+CTO for 30 years. 
+Ashwani Khillan: Good afternoon. So, as Rahul and Munish were also alluding to that, so once the renewal 
+comes, they obviously the customer looks for a discount. But as far as, mass movement of sites 
+from one tower co to other tower co, there are two kind of handles to that. 
+ One, the other tower co needs to have a site nearby so that, at least from an RF standpoint, at 
+least after the initial disruption of movement of the site still, the same amount of customers 
+can be served by that. So that is, one big variable, which is, in some cases, yes, in some cases, 
+no. 
+ The other big variable is this whole disruption of service, especially, with let's say, 30%-40% of 
+the sites becoming fiberized, so moving a site without fiber is a challenge. But moving a site 
+which is already fiberized to a new tower for a little bit of discount, the extra cost that you pay 
+and the disruption in the network will, kind of not a viable solution for that. So that is how, I 
+would look at it. 
+Saurabh Handa: Great, that is extremely useful. Thank you so much. Thank you. 
+Ashwani Khillan: Thank you, Saurabh, for asking the questions. 
+Moderator: Thank you. Next question is from the line of Balaji from IIFL. Please go ahead. 
+Balaji: Good afternoon and thanks for taking my question. Congratulations for hosting the Investor 
+Call. The first question would be on a bit more on the data consumption growth that you were 
+talking about on a per-user level from 22 GB per month today to 62 GB per month. 
+ Now, how would that, so if you look at it, one way to look at it is that some of that could 
+probably get offloaded onto fixed networks, either it could be FTTH, FWA, or even the 
+unlicensed band radio that Jio keeps talking about. So, if the fixed line penetration is going to 
+go up, and at least, most people do have Wi-Fi in their offices and at homes, you have a fair bit 
+of fiber penetration. 
+  Altius Telecom Infrastructure Trust
+  November 13, 2025 
+ 
+Page 12 of 16 
+ 
+ I do understand that there is a population, outside the maybe the top 100-150 million who still 
+have to rely on mobile connectivity. So, but keeping that in mind, how should one look at the 
+upside to towercos? And the other thing is, will it all be, how much of this will be driven by 
+small cells and lean sites, etc.? 
+Munish Seth: Balaji, it's a longish question. So, I'll give you a longish answer over here. So, first of all, India's 
+fixed line penetration is pretty low right now. And fixed line penetration doesn't happen 
+overnight as compared to the mobile networks. So, it requires copper or to be laid on the 
+ground, which is a long lead item. The unlicensed band also you talked about is mostly on the 
+back hall part, where you are using technology to replace fiber to an extent. 
+ But the key word over there is, it's not fiber, it's wireless. Wireless has its limitations. So, while 
+I agree the demand will be there in home, but if you see the recent trends of both Jio and Airtel, 
+they're talking about FWA. FWA is also another day a 5G signal in your home. So, we do expect 
+those networks to continue to support the increased data demand. The fixed broadband will 
+grow, but I think both have an opportunity to grow simultaneously over here. 
+ Hopefully, that answers your question. 
+Balaji: Yes, that is fine. And another follow-up would be, what proportion of this increase in demand 
+will be catered to by small cells and lean sites? And are the economics there significantly 
+different compared to what we have on the macro? 
+Munish Seth: So, small cells is a function. So, you will need small cells wherever there is a densification 
+requirement. So, as you see more of the 5G slicing, you will see small cells come into much 
+more denser areas like CBDs. But do I see it distributed across? Answer, maybe no. So, that's 
+where our portfolio, which is an end-to-end portfolio across small cells and macro cells, 
+complements each other. 
+Rahul Katiyar: And just to complete your last part of the question in terms of commercials, etc., this 
+competitive pricing is part of the equation. One of the key elements that drives our decision-
+making and in our mind, probably everybody who is in this industry, is making sure that the 
+risk-adjusted rate of return is met. And that rate of return that we look at is irrespective of the 
+form factor that we execute the infrastructure on, whether it's a small cell or a macro or 
+whatever. 
+Balaji: Got it. This is very helpful. My second question will be on the potential set of tower renewals 
+for Jio. So, if you look at Jio, most of their rollouts were between, say, 2016 and 2018-19. And 
+in your case, you have a 30-year-long contract that ends in 2050. But there are many other 
+third-party tower companies whose contracts with Jio may be expiring very soon. 
+ So, do you see that as a significant opportunity for you to gain market share? And if so, you did 
+say that certain factors like having a site nearby will be quite significant when it comes to 
+making a decision. How well-placed would be you in terms of such parameters? The reason 
+  Altius Telecom Infrastructure Trust
+  November 13, 2025 
+ 
+Page 13 of 16 
+ 
+that I'm asking is some of the older tower may have their towers and CBDs, etc., where it might 
+be difficult for a relatively new entrant like you to put up towers? 
+Munish Seth: So, Balaji, a very interesting question. So, foremost, our tenancies with Reliance are plotting 
+for 30 years, as you noted as well. It will not be fair on my part to comment on what Jio decides 
+to do with other tower companies or what their opportunity sizing is. So, I will defer that. It's a 
+question best answered by Jio. 
+Balaji: Got it. Thank you. 
+Moderator: Thank you. We'll take our next question from the line of Arun Prasath from Avendus Spark 
+Please go ahead. 
+Arun Prasath: Good evening, everyone. Thanks for the opportunity. First of all, I would like to congratulate 
+the team on the acquisition of the Elevar a couple of years back. I think it was a great conviction 
+shown by the team in the face of uncertainty, and it has turned out very well. 
+ Now, the question is on this acquisition. Now, I see there's a significant difference between the 
+operating costs between the Summit and Elevar. Obviously, there will be some legacy 
+configurations or costs associated. Do you think the synergies in the cost is fully realized, or do 
+we think still there is significant benefits to be reached? That will be my first question. 
+Rahul Katiyar: Yes. Thanks, Rahul this side. So, in our business, we never say that we've made enough of cost 
+optimization. So, it's an ongoing process. As part of the integration, yes, the first phase has 
+been executed, as Munish mentioned in his opening remarks. That piece is done. 
+ But back to your question on the cost being different, both businesses, by and large, operate 
+at a cash EBITDA margin of 70% to 72%. And we can help you reconcile that if you have specific 
+questions, write to us and we'll help you reconcile that. But by and large, the operating margins 
+and the EBITDA margins is fairly consistent for both businesses. 
+ If you look from the financials, probably you do see the numbers being different for the two 
+entities. But that is largely because both the entities operate under distinct MSAs and 
+commercial framework. So, for this, we have some accounting standards that are differently 
+applied to the two entities. But I'm happy to reconcile it for you. 
+Arun Prasath: No, I understand. What I'm asking is that Elevar, when we acquired, had a relatively better 
+tenancy ratio as compared to Summit, and still similar kind of a margin, as you mentioned. So, 
+obviously, in relative terms, our understanding is the cost per tower would still remain elevated 
+at the Elevar. That's the background of this question. Well, yes, happy to reconcile offline. 
+Rahul Katiyar: Yes, I think that will be easier. It'll be difficult to kind of, you know, give all color on this call. 
+Arun Prasath: Right, right. Second, the growth we had, especially post Elevar acquisition, obviously, it's not 
+something which we can replicate because those kind of inorganic opportunity, at least in the 
+  Altius Telecom Infrastructure Trust
+  November 13, 2025 
+ 
+Page 14 of 16 
+ 
+tower industry, seems to be limited at this point of time, given the kind of duopoly we have in 
+the tower. So, should we be looking forward to some kind of opportunities in the adjacent 
+space, like, say, fiber or a data center? How do we think on the growth outside the tower front? 
+Or are we restricted within the tower at this point of time? 
+Rahul Katiyar: Yes, so I'll take the acquisition question, and then let Munish answer on the, you know, the 
+adjacencies. See, on the acquisition side, we will continue to, you know, grow the platform by 
+way of creative organic and inorganic opportunities. So, if there are inorganic opportunities, 
+we'll look at it. But the current strategic focus remains on optimizing our existing operations 
+and ensuring that, you know, we maximize the value from our recent investments. Munish, 
+you want to? 
+Munish Seth: So, Arun, I think it's an excellent question. The way I look at, as I alluded to, we just completed 
+our integration journey. And I think there's a big opportunity in front of us in terms of adding 
+tendencies and adding more business on our existing portfolio. That will be the short-term 
+focus for us as a company. I think that's a great opportunity. We are in discussions with the 
+operators for adjacencies, but I think that's very, very initial stage of discussion. Hopefully, that 
+answers your question, Arun. 
+Arun Prasath: Can you mention any kind of categories outside the tower? 
+Munish Seth: It may not be appropriate for me to comment on initial discussions. 
+Arun Prasath: Okay. But it will be related to the telecom infra. Is that right? 
+Munish Seth: You can try, but yes, it will be. It will be within the same space. For the next short term, two to 
+three years, we're going to focus on maximizing the portfolio. 
+Arun Prasath: Understood. My second question on, I mean, you have spoken about elaborately on the market 
+share. But it would be very helpful if you can talk about the incremental market share in the 
+last, say, six to nine months, where one of the operators who raised the cash was deploying. 
+ And obviously, the PSUs were also deploying the tower. So among those two accounts, if you 
+can talk about the incremental market share that we have gained, and what kind of incremental 
+market share we are targeting going forward, that would be very helpful. 
+Munish Seth: So Arun, as I said, last one year, we have been actually very focused on making sure the 
+company is integrated under a common brand called Altius. Having said that, there are deeper 
+discussions going on with all the operators, not only two operators, but all the operators. And 
+in the new course, hopefully the next call, we should be able to give you a more specific update. 
+Arun Prasath: Okay. And any aspiration that you have logged in for the incremental market share, that part 
+of the question? 
+  Altius Telecom Infrastructure Trust
+  November 13, 2025 
+ 
+Page 15 of 16 
+ 
+Munish Seth: Ambition is always big, right? But again, it's not fair to quantify at this stage. Let's live in the 
+now and the present. As I said, our short to medium term focus is in maximizing the portfolio. 
+And the team is ready, and we are having deeper discussion with all the customers. 
+Arun Prasath: Okay. Understood. Hopefully, there will be a continuous engagement going forward and all the 
+best to the team. Thank you. 
+Munish Seth: Absolutely. As Anshul said, we intend to continuously engage with the investor community. 
+Thank you. 
+Moderator: Thank you. We'll take our next question from the line of Ketan Teke from Pico Capital. Please 
+go ahead. 
+Ketan Teke: So, I have two questions. My first question is, going forward, do we see uniform quarterly 
+distributions? And can you give us a DPU guidance for the next two to three years? 
+Rahul Katiyar: Yes. So, you know, very clearly in the opening remark itself, you know, I mentioned that our 
+distribution policy is very clear that we will continue with quarterly distributions. So, until there 
+is a change in that policy, we will continue doing it for the foreseeable future. In terms of 
+guidance, we have guided for FY26 to be at INR15.3 per unit. And I also, along with that, 
+mentioned that this is reflective of our, distribution trajectory going forward. And again, as part 
+of the, you know, our distribution policy, 90% of NDCF will, at a minimum, get distributed. 
+Ketan Teke: Okay. That's helpful. And my second question is, can we discover what are the drivers for 
+increasing tenancy? I know we have discussed it earlier, but can you repeat the drivers for 
+increasing tenancy from here? 
+Munish Seth: So, it all goes back to the theme of the other questions. There's a lot of latent demand in the 
+market. There's a lot of headroom. Whether it be increasing internet penetration, whether it 
+be increasing smartphone adoption, which all are going to add up to consumption. And if you 
+see the normal patterns of the users nowadays, mobile data is pervasive. It's like we are 
+consuming content on mobile data. We're shopping. We are learning. We are using UPI for 
+interacting. 
+ So, we don't see this trend getting arrested, but actually getting accentuated, multiplying, 
+multiple folds. And that will lead to upgrades and capacity addition from the mobile operators. 
+And that's where the opportunity for companies occurs in terms of co-location sites as well as 
+anchor builds. Hopefully, that answers your question. 
+Ketan Teke: Yes, sir. Absolutely. Thank you so much. And all the best. 
+Management: Thank you. Thank you for asking. Yes, Shristi, we can take the last question for the day. 
+Moderator: All right. We'll take a last question from the line of Abhijit Nadkarni from UTI AMC. Please go 
+ahead. 
+  Altius Telecom Infrastructure Trust
+  November 13, 2025 
+ 
+Page 16 of 16 
+ 
+Abhijit Nadkarni: Yes. So, my question is, apart from Summit and Elevar, we also have Crest Digitel and Roam 
+Digitel, which I believe are not making meaningful contribution in terms of revenue, at least as 
+of now. Please correct if I'm wrong. So, are these entities expected to provide any major 
+revenue in coming years and any capex in these entities? Can you explain this regarding this? 
+That will be helpful. 
+Rahul Katiyar: Yes. So, see, we operate this at a platform level. So, you know, our focus, our synergies are 
+driven at a platform level. The only thing is I can say is that for Roam Digitel right now, we don't 
+have any operations there. So, it continues to be a company with no operations. But otherwise, 
+you know, within the three entities of Summit, Elevar and Crest, all our decision making 
+happens at a platform level. 
+Abhijit Nadkarni: Okay. So, any major capex that is expected to happen under Crest in coming years?  
+Rahul Katiyar: It is more business as usual. And as and when there is demand, we kind of obviously, as I earlier 
+also alluded to, we have a very robust, you know, lens of risk adjusted rate of return. If it kind 
+of passes that lens, we consider the capex. 
+Moderator: As that was the last question for today, I now hand the conference over to management for 
+closing comments. Over to you, sir. 
+Munish Seth: Thank you, everyone, for making this very interactive. I really appreciate all the questions. To 
+summarize, Altius InvIT is a low risk and highly predictable platform with a consistent track 
+record of distribution. 
+ We have long-term contracted assets, a strong balance sheet, and are backed by marquee 
+sponsors. Altius has a weighted average lease expiry spanning nearly 17 years, with 55% of our 
+tenancies logged in for 30 years with contracted revenue and cost. With the integration 
+complete, our focus is now on operational excellence, disciplined capital allocation, and 
+sustainable growth. 
+ We're confident that the journey ahead will deliver long-term value for all stakeholders. Thank 
+you, once again, for joining us for this call and for your continued trust in Altius. We truly 
+appreciate your partnership. Thank you. 
+Moderator: Thank you, sir. On behalf of Altius Telecom Infrastructure Trust, that concludes this conference. 
+Thank you for joining us, and you may now disconnect your lines. 
+Disclaimer: This is a transcript and may contain transcription errors. The Company or the sender takes no responsibility for 
+such errors, although an effort has been made to ensure high level of accuracy. 

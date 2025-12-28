@@ -1,0 +1,883 @@
+ 
+ 
+QUADRANT FUTURE TEK LIMITED 
+ 
+Registered Office: Village Basma, (on Basma-Jhajjon Road), Tehsil Banur, Distt. Mohali, Punjab (India) -140417 
+Corporate Office: SCO No. 20-21, Sector 66-A, Airport Road, JLPL,Mohali, Punjab - 160062 
+CIN: L74999PB2015PLC039758, E-mail: info@quadrantfuturetek.com Tel.: 0172-4020228 
+ 
+ 
+Date: November 14, 2025     Ref: Quadrant/SE/2025-26/49 
+To 
+National Stock Exchange of India Ltd., 
+Exchange Plaza, C-1, Block G 
+Bandra Kurla Complex, 
+Bandra (E), Mumbai – 400 051 
+ 
+NSE Scrip Symbol: QUADFUTURE 
+To  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai – 400001  
+ 
+Scrip Code: 544336  
+ 
+ 
+Subject: Investor Presentation 
+Respected Sir/ Madam, 
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, (“SEBI Listing Regulations, 2015”) as amended from time to time and with 
+reference to the captioned subject, please find attached herewith a copy of the presentation on 
+the Company’s performance for the quarter and half-year ended September 30, 2025. 
+ 
+Kindly take the above on your record and disseminate the same for the information of investors. 
+ 
+The above information will also be available on the website of the Company at 
+www.quadrantfuturetek.com.  
+ 
+ 
+Yours Faithfully, 
+ 
+For Quadrant Future Tek Limited    
+ 
+ 
+ 
+Puneet Khurana 
+Company Secretary & Compliance Officer 
+M. No. 43395 
+Quadrant 
+Future Tek Limited
+Q2 & H1FY2026 
+Investor Presentation
+Safe Harbour
+This presentation contains statements that may be ‘forward-looking statements’ relating to the Company’s objectives, 
+projections, outlook, expectations, estimates, among others under applicable laws and regulations. Such forward-looking 
+statements are not guarantees of future performance and involve risks and uncertainties and actual results may differ from 
+such expectations, projections etc., whether express or implied. These forward-looking statements are based on various 
+assumptions, expectations and other factors which are not limited to, risk and uncertainties regarding fluctuations in earnings, 
+competitive intensity, pricing environment in the market, economic conditions affecting demand and supply, change in input 
+costs, ability to maintain and manage key customer relationships and supply chain sources, new or changed priorities of trade, 
+significant changes in political stability in India and globally, government regulations and taxation, climatic conditions, natural 
+calamity, commodity price fluctuations, currency rate fluctuations, litigation among others over which the Company does not 
+have any direct control. These factors may affect our ability to successfully implement our business strategy. The Company, may 
+alter, amend, modify or make necessary corrective changes in any manner to any such forward looking statement contained 
+herein and the Company expressly disclaims any obligation or undertaking to disseminate any updates or revisions to any 
+statements contained herein to reflect any change in events, conditions or circumstances on which any such statements are 
+based. You are cautioned not to place undue reliance on these forward-looking statements, which are based on the current 
+view of the management of the Company on future events.
+2
+3
+Management Views
+“Our consolidated revenues for Q2FY26 grew 20% QoQ, with the Specialty Cables business recording 
+19% QoQ growth, supported by stable demand trends and consistent execution across key end-
+markets.
+In our Train Control and Signaling segment, we achieved a significant milestone in the approval process 
+for the KAVACH System (Version 4.0). We received the Interim Independent Safety Assessment (ISA) 
+Report, which affirms our adherence to quality and safety management in line with CENELEC 
+standards. This interim report bolsters our confidence in securing the final approval as a listed vendor 
+from the Research Designs and Standards Organisation (RDSO) of the Kavach 4.0 System in the near 
+term. This development strengthens our positioning to participate meaningfully in India’s railway 
+modernization and safety enhancement programs.
+Our order book remains firm, reflecting sustained market demand and continued confidence in our 
+capabilities and solutions.
+Looking ahead, we remain focused on deepening our presence in our core cables domain, while 
+strategically evaluating opportunities to foray into other high-growth sectors where our technical 
+capabilities and manufacturing excellence can deliver differentiated value. With BIS approval secured 
+for our Solar cable portfolio, we are now positioned to participate in the Solar segment, while continuing 
+to build out our EV cable offerings.”
+Mr. Mohit Vohra
+Managing Director
+
+Q2 and H1FY26
+Highlights
+
+5
+Financial Performance
+396
+270
+585
+287 344
+651 631
+Q2FY25 Q3FY25 Q4FY25 Q1FY26 Q2FY26 H1FY25 H1FY26
+Revenue from Operations (₹ Mn)
+30
+-17
+35
+-75
+-104
+7
+-180
+- 40%
+- 30%
+- 20%
+- 10%
+0%
+10 %
+- 200
+- 150
+- 100
+- 50
+0
+50
+Q2FY25 Q3FY25 Q4FY25 Q1FY26 Q2FY26 H1FY25 H1FY26
+7.7% 5.8% -24.1% -28.3% 1.0%-6.4% -26.4%
+EBITDA (₹ Mn) & EBITDA Margin (%)
+Revenue grew +20% 
+QoQ to ₹344 Mn, led by 
+higher traction in 
+Specialty Cables, 
+primarily from Defence 
+and Private clients
+EBITDA for the quarter 
+stood at (₹104) Mn 
+reflecting strategic 
+investments to build 
+capacity for the KAVACH 
+system.
+H1FY26 Order Book of 
+₹11,564 Mn vs. ₹768 Mn 
+in the same period last 
+year
+
+Company 
+Overview
+
+At a Glance
+A technology and innovation driven company specializing in:
+Specialty Cables
+Manufactures advanced Electron beam irradiated 
+specialty cables designed for high-performance, safety-
+critical applications across various industries
+Train Collision Avoidance System (TCAS)
+Developing next-generation Train Control and Signaling 
+Systems for the Indian Railways’ KAVACH project
+7
+One of the 5 approved firms to build and 
+implement the KAVACH system for Indian 
+Railways
+MoU with RailTel where QFTL will act as the OEM 
+for KAVACH equipment
+Focus on Make in India and Indigenisation
+Interim Independent Safety Assessment approval 
+received for KAVACH systems
+Compliance with safety -critical standards – RDSO, 
+DGQA, BIS, SIL -4
+Manufacturing  
+Located at Basma, Mohali 
+with strong Backward 
+Integration and sufficient 
+headroom for large -scale 
+orders.
+Professional Management  
+Highly experienced 
+management team  
+governed by a 
+distinguished Board
+In-house R&D 
+Designed, developed, and 
+engineered the Train 
+Collision Avoidance System 
+(KAVACH) entirely in -
+house adhering to 
+RDSO standards.
+Railways
+ EV
+Defence
+ Renewable Energy
+Sectors catered
+
+8
+Our Journey
+2018-19
+2015-16
+2017- 18
+2020-21
+2024-25
+2022-23
+2023-24
+Incorporation of our Company
+Commissioned  the 2.5 MeV 
+Electron Beam Accelerator & 
+Cable Manufacturing  Facility
+Received Atomic Energy 
+Regulation  Board (AERB) License 
+for Operation of Irradiation 
+Centre
+Received RDSO approval for 
+supply of Specialty Railway 
+Cables
+Established  Software/Embedded  
+Design & Development  centre at 
+Bengaluru
+Initiated the development  of 
+TCAS (KAVACH)
+Installed fully automated facility 
+for the production of Safety 
+Critical Rail Signaling Hardware 
+Systems
+Conversion from private limited 
+to a public limited company
+Approved by the Naval Defence 
+industry for supply of specialty 
+cables for ships and submarines
+Approval from RDSO on the 
+Infrastructure  & Capabilities  of 
+TCAS
+Successfully  developed the first 
+in-house Kavach system for 
+prototype testing by RDSO
+Received first KAVACH order at 
+South Central Railways
+Development  of solar cables for 
+captive solar projects dedicated 
+for electric charging stations, 
+green hydrogen plants planned 
+to be executed
+Development  of low fire hazard, 
+light weight cables for EVs
+Interim Independent  Safety 
+Assessment  approval received for 
+KAVACH systems (version 4.0)
+Listing on NSE and BSE
+9
+Manufacturing Excellence: Automation & Integration
+Land – 4.8 Acres
+Building: 60,000 Sq. Ft Quality & 
+Reliability
+Manufacturing Approvals 
+received from
+Backward 
+Integration
+2.5 MeV electron -beam
+AERB-licensed, crosslinking  
+technology  leading to 
+low-weight & fire-safe 
+cables
+End-to-end production  of specialty cables from copper processing  to polymer 
+compounding  - backward integrated to reduce supply chain risk and cycle times, 
+electron beam irradiation, finishing and testing
+Fully integrated operations – from design and development  to manufacturing,  
+assembly, testing, and software solutions – strategically  position us to deliver 
+comprehensive  Train Control Systems solutions under one roof while maintaining  
+stringent quality control.
+1,900 MT 
+per annum
+~2,200 locomotives 
+~4,500 station units 
+per annumSpecialty 
+Cables TCAS
+Large scale operations
+Backward integrated  manufacturing facility at Basma, Mohali with in-house labs – 
+engineered for shorter lead times and safety -critical output across both the business divisions
+10
+Diverse and Growing Client Base
+Trusted vendor for India’s rail network and naval fleet; actively expanding the client base
+Some of Quadrant’s key clientele
+Specialty Cables
+
+Specialty Cables – Overview
+12
+Revenue (₹ Mn)
+1,042
+1,510 1,506 1,462
+631
+FY22 FY23 FY24 FY25 H1FY26
+Manufactures Electron Beam Irradiated Cables – using a 2.5 MeV Electron Beam Industrial Accelerator – 
+for industrial and other applications where fire and safety, lightweight construction and durability are critical
+In-house compounding & backward integration creates margin resilience against commodity price swings. An 
+active order book of ₹ 1,097 Mn as of Q2FY26
+Revenue-Split: Customers
+Offers a comprehensive range of standard and customized cables, designed to meet the demands of its diverse domestic clientele
+A leading supplier to Railways and Defence PSUs, diversifying revenue streams by expanding into Solar 
+Power and EV cable markets.
+Revenue split data as of H1FY26
+Public 
+Sector , 
+62%
+Private 
+Sector, 
+38%
+Electron Beam Cables – Powering Next-Gen Industries
+01
+02
+03
+04
+Superior Properties
+Improved resistance to tensile shear and compressive force; abrasion, thermal, flame-propagation, deformation, and cut 
+through-resistance; significant weight reduction; enhanced fire safety
+Well Synchronized
+E-beam process ensures equal dose distribution, high speed, and with online data logging, it is fully synchronized. This 
+process doesn’t require any additives, nor does it generate any hazardous chemical by-products unlike traditional chemical 
+crosslinking
+Energy Efficient
+E-beam cross-linking does not require the hours of cure time needed for other conventional chemical cross-linking methods 
+resulting in an energy efficient process and higher throughput
+Enhanced Cross Linking
+Electron Beam (E-beam) processing technique provides enhanced cross linking and polymer modification to cables to achieve 
+much superior mechanical and thermal properties. 
+Rising adoption of Electron Beam Cables across high -growth applications – EVs, fuel cell vehicles, renewable 
+energy, aerospace, and high -rise infrastructure – driven by superior performance and reliability
+13
+Product Portfolio
+14
+Quadrant provides Specialty Cables across major growth segments
+• 300V Irradiated Cables
+• 750V Irradiated Cables
+• 1.8/3.0KV Irradiated Cables
+• 3.6/6.0KV Irradiated Cables
+• Irradiated Cables EED -50-12
+• Irradiated Cables EED -50-13
+• ABS/DNV/VDE/Lloyd 
+Register
+Railways
+Defence
+Strengthening current segments 
+Venturing into high 
+growth niche cable 
+sectors along with 
+providing value -added 
+solutions
+E-Beam cables, preferred for solar & 
+wind installations, where thermal, UV 
+resistance, long -term durability & 
+extended warranties are key
+E-Beam cables, preferred for 
+hybrid & EVs, where lightweight 
+& long-term performance are 
+key to meet latest technological 
+advances
+E-Beam cables, preferred for 
+Submarines, addressing the critical 
+need for safety & reliability in harsh 
+underwater environments
+Renewables
+Electric Vehicles
+Submarines
+15
+Growth Drivers – Specialty Cables
+Projected to grow to $175 Mn  in 
+CY30, driven by sustained public 
+investments in Network 
+Expansion, Decongestion, 
+Electrification and Next-
+Generation Signalling Networks
+Projected to grow to $195 Mn  
+in CY30, driven by Higher Naval 
+Capex, Exports to international 
+markets and Make in India 
+procurement policies
+Projected to grow to $65 Mn in 
+CY30, led by Increasing Sales 
+of electric cars, 2W & 3W 
+vehicles, Government 
+Incentives, Decreasing 
+Battery Costs and New EV 
+Model Launches
+Projected to grow to $188 Mn 
+in CY30, led by India’s target of 
+generating 500GW non-fossil 
+fuel by 2030 and India’s large 
+solar potential
+RDSO-approved electron beam 
+irradiated cables engineered to 
+reduce train weight by ~4-6 
+tons/rake and lifecycle energy 
+costs
+DGQA-approved naval/marine 
+cables that withstand shocks, 
+high-temperature and 
+vibration, thereby reducing 
+failure risk and lowering TCO 
+(total cost of operations) for 
+multi-decade platforms
+IATF-compliant cables 
+delivering low fire hazard, 
+lightweight harnesses 
+optimized for OEMs to enable 
+battery downsizing and 
+extend range/charging time
+BIS-approved PV cables 
+offering superior 
+thermal/mechanical stability; 
+reduces failures dedicated for 
+electric charging stations and 
+green hydrogen plants
+Macro 
+Opportunity
+What do 
+we offer
+Quadrant: Specialized in Electric & Control Cables, well positioned to meet the growing industrial demand of future
+RDSO: Research Designs and Standards Organisation; DGQA: Directorate General of Quality Assurance; IATF: International Automotive Task Force; BIS: Bureau of Indian Standards
+16
+R&D and Certifications
+Strengthening our 
+innovation pipeline through 
+advanced in-house R&D 
+and an NABL-certified 
+testing infrastructure at 
+Basma, Mohali
+Formulated low-smoke, 
+fire-resistant polymers 
+having superior 
+mechanical and thermal 
+properties
+Ongoing development of 
+Specialty Cable solutions for 
+EVs and Submarine 
+technologies, positioning 
+the business to capture 
+opportunities in future-
+ready sectors
+Committed to developing 
+products that 
+consistently meet and 
+exceed internationally 
+benchmarked 
+specifications
+Continue to invest in R&D for new product development
+Certifications
+Train Collision 
+Avoidance 
+Systems
+
+Develops and supply safety-critical railway signalling solutions centered on Automatic Train Protection 
+(ATP) under India’s national standard (KAVACH 4.0), with a focus on other adjacent solutions
+Train Control and Signalling – Overview
+18
+Quadrant’s vertically integrated manufacturing operations for the hardware and software required for 
+TCAS division enable end-to-end control over design, development, production, and delivery, ensuring superior 
+quality, efficiency, and timely market responsiveness. 
+Quadrant received the Interim Independent Safety Assessment (ISA) report in adherence to CENELEC 
+quality and safety standards and awaiting listing as approved vendor by RDSO
+Competitive Strength
+• Supporting ‘Make in India’, meeting the CENELEC SIL-4 safety standards
+• In-house design, manufacturing & testing of both hardware & software, powering our Rail Signalling Products and Solutions 
+based at Bengaluru, Karnataka and Hyderabad, Telangana
+• Designed to interwork with other approved OEM systems
+• Rapid production ramp-up & pre-built inventory for immediate rollout post final RDSO approval
+• Limited RDSO-approved vendor pool for KAVACH, stringent safety and formal approval create high barriers to entry and 
+execution visibility as deployment scales
+
+19
+KAVACH – A multi-year opportunity
+Train Collision 
+Avoidance System 
+(KAVACH) 
+includes
+Trackside equipment: 
+Stationary TCAS units with RFID 
+tags, towers & antennas
+Onboard equipment: 
+Loco TCAS computer, RFID reader, Radio 
+Unit, Driver Machine Interface, Brake 
+Interface Unit
+How it works?
+GPS & TDMA1 radio 
+to sync time with 
+the network
+Network connects 
+devices to CMS2 
+via GSM/GPRS to 
+send status 
+updates
+CMS facilitates 
+monitoring, 
+diagnostics, and 
+maintenance
+Onboard units 
+exchange real-time 
+signals and run 
+safety algorithm
+1. TDMA: Time Division Multiple Access; 2. CMS: Central Management System
+Quadrant’s Right-to-Win: Exclusive MOU with RailTel to jointly market & implement KAVACH in India and abroad
+Indian Railways plans multi -year investment in KAVACH signaling & telecom to boost safety and security
+20
+KAVACH Approval: Progress so far
+Product Development and Internal Testing
+• Developed both hardware & software for KAVACH-4.0, ensuring compliance with RDSO & SIL-4 
+specifications
+• Rigorous in-house testing to ensure system reliability
+Prototype Submission & RDSO Type Testing
+• Submission of fully functional KAVACH prototype to RDSO
+• RDSO conducted exhaustive laboratory tests & provided “Type Approval” for field tests
+Final RDSO Approval & Vendor Listing
+• With interim approval secured for KAVACH 4.0, we are now advancing toward securing final RDSO 
+approval as a listed vendor, a key milestone that will position us to participate in large-scale 
+deployment across the Indian Railways network
+Field Trials
+• RDSO assigned Locomotive & track section for real-world testing of Quadrant’s KAVACH system
+• ISA issued an interim report upon satisfactory progress in implementing the required quality and 
+safety management processes in adherence to CENELEC standards
+01
+02
+03
+04
+21
+KAVACH System: Growth Drivers
+~ ₹1.2 lakh Cr 
+allocated to 
+enhance railway 
+safety for FY2025-26
+15,000 km of railway 
+track currently 
+being equipped 
+with KAVACH 
+systems
+Govt. target of 
+~69,000 km 
+network to be 
+covered within 6 
+years
+~5,000 kms of 
+Railway Network 
+being added 
+annually to Indian 
+Railways
+~₹1,700 Cr allocated 
+for KAVACH 
+implementation in 
+FY2025-26
+~₹2,000 Cr utilized 
+(till June 2025) for 
+KAVACH 
+installations 
+Indian Railways: Growing budgetary outlay
+End-to-end capabilities in KAVACH design, manufacturing, installation, testing, and commissioning 
+Our capabilities in TCAS have been further reinforced with multiple orders from RailTel for deploying KAVACH systems on low-density 
+railway sections and on-board locomotives. As of H1 FY26, our order book stands at ₹10,467 Mn.
+As we progress toward final RDSO approval for KAVACH 4.0, we remain optimistic about a steady pipeline of opportunities that will 
+support our continued contribution to India’s rail safety and modernization initiatives.
+Quadrant’s success in TCAS
+
+22
+R&D and Certifications
+R&D Capabilities
+On-site simulation lab, quick 
+prototyping, and testing for faster 
+cycles and consistent quality
+A team of 28 engineers and domain 
+specialists
+R&D scope spans architecture and 
+algorithms, embedded firmware, 
+safety cases, system integration, and 
+field validation
+Certification
+CENELEC SIL-4
+System designed to 
+comply with highest 
+safety & international 
+standards
+Key Product Developments
+Development of EI to begin post-approval 
+for KAVACH, leveraging the strong R&D 
+capabilities and certifications
+~₹ 250 Mn from IPO proceeds segregated 
+toward development of EI
+Ongoing projects in Electronic 
+Interlocking (EI) and Digital Axle Counters
+Received prototype approval and awaiting 
+imminent site approval for the indigenous 
+KAVACH 4.0 system
+
+23
+Multiple Tailwinds and Growth Opportunities
+Multiple Tailwinds 
+Increased 
+government 
+spending on Indian 
+Railways
+Make in India and 
+Indigenisation Drive
+Need for safe, 
+efficient and reliable 
+Transportation
+Rising adoption of 
+Technology and 
+Artificial 
+Intelligence
+The Train Control and Signalling division 
+primarily consists of three parts:
+Train Collision 
+Avoidance System
+Electronic 
+Interlocking System 
+Multi Section Digital 
+Axle Counter
+Leveraging the successful deployment of our 
+indigenously developed Train Collision Avoidance 
+System, Quadrant is now strategically positioned to 
+accelerate growth by expanding into new, high-
+potential business segments aligned with the Ministry 
+of Railways (MoR) safety initiatives.
+
+Investment 
+Highlights
+
+Key Pillars for a Winning Strategy
+• Presence across 2 growing 
+markets
+Specialty Cables and Train 
+Collision Avoidance System 
+(KAVACH)
+• Competitive edge
+Trusted partner, backed by in-
+house R&D, compliant with AERB 
+regulations – the company 
+maintains a strong competitive 
+edge, creating high entry barriers
+We have the best 
+positioning..
+• Balanced exposure
+With 6+ years of experience in 
+irradiated cables, the company is 
+now also one of the elite group of 
+vendors to support KAVACH 
+implementation
+• Advanced manufacturing 
+facilities 
+With a focus on innovation and 
+cost competitiveness
+..with the right assets
+• End-to-end solutions
+Bundling cables and Train 
+collision avoidance system 
+solutions with other value added 
+services 
+Received Intermediate Safety 
+Assessment Report for the 
+ongoing ISA certification of its 
+KAVACH System (Version 4.0)
+• Proven performance in safety-
+critical applications
+..having the right 
+solutions
+26
+Investment Highlights
+Expansion in Train 
+Control & Signalling
+• Electronic Interlocking (EI) is 
+a key focus for the 
+modernization of Indian 
+Railways, enabling safer, 
+efficient and higher network 
+capacity
+• ~₹ 250 Mn to be invested for 
+the development of EI 
+systems
+• To leverage Quadrant’s 
+existing embedded systems 
+design team and prior RDSO 
+approvals
+• Positioning Quadrant as a 
+credible domestic supplier
+MoU with RailTel
+• Access to RailTel’s nationwide 
+network and stakeholder 
+channels
+• Positions Quadrant as a 
+preferred tech partner for 
+large-scale, multi-country 
+Automatic Train Protection 
+(ATP) deployments
+• RailTel leads stakeholder 
+engagement, while Quadrant 
+delivers cutting-edge 
+technology, maintenance, 
+and expert manpower
+• MoU to help drive sustainable 
+revenue growth
+Cables: Diversification 
+and Export Potential
+• Expanding specialty cable 
+portfolio to serve high-growth 
+sectors:
+• Solar, EV and Submarine – 
+Secured BIS approval for 
+Solar cables, with plans to 
+extend into high-growth EV 
+and submarine applications; 
+leading to revenue-mix 
+diversification
+• Our advanced manufacturing 
+capabilities and certifications 
+positions us to capture the 
+growing global demand for 
+irradiated cables in renewables 
+and EVs, unlocking key export 
+opportunities with global 
+OEMs as well.
+Capacity Expansion
+• With ~1,900 MT of annual 
+installed capacity, the 
+Specialty Cables division is 
+well-placed to capture 
+growth with substantial 
+utilization upside 
+• New product launches, entry 
+into high growth sectors and 
+export markets opportunity 
+are expected to drive higher 
+utilization
+• Scalable manufacturing 
+infrastructure geared for 
+large-scale train control 
+system production
+• Potential to drive operating 
+leverage and sustainable 
+growth as order book 
+expands
+Financial 
+Performance
+
+2
+8
+Financial Performance
+Revenue from Operations (₹ Mn) EBITDA (₹ Mn) & EBITDA Margin (%)
+9.1% 17.4% 24.2% 1.7% -26.4%
+1,043
+1,528 1,518 1,506
+631
+FY22 FY23 FY24 FY25 H1FY26
+95
+265
+367
+26
+-180
+8%
+9%
+10 %
+11 %
+12 %
+13 %
+14 %
+15 %
+16 %
+- 300
+- 200
+- 100
+0
+10 0
+20 0
+30 0
+40 0
+50 0
+FY22 FY23 FY24 FY25 H1FY26
+29
+P&L Statement
+Particulars (₹ Mn) Q2FY26 Q2FY25 YoY Change Q1FY26 QoQ Change H1FY26 H1FY25 YoY Change
+Income from operations 344 396 (13%) 287 20% 631 651 (3%)
+- Specialty Cables 343 369 (7%) 287 19% 630 624 1%
+- TCAS 1 27 - - - 1 27 -
+Total Income 369 396 (7%) 313 18% 682 651 5%
+Cost of Materials consumed 298 226 32% 208 43% 506 415 22%
+Employee Benefit Expense 76 65 18% 68 13% 144 120 20%
+Other Expenses 99 75 31% 112 (12%) 211 109 93%
+EBITDA (104) 30 - (75) - (180) 7 -
+- Specialty Cables 8 94 - 38 - 45 123 -
+- TCAS (112) (63) - (113) - (225) (115) -
+Depreciation and 
+Amortization expense 45 52 (12%) 44 2% 90 103 (12%)
+EBIT (150) (21) - (120) - (270) (96) -
+Finance cost 6 18 (68%) 13 (53%) 18 36 (49%)
+PBT (156) (39) - (132) - (288) (132) -
+Tax expense 3 (2) - 3 14% 6 (3) -
+PAT (159) (37) - (135) - (294) (129) -
+Rounded off to nearest millions
+30
+Balance Sheet
+Particulars (₹ Mn) Sep-25 Mar-25
+Non-Current Assets
+PP&E 271 267
+Intangible assets 384 423
+Right of use assets 31 34
+Financial assets
+(i) Trade Receivables 32 35
+(ii) Other financial assets 3 3
+Deferred tax assets (net) 54 60
+Current Assets
+Inventories 1,119 445
+Financial assets
+(i) Trade Receivables 278 551
+(ii) Cash & Cash Equivalents 30 98
+(iii) Bank balances 708 1,770
+(iv) Other financial assets 8 10
+Current tax assets (Net) 18 18
+Other current assets 367 304
+Total Assets 3,303 4,018
+Particulars (₹ Mn) Sep-25 Mar-25
+Equity
+Equity share capital 400 400
+Other equity 2,299 2,579
+Non-Current Liabilities
+Financial liabilities
+(i) Borrowings 209 223
+(ii) Other 30 30
+Provisions 14 12
+Current Liabilities
+Borrowings 42 631
+Trade payables 267 105
+Other financial liabilities 33 28
+Provisions 3 2
+Other current liabilities 7 8
+Total Equity & liabilities 3,303 4,018
+Rounded off to nearest millions
+Annexures
+
+32
+Experienced leadership driving strategic oversight
+Mohit Vohra 
+Managing Director 
+Vishesh Abrol
+Whole Time Director
+Satish Gupta
+Independent Chairman
+Amit Dhawan
+Whole Time Director
+Vivek Abrol
+Whole Time Director
+CA Pramod Jain
+Independent Director
+Whole Time Director
+Amrit Singh Randhawa
+Director
+Independent Director
+Aikjot Singh
+Girish Buttan
+Rupinder Singh
+Whole Time Director
+Rajbir Singh Randhawa
+Director
+Kanika Bhutani
+Independent Director
+26+ 22+ 26+ 30+ 
+26+ 26+ 26+ 26+ 
+Experience
+29+ 31+ 30+ 12+ 
+33
+Balance sheet strengthened by IPO proceeds
+Objects of the IPO As per Prospectus 
+(₹ Mn)
+Incurred*
+(₹ Mn) Balance
+Funding long-term working capital 
+requirements 1,497 1,163 335
+Capex for development of Electronic 
+Interlocking Systems 244 17 227
+Prepayment/
+Repayment of outstanding WC term loan 236 236 0
+General Corporate Proceeds 631 624 7
+Issue Related Expenses 292 186 105
+Total 2,900 2,226 674
+Successfully secured ~₹ 1,305 Mn from marquee investors, reinforcing confidence in our growth strategy and vision
+Quadrant Future Tek Limited
+(CIN: L74999PB2015PLC039758)
+1st Floor, SCO 20-21, Sector 66A Airport Road, 
+JLPL S A S NagarMohali - 160 062, Punjab, 
+India
+Telephone: +91 172 402 0228;
+E-mail: cs_qftl@quadrantfuturetek.com
+Website: www.quadrantfuturetek.com
+Thank You!
+

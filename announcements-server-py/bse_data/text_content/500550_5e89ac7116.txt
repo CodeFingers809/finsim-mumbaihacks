@@ -1,0 +1,1045 @@
+ 
+ 
+Siemens Limited 
+Management: Sunil Mathur  
+CIN: L28920MH1957PLC010839 
+Birla Aurora, Level 21, Plot No. 1080, 
+Dr. Annie Besant Road, Worli, 
+Mumbai – 400030 
+India 
+Tel.: +91 (22) 62517000 
+Website: www.siemens.co.in 
+E-mail- Corporate-
+Secretariat.in@siemens.com 
+Registered Office: Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai – 400030. Telephone +91 22 3967 7000. Fax +91 22 24362403.  
+Sales Offices: Ahmedabad, Bengaluru, Chennai, Gurugram, Hyderabad, Kolkata, Mumbai, Kalwa, Puducherry, Pune, Vadodara.  
+ 
+ 
+ 
+14th November, 2025 
+ 
+National Stock Exchange of India Limited 
+BSE Limited 
+ 
+ 
+Scrip Code – 
+ 
+National Stock Exchange of India Limited: SIEMENS EQ 
+BSE Limited: 500550 
+ 
+Information pursuant to the SEBI (Listing Obligations and Disclosure Requirements)  
+Regulations, 2015 (“Listing Regulations”) 
+ 
+Dear Sir / Madam, 
+ 
+Pursuant to Regulation 30, 33 and other applicable Regulations of the Listing Regulations, this is 
+to inform you that, the Board of Directors of the Company (BoD), at its Meeting held today, inter-
+alia, approved the Un -audited Financial Results (Standalone  and Consolidated) (with limited 
+review) for the fourth quarter / twelve months ended 30th September 2025 (copy enclosed).  
+ 
+As informed vide our letter dated 8 th August 2025, the Board of Directors at its meeting held on 
+8th August 2025 has approved the change of financial year of the Company to uniform financial 
+year commencing on 1 st April of every year and ending on 31 st March of the following year, 
+including observing a one-time transitional financial year from 1st October 2024 to 31st March 2026 
+(18 months). Accordingly, the quarter from 1 st July 2025 to 30 th September 2025 has been 
+considered as the fourth quarter of the financial year ending 31st March 2026. 
+ 
+Please also find enclosed a Press Release issued by the Company.  
+ 
+The Board Meeting commenced at 1.48 p.m. (IST) and concluded at 3.55 p.m. (IST).  
+ 
+Kindly take the same on record. 
+ 
+Yours faithfully, 
+For Siemens Limited 
+ 
+ 
+ 
+Ketan Thaker 
+Company Secretary 
+Price Waterhouse Chartered Accountants LLP 
+Review Report 
+To 
+The Board of Directors 
+Siemens Limited, 
+Birla Aurora, Level 21, Plot No. 1080, 
+Dr. Annie Besant Road, Worlt 
+Mumbai- 400030 
+1. We have reviewed the standalone unaudited financial results of Siemens Limited (the 
+"Company") for the quarter ended September 30, 2025 and the year to date results for the 
+period October 1, 2024 to September 30, 2025, which are included in the accompanying 
+'Statement of standalone unaudited financial results for the quarter and twelve months 
+ended 30 September 2025', the Statement of standalone assets and liabilities as on that 
+date and the Statement of standalone cash flows for the twelve months ended on that date 
+together with notes thereon (the "Statement"). The Statement has been prepared by the 
+Company pursuant to Regulation 33 of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended (the "Listing 
+Regulations, 2015"), which has been initialled by us for identification purposes. 
+2. This Statement, which is the responsibility of the Company's Management and approved 
+by the Board of Directors, has been prepared in accordance with the recognition and 
+measurement principles laid down in Indian Accounting Standard 34 "Interim Financial 
+Reporting" ("Ind AS 34"), prescribed under Section 133 of the Companies Act, 2013, and 
+other accounting principles generally accepted in India. Our responsibility is to express a 
+conclusion on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410, "Review of Interim Financial Information Performed by the 
+Independent Auditor of the Entity" issued by the Institute of Chartered Accountants of 
+India. This Standard requires that we plan and perform the review to obtain moderate 
+assurance as to whether the Statement is free of material misstatement. A review of interim 
+financial information consists of making inquiries, primarily of persons responsible for 
+financial and accounting matters, and applying analytical and other review procedures. A 
+review is substantially less in scope than an audit conducted in accordance with Standards 
+on Auditing and consequently does not enable us to obtain assurance that we would 
+become aware of all significant matters that might be identified in an audit. Accordingly, 
+we do not express an audit opinion . 
+4. Based on our review conducted as above, nothing has come to our attention that causes us 
+to believe that the Statement has not been prepared in all material respects in accordance 
+with the recognition and measurement principles laid down in the aforesaid Indian 
+Accounting Standard and other accounting principles generally accepted in India and has 
+not disclosed the information required to be disclosed in terms of Regulation 33 of the 
+Listing Regulations, 2015 including the manner in which it is to be disclosed, or that it 
+contains any material misstatement. 
+Price Waterhouse Chartered Accountants LLP, 7th & 8th Floor, Nesco IT Park, Building No 3, Western Express Highway 
+Goregaon East, Mumbai - 400 063 
+T: +91 (22) 61197810 
+Registered office and Head office: 11 -A, Vishnu Digamber Marg, Sucheta Bhawan, New Delhi - 110002 
+Price Waterhous e (a Partnership Firm) converted into Price Waterhouse Chartered Accountants LLP (a Limited Liability Partnership with LLP identity no: LLPIN AAC-5001) 
+with effect from July 25, 2014. Post its conversion to Price Waterhouse Chartered Accountants LLP, its ICAI registration number is 012754N/N500016 (!CAI registration 
+number before conver sion was 012754N) 
+Price Waterhouse Chartered Accountants LLP 
+To the Board of Directors of Siemens Limited 
+Review Report on Standalone Unaudited Financial Results 
+Page 2 of 2 
+5. We draw attention to -
+a. Note 1 to the Statement in respect of the Scheme of Arrangement (the 'Scheme') 
+between the Company, Siemens Energy India Limited and their respective shareholders 
+and creditors for demerger of the Energy business of the Company (disclosed as 
+discontinued operations in the accompanying Statement), which has been approved by 
+the National Company Law Tribunal (the "NCLT") vide its order dated March 25, 2025. 
+The Company has given effect of the Scheme from the 'appointed date' of March 1, 
+2025, as approved by the NCLT, while the applicable accounting standards require 
+accounting for the Scheme in the books of the Company to be carried out as a 
+distribution of non-cash assets to owners when the distribution is appropriately 
+authorised and is no longer at the discretion of the Company, which is the date of the 
+final order passed by the NCLT sanctioning the Scheme as aforesaid (i.e., the 'effective 
+date' per the Scheme). 
+b. Note 2 to the Statement regarding the change of financial year of the Company, as 
+approved by the Board of Directors. As a transitional arrangement, the Company will 
+prepare the current year financial statements for a period of 18 months from October 1, 
+2024 to March 31, 2026, which would comprise six quarters. Accordingly, the period 
+July 1, 2025 to September 30, 2025 has been considered as the fourth quarter of the 
+financial year ending March 31, 2026. The Company is in the process of taking the 
+necessary steps and approvals to comply with procedural requirements emanating on 
+account of change in the financial year. 
+Our conclusion is not modified in respect of the above matters. 
+Place: Mumbai 
+Date: November 14, 2025 
+For Price Waterhouse Chartered Accountants LLP 
+Firm Registration umber: 012754N/N500016 
+Partner 
+Membership Number: 105869 
+UDIN: 25105869BMOPCZ7645 
+SIEMENS LIMITED 
+Statement of standalone unaudited financial results for the quarter and twelve months ended 30 September 2025 
+(Rs. in million) 
+Quarter ended Twelve months Year ended 
+ended 
+30 September 30 June 30 September 30 September 30 September No. Particulars 2025 2025 2024 2025 2024 
+(refer note 2) (Unaudited) (refer note 6) (refer note 2) (Audited) 
+(Unaudited) (Unaudited) 
+1 Revenue from operations 46,338 38,678 39,744 154,850 143,386 
+2 Other income (refer note 3) 1,007 1,140 2,251 6,570 9,907 
+3 Total income (1+2) 47,345 39,818 41,995 161,420 153,293 
+4 Expenses 
+a) Cost of materials consumed (refer note 4) 16,716 14,784 14,843 57,314 51,651 
+b) Purchases of stock-in-trade (refer note 4) 11,995 9,666 9,570 41 ,781 40,706 
+c) Changes in inventories of finished goods, work-in-progress and 1,246 327 1,229 701 (37) 
+stock-in-trade 
+d) Other direct costs (refer note 4) 3,204 2,607 2,524 9,336 9,595 
+e) Employee benefits expense 3,941 3,691 3,638 14,998 12,923 
+f) Finance costs 34 24 177 105 417 
+g) Depreciation and amortisation expense 440 427 369 1,720 1,562 
+h) Other expenses, net 4,026 3,321 3,406 14,232 10,717 
+Total expenses 41,602 34,847 35,756 140,187 127,534 
+5 Profit before tax for the period I year from continuing operations (3-4) 5,743 4,971 6,239 21,233 25,759 
+6 Tax expense 
+a) Current tax 1,537 1,230 1,830 5,126 6,089 
+b) Deferred tax expense/ (credit) 10 50 (250) 33 (1) 
+Total tax expense 1,547 1,280 1,580 5,159 6,088 
+7 Profit for the period / year from continuing operations (5-6) 4,196 3,691 4,659 16,074 19,671 
+8 Discontinued operations (refer note 1) 
+Profit before tax from discontinued operations - 4,153 5,599 9,418 
+Tax expense on discontinued operations - 1,065 1,414 2,438 
+Profit for the period / year from discontinued operations 3,088 4,185 6,980 
+9 Profit for the period / year (7+8) 4,196 3,691 7,747 20,259 26,651 
+10 i) Other comprehensive income/ (loss) from continuing operations 
+a) Items that will not be reclassified to profit or loss 
+Re-measurement gains/ (losses) on defined benefit plans, net 414 (71) 201 285 (155) 
+Income tax effect credit/ (expense) (105) 18 (51) (72) 39 
+b) Items that will be reclassified to profit or loss 
+Fair value changes on derivatives designated as cash flow hedge, net (45) (167) 29 (296) 73 
+Income tax effect credit/ (expense) 12 42 (7) 75 (18) 
+ii) Other comprehensive income I (loss) from discontinued operations 
+a) Items that will not be reclassified to profit or loss 
+Re-measurement gains/ (losses) on defined benefit plans, net (10) (50) (126) 
+Income tax effect credit/ (expense) - 3 13 32 
+b) Items that will be reclassified to profit or loss 
+Fair value changes on derivatives designated as cash flow hedge, net - - (348) 258 (282) 
+Income tax effect credit/ (expense) - 88 (65) 71 
+Total other comprehensive income/ (loss) for the period/ year 276 (178) (95) 148 (366) 
+11 Total comprehensive income [(including other comprehensive 4,472 3,513 7,652 20,407 26,285 
+income I (loss)) for the period/ year (9+10) 
+12 Paid-up equity share capital 712 712 712 712 712 
+(Face Value of equity shares : Rs. 2 each fully paid up) 
+13 Other Equity 151,758 
+14 Earnings Per Share (EPS) of Rs. 2 each (in Rupees)•• 
+- Basic and diluted EPS from continuing operations 11.78 10.37 13.09 45.14 55.24 
+- Basic and diluted EPS from discontinued operations - - 8.67 11 .76 19.60 
+- Basic and diluted EPS from continuing and discol'(tinued operations 11 .78 10.37 21 .76 56.90 74.84 
+" not annualised except year end EPS 
+SIEMENS LIMITED 
+Statement of standalone assets and liabilities 
+{Rs. in million) 
+As at As at 
+No. Particulars 30 September 30 September 
+2025 2024 (refer note 2) (Audited) {Unaudited) 
+A ASSETS 
+1 Non-current assets 
+a) Property, plant and equipment 5,278 8,252 
+b) Capital work-in-progress 1,964 988 
+c) Right-of-Use assets 1,049 2,417 
+d) Investment properties 622 639 
+e) Goodwill 222 222 
+f) Other intangible assets 89 105 
+g) Financial assets 
+(i) Investments 22,201 22,201 
+(ii) Trade receivables 144 360 
+(iii) Loans 2,630 
+(iv) Other financial assets 282 711 
+' h) Contract assets 2,76 1 5,171 
+i) Deferred tax assets (net) 2,447 3,812 
+j) Non-current tax assets (net) 6,960 6,677 
+k) Other non-current assets 2,380 3,263 
+Total non-current assets 49,029 54,818 
+2 Current assets 
+a) Inventories 17,379 23,695 
+b) Financial assets 
+(i) Trade receivables 25,041 39,970 
+(ii) Cash and cash equivalents 16,652 14,954 
+(iii) Bank balances other than cash and cash equivalents 43,655 75,374 
+(iv) Loans 4,876 4,616 
+(v) Other financial assets 2,982 2,024 
+c) Contract assets 25,868 24,120 
+d) Other current assets 2,615 2,946 
+Total current assets 139,068 187,699 
+TOTAL ASSETS 188,097 242,517 
+B EQUITY AND LIABILITIES 
+1 Equity 
+a) Equity share capital 712 712 
+b) Other equity 129,695 151,758 
+Total equity 130,407 152,470 
+2 Liabilities 
+Non-current liabilities 
+a) Financial liabilities 
+(i) Lease liabilities 622 1,452 
+(ii) Trade payables 
+Total outstanding dues of creditors other than micro and small enterprises 2 41 
+(iii) Other financial liabilities 1,033 624 
+b) Non-current provisions 3,843 7,603 
+Total non-current liabilities 5,500 9,720 
+Current liabilities 
+a) Financial liabilities 
+(i) Lease liabilities 356 1,117 
+(ii) Trade payables 
+Total outstanding dues of micro and small enterprises 2,704 4,110 
+Total outstanding dues of creditors other than micro and small enterprises 31,521 40,315 
+(iii) Other financial liabilities 6,456 7,641 
+b) Contract liabilities 4,218 ·12,738 
+c) Other current liabilities 1,811 2,822 
+d) Current provisions 4,685 9,775 
+e) Current tax liabilities (net) 439 1,809 
+Total current liabilities 52,190 80,327 
+Total liabilities 57,690 90,047 
+TOTAL EQUITY AND LIABILITIES 188,097 242,517 
+SIEMENS LIMITED 
+Statement of standalone cash flows for the twelve months ended 30 September 2025 
+Cash flow from operating activities 
+Profit before tax from continuing operations 
+Profit before tax from discontinued operations 
+Particulars 
+Profit before tax for the period/ year (including discontinued operations) 
+Adjustments for: 
+Finance costs 
+Bad debts 
+Impairment allowance on financial and contract assets, net 
+Depreciation and amortisation expense 
+Gain on sale of property, plant and equipment, investment properties and assets held for sale, net 
+Unrealised exchange loss, net 
+Share based payments to employees, net 
+Interest income 
+Dividend received from subsidiaries 
+Operating profit before working capital changes 
+Working capital adjustments 
+(Increase) / decrease in inventories 
+(Increase) / decrease in trade and other receivables 
+Increase/ (decrease) in trade payables and other liabilities 
+Increase/ (decrease) in provisions 
+Net change in working capital 
+Cash generated from operations 
+Income taxes paid, net 
+Net cash generated from operating activities 
+Cash flow from investing activities 
+Purchase of property, plant and equipment and other intangible assets 
+Proceeds from sale of property, plant and equipment, investment properties and assets held for sale, net 
+Receipt on account of purchase price adjustment for Mass-Tech 
+Dividend received from subsidiaries 
+Interest received 
+Inter-corporate deposits given 
+Refund of inter-corporate deposits given 
+Deposits (with original maturity more than 3 months) with banks matured / (placed), net 
+Net cash generated from I (used in) investing activities 
+Cash flow from financing activities 
+Payment of principal of lease liabilities 
+Payment of interest of lease liabilities 
+Dividend paid (including tax thereon) 
+Recharge for share-based payments 
+Proceeds from issue of equity shares 
+Distribution of cash and cash equivalents under the Scheme (refer note 1) 
+Net cash used in financing activities 
+Net increase in cash and cash equivalents 
+Cash and cash equivalents at beginning of the period/ year 
+Effect of exchange gain on cash and cash equivalents 
+Cash and cash equivalents at the end of the period/ year 
+Non cash transaction from operating, investing and financing activities: 
+Acquisition of Right-of-Use assets 
+Scheme o_f arrangement in respect of the Energy business (refer note 1) 
+Twelve months 
+ended 
+30 September 2025 
+(refer note 2) 
+(Unaudited) 
+21,233 
+5,599 
+26,832 
+166 
+121 
+287 
+1,866 
+(51) 
+584 
+451 
+(5,081) 
+(1,423) 
+23,752 
+(1,830) 
+(17,093) 
+4,980 
+(608) 
+(14,551) 
+9,201 
+(8,190) 
+1,011 
+(3,430) 
+73 
+1,423 
+5,449 
+(8,420) 
+5,520 
+31,719 
+32,334 
+(776) 
+(142) 
+(4,272) 
+(1,028) 
+(25,478) 
+(31,696) 
+1,649 
+14,954 
+49 
+16,652 
+529 
+(Rs. in million) 
+Year ended 
+30 September 2024 
+(Audited) 
+25,759 
+9,418 
+35,177 
+582 
+99 
+171 
+2,301 
+(2,865) 
+369 
+37 
+(6,051) 
+(1,462) 
+28,358 
+(1,090) 
+(15,723) 
+9,160 
+863 
+(6,790) 
+21,568 
+(7,592) 
+13,976 
+(3,125) 
+2,399 
+6 
+1,462 
+5,804 
+(3,960) 
+6,560 
+(13,056) 
+(3,910 
+(772) 
+(138) 
+(3,561) 
+(500) 
+(4,971) 
+5,095 
+9,826 
+33 
+14,954 
+2,054 
+SIEMENS LIMITED 
+Segmentwise revenue, results, assets and liabilities for the quarter and twelve months ended 30 September 2025 
+(Rs. In million 
+Standalone 
+Quarter ended Twelve months Year ended 
+ended 
+Particulars 30 September 30 June 30 September 30 September 30 September 
+2025 2025 2024 2025 2024 (refer note 2) (Unaudited) (refer note 6) (refer note 2) (Audited) (Unaudited) (Unaudited) 
+1. Segment Revenue 
+Smart Infrastructure 22,320 19,502 18,308 76,141 66,898 
+Mobility 10,889 7,755 8,358 31,632 27,335 
+Digital Industries 10,655 9,156 10,519 37,965 40,961 
+Low Voltage Motors 2,731 2,395 2,606 9,796 9,366 
+Others I 563 460 383 1,721 1,036 
+47,158 39,268 40,174 157,255 145,596 
+Less : Inter segment revenue 820 590 430 2,405 2,210 
+Total revenue from continuing operations 46,338 38,678 39,744 154,850 143,386 
+Energy - Discontinued operations (refer note 1) 20,163 25,746 61 ,853 
+Less : Inter segment revenue 122 138 273 
+Total revenue from discontinued operations (refer note 1) 20,041 25,608 61,580 
+2. Segment Results 
+Smart Infrastructure 3,021 2,693 2,511 10,569 9,077 
+Mobility 1,115 172 598 2,032 1,498 
+Digital Industries 751 988 988 2,691 4,930 
+Low Voltage Motors 48 6 151 354 785 
+Others 36 32 27 133 89 
+Profit from operations 4,971 3,891 4,275 15,779 16,379 
+Add: 
+a) Other Income (refer note 3) 1,007 1,140 2,251 6,570 9,907 
+Less: 
+a) Finance costs 34 24 177 105 417 
+b) Demerger related expenses/ Separation costs 201 36 110 1,011 110 
+Profit before tax for the period/ year from continuing operations 5,743 4,971 6,239 21,233 25,759 
+Profit before tax for the period / year from Energy - Discontinued operations 4,153 5,599 9,418 (refer note 1 l 
+3. Segment Assets 
+Smart Infrastructure 58,395 58,110 52,542 58,395 52,542 
+Mobility 30,322 28,678 18,218 30,322 18,218 
+Digital Industries 11,864 12,420 11,938 11,864 11,938 
+Low Voltage Motors 2,151 2,364 2,434 2,151 2,434 
+Others 1,930 1,919 2,591 1,930 2,591 
+Total Segment Assets 104,662 103,491 87,723 104,662 87,723 
+Unallocated (including cash and bank balances) 83,435 79,839 108,301 83,435 108,301 
+Energy - Assets held for distribution• 46,493 46,493 
+Total Assets 188,097 183,330 242,517 188,097 242,517 
+4. Segment Llabtlitles 
+Smart Infrastructure 22,332 21,379 21,166 22,332 21,166 
+Mobility 12,832 11,390 10,564 12,832 10,564 
+Digital Industries 7,768 6,352 6,625 7,768 6,625 
+Low Voltage Motors 3,485 2,923 3,565 3,485 3,565 
+Others 1,297 1,131 2,049 1,297 2,049 
+Total Segment Liabilities 47,714 43,175 43,969 47,714 43,969 
+Unallocated 9,976 14,131 8,313 9,976 8,313 
+Energy - Liabilities directly associated with assets held for distribution' 37,765 37,765 
+Total Llabilltles 57,690 57,306 90,047 57,690 90,047 
+• Upto 30 September 2024, the assets and liabilities directly associated with assets held for distribution pertains to "Energy" segment (refer note 1 ). 
+Notes: 
+1 During the previous year, the Board of Directors of the Company, at its meeting held on 14 May 2024, basis the recommendations of the Audit Committee and 
+Committee of Independent Directors, approved a scheme of arrangement amongst the Company, Siemens Energy India Limited ("SEIL") (a wholly owned 
+subsidiary of the Company, which was incorporated on 7 February 2024) and their respective shareholders and creditors, providing for the demerger of the 
+Company's Energy business to SEIL in compliance with Sections 230 to 232 and other applicable provisions of the Companies Act, 2013 (the "Scheme"). 
+On 25 March 2025, the Scheme was sanctioned by the Hon'ble National Company Law Tribunal (the "NCL T"). Pursuant to receipt of necessary statutory approvals 
+and in accordance with the Scheme, the Company has demerged the Energy business effective 25 March 2025, with appointed date being 1 March 2025, as per 
+the Scheme. 
+Upon the Scheme being effective, the Company has transferred the assets and liabilities pertaining to Energy business to SEIL as on the appointed date. The 
+Company has accordingly de recognized from its books of account the carrying amount of such assets and liabilities. The excess of the carrying amount of assets 
+transferred over the carrying amount of liabilities transferred aggregating Rs. 37,846 million (including Rs. 25,478 million of cash and cash equivalents being 
+transferred as an integral part of the Scheme) had been adjusted to retained earnings in accordance with the Scheme in the standalone unaudited financial results. 
+Additionally, in accordance with the Scheme, the Company had also made certain consequential adjustments to applicable reserves within equity. 
+Further, pursuant to the requirements of the Indian Accounting Standards (Ind AS), the results of the Company's Energy business up to the appointed date of 
+demerger have been disclosed as discontinued operations; accordingly, the previous period figures have been re-presented. 
+The results of the Company's Energy business included in the above standalone unaudited financial results and segment results are as follows: 
+(Rs. in million) 
+Quarter ended Twelve months Year ended 
+Particulars ended 
+30 September 30 September 30 September 
+2024 2025• 2024 
+Revenue from operations 20,041 25,608 61,580 
+Other income 38 24 42 
+Total income 20,079 25,632 61,622 
+Total expenses 15,926 20,033 52,204 
+Profit before tax for the period/ year 4,153 5,599 9,418 
+Tax expense 1,065 1,414 2,438 
+Profit for the oeriod / vear from discontinued ooerations 3,088 4,185 6,980 
+• Considering the impact of the Scheme, the above numbers are up to 1 March 2025. 
+2 The Board of Directors at its meeting held on 8 August 2025 has approved the change of financial year of the Company to uniform financial year commencing on 
+1 April of every year and ending on 31 March of the following year including observing a one-time transitional financial year from 1 October 2024 to 31 March 2026. 
+The Company is in the process of taking necessary steps and approvals to comply with procedural requirements emanating on account of change in financial year. 
+Consequently, as a transitional arrangement , the current financial year of the Company will be for a period of 18 months from 1 October 2024 to 31 March 2026 
+which would comprise six quarters, while the previous financial year was for a period of 12 months from 1 October 2023 to 30 September 2024. In view of the 
+above, the Company considered the period from 1 July 2025 to 30 September 2025 as a standalone fourth.quarter of the financial year ending 31 March 2026. The 
+audited results for the previous financial year ended 30 September 2024 and the unaudited results for the twelve months ended 30 September 2025 are for 12 
+months period and therefore comparable . 
+3 Other income includes the following: 
+(Rs. in million) 
+Twelve months Year ended 
+Quarter ended ended 
+Particulars 
+30 September 30 June 30 September 30 September 30 September 
+2025 2025 2024 2025 2024 
+Gain on sale of properties (including assets held for sale) - 55 688 55 2,895 
+Dividend received from subsidiaries - - - 1,423 1,462 
+4 During the current period, the Company has benchmarked and re-evaluated the presentation and classification of the below-mentioned financial statement line 
+items in the standalone financial results. The Company has determined that such a change results in an enhanced and more relevant presentation and 
+classification of its financial information, taking into account the nature of its current business operations as per paragraph 45 of Ind AS 1 - Presentation of Financial 
+Statements. This change in presentation and classification did not have an impact on the overall financial results. Accordingly, the figures for the prior period have 
+been reclassified and re-presented to conform to the current period's classification as summarised below: 
+(Rs. in million) 
+30 September 30 September 
+Revised presentation and classification Previous presentation and classification 2024 2024 
+(Revised) (Previously 
+Reoortedl 
+Cost of materials consumed Cost of materials consumed 51 ,651 26,253 
+Purchases of stock-in-trade Purchases of stock-in-trade 40,706 48,296 
+Other direct costs Project bought outs and other direct costs 9,595 27,403 
+Total 101,952 101,952 
+5 Previous year figures have been regrouped/reclassified to conform to current yea~s classification wherein, 
+Contract Assets of Rs. 1,288 million has been netted off with Contract liabilities; 
+Trade payables - total outstanding dues of other than micro and small enterprises amounting to Rs. 1,168 million has been reclassed to Trade payables - total 
+outstanding dues of micro and small enterprises. 
+6 The figures for the quarter ended 30 September 2024 are the balancing figures between the audited figures in respect of the full financial year and the unaudited 
+nine months figures as reported by the Company. 
+7 The above standalone unaudited financial results were reviewed and approved by the Audit Committee and Board of Directors at their meetings held on 
+14 November 2025. 
+yj;;;:. 
+• se Cbartered Ac -
+'(;-.OU Co 
+~
+/.:--:-=-.r is~ 
+.__~"- \.\.?\NAA~-5001 "", ~ J , ,,,, 
+(; ~ V ,~ ~ I ~
+0
+l 
+Sunil Mathur 
+0c;>~ lrN 0/2754N/N':ll)l)\l 
+6~r.., Managing Director and 
+o' - ' * 
+Chief Executive Officer 
+* Mumbai '·· i: . ~ 
+Place : Mumbai 
+Date 14 November 2025 
+Siemens Limited 
+Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 
+Corporate Identity Number: L28920MH1957PLC010839 
+Tel.: +91 22 6251 7000; Fax: +91 22 2436 2404 
+Email/ Contact : Cor~orate-Secretariat.in@siemens.comIwww.siemens.co .in/contact 
+Website: www.siemens.co.in 
+Price Waterhouse Chartered Accountants LLP 
+Review Report 
+To 
+The Board of Directors 
+Siemens Limited, 
+Birla Aurora, Level 21, Plot No. 1080, 
+Dr. Annie Besant Road, Worli, 
+Mumbai - 400030 
+1. We have reviewed the consolidated unaudited financial results of Siemens Limited (the 
+"Holding Company") and its subsidiaries (the holding company and its subsidiaries 
+hereinafter referred to as the "Group") (refer paragraph 4 below) for the quarter ended 
+September 30, 2025 and the year to date results for the period October 1, 2024 to September 
+30, 2025, which are included in the accompanying 'Statement of consolidated unaudited 
+financial results for the qua1ter and twelve months ended 30 September 2025', the 
+Statement of consolidated assets and liabilities as on that date and the Statement of 
+consolidated cash flows for the twelve months ended on that date together with notes 
+thereon (the "Statement") . The Statement is being submitted by the Holding Company 
+pursuant to the requirement of Regulation 33 of the Securities and Exchange Board of India 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the 
+"Listing Regulations, 2015 "), which has been initialled by us for identification purposes. 
+2 . This Statement, which is the responsibility of the Holding Company's Management and 
+approved by the Holding Company's Board of Directors, has been prepared in accordance 
+with the recognition and measurement principles laid down in Indian Accounting Standard 
+34 "Interim Financial Reporting" ("Ind AS 34"), prescribed under Section 133 of the 
+Companies Act, 2013, and other accounting principles generally accepted in India . Our 
+responsibility is to express a conclusion on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410, "Review of Interim Financial Information Performed by the 
+Independent Auditor of the Entity" issued by the Institute of Chartered Accountants oflndia. 
+This Standard requires that we plan and perform the review to obtain moderate assurance 
+as to whether the Statem ent is free of material misstatem ent. A review of interim financial 
+information consists of making inquiries, primarily of persons responsible for financial and 
+accounting matters, and applying analytical and other review procedures. A review is 
+substantially less in scope than an audit conducted in accordance with Standards on 
+Auditing and consequently does not enable us to obtain assurance that we would become 
+aware of all significant matters that might be identified in an audit. Accordingly, we do not 
+express an audit opinion. 
+We also performed procedures in accordance with the circular issued by the Securities and 
+Exchange Board of India under Regulation 33(8) of the Listing Regulations, 2015, to the 
+extent applicable. 
+4. The Statement includes the results of Holding Company and the following entities: 
+Subsidiaries: 
+C&S Electric Limited 
+Siemens Rail Automation Private Limited 
+Siemens Energy India Limited (up to March 1, 2025) 
+Price Waterhouse Chartered Accountants LLP, 7th & 8th Floor, Nesco IT Park, Building No 3, Western Express Highway 
+Goregaon East, Mumbai - 400 063 
+T: +91 (22) 61197810 
+Registered office and Head office: 11-A, Vishnu Digamber Marg, Sucheta Bhawan, New Delhi - 110002 
+Price Waterhouse (a Partnership Firm) converted into Price Waterhouse Chartered Accountants LLP (a Limited Liability Partnership with LLP identity no: LLPIN AAC-5001) 
+with effect from July 25, 2014. Post its conversion to Price Waterhouse Chartered Accountants LLP, its ICAI regist ration number is 012754N/N500016 (ICAI registr ation 
+number before conversion was 012754N) 
+Price Waterhouse Chartered Accountants LLP 
+To the Board of Directors of Siemens Limited 
+Review Report on Consolidated Unaudited Financial Results 
+Page 2 of 2 
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above, 
+nothing has come to our attention that causes us to believe that the accompanying Statement 
+has not been prepared in all material respects in accordance with the recognition and 
+measurement principles laid down in the aforesaid Indian Accounting Standard and other 
+accounting principles generally accepted in India and has not disclosed the information 
+required to be disclosed in terms of Regulation 33 of the Listing Regulations, 2015 including 
+the manner in which it is to be disclosed, or that it contains any material misstatement . 
+6. We draw attention to -
+a. Note 1 to the Statement in respect of the Scheme of Arrangement (the 'Scheme') between 
+the Holding Company, Siemens Energy India Limited and their respective shareholders 
+and creditors for demerger of the Energy business of the Holding Company (disclosed 
+as discontinued operations in the accompanying Statement), which has been approved 
+by the National Company Law Tribunal (the "NCLT") vide its order dated March 25, 
+2025. The Holding Company has given effect of the Scheme from the 'appointed date' of 
+March 1, 2025, as approved by the NCLT, while the applicable accounting standards 
+require accounting for the Scheme in the books of the Holding Company to be carried 
+out as a distribution of non-cash assets to owners when the distribution is appropriately 
+authorised and is no longer at the discretion of the Holding Company, which is the date 
+of the final order passed by the NCLT sanctioning the Scheme as aforesaid (i.e., the 
+'effective date' per the Scheme). 
+b. Note 2 to the Statement regarding the change of financial year of the Holding Company, 
+as approved by the Board of Directors. As a transitional arrangement, the Holding 
+Company will prepare the current year financial statements for a period of 18 months 
+from October 1, 2024 to March 31, 2026, which would comprise six quarters. 
+Accordingly, the period July 1, 2025 to September 30, 2025 has been considered as the 
+fomth quarter of the financial year ending March 31, 2026. The Holding Company is in 
+the process of taking the necessary steps and approvals to comply with procedural 
+requirements emanating on account of change in the financial year. 
+Our conclusion is not modified in respect of the above matters . 
+Place: Mumbai 
+Date: November 14, 2025 
+For Price Waterhouse Chartered Accountants LLP 
+Firm Registration Number: 012754N/N500016 
+Partner 
+Membership Number: 105869 
+UDIN: 25105869BMOPDA3898 
+SIEMENS LIMITED 
+Statement of consol idated unaudit ed financial results for the quarter and twelve month s ended 30 September 2025 
+(Rs. in milli on) 
+Quarter ended Twelve Year ended months ended 
+30 September 30 June 30 September 30 September 30 September 
+No. Particulars 
+2025 2025 2024 2025 2024 
+(refer note 2) (Unaudited) (refer note 6) (refer note 2) (Audited) 
+(Unaudited) (Unaudited) 
+1 Revenue from operations 51,71 2 43,468 44,570 173,642 160,817 
+2 Other income (refer note 3) 1,224 1,241 2,355 5,703 8,771 
+3 Total Income (1+2) 52,936 44,709 46,925 179,345 169,588 
+4 Expenses 
+a) Cost of materials consumed (refer note 4) 19,706 17,755 17,848 69,155 62,444 
+b) Purchases of stock-in-trade (refer note 4) 11 ,696 9,233 9,036 40,1 69 39,239 
+c) Changes in inventories of finished goods, work-in-progress and 1,559 292 1,462 509 (12) 
+stock-in-trade 
+d) Other direct costs (refer note 4) 3,567 3,069 2,923 10,861 11,220 
+e) Employee benefits expense 4,450 4,179 4,068 16,924 14,557 
+f) Finance costs 45 49 178 151 440 
+g) Depreciation and amortisation expense 716 711 624 2,803 2,556 
+h) Other expenses, net 4,563 3,726 3,785 15,954 12,167 
+Total expenses 46,302 39,014 39,924 156,526 142,611 
+5 Profit before tax for the period/ year from continuin g operation s (3-4) 6,634 5,695 7,001 22,819 26,977 
+6 Tax expense 
+a) Current tax 1,757 1,479 1,986 6,056 6,930 
+b) Deferred tax expense/ (credit) 23 (1 8) (210) (125) (1 57) 
+Total tax expense 1,780 1,461 1,776 5,931 6,773 
+7 Profit for the period/ year from continuing operation s (5-6) 4,854 4,234 5,225 16,888 20,204 
+8 Discontinued operations (refer note 1) 
+Profit before tax from discontinued operations 4,152 5,585 9,415 
+Tax expense on discontinued operations 1,065 1,414 2,438 
+Profit for the period / year from discontinued operations 3,087 4,171 6,977 
+9 Profit for the period / year (7+8) 4,854 4,234 8,312 21 ,059 27,181 
+10 i) Other comprehensive income / (loss) from continuing operations 
+a) Items that will not be reclassifi ed to profit or loss 
+Re-measurement gains/ (losses) on defined benefit plans, net 41 5 (71) 188 276 (190) 
+Income tax effecl credit/ (expense) (104) 18 (48) (69) 47 
+b) Items that will be reclas slfled to profit or loss 
+Fair value changes on derivatives designated as cash flow hedge, net (45) (1 67) 29 (296) 73 
+Income tax effect credit/ (expense) 12 42 (7) 75 (18) 
+ii) Other comprehens ive Income/ (loss) from discont inued operation s 
+a) Items that will not be reclassified to profit or loss 
+Re-measurement gains/ (losses) on defined benefit plans, net - (10) (50) (126) 
+Income tax effect credit/ (expense) - 3 13 32 
+b) Items that will be reclas sified to profit or loss 
+Fair value changes on derivatives designated as cash flow hedge, net - (348) 258 (282) 
+Income tax effect credit / (expense) - 88 (65) 71 
+Total other comprehensive Income / (loss) for the period/ year 278 (178) (105) 142 (393) 
+11 Total compr ehensive Income [Including oth er compr ehensive 5,132 4,056 8,207 21,201 26,788 
+Income/ (loss)] for th e period/ year (9+1 O) 
+Profit for the period attribut able to: 
+- Owners of the Company 4,849 4,229 8,307 21,042 27,166 
+- Non controlling interest 5 5 5 17 15 
+Other comprehensive Income / (loss) attribut able to: 
+- Owners of the Company 278 (178) (105) 142 (393) 
+- Non controlling interest 
+Total compreh ensive Income [Including oth er comprehensive 
+Income / (loss)] attributable to: 
+- Owners of the Company 5,127 4,051 8,202 21,184 26,773 
+- Non controlling interest 5 5 5 17 15 
+12 Paid-up equity share capital 
+(Face Value of equity shares : Rs. 2 each fully paid up) 712 712 712 712 712 
+13 Other Equity 152,855 
+14 Earnings Per Share (EPS) of Rs. 2 each (In Rup ees) " 
+- Basic and diluted EPS from continuing operations 13.63 11 .89 14.68 47.42 56.75 
+- Basic and diluted EPS from discontinued operations 8.67 11.72 19.58 
+- Basic and diluted EPS from continuing and discontinued operations 13.63 11 .89 23.35 59.14 76.33 
+" not annualised except year end EPS 
+' denotes figures less than a million 
+SIEMENS LIMITED 
+Statement of consolidated assets and liabilities (Rs. in mill ion) 
+As at As at 
+No. Particulars 30 September 30 September 
+2025 2024 (refer note 2) (Audited) (Unaudited) 
+A ASSETS 
+1 Non-current assets 
+a) Property, plant and equipment 6,931 9,885 
+b) Capital work-in-progress 2,058 1,033 
+c) Right-of-Use assets 2,374 3,508 
+d) Investment properties 622 639 
+e) Goodwill 12,576 12,576 
+f) othe r intangible assets 3,886 4,517 
+g) Intangible assets under development 19 1 
+h) Financial assets 
+(i) Investments 14 14 
+(ii) Trade receivables 174 386 
+(iii) Loans 2,630 
+(iv) Other financial assets 350 777 
+i) Contract assets 2,761 5,171 
+j) Deferred tax assets (net) 2,490 3,866 
+k) Non-current tax assets (net) 7,062 6,778 
+I) Other non-current assets 2,498 3,361 
+Total non-current assets 46,445 52,512 
+2 Current assets 
+a) Inventories 19,964 26,305 
+b) Financial assets 
+(i) Trade receivables 29,823 44,098 
+(ii) Cash and cash equivalents 21,504 18,359 
+(iii) Bank balances other than cash and cash equivalents 45,242 77.,320 
+(iv) Loans 4,879 4,618 
+(v) Other financial assets 3, 112 2,100 
+c) Contract assets 26,125 24,376 
+d) Other current assets 2,798 3,107 
+Total current assets 153,447 200,283 
+TOTAL ASSETS 199,892 252,795 
+B EQUITY AND LIABILITIES 
+1 Equity 
+a) Equity share capital 712 712 
+b) other equity 131,564 152,855 
+Equity attributable to the owners of the Company 132,276 153,567 
+Non controlling interest 105 94 
+Total equity 132,381 153,661 
+2 Liabilities 
+Non-curr ent llabllltles 
+a) Financial liabilities 
+(i) Lease liabilities 977 1,566 
+(ii) Trade payables 
+Total outstanding dues of creditors other than micro and small enterprises 2 41 
+(iii) Other financial liabilities 1,100 692 
+b) Non-current provisions 4,190 7,912 
+c) Deferred tax liabilities (net) 920 1,090 
+Total non-current llabllllles 7,189 11,301 
+Current liabilities 
+a) Financial liabilities 
+(i) Lease liabilities 476 1,228 
+(ii) Trade payables 
+Total outstanding dues of micro and small enterprises 3,684 5,093 
+Total outstanding dues of creditors other than micro and small enterprises 33,663 41,911 
+(iii) Other financial liabilities 7,186 8,372 
+b) Contract liabilities 7,038 15,416 
+c) Other current liabilities 2,047 3,044 
+d) Current provisions 5,603 10,772 
+e) Current tax liabilities (net) 625 1,997 
+Total current llabllltl es 60,322 87,833 
+Total llabllltles 67,511 99,134 
+TOTAL EQUITY AND LIABILITIES 199,892 252,795 
+SIEMENS LIMITED 
+Statement of consolidated cash flows for the twelve months ended 30 September 2025 
+(Rs. in million) 
+Twelve months Year ended ended 
+Particulars 30 September 2025 
+(refer note 2) 30 September 2024 
+(Unaudited) (Audited) 
+Cas/J flow from operating activities 
+Profit before tax from continuing operations 22,819 26,977 
+Profit before tax fr<im discontinued operations 5,585 9,415 
+Profit before tax for the period/year (including discontinued operations) 28,404 36,392 
+Adjustments for: 
+Finance costs 212 605 
+Bad debts 122 106 
+Impairment allowance on financial and contract assets, net 268 71 
+Depreciation and amortisation expense 2,950 3,296 
+Gain on sale of property, plant and equipment , investment properties and assets held for sale, net (50) (2,864) 
+Share based payments to employees, net 460 45 
+Unrealised exchange loss, net 528 386 
+Interest income f5,391I (6,322I 
+Operating profit before working capital changes 27,503 31,715 
+Working capital adjustments 
+(Increase)/ decrease in inventories (1,804) (1,259) 
+(Increase) / decrease in trade and other receiva bles (17,708) (16,734) 
+Increase I (decrease) in trade payables and other liabiliti es 5,533 10,192 
+Increase / (decrease) in provisions (657) 1,085 
+Net change in working capital (14,636) (6,716) 
+Cash generated from operations 12,867 24,999 
+Income taxes paid, net 19,120) (8,452) 
+Net cash generated from operating activities 3,747 16,547 
+Cas/J flow from investing activities 
+Purchase of property, plant and equipment and other intangible assets (3,804) (3,423) 
+Proceeds from sale of property, plant and equipment, investment properties and assets held for sale 77 2,401 
+Receipt on account of purchase price adjustments for Mass-Tech 6 
+Interest received 5,763 6,083 
+Inter-corporate deposits given (8,420) (3,960) 
+Refund of inter-corporate deposits given 5,520 6,560 
+Deposits (with original maturity of more than 3 months) with banks matured/ (placed), net 32,069 (12,719) 
+Net cash generated from I (used in) investing activities 31,205 (5,052) 
+Cas/J flow from financing activities 
+Payment of principal of lease liabiliti es (891) (861) 
+Payment of interest of lease liabilities (181) (156) 
+Recharge for share-based payments (1,028) (500) 
+Dividend paid (including tax thereon) ' (4,278) (3,568) 
+Proceeds from issue of equity shares - . 
+Distribution of cash and cash equivalents under the scheme (refer note 1) (25,478) -
+Net cash used in financing activities (31 ,856) (5,085) 
+Net Increase in cash and cash equivalents 3,096 6,410 
+Cash and cash equivalents at beginning of the period 18,359 11,917 
+Effect of exchange gain on cash and cash equivalents 49 32 
+Cash and cash equivalents at the end of the period 21,504 18,359 
+Non cash transaction from operating, investing and financing activities : 
+Acquisition of Right-of-Use assets 913 2,164 
+Scheme of arrangement in respect of the Energy business (refer note 1) 
+SIEMENS LIMITED 
+Segmentwise revenue, results, assets and liabilities for the quarter and twelve months ended 30 September 2025 
+/Rs. In million' 
+Consolidated 
+Quarter ended Twelve months Year ended 
+ended 
+Particulars 30 Seotember 30 June 30 Sentember 30 Seatember 30 September 
+2025 2025 2024 2025 2024 
+(refer note 2) (Unaudited) (refer note 6) (refer note 2) (Audited) 
+(Unaudited) (Unaudited) 
+1. Segment Revenue 
+Smart Infrastructure 27,247 23,790 22,700 93,304 82,579 
+Mobility 11,352 8,273 8,824 33,298 29,161 
+Digital Industries 10,655 9,156 10,519 37,965 40,961 
+Low Voltage Motors 2,731 2,395 2,606 9,796 9,366 
+Others 563 460 383 1,721 1,036 
+52,548 44,074 45,032 176,084 163,103 
+Less : Inter segment revenue 836 606 462 2,442 2,286 
+Total revenue from continuing operations 51,712 43,468 44,570 173,642 160,817 
+Energy - Discontinued operations (refer note 1) 20,163 25,746 61,853 
+Less : Inter segment revenue 122 138 273 
+Total revenue from discontinued operations (refer note 1) 20,041 25,608 61,580 
+2. Segment Results 
+Smart Infrastructure 3,557 3,194 3,045 12,546 10,879 
+Mobility 1,264 319 723 2,554 2,073 
+Digital Industries 751 988 988 2,691 4,930 
+Low Voltage Motors 48 6 151 354 785 
+Others 36 32 27 133 89 
+Profit from operations 5,656 4,539 4,934 18,278 18,756 
+Add : 
+a) Other Income (refer note 3) 1,224 1,241 2,355 5,703 8,771 
+Less: 
+a) Finance costs 45 49 178 151 440 
+b) Demerger related expenses I Separation costs 201 36 110 1,011 110 
+Profit before tax for the period / year from continuing operations 6,634 5,695 7,001 22,819 26,977 
+Profit before tax for the period / year from Energy - Discontinued operations 4,152 5,585 9,415 (refer note 1) 
+3. Segment Assets 
+Smart Infrastructure 66,720 65,787 59,296 66,720 59,296 
+Mobility 33,792 31,874 21,742 33,792 21,742 
+Digital Industries 11,864 12,420 11,938 11,864 11,938 
+Low Voltage Motors 2,151 2,364 2,434 2,151 2,434 
+Others 1,930 1,919 2,591 1,930 2,591 
+Total Segment Assets 116,457 114,364 98,001 116,457 98,001 
+Unallocated (including cash and bank balances) 83,435 79,839 108,301 83,435 108,301 
+Energy - Assets held for distribution• - 46,493 46,493 
+Total Assets 199,892 194,203 252,795 199,892 252,795 
+4. Segment Llabllllles 
+Smart infrastructure 29,184 28,065 27,232 29,184 27,232 
+Mobility 15,801 14,254 13,583 15,801 13,583 
+Digital Industries 7,768 6,352 6,625 7,768 6,625 
+Low Voilage Motors 3,485 2,923 3,565 3,485 3,565 
+Others 1,297 1,131 2,049 1,297 2,049 
+Total Segment Liabilities 57,535 52,725 53,054 57,535 53,054 
+Unallocated 9,976 14,131 8,313 9,976 8,313 
+Energy - Liabilities direcliy associated with assets held for dislribulion• 37,767 37,767 
+Total Llabllltles 67,511 66,856 99,134 67,511 99,134 
+• Uplo 30 Seotember 2024, the assets and liabilities directly associated with assets held for distribution pertains lo "Energy" segment /refer note 1 ), 
+Notes: 
+During the previous year, the Board of Directors of the Holding Company, at its meeting held on 14 May 2024, basis the recommendations of the Audit Committee and Committee 
+of Independent Directors, approved a scheme of arrangement amongst the Holding Company, Siemens Energy India Limited ("SEIL") (a wholly owned subsidiary of the Holding 
+Company, which was incorporated on 7 February 2024) and their respective shareholders and creditors, providing for the demerger of the Group's Energy business to SEIL in 
+compliance with Sections 230 to 232 and other applicable provisions of the Companies Act, 2013 (the "Scheme"). 
+On 25 March 2025, the Scheme was sanctioned by the Hon'ble National Company Law Tribunal (the "NCL T"). Pursuant to receipt of necessary statutory approvals and in 
+accordance with the Scheme, the Holding Company has demerged the Energy business effective 25 March 2025, with appointed date being 1 March 2025, as per the Scheme. 
+Upon the Scheme being effective, the Holding Company has transferred the assets and liabilities pertaining to Energy business to SEIL as on the appointed date. The Holding 
+Company has accordingly derecognized from its books of account the carrying amount of such assets and liabilities. The excess of the carrying amount of assets transferred over 
+the carrying amount of liabilities transferred aggregating Rs. 37,846 million (including Rs. 25,478 million of cash and cash equivalents being transferred as an integral part of the 
+Scheme) had been adjusted to retained earnings in accordance with the Scheme in the consolidated unaudited financial results. Additionally, in accordance with the Scheme, the 
+Holding Company had also made certain consequential adjustments to applicable reserves within equity. 
+Further, pursuant to the requirements of the Indian Accounting Standards (Ind AS), the results of the Group's Energy business up to the appointed date of demerger have been 
+disclosed as discontinued operations; accordingly, the previous period figures have been re-presented. 
+The results of the Group's Energy business included in the above consolidated unaudited financial results and segment results are as follows: 
+(Rs. in million) 
+Quarter ended Twelve m'onths Year ended 
+Particulars ended 
+30 September 30 September 30 September 
+2024 2025' 2024 
+Revenue from operations 20,041 25,608 61,580 
+Other income 38 24 42 
+Total income 20,079 25,632 61,622 
+Total expenses 15 927 20,047 52,207 
+Profit before tax for the period / year 4,152 5,585 9,415 
+Tax expense 1 065 1 414 2,438 
+Profit for the period / year from discontinued operat ions 3,087 4,171 6,977 
+• Cons1denng the impact of the Scheme, the above numbers are up to 1 March 2025. 
+2 The Board of Directors at its meeting held on 8 August 2025 has approved the change of financial year of the Holding Company to uniform financial year commencing on 1 April of 
+every year and ending on 31 March of the following year including observing a one-time transitional financial year from 1 October 2024, to March 31, 2026. The Holding Company 
+is in the process of taking necessary steps and approvals to comply with procedural requirements emanating on account of change in financial year. 
+Consequently, as a transitional arrangement, the current financial year of the Group will be for a period of 18 months from 1 October 2024 to 31 March 2026 which would comprise 
+six quarters, while the previous financial year was for a period of 12 months from 1 October 2023 to 30 September 2024. In view of the above, the Group considered the period 
+from 1 July 2025 to 30 September 2025 as a standalone fourth quarter of the financial year ending 31 March 2026. The audited results for the previous financial year ended 30 
+September 2024 and the unaudited results for the twelve months ended 30 September 2025 are for 12 months period and therefore comparable. 
+3 Other income includes the following: 
+(Rs in million) 
+Quarter ended Twelve months Year ended 
+Particulars ended 
+30 September I 30 June 
+I 
+30 September 30 September 30 September 2024 
+2025 2025 2024 2025 
+Gain on sale of properties /includina assets held for sale) - I 55 1 688 55 2,895 
+4 During the current period, the Group has benchmarked and re-evaluated the presentation and classification of the below-mentioned financial statement line items in the 
+Consolidated financial results. The Group has determined that such a change results in an enhanced and more relevant presentation and classification of its financial infonmation, 
+taking into account the nature of its current business operations as per paragraph 45 of Ind AS 1 - Presentation of Financial Statements. This change in presentation and 
+classification did not have an impact on the overall financial results. Accordingly, the figures for the prior period have been reclassified and re-presented to confonm to the current 
+period's classification as summarised below -
+Revised presentation and classification Previous presentation and classification 
+Cost of materials consumed Cost of materials consumed 
+Purchases of stock-in-trade Purchases of stock-in-trade 
+Other direct costs Project bouQht outs and other direct costs 
+Total 
+5 Previous year figures have been regrouped/reclassified to conform to current year's classification wherein, 
+Contract Assets of Rs. 1,288 million has been netted off with Contract liabilities; 
+(Rs. in million) 
+30 September 30 September 2024 
+2024 (Previously 
+(Revised) Reported) 
+62,444 37,047 
+39,239 46,828 
+11,220 29,028 
+112 903 112 903 
+Trade payables - total outstanding dues of other than micro and small enterprises amounting to Rs. 1, 168 million has been reclassed to Trade payables - total outstanding dues of 
+micro and small enterprises. 
+6 The figures for the quarter ended 30 September 2024 are the balancing figures between the audited figures in respect of the full financial year and the unaudited nine months 
+figures as reported by the Group. 
+7 The above consolidated unaudited financial results were reviewed and approved by the Audit Committee and Board of Directors at their meetings held on 14 November 2025. 
+Place : Mumbai 
+Date : 14 November 2025 
+Siem ens Limited 
+Registered office: Blrla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 
+Corporate Identity Number: L28920MH1957PLC010839 
+Tel.: +91 22 6251 7000; Fax: +91 22 2436 2404 
+Email / Contact : Corporate-Secretariat.ln@slemens.com / www.slemens.co.in/contact 
+Website: www.siemens.co.ln 
+~ 
+Sunll Mathur • 
+Managing Director 
+and Chief 
+Executive Officer 
+ 
+ 
+ 
+Siemens Limited 
+Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road,  
+Worli, Mumbai – 400030, India 
+Tel. : (022) 6251 7000 
+Head, Communications: Indu Sharma 
+Corporate Identity Number: L28920MH1957PLC010839  
+Reference number: CM/PR/16/CORP 11 2025  
+ 
+ 
+Press  
+ Mumbai, November 14, 2025 
+Siemens Limited Reports Q4 FY2025 results 
+Revenue up 16% at INR 5,171 crore;  
+PAT at INR 485 crore  
+ 
+Q4 FY 2025 Performance  
+• New Orders rose 10% at INR 4,800 crore 
+• Revenue rose 16% at INR 5,171 crore 
+• Order Backlog grew 6% at INR 42,253 crore 
+• Profit after Tax on prior year levels eliminating gain on sale of property in Q4 FY 2024  
+  
+Consolidated Financials (continuing operations) 
+Particulars 
+(INR crore, unless otherwise stated) 
+Quarter ended 
+September 
+2025 
+September 
+2024 +/ (-) 
+New Orders 4,800 4,345 +10.5% 
+Revenue from Operations 5,171 4,457 +16.0% 
+Profit from Operations 566 493 +14.6% 
+Profit after Tax 485 523 -7.1% 
+EPS (INR per share) 13.63 14.68  
+ 
+Sunil Mathur, Managing Director and Chief Executive Officer, Siemens Limited, said, “ Siemens 
+Limited delivered a robust performance this quarter, with a 16% surge in Revenue, driven by strong 
+performance in our Mobility and Smart Infrastructure businesses while Digital Industries volumes 
+were impacted due to a lower reach in the order backlog from the previous year  and muted private 
+sector Capex. The Profit was impacted by one-time gain of INR 69 crore from the sale of property in 
+Q4 FY 2024. While Government spending in Capex in Infrastructure continues, with recent measures 
+
+ 
+to boost consumption through easing of Income Tax rates and GST reforms, we have seen an uptick 
+in consumption during the festive period. We remain cautiously optimistic that this trend will continue 
+in future quarters ultimately leading to a pickup in private sector Capex.”   
+ 
+On August 8, 2025, the Board of Directors of the Company had approved the change in financial year 
+of the Company  from October-September to April -March. The current financial year is changed to 
+October 1, 2024 – March 31, 2026 (18 months) and, thereafter, the financial year of the Company 
+shall be from April 1 to March 31, every year. 
+       
+Contact for journalists: 
+Siemens Limited, Media Relations 
+Bijesh Kamath, phone: +91 22 6251 7000 
+E-mail: bijesh.kamath@siemens.com 
+Follow Siemens India on Twitter: www.twitter.com/siemensindia 
+ 
+Siemens Limited is a leading technology company focused on industry, infrastructure and mobility. The Company’s purpose is to create 
+technology to transform the everyday, for everyone. By combining the real and the digital worlds, Siemens empowers customers to 
+accelerate their digital and sustainability transformations, making factories more efficient, cities more livable, and transportation mo re 
+sustainable. Further information is available on the Internet at www.siemens.co.in. 
+ 
+Forward-looking statements: “This document contains forward-looking statements based on beliefs of Siemens' management. The words 
+'anticipate', ‘believe’, ‘estimate’, ‘forecast’, ‘expect’, ‘intend’, ‘plan’, ‘should’, and ‘project’ are used to identify for ward looking statements. 
+Such statements reflect the company's current views with respect to the future events and are subject to risks and uncertaintie s. Many 
+factors could cause the actual result to be materially different, including, amongst others, changes in the general economi c and business 
+conditions, changes in currency exchange rates and interest rates, introduction of competing products, lack of acceptance of new products 
+or services, and changes in business strategy. Actual results may vary materially from those projected here. Siemens does not intend to 
+assume any obligation to update these forward-looking statements.” 

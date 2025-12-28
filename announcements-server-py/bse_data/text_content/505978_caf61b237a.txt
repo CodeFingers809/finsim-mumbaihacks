@@ -1,0 +1,914 @@
+ 
+ 
+ 
+ 
+ 
+  
+ 
+November 21, 2025 
+ 
+ 
+To  
+The Secretary 
+BSE Limited  
+Corporate Relationship Dept. 
+PJ towers, Dalal Street, Mumbai -400 001 
+ 
+BSE Symbol: 505978 
+ 
+Dear Sirs,  
+ 
+Sub: Transcript of Investors Meet held on November 14, 2025  
+ 
+This has reference to the intimation dated November 11, 2025 and outcome uploaded on 
+November 14, 2025, with respect to the virtual connect with investors.  
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, enclosed herewith is the transcript of the above meeting with investors, copy of the same is 
+also made available on the website of the Company.  
+ 
+This is for your record and appropriate dissemination. 
+ 
+Thanking You   
+  
+Yours truly  
+For Triton Valves Limited  
+ 
+ 
+ 
+Bibhuti Bhusan Mishra  
+Company Secretary & Compliance Officer 
+ 
+Encl: As above 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Honouring the past Inspiring the future 
+
+            November 14, 2025 
+1 | P a g e 
+ 
+Investors Meet 
+Triton Valves Limited 
+CIN: L25119KA1975PLC002867 
+Date: 14.11.2025 
+Meeting Time: 04.00 PM 
+Speakers: 
+Mr. Aditya Maruti Gokarn  
+Managing Director  
+Mr. Naresh Varadarajan  
+Chief Financial Officer 
+Moderator: 
+Mr. Bibhuti Bhusan Mishra  
+Company Secretary and Compliance 
+Officer  
+ 
+ 
+ 
+ 
+            November 14, 2025 
+2 | P a g e 
+ 
+Aditya Maruti Gokarn:   
+Good afternoon, dear shareholders, investors. Thank you so much for joining 
+on this call. Welcome to all of you. I think we have about five, how many people 
+do we have on the call right now? Eleven people on the call. So ok, if it's ok 
+with everybody, we will wait for another minute or two. I think we are 
+expecting a few more people to join, so with your consent, we'll just wait for 
+another maybe couple of minutes. It's now four of one. We'll start around four 
+of three if it's ok with it. 
+Aditya Maruti Gokarn: 
+Yeah, so I think we can start. So once again, good afternoon to everybody and 
+thank you for joining this Q2 call. Before we start as usual safe harbor. So this 
+document has been prepared for information purposes and it's not an offer or 
+invitation or recommendation to buy or sell any securities of the company and 
+this document shall not be the basis on which you can rely in connection with 
+any Contract investment decision related to the company. So I'll just read the 
+1st line. The rest is on the screen, so I hope everybody's taken note of this. So 
+let's move to the next slide. Right, just a quick overview I think a lot of the 
+people on the call are already familiar with the company, so we just thought 
+this time we'll make it very crisp. So if you look at the company structure 
+basically Triton Valves Limited is the holding company, right? And this is also 
+the automotive vertical of the company. Automotive vertical has basically B to 
+B sales that is tire and tube valve that go to the tire industry. Tubeless valve 
+typically supplied to the vehicle manufacturing industry. We also make EV 
+components that goes into the EV two-wheeler industry. TPMS valves, these 
+are products which are sold to the sensor manufacturers for tire pressure 
+sensors. Valve cores of course is accessory that is sold along with the other 
+products to the B to B segment. We also have an aftermarket segment. We like 
+to call it B to B to C where we distribute our products in the replacement 
+market and of course we have exports. The holding company has basically 
+three subsidiaries. One is called Triton Valves Hong Kong limited. This was set 
+up prior to the COVID period for kind of, you know, managing our imports and 
+exports in the region, Southeast Asia. It's currently practically inactive. We are 
+not doing any transaction from there right now. Tritonvalves Future Tech 
+Private Limited is our metals business. It's also a bit of a backward integration, 
+right? It's the raw material company that supplies the raw material to the hold 
+Co. as well as to the other subsidiary Tritonvalves Climatech Private Limited, 
+which makes components for the AC industry. And of course future tech also 
+supplies to the external market. Right, so that's how the company, the three, 
+four companies are structured.  
+ 
+            November 14, 2025 
+3 | P a g e 
+ 
+Aditya Maruti Gokarn:  
+Let's move to the next slide right a quick snapshot of how the quarter panned 
+out for us Q2. So the green boxes are things that went well. The red boxes are 
+things that, you know, didn't go as per our expectation which we are working 
+on for improvement. So if you look at automotive vertical, I would say, you 
+know, we had a very good increase in sales volume. We'll show you later our 
+actual volume sales went up almost 20 % year on year, right? And we also got 
+a good, I would say a favorable product mix, and this has definitely helped us 
+in terms of our sales revenue and margins. Also in the automotive vertical I 
+would say our commodity management has been fairly optimized and fairly 
+improved during Q2, so we had a lot of challenges during Q2 in terms of the 
+commodity pricing. So as we all know, we do a commodity indexation of the 
+commodity price with our customers. So usually there will be a three-month 
+lag between the time that, you know, commodity change happens, hits our 
+books and the time that we transfer it to our customers, right? There is 
+normally a one quarter lag. In spite of that, I would say we manage the quarter 
+fairly well. If you look at the metal vertical, we had a little bit of, I would say 
+hesitation on the side of the market because of the sudden rise in copper. So 
+as we all know, copper went from, I don't know, somewhere about 9000, which 
+is now trending very close to, I would say 11000, right? So we saw about 20-25 
+% increase in the copper price over the quarter. So usually what happens is 
+that, you know, when there is such sudden and steep price in, you know, the 
+pricing, a lot of customers tend to slow down a little bit, right? So they order 
+lesser quantity, you know, they're, the working capital cycle also gets affected 
+because, you know, 25-30 % increase in a short span of time is quite a heavy 
+hit for the manufacturing industry. So we saw a little bit of I would say orders 
+getting delayed. Luckily most of these orders will flow into our Q3, right? So I 
+will say that, you know, it will get averaged out even though the over the next 
+quarter but yeah, we did face a little bit of, I would say slowness here and there 
+from customers in the metals vertical. Climate control vertical, I would say we 
+had a much more difficult quarter. So here basically what happened was as we 
+know, the AC industry this year has not been doing well because we had a very, 
+I would say short summer, right? Practically across the country. AC industry 
+basically looks at India as north zone and south zone, right? And both north 
+and south, I think the rains came in very early and they kind of, you know, 
+extended throughout the entire summer and into the almost into the autumn 
+and winter season as well, right? So of course GST rate cut and all that came in 
+in September and that will definitely see us doing much better in the climate 
+control vertical in Q3, right? But I would say Q2 and of course Q2 also 
+seasonally is the worst quarter for the for the AC industry. You can see even 
+the large players in the AC market, Q2 is actually the worst quarter because, 
+you know, July to September is when almost no fresh sales happens especially 
+in the B to C category. So of course climate control vertical, you know, Q2 was 
+not good.  
+            November 14, 2025 
+4 | P a g e 
+ 
+Aditya Maruti Gokarn:  
+Let's move to the next slide. Yeah so this is the standalone I would say numbers 
+for Q2. So, if I look at the year on year growth, right? We've just broken up our 
+sales into product sales and other sales, right? So, as we've explained perhaps 
+in earlier discussions and presentations also, because we are in the, our 
+products are made of brass. We are in the brass industry. We have a significant 
+I would say sale of brass scrap. So when we produce our product, we generate 
+brass scrap as a byproduct, and this by product is sold, right? either back to our 
+own subsidiary or in the past, we used to sell it to our external, let's say brass 
+vendor. So actually if you look at it, last year, our product sale was about 62 
+crores. This year we have moved up to 74 crores. Whereas the sale of scrap, 
+right? We actually reduced a little bit during this quarter. So, so on the top line 
+growth, you're not able to see that 20 %, right? But 20 % is the actual real 
+growth, which I would say is a very good performance for this quarter. Of 
+course the tire industry has, has done fairly really well during this quarter. I 
+would say even the vehicle manufacturing industry did fairly well. So I would 
+say overall we took advantage of the favorable conditions and we, you know, 
+pushed out this growth figure of 20 %. We are achieving a 20 % quarterly 
+growth after a very, very long time, right? So I would say company has done 
+fairly well in that regard. We have normalized the EBITDA. So when you look at 
+the EBITDA line during the quarter, we had a celebration of 50 years of the 
+company, so we had certain one off expenses related to the celebration. We 
+had a big event in September where we invited a lot of our customers, our 
+business partners, a lot of people were invited, we had a fairly grand event I 
+would say. So we spent about 80 Lakhs towards that event during the quarter. 
+So what I've done here is I've basically kind of normalized the EBITDA by taking 
+out that one off expense, right? Because that's not really related to our 
+operations. So if you look at it, if I normalize the EBITDA, year on year, I would 
+say we've gone up by almost, you know, a hundred and Fifteen-Sixteen basis 
+points. This is of course something that, you know, we have taken this on the 
+on the total revenue, which includes other sales as well. If you look at it on 
+product revenue, it would be slightly better than that. PBT obviously you know 
+if you normalize it we have also done fairly well, I would say we're up almost 
+152 basis points on our PBT, and we do expect that, you know, some of this 
+momentum will carry through into Q3 as well, right? Because when I really look 
+at the Q3 coming up for the company on standalone basis Q3 typically is 
+seasonally a little I, I would say slow typically because there are a lot of holidays 
+during the beginning of the quarter that you know there is Navratri and Diwali 
+and towards the end of the quarter normally, you know, our customers go for 
+shutdowns. Where the last week of December typically they take maintenance 
+shutdowns, it could be Maruti, Toyota, a lot of the auto industry shuts down in 
+the last week of the year. So typically it's a, I would say not a very, very strong 
+quarter momentum wise, but sao far whatever we are seeing, I think we will 
+            November 14, 2025 
+5 | P a g e 
+ 
+be able to sustain the momentum whatever we've generated in Q2, largely we 
+believe that Q3 we should be able to sustain, right?  
+Aditya Maruti Gokarn:  
+Let's move to the next slide. Yeah, so if you look at our console numbers, this 
+is a group consolidation. We moved up obviously year on year about 11 % for 
+the quarter. We went up from about 118 crores to 131 crores. Here also if you 
+look at the normalized EBITDA comes to about close to 10 crores. So I would 
+say we are, we are steady here I would say in spite of the fact that the climate 
+control vertical performed very, very poorly during the quarter. We've still 
+managed to, I would say keep our EBITDA stable, which is and in and in 
+absolute terms we've actually increased our EBITDA in rupee terms even 
+though in percentage terms, you know, it looks quite flat. So I would say that, 
+you know, this also, can be interpreted as, a certain degree of resilience in the 
+business model because in spite of, you know, one vertical not firing well we 
+are still able to keep things stable. So of course the metal vertical also, I believe 
+that Q3 will be a better quarter. So if you look at our metals vertical, which is 
+also in the consolidation here, Q3 tends to be a better quarter Right? So Q3 is 
+a hedge between I would say automotive vertical and metals vertical. And 
+that's how perhaps, you know, we have kind of structured the three entities so 
+that, you know, off season for one entity is a good season for the other and 
+that's how, you know, in the long run we hope to kind of balance out the 
+dynamics of each vertical in the group consolidation. So this is the I would say 
+console position.  
+Aditya Maruti Gokarn: 
+Let's move to the next slide. Right? So now we've just tried to show the YTD 
+figures, right? If you look at H1, right? If you look at H1, on the left hand side is 
+the standalone numbers, and the right side box is the group console numbers. 
+So if I look at the standalone numbers, I would say we are still growing at about 
+14 and a half percent overall in terms of product sales for the, for the half year 
+which I would say all factors considered is a decent growth, right? As we all 
+know, the Q1, automotive sales were actually very, very sluggish, right? If you 
+look at the passenger vehicle industry, if you look at the truck and bus industry, 
+Q1 was actually quite flat. Q2 we did see some growth, but I can say with a lot 
+of confidence that the Q1 or the 1st half we have performed much better than 
+the industry average, right? So 14 and a half percent volume growth, I would 
+say is a fairly good growth for us. If you look at margins, of course there is still 
+a lot of scope for us to improve our margins. If you look at our normalized 
+EBITDA, we are about seven and a half percent again, hundred basis higher 
+than the previous year. I would say more work will happen on this. There has 
+been a discussion I think which we had during the last investor call also about, 
+you know, how much effort we are putting and what is our, you know plan for 
+            November 14, 2025 
+6 | P a g e 
+ 
+improving our EBITDA So I want to assure everybody that there's a lot of 
+actions being taken on EBITDA improvement and I'm very confident that 
+through Q3 and particularly Q4 a lot of that will shine through, right? So what 
+are the actions that we are taking on EBITDA improvement broadly? I would 
+say that one, there are certain unadjusted costs that we have kind of built up 
+over the years especially post COVID, which the customers have not adjusted 
+for us, right? Our manpower costs have gone up, our consumable costs have 
+gone up, our inventory and fun block has gone up because you can imagine 
+five years ago Brass was I would say about ₹400-₹450 of kilo. That's the main 
+raw material for us. Today, Brass is actually at the current moment, the spot 
+price in the market is like above ₹700 a kilo, right? So obviously to do the same 
+business, we require more working capital, we require more funds, and those 
+funds obviously come at a cost. So these are the kind of costs that have gone 
+up over the years that many customers have not yet adjusted. We have started 
+the process of taking those cost adjustments and I'm happy to report that many 
+of our customers have been taking I would say a fair view. They have been 
+supportive to us. They have been, you know, understanding and some of them 
+have passed on partially, some increases during Q2, more will be coming in Q3 
+and Q4, right? So some of the customers have principally understood and 
+accepted that yes, we need to adjust these costs. But as we know in the 
+industry, these are very old relationships so they tend to say Okay, we will do 
+it from next quarter or we'll do it from January and sometimes, you know, we, 
+we have to be a little bit, I would say reasonable on our side also to give them 
+a little bit of time to make those changes because obviously we while we want 
+to, you know, transfer these costs, we want to also make sure that, you know, 
+we don't take a hit on our sales, right? And our share of business. So, so far if 
+you look at the 1st half, I would say the fact that we've grown sales as well and 
+we've managed to adjust costs here and there as well. I think it shows that we 
+are in the right track. We have to just keep now, you know, pushing a lot of our 
+customers who have not yet adjusted these costs, we need to push them to 
+get this cost adjustment done. The other thing that we are working on 
+internally obviously is there's a lot of I would say internal effort at EBITDA 
+improvement, so cost rationalization, I would say, you know, material cost 
+improvements. There is a lot of I would say effort going on internally and a lot 
+of these benefits, I do believe we will see going into Q3, particularly into Q4 as 
+well because the Q4 sales also we expect seasonally Q4 is a better quarter for 
+us and we will see the full impact of that coming through. In terms of what is 
+our, let's say goal, obviously, you know, we are at currently if I look at our 
+normalized EBITDA where it puts seven and a half Percent. There's at least 
+another two and a half 3 % that we believe over the next couple of quarters 
+we will be pushing for. So I would say that going into Q4 and maybe Q1 I would 
+expect these numbers to come closer to the 10 % mark, right? There's another 
+positive factor for us. I would say some of our higher margin products, we are 
+now seeing a lot of ramp up happening, right? These are products like tire 
+pressure TPMS valves. Even on the EV segment, right? We are very strongly 
+            November 14, 2025 
+7 | P a g e 
+ 
+connected with Ather who's a very key customer for us. We are now working 
+on some new components for them. And as all of you might have seen, they're 
+doing quite well in the market. I think their Q2 results also came out yesterday 
+you can see a lot of strong growth. So, I'm very happy that, you know, we have 
+associated ourselves right from the beginning with Ather and we will also be 
+hopefully growing strongly with them. TVS is also very close, very good 
+customer of us. 
+Aditya Maruti Gokarn: 
+Every TVS scooter in the market has our battery components and, you know, 
+we are expanding the relationship with TVS as well. So hopefully, you know, 
+the top two, three players we are well entrenched. We are also closely now 
+talking to Bajaj, Honda and other players as well where we will soon find some 
+entry. So I would say, you know, this is the reason why I would say Q3 Q4 
+onwards, we will see more traction on the side. Coming to the console, right? 
+Obviously, you know, console revenues we have we're growing at around 18 
+%. If I take H 1 compared to last year margins of course there is still scope for 
+us to improve, but here a little bit I would say, you know, some of this revenue 
+also has, other elements, right? Like scrap revenue and things like that. So if 
+you look at the normalized EBITDA, we are at somewhere about 7 % right now. 
+We've reported 6.7 if you normalize it comes to seven. So as we see traction 
+coming into the climate control vertical, we see the metals vertical also we 
+have a lot of I would say plans coming up in future. We should see a strong I 
+would say traction coming on the group Consolidation as well. I'll talk a little 
+bit about the metals vertical here since I have a chance to little bit talk about 
+what we are doing there as well. In the metals vertical, there are two, I would 
+say challenges that we need to overcome. One, we need to scale the regular 
+products that we are already in mass production for, and I'm happy to say that, 
+you know, a lot of the alloys that we developed over the last two, three years 
+are in mass production now going well. So we need to scale the, the quantity 
+basically, right? Of the output. Two, we are now I would say well and truly 
+building that pyramid of special alloys where we get higher margins, right? So 
+one alloy has gone into mass production already since it's a kind of a special 
+alloy developed, for a customer, we have an NDA in place. I may not be able to 
+talk about the name of that alloy, but I can tell you it's a, it's an ally which has 
+a, has a very good margin. We've received the 1st order of about 40 metric 
+tons during the quarter and during Q3 that will come into our books in Q3. Also 
+happy to report that we have now secured our 1st order, from a defense 
+contractor in the Middle East, right? So as we know we've been supplying you 
+know our raw material to some of the defense contractors in India. Those 
+volumes also are seeing good growth but for the 1st time using that reference, 
+we have gotten entry into one of the defense contracting companies in the 
+Middle east. So the 1st order has already been executed. I think 2nd order 
+should come in Q4, right? And if you're able to stabilize that, if you're able to 
+            November 14, 2025 
+8 | P a g e 
+ 
+prove our quality and we are able to prove our delivery capability. I do believe 
+that could become a very steady long term business for us because as we know 
+in defense, you know, it takes a long time to break in, but once you're in, you, 
+you tend to get very stable orders. So yeah, so these are the kind of, I would 
+say initiatives that we are taking that will ultimately result in EBITDA 
+improvement at the group console level as well, right?  
+Aditya Maruti Gokarn:  
+Let's go to the next slide, please. Yeah, a quick kind of input from the balance 
+sheet side as well. I think there was some concerns during the last investor call, 
+I think some of the people on the call fed that, you know, our inventory was a 
+bit heavy on the excessive side. So just wanted to show the, investors what this 
+number really looks like. So if you compare March and September, right, there 
+is a slight increase in inventory. I would say we've gone from about hundred 
+and two crores to about hundred and eight crores. So roughly about six crores 
+increase in inventory, but along with that you can see right the payables also 
+have increased. Obviously receivables also have gone up because you know 
+the size of the business per se has gone up, right? And if you look at the loan 
+position also, there is a very slight increase, right? In the loan position, you can 
+see network obviously, you know, because of the equity infusion. 
+Aditya Maruti Gokarn:  
+You can see that, you know, there's an increase in the net worth as well. So if 
+you really compute the ROCE, right? Of course, I think here our CFO Mr. Naresh 
+has kind of adjusted the number I suppose for one off item, but you can, you 
+can see the ROCE we are, you know, slowly moving up towards the 10 % mark 
+where It's nine and a half, right? So just to, you know, set a context here, 
+obviously our 1st goal over the next I would say couple of quarters would be 
+to bring this number closer to twelve, right? Because obviously, a number 
+below twelve is definitely not healthy, Right? And once we get on that base 
+and then, you know, start scaling both climate control as well as metals also 
+starts, you know, really firing for us, we should see further growth from there 
+on, right? We've also just shown, you know, what are the significant 
+investments that have been made out of the, you know, equity, loan funds and 
+internal accruals mark much in September. So you can see loans reduced net 
+of availability is about three crores CapEx investment so far is about is about 
+twelve crores. This is from March. Subsidiary investments about five cores, 
+loans given to subsidy about four cores, and the rest is in inventory, right? And 
+the warrants that were outstanding, right? Up to up to end of Q2 were actually 
+converted to equity at the end of Q2, that is the end of September. So the 10.4 
+crores that we received as a warrant conversion you know funds, those were 
+actually held in an escrow as of end of September, they were not able to be 
+deployed because, you know, the procedure for sweeping the funds into 
+            November 14, 2025 
+9 | P a g e 
+ 
+operations were still not completed as of 30th of September. Subsequently 
+that has been completed and the money as of Q3 has been swept in for 
+operations.  
+Aditya Maruti Gokarn: 
+Yeah, right? A little bit about the performance levers for Q3 and Q4, right? This 
+is just kind of, you know, putting out there what I already spoke of. Obviously 
+we want to normalize prices, right? With our customers in the automotive 
+vertical and like I said we are seeing some traction, right? We've started the 
+process and right on this. A lot of customers have already supported and more 
+need to support us going through Q3-Q4. Obviously cost improvement and 
+fund allocation. We still believe that, you know, we have a lot of scope for, for 
+the internal cost improvements as well as automation. There's a lot of work 
+that is in the pipeline. Some of the CapEx actually we have shown here also, 
+we are going to be spending for further automation of our lines. Also obviously 
+allocating funds more efficiently, we believe that, you know, there is still some 
+scope for us to tighten our working capital, and typically, you know, when there 
+is a huge increase in raw material cost it becomes more and more critical, right? 
+So we need to be more, I would say efficient in that regard, which we believe 
+we can squeeze out something more. If you look at metals vertical, obviously, 
+you know, we are in the process of commissioning our second line. We have 
+been a little bit, I would say delaying it here because like I said, when there's a 
+huge, you know, increase in raw material cost, the cost of starting the new 
+furnace, right? Requires a lot of, you know funds to start the furnace, right? 
+Because when you start the new line, right? You need to line up in in our case 
+we have calculated it could be about ten to twelve crores of working capital 
+needs to be lined up because you know when you start the furnace, you need 
+to, you know, pump in a lot of raw material, you know, to start the line. So, I 
+would say we've been just holding back a little bit and trying to extract 
+maximum value out of what we have till the metal price is a little bit stabilized 
+because you know the fear for us was if you end up, you know, pumping in 
+material at the peak price, if copper drops and sometimes, you know, 
+November December is when the trading goes down, sometimes, you know, 
+there are drops in the copper price, we felt we should be, we should not be 
+round footed, right? Because we need to pump in a lot of material at the start. 
+So that's how we've been a little bit, I would say circumspect, everything is 
+ready all the equipment has arrived. The power connection of course is still yet 
+to be done. Unfortunately, there is some delay from the local utility because, 
+you know, some road cutting has to be done of national highway, something 
+like that is there but there is a bit of delay there in terms of the power 
+connection being received, but all the other items, whatever we needed in 
+terms of CapEx equipment, it's already placed in the plant. It's already received, 
+it's already, you know, ready for start. Obviously yeah we will need to look at, 
+you know, funding the increase in the raw material price, right? That's 
+            November 14, 2025 
+10 | P a g e 
+ 
+something we are working on. In terms of I would say Q3-Q4 for Climate 
+control, here I would say a little bit of the headwind that we are still facing is 
+government of India is still you know, working on the QCO which was in the 
+pipeline. Now I'm told finally that this month it will get published the draft will 
+get published in the public domain and all the all of that BIS code has to come 
+out. So there has been, I would say more, they have taken more time than you 
+know what they should have really by now. And this is a complaint that we 
+have consistently taken up with other companies. There are companies who 
+have got into motors for the AC industry, they're also facing the same problem. 
+They've developed the product, they've qualified it, tested it, but the Chinese 
+are crashing the price and, you know, trying to hold on to their market share 
+in India. And, so this is the kind of context which we also are encountering, we 
+will come out of it, right? It's just a matter of time because some of the 
+customers now, just to give the you know investors a kind of a picture today I 
+would say amongst the top five AC manufacturers in India, every single one of 
+them has approved our product, right? All the testing has been completed, all 
+the formal approvals have been received, so if you look at LGs, Voltas, Daikin, 
+Panasonic, Samsung, right? And, and the smaller players also, there are players 
+like Havells, blue Star every single one of these companies has tested and 
+confirmed that our parts are ok. They are validated in the field as well. So we 
+are literally ready for a start. Now it's down to, you know, price negotiations 
+where you know people are comparing us with China and saying you know 
+Chinese are still at a lower price, you know, that's the kind of, I would say 
+pressure that we are finding here till the time that QCO comes in. Once QCO 
+comes in, I think, you know, we have a 1st more advantage, we are literally the 
+only company in India producing a lot of these parts, right? So we believe that, 
+you know, that advantage will come to the form at some point of time. Of 
+course, we are merging the Climate control vertical into the whole goal, right? 
+That's also process which we believe will get concluded in Q4, right? So once 
+that happens, we will be, we have a, I think a income tax shield of around four 
+cores. There's also GST lock of about two and a half- three cores. So about 
+seven-eight cores because of cash flow benefit we will receive once the merger 
+of Tritonvalves Climatech Private Limited and Triton Valves Limited gets 
+concluded. We expect that to happen during Q4. Next slide please. Yeah, good. 
+Thank you. So that's it from my side for now. We'll open up for questions. Yeah. 
+So, you want me to mute from my side? 
+Bibhuti Bhusan Mishra: 
+So good afternoon, so before this Q and A session starts a small disclaimer for 
+your reference. So the meeting is under recording mode, so it's under progress. 
+The discussion may include certain statement that maybe construed as 
+forward looking statement. this statement is made based on the company 
+management current strategic plan and assumptions. We cant guarantee that 
+the forward looking statement will be realized , although we believe in we been 
+            November 14, 2025 
+11 | P a g e 
+ 
+prudent in our assumptions . we undertake no obligations to publicly update 
+any forwarding looking statement whether as result of new information or 
+future event or otherwise. Q & A session will be opened for a span of 15 to 30 
+minutes. Investors are requested to unmute and show their video and mention 
+their names or organization name or their DP ID and client ID and from the 
+location from where they are joining. All the questions asked by the investors 
+will be collated and the consolidated replies will be furnished at the end by the 
+Managing Director. Investors may also note that the Company reserves the 
+right to limit the number of questions asked by the Investors. However, 
+investors can ask subject to maximum of 2 questions. So with this note Q & A 
+Session open for the investors. 
+Aditya Maruti Gokarn: 
+Yeah, so I think we've already received one in the chat box by Mr. Digant. So 
+maybe I'll start with that if it's ok with everybody.  
+Digant Bamb: Questions through Chat Box 
+1. How much order book do we have? 
+2. How has the new order booking, do we expect to secure any significant 
+orders in the coming months? 
+3. For New orders what margins can we expect? 
+4. Cash in Balance Sheet has increased to 13cr. What do we plan to do with 
+this? Dividend or Debt Repayment? 
+5. What is our avg cost of debt? 
+6. What is our Rev target for FY 26 and FY 27?  
+7. Looking ahead where do we see our EBITDA margins going? 
+Aditya Maruti Gokarn: 
+Mr. Digant is asking how, how much order book do we have? Well we don't 
+actually work on an order book basis because most of our customers are 
+running accounts Right? Both in more or less all the three verticals, but to give 
+you a flavor, maybe I can I can tell you a little bit about our metals vertical 
+where we do operate a little bit of an order book kind of methodology. So I 
+would say our order book right now in our metals vertical in Q3 has little bit 
+caught up with after the little reduction in Q2. So today I think our order book 
+is higher than our theoretical capacity right now, right? So I can assure you 
+that, you know, the traction, whatever we were expecting in Q2 has well and 
+truly got transferred to Q3, right? So we are holding a very significant order 
+book to give you an example, I would say as of today, I think our order book is 
+more than 700 metric tons in our metals vertical. The other two verticals we 
+don't go on a order book basis it's you know like scheduled to schedule order 
+            November 14, 2025 
+12 | P a g e 
+ 
+to order kind of thing where customers will tell us the order just, you know, a 
+few days before they need the material. 
+Aditya Maruti Gokarn: 
+Next question, how has the new order booking do we expect to secure any 
+significant orders in the coming months? Yeah, so here maybe I can give a small 
+flavor. We've been working very hard behind the scenes to get into some of 
+the global accounts for TPMS valves, right? This is the latest technology, this is 
+really, I would say a bit of a technology product where obviously our margins 
+also will be much better. So I think the last investor call we spoke about Robert 
+Bosch Germany. Happy to report that that program has already gone into serial 
+production. In fact, I think that program is running roughly one year ahead of 
+schedule, which means that the volumes that were committed to us of 2027, 
+we are probably going to see in 2026 itself, right? So that's a program that's 
+going very well for us. Also there I would say the currency calculation will help 
+us out. I believe we costed that program when euro was about 90 or the euro 
+is much higher than that. So we should see some good, I would say margins as 
+well and good volume. So Robert Bosch is in full swing, right? That that order 
+is or I'd say that program is in mass production. 2nd program we started 
+actually with the another German company with the operations in the US, 
+right? A little bit I'll talk about that. In spite of the 50 % tariff, I'm happy to 
+report that we have just received two new additional orders during this quarter 
+Q3 Hopefully we will execute both the orders in Q3 itself, right? It's not a very, 
+very large order. I would say about one and a half crores in value for the 
+quarter. But what is significant in that is that in spite of the tariff, the customer 
+is continuing to place orders. That's a very positive sign for us. It means that, 
+you know, there's something about our product that they like, right? That in 
+spite of 50 %, you know, they're able to still place orders and we do expect 
+going into Q4. Some further orders coming in from US market. In terms of 
+margins I can say typically, if you look at the TPMS product EV product, it'll be 
+almost an order of magnitude higher than the older products, right? So on 
+average I would say we should see a, margin, let's say expansion of anywhere 
+between 500 to 1000 basis on the new products, right? Which we have 
+developed. Those could be battery components, those could be TPMS related 
+components. Those are typically higher margin also.  
+Cash in the balance sheet increased to 13 crores. This is basically the warrant 
+conversion funds, right? Which we had to park in escrow, as of 30th of 
+September, right? What will we do with this? Yeah, definitely. Yeah, go ahead 
+Naresh, maybe Naresh can take that, yeah. 
+            November 14, 2025 
+13 | P a g e 
+ 
+Naresh Varadarajan:  
+Good evening Everybody. When we go for rating, CRISIL or any they expect us 
+to be lower than the sanction limit. So what we plan to do is to reduce our 
+floating working capital to great extent and possibly take allocate two to three 
+crores for future tech the metal business where it requires where we can get 
+price advantage. So this will be like a like just available with us, we don't intend 
+spending it, we're always available on time. 
+So we'll go and reduce not the term loan because once we reduce term loan, 
+get a new loan we'll be tough, so we reduce the working capital floating loan 
+in a way we reduce the overall debt plus whenever we require, we need we 
+can tap it because the sanction limit and drawing power will be there. So that's 
+one way where we thought rather repay the entire term loan not put into 
+Capex we use, as portion of 4 - 5 crores, the portion will definitely between the 
+metal business and the climate control business for the purpose of profit 
+optimization and sales growth. Yeah, so that on the average cost of debt we 
+have about 9.3 % is what we are seeing now. It was 9.2 % three months ago, 
+but again there's a slight change so we went down 9.3%. 
+Aditya Maruti Gokarn:  
+Yeah revenue target for FY 26-27, see but I don't want to put a number right 
+now for FI 26. If you look at if you look at our TTM trailing twelve months I think 
+we are trending somewhere in the range of, I don't know, 530 cores or so at 
+group console level. But yeah, this is something that obviously it depends on 
+how Q3 and Q4 pan out for us as long as there's NO let's say shock in the 
+market. But I would say, we are trending fairly ok. If I look at more than FI 27 I 
+would like to talk about, you know, the next three-year target, right? So we've 
+said this I think in the past, so I don't have any hesitation saying it now also. 
+The 1st real milestone that we are all looking at in our company is to touch 
+1000 crores, right? That is going to be our very 1st, you know, step in terms of, 
+you know, bringing our revenue to four digits. That's something that, you 
+know, we're all working for. When will that happen? It could be anywhere in 
+the range of I would say three to five years. I'll give an example right now like 
+we were talking. This kind of, you know, sudden rise that has had had that has 
+happened in copper and all of that. It tends to that kind of, you know, tighten 
+the working capital, you know, at least for a, for a limited period of time, maybe 
+for one month, two months till the whole, you know, cycle comes into rotation. 
+So there are going to be, you know, some ups and downs in this journey, right? 
+It's not going to be just a straight line, you know, up, but the good part I would 
+say is that if you look at our last four or five years, I think we've not really 
+slowed down, right? While obviously we have a lot of work to do on EBITDA 
+improvement, we are not compromising on our growth prospects. We are not 
+letting go of any opportunities on the table because I firmly believe that the 
+            November 14, 2025 
+14 | P a g e 
+ 
+next 05-10 years are going to be a golden era for manufacturing, right? So even 
+if it means that, you know we have to little bit strain ourselves now we've all 
+invested in, you know, the metals vertical, we've invested heavily in the climate 
+control vertical. Those bets, even though they are still, you know, yet to reach 
+a critical mass of, you know, returning massive you know returns to the 
+company, we don't regret those bets because, you know, the market is there. 
+Just to give you an example, this is something I've been debating with 
+government of India. Last financial year, India imported 600 crores worth of AC 
+components which we produce in our company, right? So I've been telling 
+government that, you know, you're doing something crazy. You're allowing 
+these materials to come in duty free, right? And to a large extent, I strongly 
+believe that, you know, the unfair trade practices are happening because these 
+are products which are produced in China just being routed through Vietnam 
+and Thailand for the duty benefit, and then you know the local industry is, you 
+know, holding us against that number and saying now you reduce cost against 
+this target. It's unfair, it's a frankly an unfair trade practice. I don't think 
+government should be allowing this for much longer. Unfortunately, that has 
+slowed down our growth in the climate control vertical. But in spite of that 
+challenge I would say we are up to it, we have done a lot of cost optimization, 
+you know, we've used that opportunity to tighten and strengthen ourselves. 
+So we will see a lot of traction once, you know, these crazes get ironed out. So 
+I would say more than FY 27, if I look at FY 28-29-30, we will definitely be aiming 
+for a thousand cores, right?  
+EBITDA margins, I think I’ve spoken about it. I think our 1st milestone is to get 
+into double digits, looking at Q3-Q4 if our plans work out well, at least on the 
+standalone business, I believe that, you know, we should be able to reach close 
+to 10 % by Q4, right? And then at the console basis console level, basically we'll 
+have to fire up the climate control vertical very strong and ensure that, you 
+know, our metals vertical also, you know, climbs up the ladder on climbs up 
+the ladder. Once those two also get going, we should be able to see margins 
+coming to 10 % and above, right? So I think I've hopefully answered all the 
+seven questions. Can we move on to the next question? Yes, happy to take any 
+further questions, anybody else would like to ask, please feel free. 
+Digant Bamb: Questions through Chat Box  
+I.Sir don't you think 1000 Cr target for 5 years is very very less 
+That would be a growth of just 15% yoy 
+II.For a company of our size shouldn’t our targets be more aggressive 
+III.So what are we targeting our bottom line to be in FY 30? 
+EBITDA / PAT. 
+            November 14, 2025 
+15 | P a g e 
+ 
+Aditya Maruti Gokarn:  
+When I say thousand doesn't mean exactly thousand, right? But, yeah, I mean 
+look it all depends on how we, how we fund ourselves for that kind of growth 
+and also I think what we're also realizing as a company is that we need to drive 
+profitable growth also right. So I think this has been something that repeatedly 
+a lot of the investors have kind of brought up with me and I think it's a fair 
+criticism that we have received from the investors that, you know, for the 
+efforts that we are putting for the kind of technology that we have, we should 
+be having a better profitability, which I think that's a very fair criticism build 
+aginst. So I think we are also having to fix that as we grow, right? So I'll put it 
+like this. It doesn't mean that 1000 Crore only going to come up at 05:30 and 
+definitely won't put it that way. Obviously we need to push growth as we can 
+like I said, we don't want to leave any opportunity on the table, but having said 
+that, I don't want to create an expectation which is you know going to put 
+pressure on me and you know. It's very important for me also to put my head 
+down into operations, right? Because it's very important for me to keep my 
+eyes on the ball in terms of three verticals, all the three require, you know, 
+capital allocation. All the three required also there are a lot of opportunities 
+that come on the table and if something, you know I have to look at both top 
+line and bottom line. So I'll put it like this in case we don't come to the number 
+of, you know, revenue that we need to or we are aiming for, even if we don't 
+hit what we want in terms of revenue, we will definitely hit whatever we want 
+on the EBITDA bottom line side, right? Because the focus right now, to be very 
+frank with you, it's more on the bottom line. We really want to show to the 
+investors show to all the shareholders that this company can actually operate 
+at a much better margin. I think that is where we are putting a lot of effort. But 
+we'll not let go of any opportunities like that.So let's see how it goes. 15 % year 
+on year definitely you can see even in even in current year, right? Q1 was not 
+very good for the auto industry, we are still growing, I would say 18 % plus, 
+right? So once we, you know, get we fire up Climate control, we fire up metal 
+vertical Right, so 15 % is not the number we are aiming for that for sure.  
+Sahnki Banshal: Questions through chat Box  
+Can you please share what is the contribution of EBITDA of future tech in the 
+consolidate numbers? Additionally, if there is any volatility in the commodity 
+prices what could be the impact on company performance 
+Aditya Maruti Gokarn: 
+Yeah, so I'll put it like this way we are kind of, you know, looking at it on to the 
+next question, I think Mr. Shanki Bansal asked a question. Can you please share 
+what is the contribution of EBITDA of future tech in the consolidate numbers? 
+Would there be an impact on company performance due to volatility. 
+            November 14, 2025 
+16 | P a g e 
+ 
+So I put it this way. The good part for us is that, you know, some of the quality 
+will actually benefit from, ok? So let me just explain to you how we have 
+structured future take and you know the other two businesses or the 
+component businesses. So I put it like this, another way to look at our company 
+is to look at it as we have a business, it could be automotive, it could be climate 
+control, and we have a commodity business, right? Now in in component 
+business typically what happens is that when there is a volatility in commodity, 
+say commodity price shoots up right? What happens is we bear the impact in 
+the beginning right, and then we pass it on to the customer with the 
+subsequent, right? In the, commodity vertical, the exact opposite happens, 
+right? We have a rolling inventory. If there is a certain increase in, let's say 
+copper price typically what would happen is that we would be selling our our 
+material to the external customers, alright at a, at an immediately revised 
+price, meaning that, you know, copper goes up, we will be putting a higher 
+price. My rolling inventory will be still there at a lower price. So what I will be 
+losing in the component business I will be gaining in the Commodity business 
+right, so that's the kind of play that we have structured the company to have. 
+So ultimately I'll put it like this in the long run it will be EBITDA created to the 
+group, right? We will be sometimes losing here, sometimes we'll be getting 
+somewhere else and there will be certain situations where we'll be getting in 
+both places, right? So the way we are structured it is that either commodity 
+and component businesses should gain or if one loses the other should balance 
+it out. But we should not allow both to take simultaneously. That's the way we 
+are kind of structuring.  
+Aditya Maruti Gokarn: 
+Coming back to Mr. Digant, what are we targeting bottom line? So I'll put it like 
+this, a simple backup envelope would be something like we want, we would 
+obviously by the time you know we come to thousand crores, we would want 
+a repeater to cross 10 %, right? So we would look at let's say, a scenario where 
+we would let's say we should get one thousand crores. as quickly as we can and 
+while we get there our EBITDA also should grow to at least 10 % right, so about 
+a hundred crore EBITDA on a thousand crore revenue would be our bare 
+minimum, let's say expectations as we develop the model to touch that 
+thousand crore. Yeah, so I'll just wait for a couple of more minutes in case there 
+are new questions. Yeah thank you thank you Mr. Digant. Happy to take more 
+questions. We still have another four or five min to go. So I'll just put myself 
+mute on.  anybody would like to ask or question, happy to take. Mr. Shanki 
+Bansal, thank you. I Appreciate your comment and again, open for another few 
+minutes so please feel free to ask anybody else who would like to ask, please 
+feel free. 
+ 
+            November 14, 2025 
+17 | P a g e 
+ 
+Digant Bamb: Questions through Chat Box 
+Any plans on monetizing the Patents that we had the one that was to release 
+the pressure from battery packs? 
+Aditya Maruti Gokarn: 
+Any plans on monetizing patents? At the moment to tell you honestly not 
+directly monetizing in terms of licensing it or something like that. But, yeah, so 
+the pressure relief valve and battery pack Yeah that we it's a precious patent 
+that we hold today and so far I would say that, you know, the fact that, you 
+know, it's performing in the field is really getting traction for us. Maybe since 
+you asked this question. I'll talk a little bit about that product line. So basically 
+we started working on making battery components for EBs, way back, I would 
+say the work started on this somewhere about I would say 2016-2017. That's 
+why I was saying also earlier in the call that we are quite fortunate that we got 
+a customer like Ather, they've been extremely I would say kind to us, they've 
+been extremely supportive to us and, they helped us actually on this journey 
+in terms of, you know, understanding what this kind of component really, how 
+it needs to perform, what are the performance requirements? What are the 
+expectations? How, you know, battery packs behave, how, you know, the cell 
+chemistry plays a role. In terms of, you know, these thermal incidents that 
+happen in these battery packs. Frankly, we didn't know anything about it, 
+right? I have to be very honest in 2017, if you ask anybody in our company 
+about battery packs cell chemistry, we didn't know anything, right? So we 
+learned a lot engaging with the ecosystem and that had that helped us to kind 
+of under. Understand the requirement, therefore we generated that we came 
+up with some ideas and we found that nobody else had done it. So we paid 
+today. It's actually helping us today because see the typical I would say habit 
+in the auto industry, if I like to call it, is that they will ask a certain vendor to 
+develop a certain part. Once the part is developed goes into mass production, 
+they will ask other two, three people to come into the industry to kind of, you 
+know, make the cost competitive and bring down the whole you know the 
+margin for the supplier. Unfortunately, that's how it works, right? So the 
+reason why we patented it is that we wanted to ensure that we don't get into 
+that situation where, you know, somebody copies the product and then starts, 
+you know, trying to, you know, hit our margins, right? That was the whole 
+thought process behind patenting it because we really worked hard for it, we 
+spent a lot of money developing that part. The good news I can tell you is that 
+because it's patented because its performing and more and more customers 
+are coming to us. We have recently we, started working with somebody we 
+might believe will also scale up very fast in the battery industry. It's Reliance. 
+I'm very happy to tell you all today that our parts have been qualified now by 
+Reliance New energy. That is their Battery vertical they, I think are going to 
+scale up very fast. They're going to be supplying batteries to a lot of the EV 
+            November 14, 2025 
+18 | P a g e 
+ 
+manufacturers. So we are starting a program with them also. And I can tell you 
+that in Q2 and also I'm seeing a lot of traction in Q3 because we are, you know 
+single source for both Ather and TVS for this component, we are seeing huge 
+growth. In fact, if I look at the PRV, I think we showed it I think in one of the 
+presentations, if I look at the growth in PRV sales, we are probably 60 % up 
+from last year right, so the EV product line is growing right now at 60 % year 
+on year in terms of quantity sales, right? And, those are obviously better 
+margin products for us, right? So, so yeah, so in that sense, we are monetizing 
+the patent, I mean we are taking full advantage of the patent right, but should 
+we license it out to somebody? Should we offer it to somebody? Well, it 
+depends on how the market pans out. Honestly difficult to forecast today, but 
+if somebody really maybe in the global market wants to, you know, associate 
+with us or they want us to license the patent, we'll have to look at it at that 
+point of time. Yeah, I think we are almost at 05:00 so any last question before 
+we close? Yeah ok so I just hander over to Group CFO Mr. Naresh for some 
+closing remarks. 
+Naresh Varadarajan: 
+Investors, so just happy to share we got a call, not a mail from Deloitte, one of 
+the two companies in Karnataka which had no problem with record to audit. 
+That means they've been checked, Deloitte checks thoroughly, but they also 
+got it checked by their independent peer review. We are only two companies 
+in Karnataka which have been which have got a clean record, so I'm just telling 
+you while we are doing everything which we can, we're optimizing cash flows 
+or growing revenues, we are also doing the compliant well. I mean thanks for 
+the directors and the management. It's very transparent and consistent these 
+are two words used by Deloitte partner, nothing came in on record mail but 
+just a call, normally Deloitte wouldn’t use this kind of call and Indian knowledge 
+system typically if something wrong they report if something good they don't, 
+but I thought I should share with you that as cash flow and PBT all the questions 
+which you have asked close to our heart, compliant and the way we do our 
+business as good corporate citizens just to share  with you and thanks to the 
+faith that you have reposing on us. So we'll deliver on cash flow as soon as 
+compliant and the and the growth. Thank you. 
+Shanki Bansal: Question through chat box  
+You’ve indicated an aspirational topline target of around ₹1,000 crore over the 
+next 4–5 years. As we think about that scale-up, can you help us understand 
+the intended business mix behind this growth? 
+Specifically, do you see the 1,000-crore profile being driven primarily by Future 
+Tech, given its relatively commodity nature and scalability? Or is the long-term 
+ambition to pivot more meaningfully toward becoming a precision-engineering 
+            November 14, 2025 
+19 | P a g e 
+ 
+company — where Climatech, automotive engineered components, and other 
+higher-margin verticals contribute a larger share of revenue and profitability? 
+Aditya Maruti Gokarn:  
+Okay, so there's just one last question that's come in again from Mr. Shanki 
+Bansal. I'll just quickly go through that. The question is something like you 
+indicated an aspirational target of thousand crores as we think about that scale 
+up, can you help us understand the intended business mix behind this growth? 
+And you see thousand crore profile being driven by future tech? What's going 
+to be the breakup? So we have done a lot of, I would say scenarios and I would 
+say internal forecasts for what that thousand crores is going to look like. But 
+just to give you at a very high level, right? We believe that it will be roughly 400 
+crores each coming from the automotive business and metals vertical, 400 
+each and the remaining 200 coming from climate control, right? Because 
+climate control has huge potential like I said, last year, India imported 650 
+cores worth of service valves and the kind of components that we make. So the 
+market is enormous. So even if, even if I take a very conservative estimate, I 
+think 200 crores coming from climate control is absolutely doable, right? 
+Maybe may be a lot more than that. But like I said, it's my job to be 
+conservative while forecasting because you know I can tell you that three or 
+four years from now, the climate control components that we have in our 
+pipeline already without adding any new products, the market size itself will 
+be somewhere in the range of thousand to thousand three hundred crores. It's 
+a huge market, right? So, so thousand crores, like I said it's really, I agree with 
+you that it's not really a very, very ambitious number, but having seen certain 
+ups and downs for the last couple of years, right? I'm just being conservative. 
+I'd rather be conservative, I'd rather. Promise less and deliver more than the 
+other way around, right? So, that's perhaps why I'm being a little bit 
+circumspect. But, yeah, I would say precision engineering for sure will be, will 
+continue to be our focus because you know that is going to give us value 
+addition right, The commodity business, it's primarily meant to kind of, you 
+know, be a internal hedge against the, you know, commodity movement, but 
+at the same time, we are finding very interesting opportunities for, you know, 
+like I said, high value alloys, you know, special materials and material 
+technology also is something that in India is woefully lacking. I mean today a 
+lot of the customers, like I said, even some of the defense contractors, literally 
+not able to find somebody to make some of these special alloys. It could be, 
+you know, just to give you an example, there are bronzes, there are, you know, 
+there's aluminum bronze, there's aluminum silicon bronze, there's High-tensile 
+brass. There is a copper chromium. There are, you know, a lot of materials 
+today. There is nickel silver wire which goes into, you know, writing instrument 
+industry. It's a shocking thing that, you know, there is no company in India 
+which is able to produce it at scale, not even one company. See we're a 1.5 
+billion population country. We feel sometimes ashamed that, you know, there 
+            November 14, 2025 
+20 | P a g e 
+ 
+is nobody in India doing this kind of stuff. And if we succeed, right? These are 
+high margin products; I mean it's not just that we are doing a service to the 
+nation. We're also going to earn very good margins, right? So it's a win win. 
+There's another thought process that we are working on. You know, there's a 
+lot of landing gear related components that, you know, India is trying to localize 
+in in the defense sector, and a lot of those landing gear components also 
+require special alloys, right? Which are also not available in India. So we're 
+already in touch with, you know, certain people to kind of look at those 
+opportunities as well. So, yeah, so there's a lot of stuff. So I would say precision 
+engineering of course will continue, but also, you know, we will get stronger 
+and stronger in material science, right? The combination of the two obviously 
+will unlock a lot of value for us and margins and profitability going forward. So. 
+That's the way we are looking at it. So I think we've just crossed the 1 hour 
+mark, so thank you everybody very nice questions. Thank you so much. It was 
+very, I would say stimulating for me also to answer a lot of these very 
+interesting questions. Thank you for your patience also. 
+Aditya Maruti Gokarn:   
+So I want to thank each and every investor for your trust and confidence in us 
+and like Naresh rightly said while we're doing that, you know, we are not going 
+to be taking any call you know risks on compliance. In fact, we want to send 
+benchmarks in, in compliance and happy to know that, you know, Deloitte also 
+appreciated us. We are one of the files that came out absolutely squeaky clean. 
+After I don't know, three, four months of peer review and you know all of that. 
+So I think that's testament to the fact that we want to drive growth, but we 
+want to do it the right way, right? With the right governance and the right 
+controls in place. Thank you everybody for, for today and look forward to see 
+you whenever next we organize a investor call. Thank you so much. Have a 
+good evening. Thank you. Thank you. Thank you. 
+Naresh Varadarajan:  
+Thank you, everybody, thank you. 

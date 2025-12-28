@@ -1,0 +1,48 @@
+{
+    "trader_1": {
+        "scrips": [
+            "500325"
+        ],
+        "categories": [],
+        "keywords": []
+    },
+    "dividend_hunter": {
+        "scrips": [],
+        "categories": [],
+        "keywords": [
+            "Dividend"
+        ]
+    },
+    "tata_fan": {
+        "scrips": [
+            "500570"
+        ],
+        "categories": [
+            "Board Meeting"
+        ],
+        "keywords": []
+    },
+    "test_user_insider": {
+        "scrips": [],
+        "categories": ["Insider Trading / SAST"],
+        "keywords": ["Closure of Trading Window"],
+        "phone_number": "+919152051206"
+    },
+    "test_user_greenpanel": {
+        "scrips": [
+            "542857"
+        ],
+        "categories": [],
+        "keywords": []
+    },
+    "test_user_dividend_only": {
+        "scrips": [],
+        "categories": [
+            "Dividend"
+        ],
+        "keywords": [
+            "Dividend",
+            "Bonus"
+        ]
+    }
+}

@@ -1,0 +1,702 @@
+   
+  
+ 
+Date of submission: November 14, 2025 
+  
+To,                
+The Secretary 
+Listing Department 
+BSE Limited 
+Department of Corporate Services 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai – 400 001 
+Scrip Code –539551(EQ), 975516 & 976418 
+To,                
+The Secretary 
+Listing Department 
+National Stock Exchange of India Limited 
+Exchange Plaza, Bandra Kurla Complex  
+Mumbai – 400 051 
+ 
+Scrip Code- NH 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Investor Presentation for the quarter and half year ended September 30, 2025 
+ 
+With reference to the subject, please find enclosed the Investor Presentation for the quarter and half 
+year ended September 30, 2025. 
+ 
+Kindly take the above information on record. 
+ 
+Thanking you 
+ 
+Yours faithfully 
+For Narayana Hrudayalaya Limited 
+ 
+ 
+ 
+ 
+ 
+Sridhar S. 
+Group Company Secretary, Legal & Compliance Officer 
+ 
+Encl.: as above 
+ 
+August 02, 2023
+Earnings Update 
+Q2 FY26
+2
+Index
+Our Footprint         03
+Narayana Health at a Glance      04
+Q2 FY26 Highlights        05 
+Capex          14
+Digital Transformation Initiatives     15
+Narayana Health ESG Vision – “Health For All”  16
+Shareholding Pattern                       17
+Topic Slide No.
+East
+Hospitals - 7 | Clinics - 4| Dialysis Centre - 1
+Operational beds -  2,030
+West
+Hospitals - 2
+Operational beds - 354
+As on 1st October 2025
+Our Footprint
+3
+South
+Hospitals - 6 | Heart Centres - 2 | Clinics - 14 | 
+Diagnostic Centre - 1
+Operational beds - 2,045 (Hospitals)
+   - 132 (Heart Centres)
+North
+Hospitals – 3
+Operational beds: 828
+Mumbai
+Kolkata
+Ahmedabad
+Raipur Jamshedpur
+Guwahati
+Shimoga
+Bengaluru
+Mysore
+Delhi NCR
+Jaipur
+(1) Jammu unit is removed and is considered as a part of discontinued operation effective from FY25
+Davanagere
+ Facility Details No. of Facilities Operational Beds
+ Owned / Operated Hospitals(1,3) 18 5,257
+ Heart Centres 2 132
+ Clinics and Dialysis Centre 20 0
+ Cayman Islands 2 165
+Healthcare Facilities 42 5,554
+Total 18,718
+Clinical : 11,512
+Non-clinical : 7,206
+7.1 Mn(2)
+Average Effective Capital Cost per
+Operational Bed
+5,915
+Capacity Beds
+4,233
+Doctors
+(1) Owns the P&L responsibility
+(2) Based on (Gross Block for Fixed Assets (adjusted for non-cash government grant provision impact, non-cash financial lease impact for Dharamshila unit, non-cash EPCG license impact )+ Capital Work in Progress (CWIP)) / Number of operational beds as 
+of  Sept 30th, 2025, but excluding Cayman facility
+(3) Jammu unit is removed and is considered as a part of discontinued operation effective from FY25
+Narayana Health – At Glance
+4
+Key Highlights – Operational & Financial Performance (Q2 FY26)
+Clinical & 
+Operational
+• Received the prestigious award for Clinical Governance from International Hospital Federation (IHF) and 
+American college of Healthcare executives (ACHE) for Advancing Safety through Governance at their 
+annual Congress in Geneva.
+• Narayana Superspeciality Hospital, Howrah has:
+• Commissioned a dual source 256 Slice CT Scan machine in the quarter
+• Achieved a significant milestone of completing 1000+ Robotic surgeries
+• Narayana Institute of Cardiac Sciences, Bangalore 
+• Achieved its highest ever no of procedures across Robotic & Minimally Invasive Cardiac Surgery 
+setting a national benchmark
+• 97 Robotic cardiac surgeries in Sep’25 & 197 Robotic Surgeries for the quarter. 
+• 420 Minimally Invasive Cardiac Surgery and 10 Percutaneous Pulmonary Valve Implantation. 
+• Narayana Multi-specialty Hospital, Jaipur has expanded spectrum of quaternary care with Bone Marrow 
+Transplant Services (BMT) in the quarter.
+Financial 
+Performance
+• Consolidated operating revenues of ₹ 16,438 Mn in Q2 FY26, a change of +20.3% YoY and +9.1% QoQ.
+• Consolidated EBITDA of ₹ 4,265 Mn in Q2 FY26 at a margin of 25.9% and consolidated PAT of ₹ 2,583 Mn 
+for Q2 FY26 at a margin of 15.7%
+• Consolidated Total Borrowings less Cash & Bank Balance and Investments of ₹ 2,466 Mn as on 30th 
+September 2025, i.e. net debt to equity ratio of 0.06 (Out of which, debt worth US$ 69.0 Mn is foreign 
+currency denominated).
+5
+5
+
+India Operations – Revenue (Q2 FY26) 
+Domestic
+International Integrated Care - NHIC and NHIL
+762
+403
+513
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+Q2 FY25 Q1 FY26 Q2 FY26
+6
+6
+99
+144
+190
+5
+55
+105
+155
+Q2 FY25 Q1 FY26 Q2 FY26
+10,482 10,825 11,707 
+ 4
+ 5,004
+ 10,004
+Q2 FY25 Q1 FY26 Q2 FY26
+11,344 11,316 12,331 
+ 4
+ 5,004
+ 10,004
+ 15,004
+Q2 FY25 Q1 FY26 Q2 FY26
+Total*
+11.7% YoY
+-32.7% YoY 90.9% YoY
+8.7% YoY
+9.0% QoQ 8.1% QoQ
+27.2% QoQ
+32.1% QoQ
+*Note - Total revenue is excluding Jammu, ATHMA, Medha and adjusted with Inter Company eliminations. Previous quarters numbers are adjusted for Jammu. 
+₹ Mn
+73%
+25%
+1%
+0%
+Owned Hospitals
+Operated Hospitals
+Heart Centres
+Other Anciliary Businesses
+47%
+31%
+18%
+4%
+Domestic Walk-in patients
+Insured Patients
+Schemes
+International patients
+Business Mix(4,7,8) Specialty-Profile(4,7,8) Payor-Profile(4,7,8) 
+(1) NH owns on freehold basis and operates with the P&L responsibility    
+(2) NH operates the hospitals on rental/revenue sharing basis and owns the P&L responsibility
+(3) Includes clinics and dialysis centres excl. NHIC
+(4) As percentage of operating revenue, excluding NHIC
+(5) Insured Patients include Insurance-covered patients, corporate patients (including PSU’s on hospital tariff) 
+(6) Schemes include CGHS, ESIS, other state government schemes
+(7) Percentages might not add up to 100% due to rounding off
+(8) Jammu unit is removed and is considered as a part of discontinued operation effective from FY25
+33%
+14%
+15%
+9%
+7%
+4%
+16%
+Cardiac Sciences Medicine and GI sciences
+Oncology Renal Sciences
+Neuro Sciences Orthopaedics
+Others
+India Hospital Operations – Revenue Mix (Q2 FY26) 
+(1)
+(3)
+(2)
+(6)
+(5)
+7
+Operational Review – India Hospitals (Q2 FY26) 
+ICU Occupied Bed Days
+ALOS
+Patient Footfalls (IP & OP)(1,3)
+₹ ‘000 Days
+‘000
+OP
+IP
+664
+617 662
+59 53 58
+0
+100
+200
+300
+400
+500
+600
+700
+Q2 FY25 Q1 FY26 Q2 FY26
+(1) OP figures include day-care business.        
+(2) ARPOB for the period Q2 FY26 was ₹ 17.5 Mn as against ₹ 15.3 Mn in Q2 FY25.
+(3) Footfalls for IP correspond to Discharges.
+(4) Jammu unit is removed and is considered as a part of discontinued operation effective from FY25. Previous quarter numbers are adjusted for Jammu.
+8
+8
+‘000
+4.5 4.8 4.8
+136.4 148.7 149.4
+Q2 FY25 Q1 FY26 Q2 FY26
+Average Revenue Per Patient (IP & OP) (1,2)
+OP
+IP
+101
+85
+96
+60
+70
+80
+90
+100
+110
+Q2 FY25 Q1 FY26 Q2 FY26
+4.5
+4.3 4.3
+3.7
+3.9
+4.1
+4.3
+4.5
+4.7
+Q2 FY25 Q1 FY26 Q2 FY26
+Cluster Split – India Hospitals (Q2 FY26) This considers owned/operated hospitals & heart centers in India
+(1) OP ARPP includes day care.
+9% 7% 5%
+36% 10% 10% 13%
+% of Hospital 
+Operating 
+Revenues 
+YoY Revenue 
+Growth
+OP ARPP(1)
+(₹ ‘000)
+YoY Hospital 
+Discharges
+Bangalore Southern 
+Peripheral Kolkata Eastern
+Peripheral Western Northern
+Regions
+5%
+• NICS
+• MSMC
+• HSR
+• Mysore
+• Shimoga
+• Davangere
+• Dharwad
+• Kolar
+• RTIICS
+• Barasat
+• NMH
+• NSH
+• Jamshedpur
+• Guwahati
+• Raipur
+• Mumbai
+• Ahmedabad
+• Gurugram
+• New Delhi
+• Jaipur
+26%
+9
+4%
+2%
+-7% -4% 0%
+IP ARPP 
+(₹ ‘000)
+5.0 3.7 4.5 4.1 4.3 4.6
+198.3 67.9 121.4 114.7 128.3
+5.6 4.1 4.5 4.2 4.0 4.8
+232 79 151 133 120 124
+2% -1% 4%
+Capacity Beds 1498 797 1453 730 392 880
+-2%
+0%
+9% 4%
+10
+Profitability Snapshot – India Hospitals (Q2 FY26) 
+Excludes Jammu, NHIC, NHIL, ATHMA & MEDHA (2)
+EBITDA and EBITDA Margin (1) Cost Structure
+₹ ‘Mn % of Operating Revenues
+(4) Consumable Expenses = Purchase of medical consumables, drugs and surgical equipment 
+net of changes in inventories of medical consumables, drugs and surgical equipment
+(5) Doctors and Nurses = Employee benefits + Professional fees to doctors
+(6) Other Expenses = Overhead expenses + All other expenses 
+(7) Effect of IND AS benefits is not considered
+(1) Denotes EBITDA for entire India hospitals business excluding Jammu, NHIC, NHIL, ATHMA 
+& MEDHA. EBITDA is without Dividend income.
+(2) EBITDA for Q2 FY26 including NHIC, NHIL, ATHMA & MEDHA stood at ₹ 2,712 Mn (22.0%). 
+EBITDA for NHIC and NHIL stood at -₹ 164 Mn for Q2 FY26.
+(3) Previous quarter numbers are also adjusted for Jammu, NHIC, NHIL, ATHMA and MEDHA.
+10
+2,441 
+2,309 
+2,903 
+21.7%
+20.6%
+23.8%Q2 FY25 Q1 FY26 Q2 FY26
+18.0%
+19.0%
+20.0%
+21.0%
+22.0%
+23.0%
+24.0%
+ 1,500
+ 1,600
+ 1,700
+ 1,800
+ 1,900
+ 2,000
+ 2,100
+ 2,200
+ 2,300
+ 2,400
+ 2,500
+Q2 FY25 Q1 FY26 Q2 FY26
+(1)
+28% 28% 27%
+24% 24% 23%
+17% 18% 17%
+12% 11% 11%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Q2 FY25 Q1 FY26 Q2 FY26
+Chart Title
+Doctors and Nurses Consumable Expenses
+Other Expenses Other Manpower Cost
+Rental / Revenue Share (7)
+2% 2%
+(5)
+(3)
+(4)
+2%
+(2)(3)
+11* 154,909* ₹155.77 Mn.*
+As on 30th September 2025 Q2 FY26 Q2 FY26
+Points of Presence Patient Transactions Revenue - Integrated Care 
+Program running since September 2022 at select Bengaluru and Hosur locations
+NH Integrated Care and Insurance: Snapshot
+11
+11
+₹86.99 Mn.**
+YTD Q2 FY26
+GWP - Insurance
+* Includes Integrated Care (Clinics) only.
+** Gross written premium of NH Insurance
+Expanding Group and Retail Insurance business nationally to markets having NH 
+presence
+Operational Review – Cayman Islands  (Q2 FY26) 
+Hospital Revenues Insurance Revenues (CIHL)
+Discharges Out-Patients
+US$ Mn US$ Mn
+12
+0.6
+5.3
+9.3
+0.0
+2.0
+4.0
+6.0
+8.0
+10.0
+Q2 FY25 Q1 FY26 Q2 FY26
+8,819 
+11,804 12,301 
+ 7,500
+ 8,500
+ 9,500
+ 10,500
+ 11,500
+ 12,500
+ 13,500
+Q2 FY25 Q1 FY26 Q2 FY26
+524 
+738 
+785 
+ 450
+ 550
+ 650
+ 750
+ 850
+Q2 FY25 Q1 FY26 Q2 FY26
+1) EBITDA of CIHL for Q2 FY 26 is US$ -0.3 Mn.
+2) HCCI consol revenue to be adjusted for inter-co elimination of US$ 1.5 Mn in Q2 FY26.
+29.2
+42.6 41.6
+24.0
+29.0
+34.0
+39.0
+44.0
+Q2 FY25 Q1 FY26 Q2 FY26
+Consolidated Financial Performance
+Figures in ₹ Mn, unless stated otherwise
+(1) Figures might not equal the reported numbers due to rounding off.
+(2) Net Block includes non-cash government grant impact of ₹ 1,042 Mn, non-cash financial lease impact of ₹ 335 Mn and non-cash EPCG license impact of ₹ 371 Mn.
+(3) Financial performance of NVDSHPL (Jammu) is not considered in the consolidated financial and has been disclosed as discontinued operations.
+(4) Q2 FY 26 EBITDA is adjusted with one time acquisition related cost accrued in this quarter..
+As on September 30th 2025, the Total Borrowings less Cash & Bank Balance and Investments was ₹ 2,466 Mn, representing a net debt to equity ratio 
+of 0.06 (Out of which, debt worth US$ 69.0 Mn is foreign currency denominated).
+ Particulars (₹ Mn) Q2 FY25 Q2 FY26
+Total Operating Revenue 13,667 16,438
+Consumption 2,894 3,222
+Doctors Expenses 2,380 2,549
+Employee (Excluding Doctors) Expenses 2,760 2,991
+Other Admin Expenses 2,546 3,607
+Total Expenses 10,579 12,369
+Other Income 235 240
+EBITDA(4)                                  3,323 4,309
+Exceptional item(4) - 44
+Depreciation and Amortization 647 875
+Finance Costs 351 423
+Share of (loss)/profit of equity accounted 
+investees - (13)
+PBT 2,325 2,955
+Tax Expense 332 372
+PAT 1,993 2,583
+Total Comprehensive Income 2,041 3,279
+Profit and Loss Statement(1) Key Balance Sheet Items(1)
+Particulars 30th Sep 2025
+Shareholder Equity 40,619
+Total Borrowings 21,355 
+Lease Liability 2,048 
+Net Block + CWIP (2) 40,818
+Goodwill 1,204
+Right to Use Assets 2,102
+Net Receivables 5,864
+Current Investments 13,057
+Cash and Bank Balance 5,180
+13
+14
+5,750 215 350 220 350 300 100 400 7,685 
+30-Sep-25 HSR 
+Bangalore
+Rajarhat 
+Kolkata
+Central 
+Bangalore
+South
+Bangalore
+Raipur South West
+Bangalore
+Pipeline FY30
+Expansion: Progress Status & Capex Strategy
+Building to strengthen our presence in flagship regions
+14
+Location Type No. of Beds Project Cost (₹ Mn) Completion Current Status
+HSR, Bangalore Greenfield 215 4,900 FY28 Sanctions in place, Project is progressing as per schedule.
+Rajarhat, Kolkata Greenfield 350 9,000 FY28 Sanctions in place, Project is progressing as per schedule.
+Central Bangalore Lease 220 1,600 FY28 Lease & Construction Agreement is executed; design and 
+approvals are in process.
+South Bangalore Greenfield 350 8,000 FY29 Design and approvals are in process.
+Raipur Expansion 300 5,400 FY28 Sanctions in place, Project is progressing as per schedule.
+South-West 
+Bangalore Lease 100 840 FY27 Structural work completed, MEP and interior works in progress.
+Current Bed Capacity Bed Capacity Addition Bed Capacity Target
+Capex Head FY26 (P) FY26 (A)
+Greenfield/
+Inorganic 4,240 166
+Brownfield/ 
+Capacity Addition 159 82
+Replacement/
+Maintenance 2,865 1,016
+Cayman 457 451
+7,600+
+Digital Transformation Initiatives
+15
+Impact | Mobile Apps
+ Initiatives | Business
+ GTM | ATHMA
+• Completed the first fully digital 
+Nursing Excellence Audit at Narayana 
+Institute of Cardiac Sciences, 
+Bengaluru
+• NH patient app crosses 3.5 Mn overall 
+installs with an Appstore rating of 4.9/5
+• ~40% of install-base are active monthly on 
+the app 
+• Incident Management achieves 50% 
+reduction in reported patient incidents
+• AI Lab Insights enabled for advanced 
+ICU care.
+• GST Bachat Utsav – Sep’25 – Seamless 
+transition to new national GST guidelines
+• Kiosk – Crossed 100k bookings/month on 
+patient Kiosks
+• India: 200 beds added
+• 20+ Units using ATHMA in the 
+domestic market
+• Service Rendering Management rolled-
+out in Kenya
+• Saudi compliant Patient Portal enabled 
+Launch | New Products
+• Digital Consent for general consent from 
+the patients rolled out across various units
+• 5000+ Tumor Board conducted digitally 
+since launch
+• Tablet-first EMR intelligence platform 
+launched to enhance clinical decision-
+making.
+•Incident Management achieved 50% reduction in patient incidents.
+NH ESG Vision – “Health For All”
+16
+16
+A Healthy Society
+By  improving access to care, digitising patient safety & experience and building the workforce for tomorrow
+25,000+ 
+Doctors, nurses, 
+and paramedical 
+trained by 2030
+Digitization
+For enhancing 
+patient safety 
+& experience
+5000+ 
+Bridging care gaps with 
+5000 BMTs by 2030
+3400 free pediatric heart 
+procedures annually
+10000+ 
+Bright underprivileged 
+students aiming to be 
+doctors by 2030
+Touching lives of 
+50,000+ 
+Supporting govt. 
+school children with 
+hygiene and 
+nutrition by 2030
+5,60,000+ hours
+Associate upskilling 
+and development 
+hours by 2030
+A Healthy Institution- 
+By fostering a culture of innovation & strong governance
+100% 
+NABH & enterprise 
+level JCI recertified 
+hospitals by 2026
+Industry leader Best in Class risk 
+management
+Robust Risk 
+Management Process
+Cyber resilience
+Zero Trust Architecture 
+by 2026
+1200+ peer-reviewed indexed 
+publications (2025–2030)
+1000+ Publications
+In clinical 
+Governance
+A Healthy Planet
+By being conscious about impact on the environment, prioritizing consumption efficiency and resource optimization
+Renewable energy 
+(Electricity) mix by 2030
+50% Carbon Neutral
+By 2040 Waste-water recycling by 2030
+Water Consumption 
+per occupied bed/day
+100% Optimized
+Waste management processes
+BMW Generation
+ per occupied bed/day
+30% less 
+Paper use across patients 
+by 2026 from 2023
+On Plan (T 1000) 959 (T 1474) 7846 (T 5950) 1765 (T 1925)
+5.15 Pages/ Patient 
+YTD  (T 5.10)
+On Plan Ongoing
+118 Publications  (T 100)On Plan Ongoing On Plan Ongoing On Plan OngoingOn Plan Ongoing
+Ongoing 1.41 KL Water Per 
+occupied bed (T 1.23)
+1.88 KGs Per occupied 
+bed (T 1.69)
+36% (T 36%)
+1.30 L Person Hours 
+of training (T 1.95 L) 
+Actuals FY 25~26-Upto Q2 (T – Target  FY 25~26-Upto Q2)
+Shareholding Pattern
+As on 30th Sep 2025(1)
+Key DIIs
+Nippon Life India Asset Management 
+Axis Asset Management
+Parag Parikh Asset Management
+SBI Life Insurance Co. Ltd.
+DSP Asset Management
+Unifi Capital
+(1) Percentages might not add up to 100% due to rounding off
+Total Number of Shares
+204,360,804
+17
+Promoter 
+Group 
+63.9%
+Others 
+15.8%
+FIIs 
+10.5%
+DIIs 
+9.2%
+ESOP Trust 
+0.7%
+Key FIIs
+Vanguard Index Funds
+Franklin Templeton Investment Funds
+Simcah Partners LP
+iShares by Blackrock
+Government Pension Fund Global
+Kuwait Investment Authority Fund 
+Disclaimer and Contact Details
+No representation or warranty, express or implied is made as to, and no reliance should be placed on, the fairness, accuracy, completeness or 
+correctness of such information or opinions contained herein. The information contained in this presentation is only current as of its date. Certain 
+statements made in this presentation may not be based on historical information or facts and may be  “forward looking statements”, including those 
+relating to the Company’s general business plans and strategy, its future financial condition and growth prospects, and future developments in its 
+industry and its competitive and regulatory environment. 
+Actual results may differ materially from these forward-looking statements due to a number of factors, including future changes or developments in the 
+Company’s business, its competitive environment and political, economic, legal and social conditions in India.
+This communication is for general information purpose only, without regard to specific objectives, financial situations and needs of any particular 
+person. This presentation does not constitute an offer or invitation to purchase or subscribe for any shares in the Company and neither any part of it 
+shall form the basis of or be relied upon in connection with any contract or commitment whatsoever. The Company may alter, modify or otherwise 
+change in any manner the content of this presentation, without obligation to notify any person of such revision or changes. This presentation can not be 
+copied and/or disseminated in any manner.
+For further Information, please contact :
+Mr. Nishant Singh
+Vice President – Finance, Investor Relations, M&A
++91 8369353821
+nishant.singh@narayanahealth.org
+Mr. Vivek Agarwal
+Senior Manager –  Investor Relations, M&A
++91 9510756827
+vivek.agarwal@narayanahealth.org
+investorrelations@narayanahealth.org          |              www.narayanahealth.org 
+18
+18
+19

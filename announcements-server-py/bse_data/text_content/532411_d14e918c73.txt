@@ -1,0 +1,1731 @@
+  
+Date: 14 November, 2025 
+The Manager-Listing The Manager-Listing 
+National Stock Exchange of India Limited BSE Limited 
+Exchange Plaza,C-1,Block-G, Floor 25, P J Towers, 
+Bandra Kurla Complex (E), Dalal Street, 
+Mumbai-400051 Mumbai-400001 
+NSE Symbol-VISESHINFO Scrip Code-532411 
+Sub: Outcome of the Board Meeting and Submission of Unaudited Financial Results for the Quarter 
+and Half Year Ended September 30, 2025 pursuant to Reg.33 of the SEBI (LODR) Regulations, 2015 
+    
+Dear Sir, 
+This is to inform you that the Board of Directors of the Company in its Meeting held today i.e. 14" November, 
+2025, which commenced at 05:00 P.M. and concluded at 06:30 P.M., at the registered office of the Company at 
+703, Arunachal Building, 19 Barakhamba Road, New Delhi-110001, has inter-alia transacted the following 
+business: 
+1) Considered and Approved Unaudited Financial Results (Standalone & Consolidated) for the Quarter 
+and Half Year Ended September 30, 2025. 
+2) Considered and taken on record Limited Review Report for Unaudited Financial Statements 
+(Standalone & Consolidated) for the Quarter and Half Year Ended September 30, 2025. 
+In terms of the SEBI Listing Regulations, the extract of the Financial Results for the Quarter and Half Year 
+Ended September 30, 2025, shall be published in the newspapers. The full format of the financial results shall 
+be available on the website of the Stock Exchanges where the equity shares of the Company are listed, 
+namely, National Stock Exchange of India Limited (NSE) and BSE Limited (BSE) at www.nseindia.com and 
+www.bseindia.com and on Company’s website at www.mpsinfotec.com. 
+A copy of the Unaudited Financial Results (Standalone and Consolidated) of the Company, for the Quarter and 
+Half Year Ended September 30, 2025, along with the Limited Review Report is enclosed herewith for your 
+records. 
+Kindly acknowledge receipt and take the same on your records and oblige. 
+Thanking You, 
+Yours Faithfully, 
+For MPS Infotecnics Limited 
+Digitally signed 
+GARIMA pbycarima 
+SINGH 
+SINGH__ date:2025.11.14 
+18:34:34 +05'30' 
+Garima Singh 
+Company Secretary 
+ 
+MPS INFOTECNICS LIMITED 
+CIN: L30007DL1989PLC131190 
+Reed. Office : 703, Arunachal Building, 19, Barakhamba Road, Connaught Place, New Delhi 110 001 
+Audited Standalone Financial Results for the Quarter and Half Year Ended 30th September, 2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+              
+Rs. In Lacs 
+S.No Particulars Quarter Ended Half Year Ended Year Ended 
+30-Sep-25 30-Jun-25 30-Sep-24 30-Sep-24 30-Sep-25 31-Mar-25 
+Un-audited | Un-audited | Un-audited | Un-audited | Un-audited Audited 
+1 |Income 
+(a)Revenue from operations 9.72 10.24 13.01 24.81 19,96 43,42 
+(b) Other income 0.99 0.11 0.13 0.13 1.10 0.69 
+2 Total Revenue (a+b) 10.71 10.35 13.14 24.94 21.06 44.10 
+3 Expenses: 
+(a)Cost of materials consumed - - - - 
+(b) Purchases of Stock-in-Trade 11.49 11.78 9.34 19.97 23.27 30519 
+(c)Changes in inventories of finished goods 
+work-in-progress and Stock-in-Trade . . : 
+(d)Employee benefits expense 7.20 7.44 6.39 12.77 14.64 25.52 
+(e) Finance costs - - - - : 
+(f)Depreciation and amortization expense 65.39 65.40 65.39 130.79 130.79 261,59 
+(g)Other expenses 30.07 34.63 24.94 50.71 64.70 732.37 
+4 Total expenses 114.15 119.25 106.06 214.24 233.40 1,054.66 
+5 | Profit before exceptional and : 
+extraordinary items and tax (2-4) (103.44) (108.90) (92.92) (189.30) (212.34)| (1,010.56) 
+° Exceptional items - - - - 
+7 | Profit before extraordinary items and tax (103.44) (108.90) (92.92) (189.30) (212.34)| (1,010.56) 
+(5-6) 
+8 Extraordinary items - - - - - : 
+9 Profit before tax (7-8) (103.44) (108.90) (92.92) (189.30) (212.34)| (1,010.56) 
+10 | Tax expense: 
+(1) Current tax - - - - - 
+(2) Deferred tax Expense(+)/Income(-) (15.35) (15.35) (14.44) (28.88) (30.70) (58.22) 
+11 | Total Tax Expense (15.35) (15.35) (14.44) (28.88) (30.70) (58.22) 
+12 | Profit (Loss) for the period from continuing 
+operations (9-11) (88.09) (93.55) (78.48)| (160.42) (181.64) (952.34) 
+13 | Profit/(loss) from discontinuing operations . . . - . 
+14 | Tax expense of discontinuing operations - : - = - 
+15 | Profit/(loss) from Discontinuing operations 
+(after tax) m * - = * 
+i Profit (Loss) for the period (12+15) (88.09) (93.55) (78.48) (160.42) (181.64) (952.34) 
+17 | Other Comprehensive Income 
+18 | (A) (i) Items that will not be reclassified to 
+profit or loss 0.40 0.40 0.44 0.89 0.80 1.59 
+(ii) Income Tax relating to items that will not 
+be reclassified to profit or loss 0.11 0.10 0.11 0.23 0.21 0.41 
+(B) (i) Items that will be reclassified to profit 
+or loss - - - - - - 
+(ii) Income Tax relating to items that will not 
+be reclassified to profit or loss : “ “ = ws = 
+19 | Other Comprehensive Income/(Loss) for 
+the year, net of tax 0.29 0.30 0.33 0.66 0.59 1.18 
+20 | Total Comprehensive Income/(Loss) for 
+the year, net of tax (16+19) (87.80) (93.25) (78.15) (159.76) (181.05) (951.16) 
+21 | Paid up Equity Shares(Face Value of Rs.1/- 
+each) 37,744.37 37,744.37 37,744.37 37,744.37 37,744.37 37,744.37 
+22 | Other Equity 4,433.10 
+23 | Earnings per equity share: 
+(1) Basic : (0.002) (0.002) (0.002) (0.005) (0.025) 
+(2) Diluted (0.002) (0.002) (0.002) (0.005) (0.025) 
+NOTES: 
+  
+(1) The above results were reviewed by the audit committee and thereafter taken on record by the Board of Directors at its meeting held on 
+November 14, 2025., Statutory auditors have carried out limited review of the result for the quarter and half year ended September 30, 
+2025. , 
+  
+(2) Financial results for the period has been prepared in accordance with the recognition and measurement principles of IND AS notified 
+under the Companies (Indian Accounting Standards) Rules, 2015 as amended from time to time. 
+  
+(3) The figures of the previous periods have been re-cast / re-grouped / re-arranged wherever necessary in confirmity with the requirements 
+of the revised Schedule Ill of the Companies Act, 2013. 
+  
+(4) During the Quarter under review the Company has operated in only one segment i.e., IT enabled services, hence segment wise results are 
+not being provided. 
+  
+(5) There is no operations in the subsidiaries of the Company hence the members, at the Annual General Meeting held on 30th September, 
+2022, and in previous years had given their consent to Sell this investments made by the Company in these subsidiries. The management of 
+the Company is in process to identifying suitable buyer, however at the same time the Company is also making efforts to revive the 
+business of these subsidiaries. The revival of these subsidiaries are possible once the Company has released funds from other assets. 
+  
+  
+The Statutory Auditors in their Audit Report on the Audited Accounts of the Company for the Financial Year ended March 31, 2025 had 
+opinion that (figures as updated for September, 2025 quarter) :     
+  
+ 
+  
+(1) In case of the following items shown as intangible Assets / inventory, no provision for impairment of assets has been made in 
+accordance Ind AS 36- 
+  
+(a) Intangible Assets under development-Rs 56.44 Crores (Software Development); 
+  
+(b) Software rights-Rs. 5.99 crores; 
+  
+(c ) Opening Stock (source code) Rs. 62.22 crores; 
+  
+In the absence of valuation reports of above assets, the extent of impairment and its impact on profit and loss account reserves and 
+surplus is not ascertained. 
+  
+(II) Investment in subsidiaries Rs. 61.75 Crores - There are no operations in these overseas subsidiaries and no audit of accounts has been 
+done and no updated information has been received. No provision has been made for the shortfall in value of the investment in 
+accordance with Ind AS 36; : 
+  
+(III) The Company has shown in the balance sheet, bank balances in Banco Efisa (Lisbon Portugal) amounting to Rs. 347,892,163 
+(USD 8,883,210.75) which the bank has adjusted and the matter is in the court of law. Consequently the bank balances shown in 
+balance sheet are overstated by Rs. 347,892,163/- (historical figures). The above bank balance relates to FY 2008-09 which is 
+treated as a current asset. No provision has been made for the possible loss on account of the same. 
+  
+(IV) Other non-current assets include other loans and advances of Rs. 222.12 Cr. which are considered to be good for recovery. However as 
+the terms and conditions regarding these loans have not been provided to us we are unable to ascertain and comment on the extent of 
+realisability of this asset; 
+  
+(V) The Company had increased its Authorized Capital from Rs. 52.45 Crores to Rs. 377.50 crores during the period from FY-2010 -11 to FY 
+2012-13. However necessary form i.e. Form SH-7 (Earlier Form-2) could not be filed and appropriate fees could not be paid. By the time 
+the Company could file Form SH-7, the Companies Act, 1956 was replaced by The Companies Act, 2013 and accordingly the Companies 
+(Registration office and fees) Rules, 2014 came into effect from 1st April 2014. According to these rules, the fees payable on increase in 
+Authorised Capital increased many fold. Though the company had increased the Authorised capital during the FY 2010-11 to 2012-13, but 
+the company was asked by the authorities to pay the fees in terms of the provisions of Companies Act, 2013 and not under the Companies 
+Act, 1956. Representations were made with the Ministry of Corporate Affairs, but did not bore any fruit hence The Company filed writ 
+petition before the Hon’ble Delhi High Court which was dismissed vide order dated 15/01/2019, Aggrieved by the orders passed by the 
+Hon’ble Delhi High Court, the company had preferred Special Leave Petition (SLP) before the Hon’ble Supreme Court of India. The Hon’ble 
+Supreme Court vide its order dated 7th November 2023 has dismissed the said SLP. Upon dismissal of the said SLP, the ROC fees in terms 
+of provisions of Companies Act, 2013 has become due and payable. The company has already provided for The normal Fees of Rs. 
+16,252,500.00 and additional fees of Rs. 61,862,728.36 as on 31st March 2024 as per the provisions of Companies Act, 1956. In terms of 
+the provisions of the Companies (Registration Office and Fees) Rules, 2014, the normal fees and Additional fees computed is Rs. 
+24,378,750.00 and Rs. 121,160,106.80 respectively. As on 31st March 2025 provision amounting to Rs. 81,26,250/- and Rs. 5,92,97,378/- 
+towards normal fees and Additional Fees i.e. the difference between the fees computed as per the Companies Act, 1956 and fees 
+computed as per Companies Act, 2013 has been made. Out of the additional fees amounting to Rs. 5,92,97,378/-, Rs. 8,776,350.00 relate 
+to the financial year 2024-25 and Rs. 50,521,028.45 relates to previous financial years. For the half year ended 30.09.2025, a provision of 
+Rs. 44,00,197/- computed as per Companies Act 2013, has been made towards additional fees for the half year ended 30.09.2025 and 
+total fees (Normal and additional) amounting to Rs. 14,99,39,054/- appearing under the head “Current Liabilities. There is no further 
+impact on the financial statements of the Company 
+  
+(VI) Income Tax for the Assessment year 2013-14 amounting to Rs. 20.80 lacs and interest thereon is still payable although Principal 
+demand provided for in the books of accounts by the Company. 
+  
+(VII) The Company has considered sundry debtors of Rs. 1660.09 Lacs due for more than six months as good. However in the opinion of 
+auditors there should be a regular proess of identification and making provision for bad and doubtful debts. Such a process has not been 
+followed. The auditors are unable to comment on the extent of un-provided bad and doubtful debts and their impact on loss and reserves. 
+  
+(VIII)SEBI investigated the GDR issue of the Company and SEBI vide its order dated 6th March 2020 restrained the company from accessing 
+the securities market and further prohibited from buying, selling or dealing in securities, directly or indirectly, in any manner whatsoever 
+or being associated with the securities market in any manner whatsoever, till compliance with directions contained in the said order, and 
+for an additional period of 2 years from the date of bringing back the money. Further SEBI vide its order dated 27.11.2020 had imposed a 
+penalty of Rs. 10,00,00,000/- (Rupees Ten Crores) on the Company. Since the penalty has not been paid, SEBI has also frozen the Bank 
+Accounts of the Company. Against the said orders of SEBI the Company filed appeals before the Hon'ble Securities Appellate Tribunal 
+(SAT). SAT vide order dated 27/09/2023 has reduced the penalty from Rs. 10,00,00,000/- to Rs. 25,00,000/-. The review filed against the 
+said order of SAT was dismissed vide order dated 8th December 2023. Aggrieved by the said order the Company had filed Special Leave 
+Petition before the Hon’ble Supreme Court of India. The Hon’ble Apex Court vide its order dated 16th April 2024 dismissed the said 
+Appeal. The Review Petition filed before the Hon'ble Apex Court was also dismissed vide order dated 26th September 2024. The company 
+has not paid the penalty amount of Rs. 25.00 lacs, as of the date of this Audit Report, but necessary provision w.r.t. to the penalty of Rs. 25 
+lacs has been made in the books which appear under the head “Current Liabilities”, however, provision w.r.t. interest @ 12% p.a. from 
+November 2020 to September 2025 aggregating to Rs. 14.75 lacs has not been provided in the Books. To the extent of Rs.14.75 lacs (for 
+the current Financial Year from April 2025 to September 2025S) the losses are under stated. 
+  
+(IX) Listing fees for FY 2022-23; 2023-24, 2024-25 & for the current financial year i.e. 2025-26 to NSE and BSE amounting to Rs. 28.08 lacs 
+& Rs. 24.02 lacs respectively is due and outstanding. Since the Listing Fees has not been paid the demat accounts of promoters have been 
+frozen by the Exchanges in terms of the provisions of Chapter VII, Section VII(A) of the SEBI Master Circular No. SEBI/HO/CFD/PoD2/ 
+CIR/P/2023/120 dated July 11, 2023 (Erstwhile SEBI Circular No. SEBI/HO/CFD/CMD/CIR/P/2020/12 dated January 22, 2020). Further the 
+delay in payment of Annual Listing Fees attracts interest @ 18% p.a. by NSE and 12% p.a. by BSE. Provision for interest on the outstanding 
+Annual Listing Fees amounting to Rs. 9.71 Lacs and Rs. 4.95 Lacs to NSE and BSE respectively has not been made. 
+  
+  
+(X) Custodial Charges to CDSL & NSDL for FY 2023-24 and 2024-25 amounting to Rs. 124.99 lacs & Rs. 17.49 lacs respectively is outstanding 
+due to which the depositories have blocked Benpos data. The Company has raised disputes with the Depositories and has made 
+representations with the Depositories & SEBI. Further, the delay in payment of Annual Custodial Charges to the depositories attracts 
+interest @ 12% p.a. Since the company has disputed the charges being charged by the Depositories hence no provision towards Annual 
+Custodial Charges has been made in the books of account w.r.t. Custodial charges payable to CDSL & NSDL hence losses of the company to 
+the extent of Rs. 142.48 lacs (being Annual Custodial Charges for FY 2023-24 & 2024-25) are under stated. However, company has 
+disclosed the said liability under the head “Contingent Liability” in the Financial Statements. arges due to CDSL and NSDL for 
+the finacial year 2025-26 has also not been provided in the books of accounts. 
+  
+    
+   
+  
+(XI) Since disputes has not been resolved, the Company in protest has not paid the Annual Custodial Charges to the Depositories due to 
+whcih the Depositories have blocked the Benpos. Since the RTA could not download the latest shareholders position, the Notice convening 
+Annual General Meeting of the Company could not be sent, consequently the Annual general meeting which was scheduled to be held on 
+or before 30th December 2023 (the extended time) for FY 2022-23; on or before 30th September 2024 for FY 2023-24; and on or before 
+30th September 2025 has not been convened. Non-convening of AGM is in contravention of the provisions of sections 96, 97 & 98 of the 
+Companies Act, 2013 which is punishable under section 99 of the Companies Act, 2013. Consequently, the Audited financial statements of 
+the Company for the FY 2022-23 2023-24 and 2024-25 are not adopted by Shareholders of the Company till the date of the limited review 
+report for the half year ended 30.09.2025. 
+  
+(XII) Consequently Shareholding Pattern for the quarter ended 30/09/2023; 31/12/2023 ,31/03/2024, 30/06/2024, 30/09/2024, 
+31/12/2024 & 31/03/2025, and 30/06/2025 pursuant to the provisions of Regulation 31(1)(b) of SEBI (Listing Obligations & Disclosure 
+Requirements) Regulations, 2015 has not been filed which has led to imposition of fine/penalty by the Stock Exchanges where the shares 
+of the Company are listed, in terms with the provisions contained in SEBI Circulat bearing no. SEBI/HO/CFD/CMD/CIR/P/2020/12 dated 
+January 22, 2020. As on the date of preparing this report, the Shareholding Pattern for the quarter ended 30th September 2025 has also 
+not been filed. 
+  
+(XIII) The company has not submitted an Annual Report to the Stock Exchanges pursuant to the provisions of Regulation 34 of SEBI (Listing 
+Obligations & Disclosure Requirements) regulation 2015, consequently the Stock Exchange has imposed a fine of Rs. 2,64,320/- (including 
+GST @ 18%) each upto 31.03.2024 pursuant to the provisions of Chapter VII, Section VII(A) of the SEBI Master Circular No. 
+SEBI/HO/CFD/PoD2/ CIR/P/2023/120 dated July 11, 2023 (Erstwhile SEBI Circular No. SEBI/HO/CFD/CMD/CIR/P/2020/12 dated January 22, 
+2020) has not been provided in the Books of Accounts. 
+  
+(XIV)The Company has received Show cause Notice (SCN) bearing no. NSE/LIST/C120241425 dated December 16, 2024 from NSE to Show 
+Cause as to why the shares of the Company be not delisted in terms of regulations contained in Securities and Exchange Board of India 
+(Delisting of Equity Shares) Regulations, 2011. The said SCN was appropriately replied on 6th January 2025 by the Company. Thereafter 
+NSE had published a public notice in Business Standard on 6th February 2025 in compliance with the said delisting regulations though 
+without informing the Company. The Company took note of the same and the company vide its letter dated 21st February 2025 sought an 
+opportunity of personal hearing. The said request was acceded to by NSE and NSE vide its email dated 18th March 2025 requested the 
+company and its promoter to attend the meeting of the De-listing Committee scheduled for 7th April 2025. Due to the wedding of Mr. 
+Peeyush Aggarwal’s daughter during that period, the Company requested a rescheduling of the meeting to a date after April 27, 2025. NSE 
+accepted this request and subsequently scheduled the Delisting Committee meeting for June 26, 2025. Mr. Peeyush Kumar Aggarwal, 
+Promoter Director of the Company, attended the meeting on June 26, 2025. During the meeting, the Delisting Committee requested the 
+Company to submit a detailed representation. The Company submitted its representation to NSE on July 4, 2025. A response from NSE is 
+currently awaited. 
+  
+(XV) The Company has also received Show Cause Notice (SCN) bearing No. LIST/COMP/AS/SCN/223/2025-26 dated June 10, 2025, from BSE 
+Limited, requiring the Company to show cause as to why its equity shares should not be delisted pursuant to the Securities and Exchange 
+Board of India (Delisting of Equity Shares) Regulations, 2011.The Company duly responded to the SCN on 21st June 2025 and sought 
+personal hearing in the matter. BSE Limited provided the Company with an opportunity for a personal hearing before its Delisting 
+Committee and requested a formal representation, including the request for such a hearing. On June 21, 2025, BSE Limited published an 
+Initial Public Notice regarding the proposed delisting of the Company in Financial Express and Navshakti. Subsequently, BSE, vide letter No. 
+LIST/COMP/MR/326/532411/2025-26 dated July 15, 2025, granted a personal hearing before the Delisting Committee, scheduled to be 
+held via video conferencing on August 6, 2025. The Company expresssed its inavailability for the scheduled hearing., due to the 
+unfortunate demise of the mother of Mr. Peeyush Kumar Aggarwal, Promoter Director of the Company, vide email dated July 30, 2025, 
+and requested the Exchange to reschedule the meeting. The Stock Exchange vide email dated 16th October 2025 has reschduled the 
+personal hearing to 10/11/2025 which was attended by Mr. Peeyush Kumar Aggarwal, Director and Principal Promoter of the Company . 
+Prior to the personal Hearing the Company has filed its Written submission vide email dated 04/11/2025. As on the date of Board meeting, 
+it is being informed that in the personal hearing granted to Mr. Peeyush Kumar Aggarwal, the Exchange has advised us to pay the 
+outstanding listing fees by 28th February 2026 and make good the non-compliances by 31st march 2026. There is nothing further to add, 
+    
+(XVI)Mr. Peeyush Kumar Aggarwal, was Managing Director of the Company till 9th August 2024 on which date he resigned from his post. 
+The Company since then has not appointed Managing Director or CEO. The non-appointment of Managing Director or CEO attracts penalty 
+on the company and the Directors and KMPs in terms of the provisions of section 203 of the Companies Act, 2013. Additionally, the 
+current composition of the Board of Directors does not comply with Regulation 17(1) of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015. As the Company is classified among the top 2000 listed entities by market capitalization for the financial 
+year 2023-24, it is required to maintain an appropriate board structure in accordance with the said regulation i.e., minimum six members 
+on the Board. The company has since appointed Mr. Ram Niwas Sharma as CEO w.e.f. May 21, 2025 
+  
+Explanation of the Board in Seriatim : 
+  
+(i) (a) (b) & (c ) In the opinion of the management matter regarding valuation of intangible assets, inventory including capital work in 
+progress, software rights as also any possible impairment needs to be seen in the context of the peculiar nature of the software industry 
+and the prevailing circumstances. The management is confident that these assets will fetch more value than the cost incurred once the 
+business environment stabilizes. The management has therefore not considered any provision on account of impairment of intangible 
+assets. 
+  
+(ii) The management is making efforts to revive the business of subsidiaries and feels confident that investment made in subsidiaries will 
+be realized. It has therefore not made any provision on account of impairment in value of investment in subsidiaries. 
+  
+(iii) The company has filed a civil suit bearing No. 2446/12.2TVLSB before the 10th Lower Court of Lisbon, Portugal and the same is 
+pending adjudication. The Company has no additional explanation to offer as the matter is sub-judice. 
+  
+(iv) The loans & advances include a sum of Rs. 220 Crores advanced by the Company for establishing a Data Centre at Bareilly. However, 
+the builder Company could not develop the data center. The management of the company has initiated settlement with the builder and 
+expects to recover the amount. Further these loans and advances are made in the normal course of business which are considered to be 
+good for recovery; 
+  
+(v) The Company has, upon dismissal of SLP by the Hon’ble Supreme Court, is in discussion with the Legal Expters w.r.t. the orders \ 
+verdict passed by the Hon'ble Supreme Court in the matter of fees payable to RoC. The company intends to take appropriate action as pe 
+the advice received from the legal experts. 
+  
+  
+  
+(vi) Provision has already been made in the Books of accounts for the amount of Income Tax payable for the AY 2013-14. As such this 
+liability has no further impact on the profits / retained earnings of the reported period of the Company.      
+  
+(vii) The Company has considered sundry debtors of Rs. 1660,09 lacs due for more than six months as good. However in the opinion of 
+auditors there should be regular process of identification and provision for bad and doubtful debts and the same is being considered by 
+the management. 
+  
+(viii) The Company is in the process of filing Curative Petition before the Hon’ble Supreme Court of India. Further the Company is 
+transacting its business through short term borrowings from the Promoters. Penalty, if any, would be paid once the review petition filed by 
+the company has been decided by the Hon'ble Supreme Court. The Penalty of Rs. 25.00 lacs has been provided in books of accounts and 
+Interest on the said penalty amount of Rs. 14.75 lacs is being shown under Contingent Liability. 
+  
+(ix) Due to paucity of funds, the Listing fees to NSE & BSE has not been paid. The Company is arranging funds for its payment. The 
+Company has also made representation with NSE and BSE for certain waivers and their response is awaited 
+  
+(x) As regards non-payment of custodial charges to CDSL & NSDL, the company has raised dispute with regard to the quantum of fees 
+being charged. The Company has filed a writ petition before the Hon'ble Delhi high Court agaist SEBI, the Depositories (CDSL and NSDL) & 
+Stock Exchanges (NSE and BSE) vide diary No. E-6124659/2024 dated 18.12.2024, however the company made a statement in the court 
+w.r.t. withdrawing the said writ petition due to certain technical lacuna. The Court has though allowed the oral submission, however, the 
+court staff inadvertantly adjourned the matter to 09.02.2026. Since the Company had made an oral submissions before the court for 
+withdrawal of the petition, the company filed a fresh Writ Petition vide diary No. E-6783718/2025. The registry has raised certain 
+objection which are being cleared. The Compay is also in the process of filing an application for withdrawal of the earlier writ petition. 
+  
+(xi) (xi, xii & xiii) In respect of default in holding Annual General Meeting, it is submitted that the Depositories have blocked Benpos due to 
+which shareholder data could not be downloaded hence notices of Annual General Meeting could not be sent and consequently Annual 
+Report could not be submitted with the stock Exchanges; Since Benpos data has not been made available the shareholding Pattern for the 
+quarter ended 30/09/2023, 31/12/2023 ,31/03/2024, 30/06/2024,30/09/2024, 31/12/2024 , 31/03/2025 & 30/06/2025 could not be 
+submitted with the Stock Exchanges. Representation has been made with the stock exchanges for waiver of the penalty. In addition, the 
+company has also filed Writ Petition before the Hon'ble Delhi High Court. 
+  
+(xiv) The Company has received Show cause Notice (SCN) bearing no. NSE/LIST/C120241425 dated December 16, 2024 from NSE to Show 
+Cause as to why the shares of the Company be not delisted in terms of regulations contained in Securities and Exchange Board of India 
+(Delisting of Equity Shares) Regulations, 2011. The said SCN was appropriately replied on 6th January 2025 by the Company. Thereafter 
+NSE had published a public notice in Business Standard on 6th February 2025 in compliance with the said delisting regulations .The 
+Company vide its letter dated 21st February 2025 sought an opportunity of personal hearing. The said request was acceded to by NSE and 
+NSE vide its email dated 18th March 2025 requested the company and its promoter to attend the meeting of the De-listing Committee 
+scheduled for 7th April 2025. Due to the wedding of Mr. Peeyush Aggarwal’s daughter during that period, the Company requested a 
+rescheduling of the meeting to a date after April 27, 2025. NSE accepted this request and subsequently scheduled the Delisting Committee 
+meeting for June 26, 2025.Mr. Peeyush Kumar Aggarwal, Promoter Director of the Company, attended the meeting on June 26, 2025. 
+During the meeting, the Delisting Committee requested the Company to submit a detailed representation. The Company submitted its 
+representation to NSE on July 4, 2025. A response from NSE is currently awaited. 
+  
+(xv) The Company has also received Show Cause Notice (SCN) bearing No. LIST/COMP/AS/SCN/223/2025-26 dated June 10, 2025, from BSE 
+Limited, requiring the Company to show cause as to why its equity shares should not be delisted pursuant to the Securities and Exchange 
+Board of India (Delisting of Equity Shares) Regulations, 2011.The Company duly responded to the SCN on 21st June 2025 and sought 
+personal hearing in the matter. BSE Limited provided the Company with an opportunity for a personal hearing before its Delisting 
+Committee and requested a formal representation, including the request for such a hearing. On June 21, 2025, BSE Limited published an 
+Initial Public Notice regarding the proposed delisting of the Company in Financial Express and Navshakti. Subsequently, BSE, vide letter No. 
+LIST/COMP/MR/326/532411/2025-26 dated July 15, 2025, granted a personal hearing before the Delisting Committee, scheduled to be 
+held via video conferencing on August 6, 2025. The Company expresssed its inavailability for the scheduled hearing., due to the 
+unfortunate demise of the mother of Mr. Peeyush Kumar Aggarwal, Promoter Director of the Company, vide email dated July 30, 2025, 
+and requested the Exchange to reschedule the meeting. The Stock Exchange vide email dated 16th October 2025 has reschduled the 
+personal hearing to 10/11/2025 which was attended by Mr. Peeyush Kumar Aggarwal, Director and Principal Promoter of the Company . 
+Prior to the personal Hearing the Company has filed its Written submission vide email dated 04/11/2025. As on the date of Board meeting, 
+it is being informed that in the personal hearing granted to Mr. Peeyush Kumar Aggarwal, the Exchange has advised us to pay the 
+outstanding listing fees by 28th February 2026 and make good the non-compliances by 31st march 2026. There is nothing further to add,. 
+  
+(xvi) Pursuant to the recommendation of the Nomination and Remuneration Committee, the Board of Directors has appointed Mr. Ram 
+Niwas Sharma as the Chief Executive Officer of the Company, effective from 21st May 2025, for a term of five years. Additionally, the 
+Board has appointed Mr. Atul Srivastava as a Non-Executive, Non-Independent Director of the Company, effective from 19th June 2025, 
+based on the Nomination and Remuneration Committee recommendation. As of the date of the financial statements, the composition of 
+the Board of Directors is in compliance with Regulation 17(1) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015. 
+  
+(7) The Board of Directors of the company in its meeting held on 1st June 2020, had decided to provide consultancy and advisory services in 
+the field of Solar Power, including but not limited to setting up of Solar Power Plant, its management, supervision, development & trading 
+of software, control the business of transmission of solar power, manufacturing and/or trading in parts of Solar Power Plants, supplying, 
+generation, distribution and dealing in electricity. , 
+  
+The Audited Financial Results for the FY 2022-23; 2023-24 & 2024-25 are provisional as the Members are yet to adopt the same. The 
+Company has not been able to convene and hold Annual General Meeting for the FY 2022-23 , 2023-24 & 2024-25. For detailed 
+explanation please see note 6 (xi, xii & xiii) above. 
+  
+(9) The Unaudited Financial Results of the Company for the Quarter Ended September 30, 2025, is available on website of the Company i.e., 
+www.mpsinfotec.com and also available on the website of the Bombay Stock Exchange i.e., www.bseindia.com and National Stock 
+  
+Exchange i.e., www.nseindia.com. 
+  
+  
+Place: New Delhi 
+Date: 14/11/2025 
+PS Infotecnics Limited     
+  
+    h Kumar Aggarwal 
+Chairman 
+DIN: 00090423   
+  
+ 
+  
+MPS INFOTECNICS LIMITED 
+CIN: L30007DL1989PLC131190 
+Regd.Office : 703, Arunachal Building, 19, Barakhamba Road, Connaught Place, New Delhi 110 001 
+Statement of Assets & Liabilities for the Half Year Ended September 30, 2025 (Standalone) 
+  
+  
+  
+  
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+        
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      
+  
+(INR In Lacs) 
+As at September 30, As at March 31, 
+2025 2025 
+S.No Particulars 
+Un-Audited Audited 
+(A) ASSETS 
+Non Current Assets 
+(a) Property, Plant & Equipment 4.65 4.66 
+(b) Capital Work-in-Progress - 
+(c) Intangible Assets 599.39 730.18 
+(d) Intangible Assets under development 5,644.40 5,644.40 
+(e) Investment in Subsidiary 6,174.85 6,174.85 
+(f) Financial Assets 
+(i) Investments - - 
+(ii) Other Financial Assets - - 
+(g) Deferred Tax Assets (Net) - - 
+(h) Non-current Assets (Net) - - 
+(i) Other Non-current Assets 22,304.12 22,302.83 
+Total Non-Current Assets 34,727.41 34,856.91 
+Current Assets 
+(a) Inventories 6,222.05 6,222.05 
+(b) Financial Assets 
+(i) Trade Receivables 1,661.24 1,661.53 
+(ii) Cash and Cash equivalents 0.11 0.08 
+(iii) Bank Balances 3,490.80 3,490.80 
+(iv) Loans - - 
+(v) Others - - 
+(c) Current Tax (Net) - - 
+(d) Other Current Assets 106.85 103.43 
+Total Current Assets 11,481.05 11,477.88 
+Total Assets 46,208.46 46,334.79 
+(B) EQUITY AND LIABILITIES 
+Equity 
+(a) Equity share capital 37,744.37 37,744.37 
+(b) Other Capital 3,409.51 3,590.56 
+Total Equity 41,153.88 41,334.93 
+Non Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 242.75 242.75 
+(ii) Other Financial Liabilities = = 
+(b) Provisions - - 
+(c) Deferred tax Liability (Net) 132.63 163.13 
+Total Non-Current Liabilities 375.38 405.87 
+Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 2,939.60 2,904.97 
+(ii) Trade Payables 
+(a) Total outstanding due to micro and small enterprises - 
+(b) Total outstanding dues to creditors other than micro and small 
+enterprises 0.13 0.13 
+(iii) Other Financial Liabilities ; - 
+(b) Other Current Liabilities 1,695.22 1,643.24 
+(c) Provisions 44.24 45.65 
+(d) Current tax Liabilities (Net) - 
+Total Current Liabilities 4,679.20 4,593.99 
+Total Liabilities 46,208.46 46,334.79         
+  
+ 
+  
+    
+  
+es. MPS INFOTECNICS LIMITED 
+a CIN: L30007DL1i989PLC131190 
+  
+Regd.Office : 703, Arunachal Building, 19, Barakhamba Road, Connaught Place, New Delhi 110 001 
+  
+Cash Flow Statement for the Half Year Ended September 30, 2025 (Standalone) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      
+  
+  
+  
+  
+  
+(INR In Lacs) 
+Half Year Ended Year Ended March 
+S.No Particulars september 30, 31, 2025 2025 
+Un-Audited Audited 
+A. CASHFLOW FROM OPERATING ACTIVITIES 
+Net Profit before Tax (212.34) (1,010.56) 
+Adjustments for: 
+Depreciation & Amortization 130.79 261.59 
+Leave Encashment (1.35) 1.31 
+Gratuity 0.74 1.47 
+Interest & Other Costs - - 
+Interest received (0.22) (0.19) 
+(Profit) / Loss on sale of fixed assets - 
+Operating Profits before Working Capital Changes (82.38) (746.39) 
+(Increase) / Decrease in Current Assets (3.13) 0.81 
+Increase / (Decrease) in Current Liabilities 51.99 692.55 
+Net Cash from Operating Activities (A) (33.52) (53.03) 
+B. CASHFLOW FROM INVESTING ACTIVITIES 
+Purchase of Fixed Assets - 
+Sale of Fixed Assets - 
+Change in Capital WIP - 
+Interest Received 0.22 0.19 
+Long Term Loans & Advances (1.29) (2.42) 
+Net cash Out Flow in Investing Activities (B) (1.07) (2.23) 
+Cc. CASH FLOW FROM FINANCING ACTIVITIES 
+Issue of Equity Shares - - 
+Share Application Money Received - 
+Increase / (Decrease) in Long Term Borrowings - - 
+Increase / ( Decrease) in Short Term Borrowings 34.63 53.63 
+Prior Period Items - - 
+Interest Paid - - 
+Net Cash inflow from Financing Activities (C) 34.63 53.63 
+Net Increase (Decrese) in Cash & Cash Equivalents (A+B+C) 0.04 (1.63) 
+Cash and Cash Equivalent as at beginning of the period 3,490.88 3,492.51 
+Cash and Cash Equivalent as at end of the period 3,490.92 3,490.88 
+Notes: 
+1|]Comparative figures have been regrouped wherever necessary 
+2|The cash flow statement has been prepared under the :Indirect Method" as set out in Indian AS - 7 on Cash 
+Flow Statement notified by the Companies (Accounting Standard) Rules, 2006 
+3|These earmarked account balances with Banks can be utilized only for the specific identified purposes. 
+4|Bank Balances as shown in cash and cash equivalents amounting to Rs. 34,78,92,163/- is with Banco Efisa, a 
+Bank in Portugal is not available for use, because the bank has wrongly debited the account by the said 
+amount, the Company has filed a civil suit against the bank and its holding Company in Portuguese Courts and 
+the same is pending adjudication. 
+    
+  
+ 
+Il. 
+  
+INDI 
+(a) 
+(b) 
+(c) 
+NEMANI GARG AGARWAL & Co. 
+CHARTERED ACCOUNTANTS 
+A 1517, DEVIKA TOWER, 6, NEHRU PLACE, NEW DELHI- 110 019. 
+Camp Office: Ch. No.5, Kamadgiri Aptt., Kaushambi, Ghaziabad-201010 
+Br. Office: B-602, Silver Sands CHS, Piramal Nagar Goregaon (West), Mumbai — 400104 
+Independent Auditors Limited Review Report on Unaudited Standalone Financial Results of the 
+company for the Quarter and half vear ended September 30, 2025 (Pursuant to the Regulation 33 of 
+the SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015 as amended. 
+The Board of Directors, 
+MPS Infotecnics Limited 
+We have reviewed the accompanying statement of Unaudited Standalone Financial Results of M/s MPS 
+Infotecnics Limited for the Quarter and half year Ended September 30, 2025 ("the Statement"), being 
+submitted by the Company pursuant to the requirement of Regulation 33 of the SEBI (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015, as amended. 
+This statement which is the responsibility of the Company’s Management and has been approved by the 
+Board of Directors has been prepared in accordance with the recognition and measurement principles laid 
+down in the Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"), prescribed under 
+Section 133 of the Companies Act, 2013 read with relevant rules issued thereunder and other accounting 
+principles generally accepted in India. Our responsibility is to issue a report on these financial statements 
+based on our review. 
+We have conducted our review in accordance with the Standard on Review Engagement (SRE) 2410, 
+Engagements to “Review of Interim Financial Information performed by Independent Auditor of the 
+entities”, issued by the Institute of Chartered Accountants of India. This standard requires that we plan and 
+perform the review to obtain moderate assurance as to whether the financial statements are free of material 
+misstatement. A review is limited primarily to inquiries of company personnel and an analytical procedure 
+applied to financial data and thus provides less assurance than an audit. We have not performed an audit 
+and accordingly, we do not express an audit opinion. 
+Basis of Qualified Conclusion 
+As per observations made in Audit Report of F.Y. 2024-25 as updated for Observations made for the half 
+year Ended September 30, 2025. 
+In the case of the following items shown as intangible Assets/inventory, no provision for impairment of 
+assets has been made in accordance with accounting policies and applying IndAS 36 — 
+Intangible Assets under development (Capital work-in-progress) - Rs. 56.44 Crores (Software development) ' 
+Software rights - Rs. 5.99 crores 
+Opening Stock (Source Codes) - Rs. 62.22 Crores 
+In the absence of valuation reports of the above assets, the extent of impairment and its impact on profit and 
+loss account, reserves, and surplus is not ascertained. 
+Investment in subsidiaries Rs. 61.75 Crores - There are no operations in these overseas subsidiaries and no 
+audit of accounts has been done and no updated information has been received. No provision has been made 
+for the shortfall in value of the investment in accordance with Ind AS 36; 
+Tel.-0120-4374727 Mob.-9811026144 (SKN), 9223230576 (SNR), 
+9810842989 (JMK), 9810893480 (DCK) 
+Email ID: nemani61@gmail.com, ngacodelhi@gmail.com 
+Web Site. : sknemani.com 
+ 
+ll. 
+Vi. 
+VI. 
+VI. 
+The Company has shown in the balance sheet, bank balances in Banco Efisa (Lisbon Portugal) amounting to 
+Rs. 347,892,163 (USD 8,883,210.75) which the bank has adjusted and the matter is in the court of law. 
+Consequently the bank balances shown in balance sheet are overstated by Rs. 347,892,163/- The above 
+bank balance relates to FY 2008-09 which is treated as a current asset. No provision has been made for the 
+possible loss on account of the same. 
+Other non-current assets include other loans and advances of Rs. 222.09 Cr. which are considered to be good 
+for recovery. However as the terms and conditions regarding these loans have not been provided to us we 
+are unable to ascertain and comment on the extent of realizability of this asset; 
+The Company had increased its Authorized Capital from Rs. 52.45 Crores to Rs. 377.50 crores during the 
+period from FY-2010 -11 to FY 2012-13. However necessary form i.e. Form SH-7 (Earlier Form-2) could not 
+be filed and appropriate fees could not be paid. By the time the Company could file Form SH-7, the 
+Companies Act, 1956 was replaced by The Companies Act, 2013 and accordingly the Companies 
+(Registration office and fees) Rules, 2014 came into effect from 1st April 2014. According to these rules, the 
+fees payable on increase in Authorised Capital increased many fold. Though the company had increased the 
+Authorised capital during the FY 2010-11 to 2012-13, but the company was asked by the authorities to pay 
+the fees in terms of the provisions of Companies Act, 2013 and not under the Companies Act, 1956. 
+Representations were made with the Ministry of Corporate Affairs, but did not bore any fruit hence The 
+Company filed writ petition before the Hon’ble Delhi High Court which was dismissed vide order dated 
+15/01/2019, Aggrieved by the orders passed by the Hon’ble Delhi High Court, the company had preferred 
+Special Leave Petition (SLP) before the Hon’ble Supreme Court of India. The Hon’ble Supreme Court vide its 
+order dated 7th November 2023 has dismissed the said SLP. Upon dismissal of the said SLP, the ROC fees in 
+terms of provisions of Companies Act, 2013 has become due and payable. The company has already 
+provided for The normal Fees of Rs. 16,252,500.00 and additional fees of Rs. 61,862,728.36 as on 31st 
+March 2024 as per the provisions of Companies Act, 1956. In terms of the provisions of the Companies 
+(Registration Office and Fees) Rules, 2014, the normal fees and Additional fees computed is Rs. 
+24,378,750.00 and Rs. 121,160,106.80 respectively. As on 31st March 2025 provision amounting to Rs. 
+81,26,250/- and Rs. 5,92,97,378/- towards normal fees and Additional Fees i.e. the difference between the 
+fees computed as per the Companies Act, 1956 and fees computed as per Companies Act, 2013 has been 
+made. Out of the additional fees amounting to Rs. 5,92,97,378/-, Rs. 8,776,350.00 relate to the financial year 
+2024-25 and Rs. 50,521,028.45 relates to previous financial years. For the half year ended 30.09.2025, a 
+provision of Rs. 44,00,197/- computed as per Companies Act 2013, has been made towards additional fees 
+for the half year ended 30.09.2025 and total fees (Normal and additional) amounting to Rs. 14,99,39,054/- 
+appearing under the head “Current Liabilities. There is no further impact on the financial statements of the 
+Company 
+Income Tax for the Assessment year 2013-14 amounting to Rs. 20.80 lacs and interest thereon is still 
+payable although principal liability has been provided in the books of Accounts. 
+The Company has considered sundry debtors of Rs. 1,660.09 Lacs due for more than six months as good. 
+However in the opinion of auditors there should be a regular process of identification and making provision 
+for bad and doubtful debts. Such a process has not been followed. We therefore are unable to comment on 
+the extent of un-provided bad and doubtful debts and their impact on loss and reserves. 
+SEBI investigated the GDR issue of the Company and SEBI vide its order dated 6th March 2020 restrained 
+the company from accessing the securities market and further prohibited from buying, selling or dealing in 
+securities, directly or indirectly, in any manner whatsoever or being associated with the securities market in 
+any manner whatsoever, till compliance with directions contained in the said order, and for an additional 
+period of 2 years from the date of bringing back the money. Further SEBI vide its order dated 27.11.2020 
+had imposed a penalty of Rs. 10,00,00,000/- (Rupees Ten Crores) on the Company. Since the penalty has not 
+been paid, SEBI has also frozen the Bank Accounts of the Company. Against the said orders of SEBI the 
+Company filed appeals before the Hon'ble Securities Appellate Tribunal (SAT). SAT vides tder~dated 
+27/09/2023 has reduced the penalty from Rs. 10,00,00,000/- to Rs. 25,00,000/-. The review | led-agai 
+1, oa 
+    
+     
+= 
+2 of 
+“S 0 
+ 
+IX. 
+XI. 
+XIL. 
+XH. 
+XIV. 
+the said order of SAT was dismissed vide order dated 8th December 2023. Aggrieved by the said order the 
+Company had filed Special Leave Petition before the Hon’ble Supreme Court of India. The Hon’ble Apex Court 
+vide its order dated 16th April 2024 dismissed the said Appeal. The Review Petition filed before the Hon’ble 
+Apex Court was also dismissed vide order dated 26th September 2024. The company has not paid the 
+penalty amount of Rs. 25.00 lacs, as of the date of this Audit Report, but necessary provision w.r.t. to the 
+penalty of Rs. 25 lacs has been made in the books which appear under the head “Current Liabilities”, 
+however, provision w.r.t. interest @ 12% p.a. from November 2020 to September 2025 aggregating to Rs. 
+14.75 lacs (Out of which Rs. 1.50 lac relates to Half Year ended 30.09.2025) has not been provided in the 
+Books. To the extent of Rs.14.75 lacs the losses are under stated. 
+Listing fees for FY 2022-23, 2023-24, 2024-25 and 2025-26 to NSE and BSE amounting to Rs. 28.08 lacs & 
+Rs. 24.02 lacs respectively is due and outstanding. Since the Listing Fees has not been paid the demat 
+accounts of promoters have been frozen by the Exchanges in terms of the provisions of Chapter VII, Section 
+VII(A) of the SEBI Master Circular No. SEBI/HO/CFD/PoD2/ CIR/P/2023/120 dated July 11, 2023 
+(Erstwhile SEBI Circular No. SEBI/HO/CFD/CMD/CIR/P/2020/12 dated January 22, 2020). In terms of the 
+invoices raised by the exchange, the delay in payment of Annual Listing Fees attracts interest @ 18% p.a. by 
+NSE and 12% p.a. by BSE. Provision for interest on the outstanding Annual Listing Fees amounting to Rs. 
+9.71 Lacs and Rs. 4.95 Lacs to NSE and BSE respectively has not been made. 
+Custodial Charges to CDSL & NSDL for FY 2023-24 and 2024-25 amounting to Rs. 124.99 lacs & Rs. 17.49 
+lacs respectively is outstanding due to which the depositories have blocked Benpos data. The Company has 
+raised disputes with the Depositories and has made representations with the Depositories & SEBI. Further, 
+the delay in payment of Annual Custodial Charges to the depositories attracts interest @ 12% p.a. Since the 
+company has disputed the charges being charged by the Depositories hence no provision towards Annual 
+Custodial Charges has been made in the books of account w.r.t. Custodial charges payable to CDSL & NSDL 
+hence losses of the company to the extent of Rs. 142.48 lacs (being Annual Custodial Charges for FY 2023-24 
+& 2024-25) are under stated. However, company has disclosed the said liability under the head “Contingent 
+Liability” in the Financial Statements. Further custodial charges for the FY 2025-26( Amount not 
+ascertainable) due to CDSL and NSDL have also not been provided in the books of accounts. 
+Consequently Annual General Meeting of the Company which was scheduled to be held on or before 30th 
+December 2023 (the extended time) for FY 2022-23 and on or before 30th September 2024 for FY 2023-24 
+had not been convened which is in contravention of the provisions of sections 96, 97 & 98 of the Companies 
+Act, 2013 which is punishable under section 99 of the Companies Act, 2013. Consequently, the Audited 
+financial statements of the Company for the FY 2022-23 and 2023-24 are not adopted by Shareholders of the 
+Company till the date of the Limited Review Report for the half year ended 30.09.2025. 
+Consequently Shareholding Pattern for the quarter ended 30/09/2023; 31/12/2023 ,31/03/2024, 
+30/06/2024, 30/09/2024, 31/12/2024 & 31/03/2025, pursuant to the provisions of Regulation 31(1)(b) of 
+SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015 has not been filed which has led to 
+imposition of fine/penalty by the Stock Exchanges where the shares of the Company are listed, in terms with 
+the provisions contained in CEBI Circulat bearing no. SEBI/HO/CFD/CMD/CIR/P/2020/12 dated January 
+22, 2020. As on the date of preparing this report, the Shareholding Pattern for the quarter ended 30th June, 
+2025 and 30 th September 2025 have also not been filed. 
+The company has not submitted an Annual Report to the Stock Exchanges pursuant to the provisions of 
+Regulation 34 of SEBI (Listing Obligations & Disclosure Requirements) regulation 2015, consequently the 
+Stock Exchange has imposed a fine of Rs. 2,64,320/- (including GST @ 18%) each upto 31.03.2024 pursuant 
+to the provisions of Chapter VII, Section VIJ(A) of the SEBI Master Circular No. SEBI/HO/CFD/PoD2/ 
+CIR/P/2023/120 dated July 11, 2023 (Erstwhile SEBI Circular No. SEBI/HO/CFD/CMD/CIR/P/2020/12 
+dated January 22, 2020) has not been provided in the Books of Accounts. 
+The Company has received Show cause Notice (SCN) bearing no. NSE/LIST/C120241425 dated December 
+16, 2024 from NSE to Show Cause as to why the shares of the Company be not delisted in terms of 
+regulations contained in Securities and Exchange Board of India (Delisting of Equity Shares) Regulations, 
+2011. The said SCN was appropriately replied on 6th January 2025 by the Company. Therea NSE had 
+   
+XV. 
+XVI. 
+published a public notice in Business Standard on 6th February 2025 in compliance with the said delisting 
+regulations though without informing the Company. The Company took note of the same and the company 
+vide its letter dated 21st February 2025 sought an opportunity of personal hearing. The said request was 
+acceded to by NSE and NSE vide its email dated 18th March 2025 requested the company and its promoter 
+to attend the meeting of the De-listing Committee scheduled for 7th April 2025. Due to the wedding of Mr. 
+Peeyush Aggarwal’s daughter during that period, the Company requested a rescheduling of the meeting to a 
+date after April 27, 2025. NSE accepted this request and subsequently scheduled the Delisting Committee 
+meeting for June 26, 2025.Mr. Peeyush Kumar Aggarwal, Promoter Director of the Company, attended the 
+meeting on June 26, 2025. During the meeting, the Delisting Committee requested the Company to submit a 
+detailed representation. The Company submitted its representation to NSE on July 4, 2025. A response from 
+NSE is currently awaited. 
+The Company received a Show Cause Notice (SCN) bearing No. LIST/COMP/AS/SCN/223/2025-26 dated 
+June 10, 2025, from BSE Limited, requiring the Company to show cause as to why its equity shares should 
+not be delisted pursuant to the Securities and Exchange Board of India (Delisting of Equity Shares) 
+Regulations, 2011.The Company duly responded to the SCN on 21.06.2025. BSE Limited provided the 
+Company with an opportunity for a personal hearing before its Delisting Committee and requested a formal 
+representation, including the request for such a hearing. On June 21, 2025, BSE Limited published an Initial 
+Public Notice regarding the proposed delisting of the Company in Financial Express and Navshakti. 
+Subsequently, BSE, vide letter No. LIST/COMP/MR/326/532411/2025-26 dated July 15, 2025, granted a 
+personal hearing before the Delisting Committee, scheduled to be held via video conferencing on August 6, 
+2025, between 9:30 AM and 11:30 AM. The Exchange also requested submission of a detailed representation 
+prior to the hearing. The Company confirmed its availability for the scheduled hearing. However, due to the 
+unfortunate demise of the mother of Mr. Peeyush Kumar Aggarwal, Promoter Director of the Company, a 
+request was made on July 30, 2025, to reschedule the meeting. The Stock Exchange vide email dated 16th 
+October 2025 has reschduled the personal hearing to 10/11/2025 which was attended by Mr. Peeyush 
+Kumar Aggarwal, Director and Principal Promoter of the Company . Prior to the personal Hearing the 
+Company has filed its Written submission vide email dated 04/11/2025. As on the date of Board meeting, it 
+is being informed that in the personal hearing granted to Mr. Peeyush Kumar Aggarwal, the Exchange has 
+advised us to pay the outstanding listing fees by 28th February 2026 and make good the non-compliances by 
+31st march 2026. There is nothing further to add, 
+Mr. Peeyush Kumar Aggarwal, was managing Director of the Company till 9th August 2024 on which date he 
+resigned from his post. The Company since then has not appointed Managing Director or CEO. The non- 
+appointment of Managing Director or CEO attracts penalty on the company and the Directors and KMPs in 
+terms of the provisions of section 203 of the Companies Act, 2013. Additionally, the current composition of 
+the Board of Directors does not comply with Regulation 17(1) of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015. As the Company is classified among the top 2000 listed entities 
+by market capitalization for the financial year 2023-24, it is required to maintain an appropriate board 
+structure in accordance with the said regulation i.e., minimum six members on the Board. The company has 
+since appointed Mr. Ram Niwas Sharma as CEO w.e.f. May 21, 2025 
+Qualified Conclusion 
+Based on our review conducted as above, except for the matters described in the Basis for Qualified 
+Conclusion above ,nothing has come to our attention that causes us to believe that the accompanying 
+statement of unaudited Standalone financial results prepared in accordance with applicable Indian 
+Accounting Standards (Ind AS) under Section 133 of the Companies Act 2013 read the relevant rules issued 
+there under and other recognized accounting practices and policies has not disclosed the information 
+required to be disclosed in terms of Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 including the manner in which it is to be disclosed, or that it contains any 
+material misstatement. a 
+ 
+Emphasis of Matters 
+We draw attention to: Balances of trade receivables, trade payables, other loans and advances, 
+advance to suppliers, bank balances and liabilities, are subject to confirmation 
+Our Conclusion is not modified in respect of the above stated matters. 
+For M/s. Nemani Garg Agarwal & Co., 
+Chartered Accountants 
+FRN: 010192N 
+tog 
+(J.-M. Khandelwal) 
+Partner 
+M. No. 074267 
+UDIN: 25074267BMOYBG5438 
+   
+Place : New Delhi 
+Date: 14.11.2025
+MPS INFOTECNICS LIMITED 
+CIN: L30007DL1989PLC131190 
+Regd.Office : 703, Arunachal Building 5 19, Barakhamba Road, Connaught Place, New Delhi 110 001 
+Unaudited Consolidated Financial Results for the Quarter and Half Year Ended 30th September, 2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+              
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+              
+  
+  
+Rs. In Lacs 
+Quarter Ended Half Year Ended Year Ended 
+30-Sep-25 | 30-Jun-25 30-Sep-24 30-Sep-24 30-Sep-25 31-Mar-25 
+S.No Particulars Un-audited | Un-audited | Un-audited Un-audited Un-audited Audited 
+1 | Income 
+(a)Revenue from operations 9.72 10.24 13.01 24.81 19.96 43.42 
+(b)Other income 0.99 O11 0.13 0.13 1.10 0.69 
+2 | Total Revenue (a+b) 10.71 10.35 13.14 24.94 21.06 44.10 
+3 | Expenses: 
+(a)Cost of materials consumed - - - - 
+(b)Purchases of Stock-in-Trade 11.49 11.78 9.34 19.97 23.27 35.19 
+(c)Changes in inventories of finished goods work-in-progress - - - - - 
+(d)Employee benefits expense 7,20 744 6.39 12.77 14.64 25:52, 
+(e) Finance costs - - - “ - 
+(f)Depreciation and amortization expense 65.39 65.40 65.39 130.79 130.79 261.59 
+(g) Other expenses 30.07 34.63 24.94 50.71 64.70 732.37 
+4 | Total expenses 114.15 119.25 106.06 214.24 233.40 1,054.66 
+5 | Profit before exceptional and extraordinary items and tax 
+(2-4) (103.44) (108.90) (92.92) (189.30) (212.34) (1,010.56) 
+6 | Exceptional items - - : 7 - 
+7 | Profit before extraordinary items and tax (5-6) (103.44) (108.90) (92.92) (189.30) (212.34) (1,010.56) 
+8 | Extraordinary items _ . _ . . . 
+9 | Profit before tax (7-8) (103.44) (108.90) (92.92) (189.30) (212.34) (1,010.56) 
+10 | Tax expense: 
+(1) Current tax = = ~ m . 
+(2) Deferred tax (15.35) (15.35) (14.44) (28.88) (30.70) (58.22) 
+11 | Total Tax Expense (15.35) (15.35) (14.44) (28.88) (30.70) (58.22) 
+12 
+Profit (Loss) for the period from continuing operations (9-10) (88.09) (93.55) (78.48) (160.42) (181.64) (952,34) 
+13 | Profit/(loss) from discontinuing operations - - - - 
+14 | Tax expense of discontinuing operations - - - - 
+15 | Profit/(loss) from Discontinuing operations (after tax) - - - - - - 
+16 | Profit (Loss) for the period (12+15) (88,09) (93.55) (78.48) (160.42) (181.64) (952.34) 
+17 | Other Comprehensive Income 
+(A) (i) Items that will not be reclassified to profit or loss 0.40 0.40 0.44 0.89 0.80 1.59 
+Less; (ii) Income Tax relating to items that will not be 0.11 0.10 O11 0.23 0.21 0.41 
+reclassified to profit or loss 
+(B) (i) Items that will be reclassified to profit or loss - - - 7 - 
+Less: (ii) Income Tax relating to items that will be reclassified - - - - 
+to profit or loss 
+18 | Other Comprehensive Income/(Loss) for the year, net of 0.29 0.30 0.33 0.66 0.59 1.18 
+tax 
+19 | Total Comprehensive Income/(Loss) for the year, net of (87.80) (93.25) (78.15) (159.76) (181.05) (951.16) 
+tax (16+17) 
+20 | Paid up Equity Shares(Face Value of Rs.1/- each) 37,744.37 37,744.37 37,744.37 37,744.37 37,744.37 37,744.37 
+21 | Other Equity 4,433.10 
+22 | Earnings per equity share: 
+(1) Basic (0.002) (0.002) (0.002) (0.004) (0.005) (0.025) 
+(2) Diluted (0.002) (0.002) (0.002) (0.004) (0.005) (0.025) 
+NOTES: 
+(1) |The above results were reviewed by the audit committee and thereafter taken on record by the Board of Directors at its meeting held on November 14, 2025., 
+Statutory auditors have carried out limited review of the result for the quarter and half year ended September 30, 2025. 
+(2) |Financial results for the period has been prepared in accordance with the recognition and measurement principles of IND AS notified under the Companies 
+(Indian Accounting Standards) Rules, 2015 as amended from time to time. 
+(3) |The figures of the previous periods have been re-cast / re-grouped / re-arranged wherever necessary in confirmity with the requirements of the revised 
+Schedule III of the Companies Act, 2013. 
+(4) Pursuant to the provisions of the Listing Regulations, 2015, the management has decided to publish Consolidated Unaudited Financial Results for the Quarter 
+Ended September 30, 2025 in the newpapers, however the full Standalone Unaudited Financial Results will be made available on the Company's website at 
+www.mpsinfotec.com & on the website of NSE and BSE, Standalone Unaudited Financial Results are as under: 
+Quarter Ended Half Year Ended Year Ended 
+Particulars 30-Sep-25 | 30-Jun-25 30-Sep-2024 | 30-Sep-2024 | 30-Sep-25 31-Mar-25 
+Un-audited | Un-audited | Un-audited Un-audited Un-audited Audited 
+Total Income* 10.71 10.35 13.14 24.94 21.06 44,10 
+Profit before Tax (103.44) (108.90) (92.92) (189.30) (212.34) (1,010.56) 
+Profit after Tax ae (88.09) (93.55) (78.48) (160.42) (181.64) (952.34) 
+* Includes Revenue from operations &ath de hackle \ 
+G) 
+    
+” 
+a % Ne 
+* 
+During the Quarter under review Sn ted in only one segmenti.e., IT enabled services, hence segment wise results are not being provided. 
+S/Q\_ ie My =  
+  
+  
+  
+(6) |There is no operations in the subsidiaries of the Company hence the members, at the Annual General Meeting held on 30th September, 2022, and in previous 
+years had given their consent to sell this investments made by the Company in these subsidiries. The management of the Company is in process to identifying 
+suitable buyer, however at the same time the Company is also making efforts to revive the business of these subsidiaries. The revival of these subsidiaries are 
+possible once the Company has released funds from other assets. 
+The Statutory Auditors in their Audit Report on the Audited Accounts of the Company for the Financial Year ended March 31, 2025 had opinion that (figures as 
+updated for September, 2025 quarter) : 
+(7) }(I) In case of the following items shown as intangible Assets / inventory, no provision for impairment of assets has been made in accordance Ind AS 36- 
+  
+  
+(a) Intangible Assets under development-Rs 56.44 Crores (Software Development); 
+  
+(b) Software rights-Rs. 5.99 crores;   
+(c ) Opening Stock (source code) Rs. 62.22 crores;   
+In the absence of valuation reports of above assets, the extent of impairment and its impact on profit and loss account reserves and surplus is not ascertained. 
+  
+(II) Assets of subsdiaries Rs. 18.60 crores, total revenue of Rs. Nil and net cash flow outflows / inflows of Rs. Nil - no audit of the subsidiaries has been done 
+either by us or local audit firm have been audited. Such unaudited financial statement and information furnished to us by the management. Our opinion on the 
+consolidated financial statement, in so far as it relates to the amount and disclosure included in respect of these subsidiaries and our report in terms of sub 
+section 3 & 11 of section 143 of the Companies Act, in so far as it relates to the aforesaid subsidiaries is based solely on such unaudited financial information. 
+  
+(III) Goodwill amounting to Rs, 61.69 crores - There are no operations in the overseas subsidiaries and no audit of accounts have been done and no updated 
+information has been received. No provision has been made for the shortfall in the value of goodwill in accordance with Ind AS has been made.   
+(IV) The Company has shown in the balance sheet, bank balances in Banco Efisa (Lisbon Portugal) amounting to Rs. 347,892,163 (USD 8,883,210.75) which the 
+bank has adjusted and the matter is in the court of law. Consequently the bank balances shown in balance sheet are overstated by Rs. 347,892,163/- (historical 
+figures). The above bank balance relates to FY 2008-09 which is treated as a current asset. No provision has been made for the possible loss on account of the 
+same.   
+(V) Other non-current assets include other loans and advances of Rs. 222.21 Cr. which are considered to be good for recovery. However as the terms and 
+conditions regarding these loans have not been provided to us we are unable to ascertain and comment on the extent of realisability of this asset; 
+  
+(VI) The Company had increased its Authorized Capital from Rs. 52.45 Crores to Rs. 377.50 crores during the period from FY-2010 -11 to FY 2012-13. However 
+necessary form ie. Form SH-7 (Earlier Form-2) could not be filed and appropriate fees could not be paid. By the time the Company could file Form SH-7, the 
+Companies Act, 1956 was replaced by The Companies Act, 2013 and accordingly the Companies (Registration office and fees) Rules, 2014 came into effect from 
+1st April 2014. According to these rules, the fees payable on increase in Authorised Capital increased many fold. Though the company had increased the 
+Authorised capital during the FY 2010-11 to 2012-13, but the company was asked by the authorities to pay the fees in terms of the provisions of Companies Act, 
+2013 and not under the Companies Act, 1956, Representations were made with the Ministry of Corporate Affairs, but did not bore any fruit hence The Company 
+filed writ petition before the Hon’ble Delhi High Court which was dismissed vide order dated 15/01/2019, Aggrieved by the orders passed by the Hon’ble Delhi 
+High Court, the company had preferred Special Leave Petition (SLP) before the Hon’ble Supreme Court of India. The Hon’ble Supreme Court vide its order dated 
+7th November 2023 has dismissed the said SLP, Upon dismissal of the said SLP, the ROC fees in terms of provisions of Companies Act, 2013 has become due and 
+payable. The company has already provided for The normal Fees of Rs. 16,252,500.00 and additional fees of Rs. 61,862,728.36 as on 31st March 2024 as per the 
+provisions of Companies Act, 1956. In terms of the provisions of the Companies (Registration Office and Fees) Rules, 2014, the normal fees and Additional fees 
+computed is Rs. 24,378,750.00 and Rs. 121,160,106.80 respectively. As on 31st March 2025 provision amounting to Rs. 81,26,250/- and Rs. 5,92,97,378/- 
+towards normal fees and Additional Fees i.e. the difference between the fees computed as per the Companies Act, 1956 and fees computed as per Companies 
+Act, 2013 has been made. Out of the additional fees amounting to Rs. 5,92,97,378/-, Rs. 8,776,350.00 relate to the financial year 2024-25 and Rs. 50,521,028.45 
+relates to previous financial years. For the half year ended 30.09.2025, a provision of Rs. 44,00,197/- computed as per Companies Act 2013, has been made 
+towards additional fees for the half year ended 30.09.2025 and total fees (Normal and additional) amounting to Rs. 14,99,39,054/- appearing under the head 
+“Current Liabilities. There is no further impact on the financial statements of the Company   
+(VII) Income Tax for the Assessment year 2013-14 amounting to Rs. 20.80 lacs and interest thereon is still payable although Principal demand provided for in 
+the books of accounts by the Company. 
+  
+(VIII) The Company has considered sundry debtors of Rs. 3484.18 Lacs due for more than six months as good. However in the opinion of auditors there should 
+be a regular proess of identification and making provision for bad and doubtful debts. Such a process has not been followed. The auditors are unable to comment 
+on the extent of un-provided bad and doubtful debts and their impact on loss and reserves. 
+  
+(IX)SEBI investigated the GDR issue of the Company and SEBI vide its order dated 6th March 2020 restrained the company from accessing the securities market 
+and further prohibited from buying, selling or dealing in securities, directly or indirectly, in any manner whatsoever or being associated with the securities 
+market in any manner whatsoever, till compliance with directions contained in the said order, and for an additional period of 2 years from the date of bringing 
+back the money. Further SEBI vide its order dated 27.11.2020 had imposed a penalty of Rs. 10,00,00,000/- (Rupees Ten Crores) on the Company. Since the 
+penalty has not been paid, SEBI has also frozen the Bank Accounts of the Company. Against the said orders of SEBI the Company filed appeals before the Hon'ble 
+Securities Appellate Tribunal (SAT). SAT vide order dated 27/09/2023 has reduced the penalty from Rs. 10,00,00,000/- to Rs. 25,00,000/-. The review filed 
+against the said order of SAT was dismissed vide order dated 8th December 2023. Aggrieved by the said order the Company had filed Special Leave Petition 
+before the Hon’ble Supreme Court of India. The Hon'ble Apex Court vide its order dated 16th April 2024 dismissed the said Appeal. The Review Petition filed 
+before the Hon’ble Apex Court was also dismissed vide order dated 26th September 2024. The company has not paid the penalty amount of Rs. 25.00 lacs, as of| 
+the date of this Audit Report, but necessary provision w.r.t. to the penalty of Rs. 25 lacs has been made in the books which appear under the head “Current 
+Liabilities”, however, provision w.r.t. interest @ 12% p.a. from November 2020 to September 2025 aggregating to Rs. 14.75 lacs has not been provided in the 
+Books. To the extent of Rs.14.75 lacs (for the current Financial Year from April 2025 to September 2025) the losses are under stated.   
+  
+(X) Listing fees for FY 2022-23; 2023-24, 2024-25 & for the current financial year i.e. 2025-26 to NSE and BSE amounting to Rs. 28.08 lacs & Rs, 24.02 lacs 
+respectively is due and outstanding. Since the Listing Fees has not been paid the demat accounts of promoters have been frozen by the Exchanges in terms of the 
+provisions of Chapter VII, Section VII(A) of the SEBI Master Circular No. SEBI/HO/CFD/PoD2/ CIR/P/2023/120 dated July 11, 2023 (Erstwhile SEBI Circular No. 
+SEBI/HO/CFD/CMD/CIR/P/2020/12 dated January 22, 2020). Further the delay in payment of Annual Listing Fees attracts interest @ 18% p.a. by NSE and 
+12% p.a. by BSE. Provision for interest on the outstanding Annual Listing Fees amounting to Rs. 9.71 Lacs and Rs. 4.95 Lacs to NSE and BSE respectively has not 
+been made.     
+ 
+  
+(XI) Custodial Charges to CDSL & NSDL for FY 2023-24 and 2024-25 amounting to Rs, 124.99 lacs & Rs. 17.49 lacs respectively is outstanding due to which the 
+depositories have blocked Benpos data. The Company has raised disputes with the Depositories and has made representations with the Depositories & SEBI. 
+Further, the delay in payment of Annual Custodial Charges to the depositories attracts interest @ 12% p.a. Since the company has disputed the charges being 
+charged by the Depositories hence no provision towards Annual Custodial Charges has been made in the books of account w.r.t. Custodial charges payable to 
+CDSL & NSDL hence losses of the company to the extent of Rs. 142.48 lacs (being Annual Custodial Charges for FY 2023-24 & 2024-25) are under stated. 
+However, company has disclosed the said liability under the head “Contingent Liability” in the Financial Statements.Custodial charges due to CDSL and NSDL for 
+the finacial year 2025-26 has also not been provided in the books of accounts. 
+  
+(XII) Since disputes has not been resolved, the Company in protest has not paid the Annual Custodial Charges to the Depositories due to whcih the Depositories 
+have blocked the Benpos. Since the RTA could not download the latest shareholders position, the Notice convening Annual General Meeting of the Company 
+could not be sent, consequently the Annual general meeting which was scheduled to be held on or before 30th December 2023 (the extended time) for FY 2022- 
+23; on or before 30th September 2024 for FY 2023-24; and on or before 30th September 2025 has not been convened. Non-convening of AGM is in 
+contravention of the provisions of sections 96, 97 & 98 of the Companies Act, 2013 which is punishable under section 99 of the Companies Act, 2013. 
+Consequently, the Audited financial statements of the Company for the FY 2022-23 2023-24 and 2024-25 are not adopted by Shareholders of the Company till 
+the date of the limited review report for the half year ended 30.09.2025. 
+  
+(XIII) Consequently Shareholding Pattern for the quarter ended 30/09/2023; 31/12/2023 31/03/2024, 30/06/2024, 30/09/2024, 31/12/2024 & 
+31/03/2025, and 30/06/2025 pursuant to the provisions of Regulation 31(1)(b) of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015 
+has not been filed which has led to imposition of fine/penalty by the Stock Exchanges where the shares of the Company are listed, in terms with the provisions 
+contained in SEBI Circulat bearing no. SEBI/HO/CFD/CMD/CIR/P/2020/12 dated January 22, 2020. As on the date of preparing this report, the Shareholding 
+Pattern for the quarter ended 30th September 2025 has also not been filed. 
+  
+(XIV) The company has not submitted an Annual Report to the Stock Exchanges pursuant to the provisions of Regulation 34 of SEBI (Listing Obligations & 
+Disclosure Requirements) regulation 2015, consequently the Stock Exchange has imposed a fine of Rs. 2,64,320/- (including GST @ 18%) each upto 31.03.2024 
+pursuant to the provisions of Chapter VII, Section VII(A) of the SEBI Master Circular No. SEBI/HO/CFD/PoD2/ CIR/P/2023/120 dated July 11, 2023 (Erstwhile 
+SEBI Circular No, SEBI/HO/CFD/CMD/CIR/P/2020/12 dated January 22, 2020) has not been provided in the Books of Accounts, 
+  
+(XV)The Company has received Show cause Notice (SCN) bearing no, NSE/LIST/C120241425 dated December 16, 2024 from NSE to Show Cause as to why the 
+shares of the Company be not delisted in terms of regulations contained in Securities and Exchange Board of India (Delisting of Equity Shares) Regulations, 
+2011. The said SCN was appropriately replied on 6th January 2025 by the Company. Thereafter NSE had published a public notice in Business Standard on 6th 
+February 2025 in compliance with the said delisting regulations though without informing the Company. The Company took note of the same and the company 
+vide its letter dated 21st February 2025 sought an opportunity of personal hearing. The said request was acceded to by NSE and NSE vide its email dated 18th 
+March 2025 requested the company and its promoter to attend the meeting of the De-listing Committee scheduled for 7th April 2025. Due to the wedding of Mr. 
+Peeyush Aggarwal’s daughter during that period, the Company requested a rescheduling of the meeting to a date after April 27, 2025. NSE accepted this request 
+and subsequently scheduled the Delisting Committee meeting for June 26, 2025. Mr. Peeyush Kumar Aggarwal, Promoter Director of the Company, attended the 
+meeting on June 26, 2025. During the meeting, the Delisting Committee requested the Company to submit a detailed representation. The Company submitted its 
+representation to NSE on July 4, 2025. A response from NSE is currently awaited. 
+  
+(XVI) The Company has also received Show Cause Notice (SCN) bearing No. LIST/COMP/AS/SCN/223/2025-26 dated June 10, 2025, from BSE Limited, 
+requiring the Company to show cause as to why its equity shares should not be delisted pursuant to the Securities and Exchange Board of India (Delisting of 
+Equity Shares) Regulations, 2011,.The Company duly responded to the SCN on 21st June 2025 and sought personal hearing in the matter. BSE Limited provided 
+the Company with an opportunity for a personal hearing before its Delisting Committee and requested a formal representation, including the request for such a 
+hearing. On June 21, 2025, BSE Limited published an Initial Public Notice regarding the proposed delisting of the Company in Financial Express and Navshakti. 
+Subsequently, BSE, vide letter No, LIST/COMP/MR/326/532411/2025-26 dated July 15, 2025, granted a personal hearing before the Delisting Committee, 
+scheduled to be held via video conferencing on August 6, 2025, The Company expresssed its inavailability for the scheduled hearing., due to the unfortunate 
+demise of the mother of Mr. Peeyush Kumar Aggarwal, Promoter Director of the Company, vide email dated July 30, 2025, and requested the Exchange to 
+reschedule the meeting. The Stock Exchange vide email dated 16th October 2025 has reschduled the personal hearing to 10/11/2025 which was attended by 
+Mr. Peeyush Kumar Aggarwal, Director and Principal Promoter of the Company . Prior to the personal Hearing the Company has filed its Written submission 
+vide email dated 04/11/2025. As on the date of Board meeting, it is being informed that in the personal hearing granted to Mr. Peeyush Kumar Aggarwal, the 
+Exchange has advised us to pay the outstanding listing fees by 28th February 2026 and make good the non-compliances by 31st march 2026. There is nothing 
+further to add, 
+  
+(XVII)Mr. Peeyush Kumar Aggarwal, was Managing Director of the Company till 9th August 2024 on which date he resigned from his post. The Company since 
+then has not appointed Managing Director or CEO. The non-appointment of Managing Director or CEO attracts penalty on the company and the Directors and 
+KMPs in terms of the provisions of section 203 of the Companies Act, 2013. Additionally, the current composition of the Board of Directors does not comply with 
+Regulation 17(1) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. As the Company is classified among the top 2000 listed 
+entities by market capitalization for the financial year 2023-24, it is required to maintain an appropriate board structure in accordance with the said regulation 
+ie, minimum six members on the Board. The company has since appointed Mr. Ram Niwas Sharma as CEO w.e.f. May 21, 2025 
+  
+Explanation of the Board in Seriatim 
+  
+(i) (a) (b) & (c ) In the opinion of the management matter regarding valuation of intangible assets, inventory including capital work in progress, software 
+rights as also any possible impairment needs to be seen in the context of the peculiar nature of the software industry and the prevailing circumstances. The 
+management is confident that these assets will fetch more value than the cost incurred once the business environment stabilizes. The management has therefore 
+not considered any provision on account of impairment of intangible assets. 
+  
+(ii) & (iii) The management is making efforts to revive the business of subsidiaries and feels confident that investment made in subsidiaries will be realized. It 
+has therefore not made any provision on account of impairment in value of goodwill has been made. 
+  
+(iv) The company has filed a civil suit bearing No. 2446/12.2TVLSB before the 10th Lower Court of Lisbon, Portugal and the same is pending adjudication. The 
+Company has no additional explanation to offer as the matter is sub-judice. 
+  
+(v) The loans & advances include a sum of Rs. 220 Crores advanced by the Company for establishing a Data Centre at Bareilly. However, the builder Company 
+could not develop the data center. The management of the company has initiated settlement with the builder and expects to recover the amount. Further these 
+loans and advances are made in the normal course of business which are considered to be good for recovery; : 
+  
+(vi) The Company has, upon dismissal of SLP by the Hon’ble Supreme Court, is in discussion with the Legal Expters w.r.t. the orders / verdict passed by the 
+Hon'ble Supreme Court in the matter of fees payable to RoC. The company intends to take appropriate action as per the advice received from the legal experts. 
+  
+(vii) Provision has already been made in the Books of accounts for the amount of Income Tax payable for the AY 2013-14. As such th¢ fHity has no further 
+impact on the profits / retained earnings of the reported period of the Company. ' LN 
+  
+    
+    
+   
+xis5}-Ashould be 
+  
+AE 
+(viii) The Company has considered sundry debtors of Rs. 3484.18 lacs due for more than six months as good. However in the opj nef auditor 
+regular process of identification and provision for bad and doubtful debts and the same is being considered by the ene 
+wal N 
+4
+(8) 
+(9) 
+(10) 
+  
+(ix) The Company is in the process of filing Curative Petition before the Hon'ble Supreme Court of India. Further the Company is transacting its business through 
+short term borrowings from the Promoters. Penalty, if any, would be paid once the review petition filed by the company has been decided by the Hon'ble 
+Supreme Court. The Penalty of Rs. 25.00 lacs has been provided in books of accounts and Interest on the said penalty amount of Rs. 14.75 lacs is being shown 
+under Contingent Liability.   
+(x) Due to paucity of funds, the Listing fees to NSE & BSE has not been paid. The Company is arranging funds for its payment. The Company has also made 
+representation with NSE and BSE for certain waivers and their response is awaited   
+(xi) As regards non-payment of custodial charges to CDSL & NSDL, the company has raised dispute with regard to the quantum of fees being charged. The 
+Company has filed a writ petition before the Hon'ble Delhi high Court agaist SEBI, the Depositories (CDSL and NSDL) & Stock Exchanges (NSE and BSE) vide 
+diary No. E-6124659/2024 dated 18.12.2024, however the company made a statement in the court w.r.t. withdrawing the said writ petition due to certain 
+technical lacuna. The Court has though allowed the oral submission, however, the court staff inadvertantly adjourned the matter to 09.02.2026. Since the 
+Company had made an oral submissions before the court for withdrawal of the petition, the company filed a fresh Writ Petition vide diary No, E-6783718/2025. 
+The registry has raised certain objection which are being cleared. The Compay is also in the process of filing an application for withdrawal of the earlier writ 
+petition.   
+(xii) (xii, xiii & xiv) In respect of default in holding Annual General Meeting, it is submitted that the Depositories have blocked Benpos due to which shareholder 
+data could not be downloaded hence notices of Annual General Meeting could not be sent and consequently Annual Report could not be submitted with the stock 
+Exchanges; Since Benpos data has not been made available the shareholding Pattern for the quarter ended 30/09/2023, 31/12/2023 ,31/03/2024, 
+30/06/2024,30/09/2024, 31/12/2024 , 31/03/2025 & 30/06/2025 could not be submitted with the Stock Exchanges. Representation has been made with the 
+stock exchanges for waiver of the penalty. In addition, the company has also filed Writ Petition before the Hon'ble Delhi High Court.   
+(xv) The Company has received Show cause Notice (SCN) bearing no. NSE/LIST/C120241425 dated December 16, 2024 from NSE to Show Cause as to why the 
+shares of the Company be not delisted in terms of regulations contained in Securities and Exchange Board of India (Delisting of Equity Shares) Regulations, 
+2011, The said SCN was appropriately replied on 6th January 2025 by the Company. Thereafter NSE had published a public notice in Business Standard on 6th 
+February 2025 in compliance with the said delisting regulations .The Company vide its letter dated 21st February 2025 sought an opportunity of personal 
+hearing. The said request was acceded to by NSE and NSE vide its email dated 18th March 2025 requested the company and its promoter to attend the meeting 
+of the De-listing Committee scheduled for 7th April 2025. Due to the wedding of Mr. Peeyush Aggarwal’s daughter during that period, the Company requested a 
+rescheduling of the meeting to a date after April 27, 2025. NSE accepted this request and subsequently scheduled the Delisting Committee meeting for June 26, 
+2025.Mr. Peeyush Kumar Aggarwal, Promoter Director of the Company, attended the meeting on June 26, 2025. During the meeting, the Delisting Committee 
+requested the Company to submit a detailed representation. The Company submitted its representation to NSE on July 4, 2025. A response from NSE is currently 
+awaited.   
+(xvi) The Company has also received Show Cause Notice (SCN) bearing No. LIST/COMP/AS/SCN/223/2025-26 dated June 10, 2025, from BSE Limited, requiring 
+the Company to show cause as to why its equity shares should not be delisted pursuant to the Securities and Exchange Board of India (Delisting of Equity 
+Shares) Regulations, 2011.The Company duly responded to the SCN on 21st June 2025 and sought personal hearing in the matter. BSE Limited provided the 
+Company with an opportunity for a personal hearing before its Delisting Committee and requested a formal representation, including the request for such a 
+hearing. On June 21, 2025, BSE Limited published an Initial Public Notice regarding the proposed delisting of the Company in Financial Express and Navshakti. 
+Subsequently, BSE, vide letter No. LIST/COMP/MR/326/532411/2025-26 dated July 15, 2025, granted a personal hearing before the Delisting Committee, 
+scheduled to be held via video conferencing on August 6, 2025. The Company expresssed its inavailability for the scheduled hearing., due to the unfortunate 
+demise of the mother of Mr. Peeyush Kumar Aggarwal, Promoter Director of the Company, vide email dated July 30, 2025, and requested the Exchange to 
+reschedule the meeting. The Stock Exchange vide email dated 16th October 2025 has reschduled the personal hearing to 10/11/2025 which was attended by 
+Mr. Peeyush Kumar Aggarwal, Director and Principal Promoter of the Company . Prior to the personal Hearing the Company has filed its Written submission 
+vide email dated 04/11/2025. As on the date of Board meeting, it is being informed that in the personal hearing granted to Mr. Peeyush Kumar Aggarwal, the 
+Exchange has advised us to pay the outstanding listing fees by 28th February 2026 and make good the non-compliances by 31st march 2026, There is nothing 
+further to add,.   
+(xvii) Pursuant to the recommendation of the Nomination and Remuneration Committee, the Board of Directors has appointed Mr. Ram Niwas Sharma as the 
+Chief Executive Officer of the Company, effective from 21st May 2025, for a term of five years. Additionally, the Board has appointed Mr. Atul Srivastava as a Non 
+Executive, Non-Independent Director of the Company, effective from 19th June 2025, based on the Nomination and Remuneration Committee recommendation. 
+As of the date of the financial statements, the composition of the Board of Directors is in compliance with Regulation 17(1) of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015.   
+The Board of Directors of the company in its meeting held on 1st June 2020, had decided to provide consultancy and advisory services in the field of Solar Power, 
+including but not limited to setting up of Solar Power Plant, its management, supervision, development & trading of software, contro] the business of| 
+transmission of solar power, manufacturing and/or trading in parts of Solar Power Plants, supplying, generation, distribution and dealing in electricity.   
+The Audited Financial Results for the FY 2022-23; 2023-24 & 2024-25 are provisional as the Members are yet to adopt the same. The Company has not been 
+able to convene and hold Annual General Meeting for the FY 2022-23 , 2023-24 & 2024-25. For detailed explanation please see note 6 (xi, xii & xiii) above. 
+  
+  
+The Unaudited Financial Results of the Company for the Quarter Ended September 30, 2025, is available on website of the Company i.e., www.mpsinfotec.com 
+and also available on the website of the Bombay Stock Exchange i.e., www.bseindia.com and National Stock Exchange ie., www.nseindia.com.   
+  
+Place: New Delhi 
+Date: 14.11.2025   
+  
+ 
+  
+. PS INFOTECNICS LIMITED 
+CIN: L30007DL1989PLC131190 
+Regd.Office : 703, Arunachal Building, 19, Barakhamba Road; Connaught Place, New Delhi 110 001 
+Statement of Assets & Liabilities for the Quarter Half Year Ended September 30, 2025 (Consolidated) 
+  
+(INR In Lacs) 
+  
+  
+Half Year Ended As at 
+As at March 31, 2025 
+  
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+        
+  
+  
+  
+  
+  
+  
+      
+  
+  
+  
+  
+  
+    
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+S.No Particulars September 30, 2025 
+Un-Audited Audited 
+(A) ASSETS 
+Non Current Assets 
+(a) Property, Plant & Equipment 4.65 4.66 
+(b) Goodwill 6,169.11 6,169.11 
+(c) Capital Work-in-Progress - - 
+(d) Other Intangible Assets 599.39 730.18 
+(e) Intangible Assets under development 5,644.40 5,644.40 
+(f) Investment in Subsidiary - - 
+(g) Financial Assets 
+(i) Investments 0.05 0.05 
+(ii) Others - - 
+(h) Non-current Assets (Net) 7 
+(i) Other Non-current Assets 22,313.48 22,312.19 
+Total Non-Current Assets 34,731.07 34,860.57 
+Current Assets 
+(a) Inventories 6,222.05 6,222.05 
+(b) |Financial Assets 
+(i) Trade Receivables 3,485.32 3,485.61 
+(ii) Cash and Cash equivalents 4.46 4.43 
+(iii) Bank Balances 3,490.80 3,490.80 
+(iv) Loans - - 
+(v) Others - - 
+(c) Current Tax (Net) - - 
+(d) Other Current Assets 129.18 125.75 
+Total Current Assets 13,331.81 13,328.64 
+Total Assets 48,062.88 48,189.22 
+(B) EQUITY AND LIABILITIES 
+Equity 
+(a) Equity share capital 37,744.37 37,744.37 
+(b) Other Capital 4,252.05 4,433.10 
+Total Equity 41,996.42 42,177.47 
+Non-Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 242.75 242.75 
+(ii) Other Financial Liabilities - 
+(b) Provisions - 
+(c) Deferred tax Liability (Net) 132.63 163.13 
+Total Non-Current Liabilities 375.38 405.87 
+Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 2,939.60 2,904.97 
+(ii) Trade Payables 
+Total outstanding due to micro and small 
+enterprises - 
+Total outstanding dues to creditors other 
+than micro and small enterprises 986.90 986.89 
+(iii) Other Financial Liabilities - 
+(b) Other Current Liabilities 1,714.30 1,662.32 
+(c) Provisions 50.28 51.69 
+(d) Current tax Liabilities (Net) - 
+Total Current Liabilities 5,691.08 5,605.87 
+Total Liabilities 48,062.88 48,189.22         
+   
+  
+MPS INFOTECNICS LIMITED 
+  
+CIN: L30007DL1989PLC131190 
+  
+Regd.Office : 703, Arunachal Building, 19, Barakhamba Road, Connaught Place, New Delhi 110 001 
+  
+Cash Flow Statement for the Quarter and Half Year Ended September 30, 2025 (Consolidated) 
+  
+(INR In Lacs) 
+  
+Half Year Ended As at As at March 31, 2025 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+S.No Particulars September 30, 2025 
+Un-Audited Audited 
+A. CASHFLOW FROM OPERATING ACTIVITIES 
+Net Profit before Tax (212.34) (1,010.56) 
+Adjustments for: 
+Depreciation & Amortization 130.79 261.59 
+Leave Encashment (1.35) 1.31 
+Gratuity 0.74 1.47 
+Provision for Expenses - 
+Interest & Other Costs - = 
+Interest received (0.22) (0.19) 
+Operating Profits before Working Capital Changes (82.38) (746.39) 
+(Increase) / Decrease in Current Assets (3.13) 0.81 
+Increase / (Decrease) in Current Liabilities 51.99 692.55 
+Net Cash from Operating Activities (A) (33.52) (53.03) 
+B. CASHFLOW FROM INVESTING ACTIVITIES 
+Purchase of Fixed Assets - 
+Sale of Fixed Assets ° 
+Change in Capital WIP “ 
+(Increase) / Decrease in Investments - 
+Interest Received 0.22 0.19 
+Long Term Loans & Advances (1.29) (2.42) 
+Net cash Out Flow in Investing Activities (B) (1.07) (2.23) 
+Cc. CASH FLOW FROM FINANCING ACTIVITIES 
+Issue of Equity Shares ~ “ 
+Share Application Money Received - - 
+Increase / ( Decrease) in Short Term Borrowings 34.63 53.63 
+Increase / (Decrease) in Long Term Borrowings - - 
+Prior Period Items - 
+Interest Paid - - 
+Net Cash inflow from Financing Activities (C) 34.63 53.63 
+Foreign Exchange Translation Reserve - - 
+Net Increase (Decrese) in Cash & Cash Equivalents (A+B+C) 0.04 (1.63) 
+Cash and Cash Equivalent as at beginning of the period 3,495.23 3,496.86 
+Cash and Cash Equivalent as at end of the period 3,495.27 3,495.23 
+  
+Notes: 
+  
+Comparative figures have been regrouped wherever necessary 
+  
+2|The cash flow statement has been prepared under the :Indirect Method" as set out in Accounting Standard - 3 on Cash Flow 
+Statement notified by the Companies (Accounting Standard) Rules, 2006 
+  
+These earmarked account balances with Banks can be utilized only for the specific identified purposes. 
+  
+    
+Bank Balances as shown in cash and cash equivalents amounting to Rs. 34,78,92,163/- is with Banco Efisa, a Bank in 
+Portugal is not available for use, because the bank has wrongly debited the account by the said amount, the Company has 
+filed a civil suit against the bank and its holding Company in Portuguese Courts and the same is pending adjudication. 
+    
+ 
+   
+  
+INDI 
+  
+NEMANI GARG AGARWAL & CO. 4 \ CHARTERED ACCOUNTANTS 
+A 1517, DEVIKA TOWER, 6, NEHRU PLACE, NEW DELHI- 110 019. 
+Camp Office: Ch. No.5, Kamadgiri Aptt., Kaushambi, Ghaziabad-201010 
+Br. Office: B-602, Silver Sands CHS, Piramal Nagar Goregaon (West), Mumbai — 400104 
+Independent Auditor's Limited Review Report on Consolidated Unaudited Financial Results for the 
+Quarter and Half Year Ended September 30, 2025 of the MPS INFOTECNICS LIMITED pursuant to the 
+Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as 
+amended 
+Limited Review Report to, 
+The Board of Directors 
+MPS Infotecnics Limited 
+We have reviewed the accompanying statement of Consolidated Unaudited Financial Results of “MPS 
+INFOTECNICS LIMITED” and its subsidiaries (the Parent and its subsidiaries together referred to as “the 
+Group”) for the Quarter and Half Year Ended September 30, 2025 being submitted by the Company pursuant 
+to the requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations,2015 (the Regulations) as amended. 
+This statement is the responsibility of the Company’s Management and has been approved by the Board of 
+Directors has been prepared in accordance with the recognition and measurement principles laid down in the 
+Indian Accounting Standard 34 “Interim Financial Reporting” (IND AS 34) prescribed under section 133 of 
+the Companies Act, 2013 read within relevant rules issued and other accounting principles generally 
+accepted in India. Our responsibility is to Issue a report on these financial statements based on our review. 
+We conducted our review in accordance with the Standard on Review Engagement (SRE) 2410, ‘Review of 
+Interim Financial Information Performed by the Independent Auditor of the Entity", issued by the Institute of 
+Chartered Accountants of India. A review of interim financial information consists of making inquiries, 
+primarily of persons responsible for financial and accounting matters and applying analytical and other 
+review procedures. A review is substantially less in scope than an audit conducted in accordance with 
+Standards on Auditing and consequently does not enable us to obtain assurance that we would become aware 
+of all significant matters that might be identified in an audit: Accordingly, we do not express an audit opinion. 
+We also performed procedures in accordance with the circular Issued by SEBI under Regulation 33(8) of the 
+SEBI Obligations and Disclosure Requirements) Regulations, 2015, as amended, to the extent applicable. 
+The Statement includes the results of the following entities: 
+  
+  
+  
+  
+  
+    
+Name of Entity Nature of Relationship 
+MPS Infotecnics Limited Holding Company 
+Axis Convergence Inc Wholly-Owned Foreign Subsidiary with no 
+operations and data are Unaudited 
+Greenwire Network Limited Wholly-Owned Foreign Subsidiary with no 
+operations and data are Unaudited 
+Opentech Thai Network Specialists Co. Limited Wholly-Owned Foreign Subsidiary with no 
+operations and data are Unaudited   
+   Tel.-0120-4374727 Mob.-9811026144 (SKN), 9223230576 (SNR), 
+9810842989 (JMK), 9810893480 (DCK) 
+Email ID: nemani61@gmail.com, ngacodelhi@gmail.com 
+Web Site. : sknemani.com 
+  
+ 
+Basis for Qualified Conclusion 
+Attention is invited to the following key matter — observations as per Audit report of FY 2024-25 as Updated 
+for Observations made during limited review of Quarter Ended June 30, 2025:- 
+1. 
+II. 
+Ill. 
+IV. - 
+Vi. 
+In case of the following items shown as intangible Assets / inventory, no provision for 
+impairment of assets has been made in accordance with accounting.policies and applying IndAS 
+36 — 
+(a) Intangible Assets under development (Capital work-in-progress) - Rs. 56.44 Crores (Software 
+development) 
+(b) Software rights - Rs. 5.99 crores 
+(c) Opening Stock (Source Codes) - Rs. 62.22 Crores 
+In the absence of valuation reports of above assets the extent of impairment and its impact on profit 
+and loss account, reserves and surplus is not ascertained. 
+Assets of subsidiaries - Rs. 18.60 Crore. Total’Revenue of Rs. Nil and Net Cash outflows / 
+Inflows of Rs. Nil - No audit of the subsidiaries has been done either by us or local audit firm have 
+been audited. such unaudited financial statements and information furnished to us by the 
+Management. Our opinion on the consolidated financial statements, in so far as it relates to the 
+amounts and disclosure included in respect of these subsidiaries and our report in terms of 
+subsections 3 and 11 of section 143 of the Act, in so far as it relates to the aforesaid subsidiaries, 
+is based solely on such un-audited financial information. 
+Goodwill amounting to Rs. 61.69 Crores- There are no operations in these overseas subsidiaries 
+and no audit of accounts has been done and no updated information has been received. No 
+provision has been made for the shortfall in value of the investment in accordance with Ind AS. 
+The Company has shown in the balance sheet, bank balances in Banco Efisa (Lisbon Portugal) 
+amounting to Rs. 347,892,163 (USD 8,883,210.75) which the bank has adjusted and the matter is 
+in the court of law. Consequently the bank balances shown in balance sheet are overstated by Rs. 
+347,892,163/- The above bank balance relates to FY 2008-09 which is treated as a current asset. 
+No provision has been made for the possible loss on account of the same. 
+Other non-current assets include other loans and advances of Rs. 222.21 Cr. which are considered 
+to be good for recovery. However as the terms and conditions regarding these loans have not been 
+provided to us we are unable to ascertain and comment on the extent of realizability of this asset; 
+The Company had increased its Authorized Capital from Rs. 52.45 Crores to Rs. 377.50 crores 
+during the period from FY-2010 -11 to FY 2012-13. However necessary form i.e. Form SH-7 (Earlier 
+Form-2) could not be filed and appropriate fees could not be paid. By the time the Company could 
+file Form SH-7, the Companies Act, 1956 was replaced by The Companies Act, 2013 and accordingly 
+the Companies (Registration office and fees) Rules, 2014 came into effect from 1st April 2014. 
+According to these rules, the fees payable on increase in Authorised Capital increased many fold. 
+Though the company had increased the Authorised capital during the FY 2010-11 to 2012-13, but 
+the company was asked by the authorities to pay the fees in terms of the provisions of Companies 
+Act, 2013 and not under the Companies Act, 1956. Representations were made with the Ministry of 
+Corporate Affairs, but did not bore any fruit hence The Company filed writ petition before the 
+Hon’ble Delhi High Court which was dismissed vide order dated 15/01/2019, Aggrieved by the 
+orders passed by the Hon’ble Delhi High Court, the company had preferred Special Leave Petition 
+(SLP) before the Hon’ble Supreme Court of India. The Hon’ble Supreme Court vide its order dated 
+7th November 2023 has dismissed the said SLP. Upon dismissal of the said SLP, the ROC fees in 
+terms of provisions of Companies Act, 2013 has become due and payable. The company has already 
+provided for The normal Fees of Rs. 16,252,500. 00 and additional fees of Rs. 61, B62, 728.36 as on 
+ 
+VIL. 
+VUL. 
+IX. 
+XL. 
+Companies (Registration Office and Fees) Rules, 2014, the normal fees and Additional fees 
+computed is Rs. 24,378,750.00 and Rs. 121,160,106.80 respectively. As on 31st March 2025 
+provision amounting to Rs. 81,26,250/- and Rs. 5,92,97,378/- towards normal fees and Additional 
+Fees i.e. the difference between the fees computed as per the Companies Act, 1956 and fees 
+computed as per Companies Act, 2013 has been made. Out of the additional fees amounting to Rs. 
+5,92,97,378/-, Rs. 8,776,350.00 relate to the financial year 2024-25 and Rs. 50,521,028.45 relates 
+to previous financial years. For the half year ended 30.09.2025, a provision of Rs. 44,00,197/- 
+computed as per Companies Act 2013, has been made towards additional fees for the half year 
+ended 30.09.2025 and total fees (Normal and additional) amounting to Rs. 14,99,39,054/- 
+appearing under the head “Current Liabilities. There is no further impact on the financial 
+statements of the Company 
+Income Tax for the Assessment year 2013-14 amounting to Rs. 20.80 lacs and interest thereon is 
+still payable although principal liability has been provided in the books of Accounts. 
+The Company has considered sundry debtors of Rs. 3484.18 Lacs due for more than six months as 
+good. However in the opinion of auditors there should be a regular process of identification and 
+making provision for bad and doubtful debts. Such a process has not been followed. We therefore 
+are unable to comment on the extent of un-provided bad and doubtful debts and their impact on 
+loss and reserves. 
+SEBI investigated the GDR issue of the Company and SEBI vide its order dated 6th March 2020 
+restrained the company from accessing the securities market and further prohibited from buying, 
+selling or dealing in securities, directly or indirectly, in any manner whatsoever or being associated 
+with the securities market in any manner whatsoever, till compliance with directions contained in 
+the said order, and for an additional period of 2 years from the date of bringing back the money. 
+Further SEBI vide its order dated 27.11.2020 had imposed a penalty of Rs. 10,00,00,000/- (Rupees 
+Ten Crores) on the Company. Since the penalty has not been paid, SEBI has also frozen the Bank 
+Accounts of the Company. Against the said orders of SEBI the Company filed appeals before the 
+Hon'ble Securities Appellate Tribunal (SAT). SAT vide order dated 27/09/2023 has reduced the 
+penalty from Rs. 10,00,00,000/- to Rs. 25,00,000/-. The review filed against the said order of SAT 
+was dismissed vide order dated 8th December 2023. Aggrieved by the said order the Company had 
+filed Special Leave Petition before the Hon’ble Supreme Court of India. The Hon’ble Apex Court vide 
+its order dated 16th April 2024 dismissed the said Appeal. The Review Petition filed before the 
+Hon’ble Apex Court was also dismissed vide order dated 26th September 2024. The company has 
+not paid the penalty amount of Rs. 25.00 lacs, as of the date of this Audit Report, but necessary 
+provision w.r.t. to the penalty of Rs. 25 lacs has been made in the books which appear under the 
+head “Current Liabilities”, however, provision w.r.t. interest @ 12% p.a. from November 2020 to 
+September 2025 aggregating to Rs. 14.75 lacs (Out of which Rs. 1.50 lac relates to Half Year ended 
+30.09.2025) has not been provided in the Books. To the extent of Rs.14.75 lacs the losses are under 
+stated. 
+Listing fees for FY 2022-23, 2023-24, 2024-25 and 2025-26 to NSE and BSE amounting to Rs. 28.08 
+lacs & Rs. 24.02 lacs respectively is due and outstanding. Since the Listing Fees has not been paid 
+the demat accounts of promoters have been frozen by the Exchanges in terms of the provisions of 
+Chapter VII, Section VII(A) of the SEBI Master Circular No. SEBI/HO/CFD/PoD2/ CIR/P/2023/120 
+dated July 11, 2023 (Erstwhile SEBI Circular No. SEBI/HO/CFD/CMD/CIR/P/2020/12 dated 
+January 22, 2020). In terms of the invoices raised by the exchange, the delay in payment of Annual 
+Listing Fees attracts interest @ 18% p.a. by NSE and 12% p.a. by BSE. Provision for interest on the 
+outstanding Annual Listing Fees amounting to Rs. 9.71 Lacs and Rs. 4.95 Lacs to NSE and BSE 
+respectively has not been made. 
+Custodial Charges to CDSL & NSDL for FY 2023-24 and 2024-25 amounting to Rs. 124.99 lacs & Rs. 
+17.49 lacs respectively is outstanding due to which the depositories have blocked Benpos data. The 
+Company has raised disputes with the Depositories and has made representations-with the 
+Depositories & SEBI. Further, the delay in payment of Annual Custodial Charges tothe depositories 
+  
+XII. 
+XU 
+XIV. 
+XV. 
+XVI. 
+attracts interest @ 12% p.a. Since the company has disputed the charges being charged by the 
+Depositories hence no provision towards Annual Custodial Charges has been made in the books of 
+account w.r.t. Custodial charges payable to CDSL & NSDL hence losses of the company to the extent 
+of Rs. 142.48 lacs (being Annual Custodial Charges for FY 2023-24 & 2024-25) are under stated. 
+However, company has disclosed the said liability under the head “Contingent Liability” in the 
+Financial Statements. Further custodial charges for the FY 2025-26( Amount not ascertainable) due 
+to CDSL and NSDL have also not been provided in the books of accounts. 
+Consequently Annual General Meeting of the Company which was scheduled to be held on or before 
+30th December 2023 (the extended time) for FY 2022-23 and on or before 30th September 2024 
+for FY 2023-24 had not been convened which is in contravention of the provisions of sections 96, 
+97 & 98 of the Companies Act, 2013 which is punishable under section 99 of the Companies Act, 
+2013. Consequently, the Audited financial statements of the Company for the FY 2022-23 and 2023- 
+24 are not adopted by Shareholders of the Company till the date of the Limited Review Report for 
+the half year ended 30.09.2025. 
+Consequently Shareholding Pattern for the quarter ended 30/09/2023; 31/12/2023 ,31/03/2024, 
+30/06/2024, 30/09/2024, 31/12/2024 & 31/03/2025, pursuant to the provisions of Regulation 
+31(1)(b) of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015 has not been 
+filed which has led to imposition of fine/penalty by the Stock Exchanges where the shares of the 
+Company are listed, in terms with the provisions contained in CEBI Circulat bearing no. 
+SEBI/HO/CFD/CMD/CIR/P/2020/12 dated January 22, 2020. As on the date of preparing this 
+report, the Shareholding Pattern for the quarter ended 30th June, 2025 and 30 th September 2025 
+have also not been filed. 
+The company has not submitted an Annual Report to the Stock Exchanges pursuant to the 
+provisions of Regulation 34 of SEBI (Listing Obligations & Disclosure Requirements) regulation 
+2015, consequently the Stock Exchange has imposed a fine of Rs. 2,64,320/- (including GST @ 18%) 
+each upto 31.03.2024 pursuant to the provisions of Chapter VII, Section VII(A) of the SEBI Master 
+Circular No. SEBI/HO/CFD/PoD2/ CIR/P/2023/120 dated July 11, 2023 (Erstwhile SEBI Circular 
+No. SEBI/HO/CFD/CMD/CIR/P/2020/12 dated January 22, 2020) has not been provided in the 
+Books of Accounts. 
+The Company has received Show cause Notice (SCN) bearing no. NSE/LIST/C120241425 dated 
+December 16, 2024 from NSE to Show Cause as to why the shares of the Company be not delisted in 
+terms of regulations contained in Securities and Exchange Board of India (Delisting of Equity 
+Shares) Regulations, 2011. The said SCN was appropriately replied on 6th January 2025 by the 
+Company. Thereafter NSE had published a public notice in Business Standard on 6th February 2025 
+in compliance with the said delisting regulations though without informing the Company. The 
+Company took note of the same and the company vide its letter dated 21st February 2025 sought 
+an opportunity of personal hearing. The said request was acceded to by NSE and NSE vide its email 
+dated 18th March 2025 requested the company and its promoter to attend the meeting of the De- 
+listing Committee scheduled for 7th April 2025. Due to the wedding of Mr. Peeyush Aggarwal’s 
+daughter during that period, the Company requested a rescheduling of the meeting to a date after 
+April 27, 2025. NSE accepted this request and subsequently scheduled the Delisting Committee 
+meeting for June 26, 2025.Mr. Peeyush Kumar Aggarwal, Promoter Director of the Company, 
+attended the meeting on June 26, 2025. During the meeting, the Delisting Committee requested the 
+Company to submit a detailed representation. The Company submitted its representation to NSE on 
+July 4, 2025. A response from NSE is currently awaited. 
+The Company received a Show Cause Notice (SCN) bearing No. LIST/COMP/AS/SCN/223/2025-26 
+dated June 10, 2025, from BSE Limited, requiring the Company to show cause as to why its equity 
+shares should not be delisted pursuant to the Securities and Exchange Board of India (Delisting of 
+Equity Shares) Regulations, 2011.The Company duly responded to the SCN on 21.06.2025. BSE 
+ 
+21, 2025, BSE Limited published an Initial Public Notice regarding the proposed delisting of the 
+Company in Financial Express and Navshakti. Subsequently, BSE, vide letter No. 
+LIST/COMP/MR/326/532411/2025-26 dated July 15, 2025, granted a personal hearing before the 
+Delisting Committee, scheduled to be held via video conferencing on August 6, 2025, between 9:30 
+AM and 11:30 AM. The Exchange also requested submission of a detailed representation prior to 
+the hearing. The Company confirmed its availability for the scheduled hearing. However, due to the 
+unfortunate demise of the mother of Mr. Peeyush Kumar Aggarwal, Promoter Director of the 
+Company, a request was made on July 30, 2025, to reschedule the meeting. The Stock Exchange vide 
+email dated 16th October 2025 has reschduled the personal hearing to 10/11/2025 which was 
+attended by Mr. Peeyush Kumar Aggarwal, Director and Principal Promoter of the Company . Prior 
+to the personal Hearing the Company has filed its Written submission vide email dated 
+04/11/2025. As on the date of Board meeting, it is being informed that in the personal hearing 
+granted to Mr. Peeyush Kumar Aggarwal, the Exchange has advised us to pay the outstanding listing 
+fees by 28th February 2026 and make good the non-compliances by 31st march 2026. There is 
+nothing further to add. 
+XVII.Mr. Peeyush Kumar Aggarwal, was managing Director of the Company till 9th August 2024 on 
+which date he resigned from his post. The Company since then has not appointed Managing 
+Director or CEO. The non-appointment of Managing Director or CEO attracts penalty on the 
+company and the Directors and KMPs in terms of the provisions of section 203 of the Companies 
+Act, 2013. Additionally, the current composition of the Board of Directors does not comply with 
+Regulation 17(1) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. 
+As the Company is classified among the top 2000 listed entities by market capitalization for the 
+financial year 2023-24, it is required to maintain an appropriate board structure in accordance 
+with the said regulation i.e., minimum six members on the Board. The company has since appointed 
+Mr. Ram Niwas Sharma as CEO w.e.f. May 21, 2025 
+Qualified Conclusion 
+Based on our review conducted as above, except for the matters described in the Basis for Qualified 
+Conclusion above, nothing has come to our attention that causes us to believe that the accompanying 
+statement of Unaudited Financial Results prepared in accordance with applicable accounting standards and 
+other recognized accounting practices and policies has not disclosed the information required to be disclosed 
+in terms of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,2015 
+including the manner in which it is to be disclosed, or that it contains any material misstatement. 
+Emphasis of Matters 
+We draw attention to: Balances of trade receivables, trade payables, other loans and advances, 
+advance to suppliers, bank balances and liabilities, are subject to confirmation. 
+Our Conclusion is not modified in respect of the above stated matters. 
+For M/s. Nemani Garg Agarwal & Eo is 
+ae, 
+Chartered Accountants 
+FRN: 010192N 
+enh A 
+(J.M. Khandelwal) 
+Partner 
+  
+   
+x 
+@ 
+< of 
+eA Acco / 
+M. No. 074267 
+UDIN: 25074267BMOYBH2657 
+Place : New Delhi 
+Date: 14.11.2025

@@ -1,0 +1,728 @@
+ 
+ 
+       
+    14th November, 2025 
+Department of Corporate Services        
+BSE Limited                                                                    
+Phiroze Jeejeebhoy Towers, 
+25th Floor, Dalal Street, 
+Mumbai - 400 001. 
+ 
+ 
+ Sub  : Transcript of Conference Call on the Company’s Financial & Operational 
+Performance for Q2 FY 2025-26 held on 10th November, 2025: 
+ 
+We are enclosing herewith the transcript of the Confere nce Call on the financial and 
+operational performance of the Company for Q2 FY 2025-26 held on Monday, 10th November 
+2025. 
+ 
+Kindly take the same on your records.  
+ 
+ 
+Thanking You, 
+ 
+Sincerely, 
+For ASM Technologies Limited 
+ 
+ 
+ 
+ 
+Vanishree Kulkarni 
+Company Secretary and Compliance Officer(FCS:13306) 
+Address:80/2 Lussane Court 
+Richmond Road, Bangalore 560025 
+ 
+ Page 1 of 19 
+ 
+ 
+ 
+“ASM Technologies Limited Q2 FY '26 Earnings 
+Conference Call” 
+ 
+{November 10, 2025} 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+MANAGEMENT: MR. RABINDRA SRIKANTAN – MANAGING DIRECTOR, 
+ASM TECHNOLOGIES LIMITED 
+MR. N. L. RATHOD – CHIEF FINANCIAL OFFICER, 
+ASM TECHNOLOGIES LIMITED 
+MRS. VANISHREE KULKARNI – COMPANY SECRETARY, 
+ASM TECHNOLOGIES LIMITED 
+MR. RAJESH MS – FINANCE HEAD, 
+ASM TECHNOLOGIES LIMITED 
+
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 2 of 19 
+Moderator: Ladies and gentlemen, good morning and welcome to the ASM Technologies L imited Q2 FY 
+'26 Earnings Conference Call. 
+As a reminder, all participant lines will be in the listen -only mode and there will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need 
+assistance during the conference call, p lease signal an operator by pressing ‘*’, then ‘0’ on 
+your touchtone phone. Please note that this conference is being recorded. 
+I now hand the conference over to Mr. Rabindra Srikant an - Managing Director of ASM 
+Technologies Limited for opening remarks. Thank you and over to you, sir. 
+Rabindra Srikantan: Thank you very much. A very good afternoon to everybody and a very warm welcome to ASM 
+Technologies Limited Q2 FY '26 Earnings Call. 
+I am joined today by members of our Senior Leadership Team, Mr. N. L.  Rathod - our CFO; 
+Mrs. Vanishree Kulkarni - our Company Secretary; we have Mr. Rajesh  - our Finance Head 
+and we have SGA - our Investor Relations Advisor.  
+As this is our first call, I will start with a very short introduction of  our company, our various 
+business segments and then move on to our financial performance. 
+So, we are about 30 years old. We were founded about 3  decades ago and over the years, we 
+have grown into a leading end -to-end engineering R&D, ER&D and a Design-Led 
+Manufacturing which is called DLM company providing solutions across the entire product 
+life cycle from concept design to engineering using precision Manufacturing. When we say 
+precision Manufacturing, we are not into mass Manufacturing. Everything we do is very 
+custom and relatively complex and high precision. This is something which differentiates us. 
+We serve customers across the globe in the US, UK, Singapore, Japan and many other 
+geographies. We operate from 4 Manufacturing facilities, one in Dabaspet e in Karnataka, 
+second one in Srip erumbudur in Tamil Nadu and 2 in Chennai.  Apart from that, we have 6 
+global development centers and 10 offices across the globe. We broadly operate in  2 business 
+verticals, one is the Hi-Tech segment and the other is broadly in the Engineering segment. In 
+the Hi-Tech segment, we specialize in providing systems, subsystems, precision parts for 
+complex equipment, mainly for the semiconductor equipment, consumer electronics 
+equipment, industrial electronics and solar equipment. Industries in this vertical, as we know, 
+are undergoing global supply chain realignment  with India rapidly emerging as the preferred 
+design and Manufacturing hub. We see this transformation coming alive with significant 
+investment being made in India by both global leaders and the Indian government. 
+Our deep engineering expertise strategically positions us as a critical partner to global OEMs 
+looking to localize high -value Manufacturing. In this regard, we also have se t up a  joint 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 3 of 19 
+venture called ASM -HHV to focus on the solar equipment segment and we are well on track 
+and we expect to start doing some amount of delivery later this year. In the transportation 
+sector or engineering sector, we again work both on the ER&D and the DLM. Here, our focus 
+is industrial and large vehicles and off -highway vehicles. Here again, we work with global 
+OEMs and next generation companies for mobility and for engineering. Across both our 
+verticals, that is the Hi-Tech and the Engineering, we use a significant amount of industrial AI. 
+This is our digital layer to enhance operational outcomes and drive efficiency. We use some 
+proprietary AI frameworks to increase our yield throughput for performance monitoring and 
+for predictive maintenance. 
+We are very consciously investing in infrastructure, people and capacities to meet our growing 
+demands. We have recently signed a MoU with the Government of Karnataka to invest Rs. 510 
+crores to expand our ER&D -focused DLM and precision engineering capabilities. We have 
+also signed a M oU with the Government of Tamil Nadu to invest Rs. 250 crores to further 
+enhance our DLM capacity. Once operational, these facilities will significantly enhance our 
+capacity, supporting growth in both our verticals. 
+Now, moving on to our financial performance: 
+We are pleased to report a quarter of strong growth and margin expansion. For Q2, for this 
+current fiscal, our revenue has grown by 171% year -over-year. The strong growth has been 
+driven by execution across both our segments. EBITDA was Rs. 31 crores against Rs. 7 crores, 
+with margins at 19.7%, supported by operating leverage and an improved mix. PAT was 
+around Rs. 19 crores, growing from Rs. 2 crores year-on-year. 
+In terms of our half-yearly performance, 6-month performance: 
+Revenue stood at about Rs. 277 crores compared to Rs. 110 crores during the H1 of last 
+financial year, FY ' 25, a growth of 153% year -on-year. EBITDA was Rs. 56 crores with a 
+margin of 20.3%. PAT stood at Rs. 35 crores compared to Rs. 5 crores in the same period last 
+year. DLM contributed to 63% of total revenues, while ER&D accounted for 37%. CAPEX for 
+the half-year stood at about Rs. 11 crores, and the net cash position was Rs. 77 crores as of 
+September 2025. We believe that we can continue this growth momentum in the second half of 
+the year. 
+And I would also like to add a few points: 
+First of all, once again, thank all of you for joining the call.  And we are now open for 
+questions. We would like to mention a few things. One, we will not take up any customer 
+names. So, we request all the speakers to refrain from referring to any customer name, which 
+will be very speculative for us. And also, we will refrain from any guidance and these are some 
+of the things.  And we will not give any forward -looking guidance. And please do avoid any 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 4 of 19 
+customer-specific or account -specific details. So, with this, it  is open for Q&A.  We request 
+you to go ahead. 
+Moderator: Thank you very much. We will now begin the question -and-answer session. The first question 
+is from the line of Nilesh Jain from Astute Investment Management. Please proceed. 
+Nilesh Jain: Hi, thank you for the opportunity and congratulations for a great quarter. My first question is, I 
+want to understand on the Manufacturing side, which industry has help ed us to drive this 
+growth, at least for the first half? If you can share by industry, at least on the Manufacturing 
+side? 
+Rabindra Srikantan: Sure. Thank you very much. And for us, we are not providing specific segmentation. For us, 
+both Hi-Tech and the Engineering segments have contributed to the increase in our DLM. Like 
+I said, we are in all the 4 segments when it comes to Hi-Tech, i t is semiconductor, solar, 
+consumer and industrial electronics , all of them have contributed and also on the Engineering 
+segment. It has been across all these segments. 
+Nilesh Jain: Sure. Second question is, if you can share the CAPEX plan for at least FY '26 and FY '27? 
+Rabindra Srikantan: I am going to request Rajesh to answer that. And just please do speak up, you are little feeble. 
+Rajesh Hi. Yes, during the 25-26, CAPEX addition will be another Rs. 30-Rs. 35 crores, the minimum 
+what we are expecting.  And it may go up depending on whatever the MoU time. We are in 
+discussion with the Government for the allotment of the  land. If the land comes through, this  
+CAPEX will go up depending on the allotment of the land. 
+Nilesh Jain: And for FY '27? 
+Rajesh: FY '26-27, we are still working on it.  Depending on the land availability, we are going to plan 
+our next development. 
+Nilesh Jain: Sure. My third question is on the M oU which you have shared. Can you talk about the 
+timelines and how would be about the funding and everything? 
+Rabindra Srikantan: Yes, I can answer that. So, like Rajesh said, both the M oUs are signed. We are in the process 
+of acquiring the land.  So, timeline-wise, it will be about the next 18 -24 months is what we are 
+planning once the land is acquired. That was the second question. Funding will be a 
+combination of accrual, combination of some debt and if needed some additional equity.  And 
+we also have some potential incentives both from the central government and different state 
+governments. 
+Nilesh Jain: And my last question is, we have been seeing a lot of multinational companies setting up R&D 
+centers in India through GCC. How do you see competition from them? 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 5 of 19 
+Rabindra Srikantan: Can you repeat? Your voice is very patchy. What did you say in the last part? 
+Nilesh Jain: How do you see competition from them on the design side? Because a lot of multinational 
+companies are setting up GCC in India for their R&D centers? 
+Rabindra Srikantan: Got it. We understand. GCCs are growing in a big way.  For us, ER&D, we have two things. 
+One is we have ER&D as a business. Also, our ER&D supports our DLM. So, what you would 
+have seen over the years, we are pivoting very rapidly into DLM and for that, the ER&D is a 
+very key part of the DLM initiative. So, that is kind of where we are heading. 
+Nilesh Jain: Sure. I will get back in the queue. 
+Rabindra Srikantan: Sure, thanks. 
+Moderator: Thank you. The next question is from the line of Meet from Niveshaay. Please proceed. 
+Meet: Yes, sir. Hi, Rabindra ji and team . Congratulations on a strong set of numbers.  Kudos to 
+everyone for achieving such a great milestone in the last 32 years. Wishing you continued 
+success. Sir, mix is shifting towards Manufacturing. So, 58% of the revenue from 
+Manufacturing in H1 FY '26, which is 12% in H1 FY '25. So, it is dragging the gross margin a 
+bit. And service is  not the growth driver for this quarter.  There is a slight degrowth in the 
+revenue also and much more decline in the margin. So, I just want to understand, could you 
+explain what mix we should expect for FY '26 and FY '27 between Manufacturing and service? 
+And based on mix, what kind of margin profile we should expect? 
+Rabindra Srikantan: Thank you very much. So, like I said, we are not giving any forward guidance. But one of the 
+things is, as we have seen over the years, we are very progressively moving into DLM.  I think 
+that momentum will continue. We will be having more and more DLM. That is where all our 
+bigger investments are going in. And for that, we will also continue to invest in our ER&D. So, 
+we expect, right now, the momentum is very robust in both the verticals we operate in, both the 
+Hi-Tech and the Engineering. So, we expect this kind of momentum to continue.  And today, 
+given that there is a lot of friend-shoring and there is a lot of interest for a lot of global 
+companies to both sell into India and also develop from India, we expect this momentum to 
+continue in the medium term. 
+Meet: So, like, sir, if the momentum continues to increase, we will maintain the EBITDA in the range 
+of 20%  or t here will b e lower EBITDA. Last quarter, we have done Rs. 60 crores in the 
+Manufacturing side and this quarter was very good, Q2 Rs. 95 crores. So, still, what kind of 
+margin profile, at least, could you be arranging, if not a specific number? I also agre e that you 
+cannot share the guidance, but any range would be helpful, sir? 
+Rabindra Srikantan: Range also, we will not be able to share. But let us say that the last 3 quarters, the last few 
+quarters, are quite representative. So, you will have to use that a s a reference. Because just for 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 6 of 19 
+everybody's benefit, this is something, some of you have met us in earlier calls and all that. 
+This is something we have very consciously worked for the last 8 years, where we moved from 
+a pure ER&D to start getting into DLM . And in between, we had 2 years of COVID. So, a lot 
+of this work started 8 years ago and we  have invested, we have grown, we have got a lot of 
+traction into DLM. And now, slowly, those things are beginning to play out and it  is more 
+visible in the last few years. 
+Meet: Understood. Sir, s econd question, also, what is your view on the competition specifically? 
+Like, more global players wanting to come to us in India and manufacture this equipment, 
+right? And these players are maki ng much more critical machineries. And maybe, we are also 
+developing this kind of machines. So, is there any chance of losing our share in terms of 
+market share? What is your view on the competition? 
+Rabindra Srikantan: So, we have been working in this segment for many years, for about 20 years. It is just that we 
+pivoted from pure ER&D to DLM. So, industry-wise, business-wise, is not new to us. It is just 
+that we have started scaling into DLM. So, India will continue to grow. This is the fastest 
+growing economy, large economy in the world today.  We will expect more and more players. 
+And with that, we will grow and so will others. So, we expect the entire, both our verticals to 
+significantly scale in the coming years. 
+Meet: I underst ood. And sir, when one should expect this scaling in semiconductor equi pment 
+manufacturing side , when you are saying like  maybe Rs. 50-Rs. 100 crores scaling in the 
+Manufacturing from semiconductor equipments? 
+Rabindra Srikantan: Like I said, we are not giving segment -wise information. So, DLM will continue to scale. We 
+have seen the change over the years, over the quarters.  So, we will continue to be in more 
+DLM going forward. 
+Meet: And sir, one last question. 
+Moderator: Sorry to interrupt, Mr. Meet. May we request you to join the question queue? 
+Meet: Thank you so much. 
+Moderator: Thank you. The next question is from the line of Raj Sharad Agr awal from CJ Shah Family 
+Office. Please proceed. 
+Raj Sharad Agrawal: Hello, sir. Congratulations on a good set of numbers. Sir, I have  two questions.  We have 
+committed big CAPEX in Karnataka and Tamil Nadu. I just wanted to broadly understand out 
+of this Rs. 750 crores that we have committed, how much would be incentives and land 
+provided by the government and how much would we have to put in the business? 
+Rabindra Srikantan: Will you add another question? 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 7 of 19 
+Raj Sharad Agrawal: Can I ask after you answer this, please? 
+Rabindra Srikantan: Sure. Thank you very much. So, broadly, we are still working out the incentives which are 
+available. But as we know, there is about 25% which is publicly announced by the central 
+government. And at the state government level,  there is an additional 25%. So, this is 
+definitely for CAPEX. In some cases, it  is for a few other things. And  mainly for the 
+machinery part. So, we are in the process of finalizing our applications at both the central level 
+and at the state level. And we should know that maybe in the next month or so on how much 
+would be incentives and how much would be our contribution. 
+Raj Sharad Agrawal: Got it, sir. And second question on the solar side. We are doing this work in our JV.  So, are 
+you planning a separate plant for this? And how fast would be the ramp -up here? I just want to 
+broadly understand your thoughts on the solar side? 
+Rabindra Srikantan: Sure. So, we have a separate plant. It should be in place in the next few months as a separate 
+plant for that. And we expect some of the deliveries to happen later this year or definitely early 
+part of next year. But most probably later this year. 
+Raj Sharad Agrawal: Got it, sir. So, those were my questions. Thank you so much, sir. 
+Rabindra Srikantan: You are welcome. Thank you. 
+Moderator: Thank you. The next question is from the line of Ayush Agarwal from MAPL Value Investing 
+Fund. Please proceed. 
+Ayush Agarwal: Good afternoon, sir. Thanks for the opportunity. Sir, in DLM, within the consumer electronics 
+division without naming any customers or the value of machine or anything, we would just like 
+to understand the scope of machinery that we are currently doing, number of machinery that 
+we are doing and how many do we plan to add if you can give some color on that? 
+Rabindra Srikantan: Sure. We will not be able to quantify the number of machinery, but I can tell you what kind of 
+machines they are. Across our sector s, whether it is industrial, consumer, solar or in 
+semiconductor, we do a lot of automation -related work which includes vision, which includes 
+robotics, which includes laser and a lot of testing.  These are all the different are as we cover 
+across in the Hi-Tech. But we will not be able to quantify and tell you what kind of 
+segmentation, which right now we have agreements not to disclose some of this information. 
+Ayush Agarwal: Understood, sir. So, just trying to understand the sc ope of work. So, typically given India now 
+is Manufacturing a lot of consumer electronics, including like smartphones and other things, so 
+if you can help us understand whenever any manufacturer, smartphone assembler is putting up 
+a capacity, whether it be the $10 million line, $15 million line, whatever that amount is. Are 
+we catering to 10% of their needs, 20% of their needs? If you can co mment something on that, 
+because that will help us understand how much of the value chain we are covering? 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 8 of 19 
+Rabindra Srikantan: That is also, let me answer it in a broader way. If you take the total addressable market which 
+is available to us across all our  sectors, it is somewhere about, say, annually.  And this is a 
+global requirement. It is not necessarily India. It would be at least about $40 billion per annum. 
+It is the total addressable market by us. And the total market itself in the segments we play in is 
+about $130 -$140 billion globally. That is one part.  In the $40 billion is where we have 
+capability to address some of it. So, there are some areas, like I said, those 5-6 areas where we 
+are working on, we will continue to do more and more of that and also add some more adjacent 
+capabilities to that.  So, whether it is opportunities in India or outside India, wherever in the 
+world, we should be able to address them. And by and large, what we do is not necessarily an 
+India play. We work with a lot of glob al majors and with whom we  have been working for 
+quite some time. 
+Ayush Agarwal: So, while I understand that we work with a lot of global customers, but majorly it is, at least as 
+we segmented in our quarterly release, is that under DLM also, it is majorly domestic. So, even 
+though they are global customers, we are supplying to their domestic needs. So, just if you can 
+segment it further, like we have already segmented from the $130 -$140 billion opportunities, 
+$40 billion is where we hav e capability. Within those $40 billion, like , how much would be 
+that time in India? Something if you can, like talk about how much is, like India currently and 
+where we are playing? 
+Rabindra Srikantan: No, that would also be difficult. So, in terms of the global customers, whether it is in India or 
+somebody is exporting from India or it is on, some global location, we don't segment it in 
+terms of geography as much. We are not very concerned about, we don't look at it that way.  
+Because today, every major glo bal player has presence in India one way or the other. So, in 
+many cases, they will engage with their local entity even if it is for a global delivery. 
+Ayush Agarwal: Understood, sir. Thank you so much. 
+Rabindra Srikantan: You are welcome. 
+Moderator: Thank you. The next question is from the line of Sanjaya from Ampersand Capital.  Please 
+proceed. 
+Sanjaya: Yes. So, thanks a lot, sir, for the opportunity. And thanks for organizing your maiden analyst 
+conference call. I just want to know that you have announced this massive CAPEX of some 
+Rs. 750 crore s with Karnataka and Tamil Nadu Government. How important, how critical 
+these are for sustaining the growth that you said that you will be doing? Because this 
+government, their approval, etc., can be up and down. So, if you can just give a sense of that. 
+And also, in that context, will your asset turn ratios or return on capital employed, etc., will be 
+different with this kind of CAPEXs? Are you getting into a new area of business or you are 
+continuing in the same area of business in these 2 states? 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 9 of 19 
+Rabindra Srikantan: So, I will answer the second part first. Broadly, we will continue to focus on what we are 
+currently doing. And we will continue to look for anything wh ich is adjacent to our capability.  
+Whatever we feel is adjacent, right . That is one. The reason we are looking at these 
+geographies is that is where the current ecosystem is in terms of supply, in terms of skilled 
+people, in terms of manpower. So, right now, because of what has been happening over the 
+years, whether it is in terms of defense tech or aerospace and all these areas, there  is a lot of 
+maturity in terms of supply chain and skilled people in these parts of India.  So, that is the 
+reason we are expanding in these two areas currently. 
+Sanjaya: Understood. Sir, if you can just tell me when you mentioned that you will sustain the growth 
+momentum, do you have anything particular kind of rate that you wanted to highlight? 
+Rabindra Srikantan: We can't. We are not giving forward guidance. But normally, we have visibility of at least 18 
+months and in some cases, 24 months.  Because we are always working on something which 
+we build. It has to go through qualifications. And only then can you make and deliver . So, we 
+typically have rolling meaning at any point of time, we would have at least an 18 -month 
+forward visibility on what we are doing. It is based on that that we can say that we can 
+maintain the momentum. 
+Sanjaya: Thank you, sir. 
+Rabindra Srikantan: You are welcome. 
+Moderator: Thank you. The next question is from the line of Aman from Astute Investment Management. 
+Please proceed. 
+Aman: Good afternoon, sir. My first question is around employee count. If you can talk about what is 
+the number as of today in Services as well as what is the number today in Manufacturing? And 
+where do we see this number in the next 1-2 years? 
+Rabindra Srikantan: Sure. So, we are a little over 2,000 people, right , broadly at a very high level. And in the 2,000 
+people, about 40%  would be what we call Manufacturing, that is DLM and people who are 
+full-time supporting DLM. This is what we call Manufacturing engineering. And the ER&D 
+would be about 1,200. But in the ER&D, they also support DLM, broadly if you look at it. So, 
+you can take it as a 60 -40, 40 dedicated to DLM and in the 60%, some of them also support 
+from a design activity to the DLM. So, that is where we are on the employee count. 
+Aman: And sir, the question was also where do we see this number for both the segme nts in the next 
+1-2 years? 
+Rabindra Srikantan: We will see this probably, again, it boils down to guidance. So, this number will continue to 
+grow. We  have grown substantially if you look at the last 2 or 3 years. There has been a 
+substantial growth. So, it will be probably, like I said earlier, if you look at the last year or  2, if 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 10 of 19 
+you have seen the scale -up in our D LM, s o I think that would also have an impact on the 
+employee growth in the same ratio. 
+Aman: So, say, if the number of employees double to, sa y, 4,000 in the next 1-2 years, you think the 
+ratio will be 60:40 only? Or the ratio will switch? 
+Rabindra Srikantan: Yes, it will be somewhere there. Since it is basically very high -mixed Manufacturing, it has a 
+lot of design and engineering content. So, we expect that 60:40 or maybe 50:50 kind of a mix. 
+Aman: Sure, sir. My next question is, as of today, we have expanded our DLM facility in the last few 
+months and few quarters. But without the MoU land and without the MoU capacity, what is the 
+peak revenue we can do from the current facilities in DLM? 
+Rabindra Srikantan: So, I think that we are also adding some other facilities. We are adding one more facility in the 
+next few months in Karnataka, which will be very similar to the one we already have. We 
+should have that up and ready in the next couple of months to add to our capacity.  In terms of 
+capacity utilization, let Rajesh answer that. 
+Rajesh: Yes, the capacity utilization is currently about 80 %-85%. So, similar growth we are expecting 
+in the coming quarters as well. 
+Aman: So, sir, we are still doing in DLM whatever number. So, then 80%-85% means obviously new 
+plant will get added. But peak revenue is like maybe Rs. 600-Rs. 700 crores in DLM, is the 
+understanding correct? 
+Rabindra Srikantan: Again, th at is leading to forward guidance. What we are trying to say is we are adding one 
+more capacity, which should be up and ready very soon. Very soon as in maybe end of 
+December or maybe early January.  So, that will be a substantial increase in our capacity. That 
+would essentially mean in 12 months , we would have added 3 facilities. And we will continue 
+doing that while the larger one happens. 
+Aman: Sure, sir. Final question is on senior mana gement hiring. We recently added  couple of senior 
+people in our team. If you can talk about how the integration process is happening and what is 
+the plan of hiring for the next couple of months? 
+Rabindra Srikantan: Sure. We have a lot of senior people joining us. Strategically, we are hiring both in India and 
+outside of India. And we continue to do so in both our segments. And again, like I said, we are 
+very design and engineering heavy for the DLM. So, we look for people and it is not 
+something which is very commonly available.  So, we are very actively looking. We have 
+added quite a few and we will continue to keep adding senior management. 
+Aman: Thank you, sir. 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 11 of 19 
+Rabindra Srikantan: You are welcome. 
+Moderator: Thank you. The next question is from the line of Anant Jain, an Investor. Please proceed. 
+Anant Jain: Thanks for the opportunity, sir. And congratulations on a good set of numbers. One question 
+that I have is we have not seen service revenue growth in this quarter.  So, when do you think 
+our service revenues can start growing again? My second question is, most of whatever you are 
+saying, we understand that you can't take client names. But if that is the kind of information, 
+like for example, a company of our size doing around Rs. 500-Rs. 600 crores in revenues, it 
+becomes very difficult when you say 40 billion is the a ddressable market size. Can we just try 
+to be more precise about what we are trying to address here? And then you are not even ready 
+to bifurcate between Engineering and Hi-Tech. I just don't know how can one appreciate the 
+work that we are doing if we can 't even give the leve l of details which are expected? And 
+finally, feedback on presentation. You could have just given a statement and not given a 
+presentation because your presentation was just presenting numbers in a different way, which I 
+think there ar e a lot of websites wh ich can do better than that. So, if you can give qualitative 
+data, share qualitative data in the presentation, it would help investors understand what we are 
+doing, the way we are doing? Finally, on this CAPEX of Rs. 500 crores and Rs. 300 crores that 
+you have announced, can you share in terms of segments or rather phases, when can we see 
+these different phases of these CAPEX coming in and when can we see, do we expect revenue 
+recognition or revenue realization from the CAPEX happening once the Rs. 500 crores is 
+completely deployed or the Rs. 300 crores is completely deployed or can we see it in phases, 
+the revenue to start flowing from this, if you can answer that. And from the current set of, the 
+management indicated that we are at 80 % utilization levels now, with the new facility that is 
+coming up, which is outside of this CAPEX. What can be the peak revenue utilization? 
+Rabindra Srikantan: Got it. So, feedback taken on the presentation, we will work on that going forward. Now, in 
+terms of the ER&D revenue, some of the projects, some of these are fixed projects, so we will 
+hope to finish them in the early part of Q3.  So, some of those revenues will reflect in Q3. 
+Then, in terms of the additional capacity, what we are adding, that should be incremental one, 
+which we are adding in the next few months  that will probably give us some yield in Q4 and 
+going beyond that. Now, in terms of incremental on the larger ones, they will definitely be in 
+phases. We will be probably doing it across 3 phases. And as each phase is implemented, the 
+revenue will be accredited. And the other question you had is in terms of giving you data on 
+how to understand it. I think, like I said, segmentation is difficult for us and we are also trying 
+to see what is the best way to communicate this. And we will also see if there is a better way to 
+communicate in terms of segmentation. 
+Anant Jain: Sir, one question is on the service sid e, growth on the Services side. When can we expect to 
+see that? 
+Rabindra Srikantan: Services growth is also happening. It is not like it is not happening. You will see that in the 
+coming quarters. It will continue to grow on that side as well. But we are very consciously 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 12 of 19 
+using some of our ER&D capability to drive the DLM. That is where we see more because like 
+I have been saying, we are very rapidly pivoting into DLM.  So, we use our ER&D also to help 
+us design and engineer new products. So, that becomes our priority. So, for us, priority is if we 
+need capacity to drive DLM, we will use our ER&D capacity to drive our DLM.  And ER&D 
+will continue to scale in its normal way. 
+Anant Jain: Thank you, sir. Thanks for responding. And all the best. 
+Moderator: Thank you. The next question is from the line of Ajay  from Hedgehogs Investments. Please 
+proceed. 
+Ajay: Thanks for the opportunity. I just wanted one clarification because in the Manufacturing 
+division, we have mentioned that we have visibility for  next 18-24 months. So, just wanted to 
+understand the current run rate which we have in the Manufacturing business? So, was there 
+any one-off large order which contributed to this or should we expect this run rate to sustain? 
+Just one clarification on this. And also, like the larger part of the question on the CAPEX side, 
+we have Rs. 300-Rs. 500 crore s CAPEX which we have.  So, on the current n ew 
+Manufacturing plant which is going to start by maybe Q4 of FY ' 26 and which is also 
+progressing as per schedule. So, how much of that CAPEX has been deployed in this plant and 
+how much should we expect going forward? And second question is on the Services. Sir, 
+Services revenue has been somewhat lumpy in my understanding. So, maybe you can explain 
+the nature of this business and what drives this variation and how should we expect going 
+forward this lumpiness and also on improvements here, how should we l ook at that? Any 
+comments on that would be really helpful? 
+Rabindra Srikantan: Got it. So, again when we said we have 18 -24 months visibility, these are also industries and 
+customers we have been engaged for a while. So, is this something which is lumpy an d which 
+is like a spike and your question is, was it a one -off? So, like I said, these are things we have 
+been working on and in our business, you have to design, engineer, prototype, qualify and then 
+start getting into volume production. So, that momentum will continue. So, that was one of 
+your questions. The other one was on the CAPEX. So, this CAPEX definitely will be like, I 
+think Rajesh has already explained how much we are investing in the immediate few months. 
+So, that will be accredited from lat ter part of Q4 into the following year.  Major part is coming 
+in the coming years. And your other question is on the Services revenue. Services revenue, like 
+I said, if there are some fixed bid projects and so on, we need to wait for some acceptance. So, 
+you will see in the Q3-Q4, there will be some momentum on the ER&D side as well. 
+Ajay: Understood, sir. And sir, one last question, because you cannot take maybe customer names 
+and all, but maybe if you can elaborate on the customer diversification, like h ow much of our 
+revenue is currently concentrated and like the current new CAPEX which we are going to 
+deploy. So, are we seeing traction from new customers across maybe new geographies or 
+sectors or is it like just getting concentrated into the existing cu stomers? Maybe if you can 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 13 of 19 
+elaborate on the customer diversification part that will be really helpful to understand th e 
+growth prospect going forward? 
+Rabindra Srikantan: Sure. So, we have existing customers and new customers. With the existing customers, w e are 
+always looking to, one, go to new geographies, also going to new product lines, because many 
+of our customers are large customers across both our verticals.  So, it is also geography, 
+additional product lines and new customers. It  is a combination of all of that, which we 
+continuously do. 
+Ajay: Got it, sir. Thank you. All the best. 
+Rabindra Srikantan: Thank you. 
+Moderator: Thank you. The next question is from the line of Srikanth from TAM Capital. Please proceed. 
+Srikanth: Thank you for the opportunity, sir.  My question is relating to aerospace industry. We are 
+providing Services to aerospace companies. So, whether the company is planning to provide 
+components to the same clients? Is there any plan going on? 
+Rabindra Srikantan: Yes. Thank you. So, yes, we are working with a couple of aerospace companies and we have 
+been engaged with them for a few years.  And we hope in the coming years that business will 
+scale, because it is also very adjacent to what we are currently doing in the Hi-Tech industry in 
+terms of capability. 
+Srikanth: And next question is relating to medical device. We are in the segment of industrial 
+electronics. Whether this caters to medical device or something is going to happen here? 
+Rabindra Srikantan: So, when we say industrial, it also includes medical. Anything that we classify that under 
+industrial electronics. So, that is an industry. Again, we have been working on that for several 
+years? 
+Srikanth: And one final question is , we have collaboration with IISC Bangalore relating to Nanoscience 
+and Engineering. Can you give  business update what is happening? What is the growth 
+happening there? What are the future aspects of it? 
+Rabindra Srikantan: Sure. So, we work with several academia, IISC, the C eNSE, which is Center for Nanoscience. 
+We have been working with them.  We have been working with a couple of other educational 
+institutions. So, we do a couple of things. There are some very fundamental research projects 
+where we are working on where it is a new  process or a new technology.  We do that. In some 
+cases, if we are developing something and we need some assistance, especially in terms of 
+materials, in terms of testing, in terms of what we call calibration and so on, we do work with 
+academia wherever th at capability and those facilities are available  including what we call 
+characterization. So, we use some of their labs wherever they are and we work with them. 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 14 of 19 
+Srikanth: And one final question relating to cybersecurity, we have collaborated with Electric IQ. So, 
+can you see whether there is a new order coming or a new order pipeline to us? 
+Rabindra Srikantan: So, yes, we work on that in part of our Hi-Tech vertical. We do have some customers in the 
+cybersecurity space. And we also use some of the technology in what we develop because a lot 
+of what we develop has to have a security layer.  So, we not only work with them, we also use 
+some of these technologies within what we are building. 
+Srikanth: Thank you, sir. 
+Rabindra Srikantan: You are welcome. 
+Moderator: Thank you. The next question is from the line of Rupesh from Long Equity Partners. Please 
+proceed. 
+Rupesh: Hello, sir. Thank you for the opportunity. I think my first co mment is a follow  up from the 
+previous participant. I think Titan Engineering and Automation Limited is one of our 
+competitors. I don't know if it is a competitor, but at least it is in the same field. And when I go 
+to their website, sir, I can see vision-based inspection systems. I can see photos of so many 
+products. I can look at their assembly lines. And there are so many more details, right . It gives 
+the feel of the business, the complexity of the business.  And I think TEAL is a signif icantly 
+larger company than us. And if they are willing to share, then I think I would request you to re-
+look at our policy of not sharing some of these details. Because I  am sure they also have 
+customer NDAs and other things.  So, that is just the first so rt of like comment. Then my 
+question, sir, is in export markets, righ t, some of these customers you have said that you are 
+geography agnostic. But where are we on the qualification processes for, let  us say, 
+semiconductor customers or consumer electronics customers? Some idea you can give that we  
+will get most of the qualification in, let  us say, 6 months or it will take 1 year or 2 years. Most 
+of our offerings will be qualified.  Some qualitative comment around that ? That would be one 
+question. The second question, sir, is a lot of these products that we supply, what is the 
+replacement cycle for these products?  Are they linked when our customers do CAPEX, like 
+when they set up new lines or new fab or some of these products can also be linked  to the 
+production volume that as the production volume grows, there is a wear and tear and some of 
+the other things  and then we also get  repeat orders.  Something about that. So, if you can 
+address these two questions? 
+Rabindra Srikantan: Sure. So, your feedback taken, we will also see how best we can give more information. We 
+will work on that for sure.  Now, in terms of your other question is in terms of qualification. 
+Qualification is a continuous process. It  is not a one time.  So, as and when you come up with 
+newer parts, products, subsystems, systems, anything, it has to get qualified. It has to get 
+accepted. And so that is not a onetime.  It is a continuous process. Like I said, we have 
+visibility for 18-24 months. In fact, part of that is also getting  qualifications. The fact that we 
+are working within this industry for about 20 years and many of these customers also for a 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 15 of 19 
+long time and a lot of this process is known. So, our learning process of this was many years 
+ago. So, this continues on a continuous basis. Second is you are basically talking about what is 
+the life cycle or what is the life of these things. So, different industries are different. If you go 
+to something in consumer electroni cs, which is very fast changing , so this could be something 
+which could be every year or maybe every year and a half could be sometimes even less than a 
+year depending on the product. If you take semiconductors, it is a very long-life cycle, it would 
+be 15, 20, 25 years. But in that long life cycle , there is  a lot of refreshment, there is a lot of 
+upgrade, there is a lot of opportunity during that long life cycle. And if you take industrial, it 
+could be somewhere in between. It could be anywhere, sometimes it is 5 years, sometimes it is 
+8 years. It comes some where in between in terms of the product life cycle. So, each of them 
+presents a different opportunity and semiconductor of course is very high value and that is why 
+it is a very long life cycle equipment.  And during the life cycle, there is a lot of opportunities 
+to work with that equipment. 
+Rupesh: Just one clarification, sir. Export Manufacturing revenue is not much.  It is like half yearly Rs. 
+7 crores. So, is it qualifications holding back the growth in exports or that is still in business 
+development? That is one.  And then the second question is , in this semiconductor, are we in 
+the front-end Manufacturing or we are in the back-end Manufacturing? Most likely, we should 
+be in back-end. And some idea there around, I know that a lot of semiconductor Manufacturing 
+are going on in India, but some idea about some sub -area of back -end line that you are 
+focusing on? 
+Rabindra Srikantan: So, I will answer the second one first. So, there is no back-end equipment being made in India. 
+What you are referrin g to is probably the OSAT, where they are using back -end equipment to 
+package and bond and so on. So, that is the differentiator.  We are not an OSAT company, we 
+are at the equipment level. So, lot of, almost everything we do are for global customers, so we 
+don’t differentiate whether export or we domestically supply to any of these global majors 
+within India and whether they use it in India or take it wherever in the world, we do not really 
+differentiate too much because today  everything is very globalized.  So, what you are telling 
+about export revenue, where something actually got shipped outside India for a non -rupee 
+denomination versus supplying to a global major within India, we don’t differentiate too much. 
+So, that is kind of one this thing. And I don’t know if I answered all the questions. 
+Rupesh: Sir are you in the wafer growing part of the business? 
+Rabindra Srikantan: Yes, that is correct.  We do both. We are both on the front -end and on the back -end. This is 
+something we have been working on in semiconductor engineering for over 2 decades. So, we 
+have been on both the sides. And these are all mostly global. So, some of our customer’s 
+equipment while they go all over the world , some of that comes back to India as well fo r what 
+is happening in India. 
+Rupesh: I have more questions and I will come back in the queue. Thank you. 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 16 of 19 
+Rabindra Srikantan: Thank you. 
+Moderator: Thank you. The next question is from the line of Anand Trivedi from N epean Capital. Please 
+proceed. 
+Anand Trivedi: My question is regarding your Rs. 760 crore s CAPEX over the medium term. Given the 
+current cash flows in the size of your company, it is a very large number. Can you talk a bit 
+about what is the means that you are thinking about financing this? 
+Rabindra Srikantan: Sure. Like I said earlier, it would be a combination of debt, accrual, incentives, and some 
+equity, which we are working on. And this would be over 3 phases. So, over the 3 phases, we 
+will evaluate as and when it progresses on what will b e how much of debt, how much of 
+equity, how much of incentives and accruals. It will be a combination of all 4 of this. 
+Anand Trivedi: Sir, just to clarify, at this stage, you are still not clear how much equity will be required, right? 
+Rabindra Srikantan: We have a broad understanding. Depending on the phases, we will decide how we want to do 
+this. Like I said, over the 3 phases, we will decide on how much we want to do. 
+Anand Trivedi: Got it. Thanks. 
+Rabindra Srikantan: You are welcome. 
+Moderator: Thank you. The next question is from the line of Tej from Diamond Capital. Please proceed. 
+Tej: Yes. Thank you so much for the opportunity.  Earlier, one of the participants asked about 
+customer concentration. If you could put a number to it, how much would  be the top  1 
+customer contributing to the revenue? Probably, if not top 1, what would be the top 3 clients 
+contributing to the revenue?  And if you could provide this for both of the segments, 
+Manufacturing as well as service. This is the first question? 
+Rabindra Srikantan: So, broadly, 60% is from 10 customers. That  is what we can share. Individually, number 1 or 
+number 3 or the top 3 will be difficult. So, 60% would be from top 10 customers. 
+Tej: And this is for the overall business? 
+Rabindra Srikantan: Excuse me? 
+Tej: This is for the overall business, Manufacturing plus service, right? 
+Rabindra Srikantan: Overall business, yes. We do have customers for whom we do both DLM and ER&D as well. 
+Tej: Got it. And one more question. I know you are not giving any specific information, but then if 
+you could help us understand any one of the participants touch on this point, but if you could 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 17 of 19 
+just broadly help us understand, one of the participants also mentioned th e name of the 
+competitor, but if you could help us understand, let  us say, the Manufacturing clients that you 
+have today, how much portion of their capital, the machinery requirement would you be 
+meeting? I don't want any exact number, but if you could hel p us understand with the range, 
+maybe let us say, less than 10%, less than 5% , what is the number today and then what  is the 
+plan ahead? Are you developing new products for them? If you could just broadly help us 
+understand this? And a followup on this, an d today, for your major clients in the 
+Manufacturing business, of the total portion of the line, how much is today indigenized? How 
+much of the line is made by Indian players and how is still dependent upon, let  us say, non -
+Indian players and particularly Chinese players? If you could help us understand this part? 
+Rabindra Srikantan: Yes. So, the last part will be difficult to answer for a number of reasons on how much is 
+coming from India and non-India. See, for us, it is very difficult to keep one number on what is 
+our share in the CAPEX, right?  There are different types of technology, different types of 
+equipment where there is a different share. So, it is not easy to give that answer. So, since we 
+work on a variety of technologies and a variety of equipm ent, each one, it varies. So, it is very 
+hard to come up with a single number. And that is also constantly changing given the 
+momentum in India. 
+Tej: I get that, but I just wanted the range of the total portion.  I know you  probably might be 
+catering to different equipment of a different whole line, but just wanted a broad range of the 
+total CAPEX of the whole line, if you could give that number? 
+Rabindra Srikantan: See, there are places where we would be the sole supplier and there are other customers where  
+there will be other incumbents globally. So, it is very difficult. It can go from single supplier to 
+maybe 4 or 5 suppliers, some global suppliers. So, it is hard to say that. 
+Tej: Got it. No problem. And one more question on the solar business.  Have we s upplied to any 
+clients in India or globally for the solar business? And if you could just help us understand, 
+you are also talking about putting up a plant for solar, right? So, if you could help us 
+understand, how are we expecting this business to scale up? Because we see a lot of capacities 
+coming in cell plus panel in India, at least. So, if you could help us under stand this part of the 
+business? 
+Rabindra Srikantan: So, solar today for us is an India play. Solar is not just a global play. As we know, there is a lot 
+of solar happening in India.  And India is probably the second largest solar destination in the 
+world. So, India is big for us as far as solar goes. 
+Tej: Got it. And any clients have you already supplied to? 
+Moderator: Mr. Tej. 
+Tej: This is just a completion of that question. 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 18 of 19 
+Rabindra Srikantan: Yes, we have supplied. 
+Tej: And is it possible to name? 
+Rabindra Srikantan: We are not naming, but I think the large s olar players in India are known, t he handful of them. 
+So, we work with some of them. 
+Tej: And our equipment is for the panel part or is it mostly for the cell equipment? 
+Rabindra Srikantan: It is at the cell level. 
+Tej: No problem. Thank you. 
+Rabindra Srikantan: You are welcome. 
+Moderator: Thank you. The next question is from the line of Ajinkya Jadhav from KRIIS Portfolio. Please 
+proceed. 
+Ajinkya Jadhav: Thanks for the opportunity. My question is regarding the semiconductor part. So, given the 
+moves from the central government for the semiconductor industry.  So, how our total 
+addressable market will evolve given the opportunities that will be unfolding in the coming 
+years? If you can delineate that, because what I understand, like you have been supplying to 
+the global players. So, as the industry evolves in India, how our role get evolved? 
+Rabindra Srikantan: So, India, definitely there is a lot going on. The PLI team has been very helpful and we  have 
+seen almost 10 or 12 different large investments being announced and all are being 
+implemented. Like we told earlier, there  is something we  have been doing for a long time 
+globally. So, some of our customer ’s equipment are in India and will continue to come back 
+into India on the investment which is going on in India right now. So, it definitely helps the 
+global semiconductor ecosystem and helps us as well because anything happens here for any of 
+our global customers, automatically a lot of the local support and all that would come to us and 
+we will get a big percentage of that. 
+Ajinkya Jadhav: As of now, is there any semiconductor equipment Manufacturing happening in India? 
+Equipment Manufacturing, I am asking? 
+Rabindra Srikantan: No. 
+Ajinkya Jadhav: So, that will come in you are saying, correct? 
+Rabindra Srikantan: Yes. 
+Ajinkya Jadhav: Yes. That answers my question. Thank you. 
+ ASM Technologies Limited 
+November 10, 2025 
+ 
+ Page 19 of 19 
+Moderator: Thank you. Due to time constraints, that was the last question. I would now like to hand the 
+conference over to the management for the closing comments. Over to you, sir. 
+Rabindra Srikantan: Thanks, everyone, for joining us on the call today. And what we would like to say is that these 
+are very exciting time for ASM Technologi es. We are operating in a very growing 
+environment and have strengthened our own Manufacturing ecosystem like we spoke about 
+and we will remain focused on scaling both our Engineering and our Design-Led 
+Manufacturing business.  Our focus will continue to be on profitable and sustainable growth 
+driven by operational excellence, client partnership and disciplined capital allocation. For any 
+other queries or clarification, feel free to reach out to SGA , our Investor Relations  Advisors. 
+Once again, thank you very much for all your time and wish you all a great day and a week 
+ahead. Thank you. 
+Moderator: Thank you. On behalf of ASM Techno logies, that concludes this conference. Thank you for 
+joining us and you may now disconnect your lines. 

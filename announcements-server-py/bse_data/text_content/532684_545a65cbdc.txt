@@ -1,0 +1,755 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 14, 2025 
+ 
+BSE Limited 
+Department of Corporate Services 
+Phiroze Jeejeebhoy Towers 
+Dalal Street 
+Mumbai 400 001 
+Scrip Code: 532684 
+National Stock Exchange of India Limited 
+Listing Department 
+Exchange Plaza 
+Bandra-Kurla Complex 
+Bandra (East), Mumbai 400 051 
+NSE Symbol: EKC 
+NSE Series: EQ 
+                              
+Dear Sir, 
+Sub: Board Meeting for consideration of Unaudited Financial Results 
+(Standalone and Consolidated) for the quarter and six months 
+ended September 30, 2025. 
+------------------------------------------------------------------------------------- 
+ 
+The Board of Directors of the Company have at its Meeting held today, inter alia: 
+ 
+(i) approved the Unaudited Financial Results (Standalone and Consolidated) 
+for the quarter and six months ended September 30, 2025 as 
+recommended by the Audit Committee; 
+(ii) approved the closure of the Branch Office of the Company at Dubai in the 
+name of EKC Industries, Dubai due to non-operation. 
+ 
+2.  The Meeting of the Board of Directors commenced at 2:30 p.m. and concluded 
+at 4:00 p.m. 
+ 
+3.  Pursuant to Regulation 33 of the Listing Regulations, we enclose the Unaudited 
+Financial Results (Standalone and Consolidated) for the quarter and six months 
+ended September 30, 2025 along with the Limited Review Report with unmodified 
+opinion of the Statutory Auditors, Suresh Surana & Associates LLP on Unaudited 
+Standalone and Consolidated Financial Results of the Company. 
+ 
+4.  The aforesaid Unaudited Financial Results (Standalone and Consolidated) 
+would be uploaded on Company’s website www.everestkanto.com. 
+ 
+Encl. 
+ 
+Thanking you,  
+ 
+Yours faithfully, 
+For Everest Kanto Cylinder Limited 
+ 
+ 
+ 
+Vishal Totla 
+Company Secretary & Compliance Officer 
+
+Suresh Surana & Associates LLP
+Chartered Accountants
+Suresh Surana & Associates LLP
+8th Floor, Bakhtawar 
+229, Nariman Point 
+Mumbai - 400 021, India
+T + 91 (22) 2287 5770 
+emails@ss-associates.com www.ss-associates.com
+LLP Identity No. AAB-7509
+Independent Auditor’s Review Report on the Quarterly and Year to Date Unaudited Standalone Financial 
+Results of the Company pursuant to the Regulation 33 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations 2015, as amended
+To
+The Board of Directors
+Everest Kanto Cylinder Limited
+1. We have reviewed the accompanying Statement of Unaudited Standalone Financial Results of Everest 
+Kanto Cylinder Limited (“the Company"), for the quarter and half-year ended 30 September 2025 (“the 
+Statement”), attached herewith, being submitted by the Company pursuant to the requirements of Regulation 
+33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the 
+“Listing Regulations”).
+2. This Statement, which is the responsibility of the Company’s Management and approved by the Company’s 
+Board of Directors, has been prepared in accordance with the recognition and measurement principles laid 
+down in the Indian Accounting Standard 34 "Interim Financial Reporting” (“Ind AS 34"), prescribed under 
+Section 133 of the Companies Act, 2013 read with relevant rules issued thereunder and other accounting 
+principles generally accepted in India and in compliance with the presentation and disclosure requirements of 
+Regulation 33 of the Listing Regulations. Our responsibility is to express a conclusion on the Statement based 
+on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE) 
+2410 ‘Review of Interim Financial Information Performed by the Independent Auditor of the Entity’, issued by 
+the Institute of Chartered Accountants of India (ICAI). A review of interim financial information consists of 
+making inquiries, primarily of the Company’s personnel responsible for financial and accounting matters and 
+applying analytical and other review procedures. A review is substantially less in scope than an audit 
+conducted in accordance with Standards on Auditing specified under section 143(10) of the Companies Act, 
+2013 and consequently does not enable us to obtain assurance that we would become aware of all significant 
+matters that might be identified in an audit. Accordingly, we do not express an audit opinion.
+4. Based on our review conducted as stated in paragraph 3 above, nothing has come to our attention that 
+causes us to believe that the accompanying Statement, prepared in accordance with the recognition and 
+measurement principles laid down in the aforesaid Indian Accounting Standards (Ind AS) and other 
+accounting principles generally accepted in India, has not disclosed the information required to be disclosed 
+in terms of Regulation 33 of the Listing Regulations, including the manner in which it is to be disclosed, or that 
+it contains any material misstatement.
+For Suresh Surana & Associates LLP
+Chartered Accountants
+Firm’s Registration No.: 121750W/W100010
+Place: Mumbai
+Date: 14 November 2025
+(Vinodkumar Varma)
+Partner
+Membership No. 105545 
+udin: 2S10SSH5BtAW VQR12U
+r
+ReU‘»’«'fe<t Office:
+300*30*. TocTi*topotis Knowledge Ratk Manak»>i Road
+AndfMMi (E> Mumbo. 400 093. ln<Ua r -91 (22>O191
+
+EVEREST KANTO CYLINDER LIMITED
+Registered Office: 204, Raheja Centre, Free Press Journal Marg, 214, Nariman Point, Mumbai 400 021 
+CIN: L29200MH1978PLC020434; Email: lnvestors@ekc.in;
+Tel Numbers: 022 4926 8300/01 Fax: 022 2287 0720; Website : www.everestkanto.com
+A. STATEMENT OF UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30 SEPTEMBER 2025
+(7 in lakhs, unless otherwise stated)
+Sr. Particulars
+Quarter ended Half Year ended Year ended
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024 31.03.2025
+No. (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+Revenue from operations 23,235 23,698 23,877 46.933 43,478 94,622
+II Other income 244 458 384 702 794 1,391
+III Total Income (I + II) 23,479 24,156 24,261 47,635 44,272 96,013
+IV Expenses
+(a) Cost of materials consumed 13,527 13,668 15.228 27,195 28,064 59,965
+(b) Purchases of stock-in-trade (18) 48 9 30 48 155
+(c) Changes in inventories of finished goods, 601 (504) 406 97 (677) (2,388)
+work-in-progress and stock-in-trade
+(d) Employee benefits expense 1,099 1,064 1,001 2,163 1,974 4,067
+(e) Finance costs 245 294 154 539 229 920
+(f) Depreciation and amortisation
+(g) Other expenses
+599 588 630 1,187 1,231 2,463
+6,159- Power and fuel 1,526 1,518 1,331 3,044 2,830
+- Others 3,888 3,832 3,682 7,720 7,185 16,601
+Total Expenses 21,467 20,508 22,441 41,975 40,884 87,942
+V Profit before exceptional items and tax (III - IV) 2,012 3,648 1,820 5,660 3,388 8,071
+VI Exceptional item (loss) (Refer note 3) (1.129) - - (1.129) - (648)
+VII Profit before tax (V + VI) 883 3,648 1,820 4,531 3,388 7,423
+VIII Tax (expense) / credit 
+Current tax (595) (925) (529) (1.520) (968) (2,258)
+Deferred tax 75 (114) 49 (39) 91 165
+IX Profit after tax (VII ♦ VIII) 363 2,609 1,340 2,972 2,511 5,330
+X Other Comprehensive Income / (Loss)
+Items that will not be reclassified to profit or loss, net of taxes 
+I) Remeasurements of defined employee benefit plans (20) (18) 2 (38) 4 (75)
+ii) Chanqes in fair value of FVOCI equity instruments - - - - - 34
+Income tax relating to above items 5 5 (1) 10 (2) 10
+Total other comprehensive income / (loss), net of taxes (15) (13) 1 (28) 2 (31)
+XI Total comprehensive income, net of taxes (IX + X) 348 2,596 1,341 2,944 2.513 5,299
+XII Paid-up equity share capital 
+(Face Value -1 2 per share)
+2,244 2,244 2,244 2,244 2,244 2,244
+XIII Other equity 72,748
+XIV Basic and diluted earnings per equity share (face value of t 2 
+each) (not annualised, except for year end) (in f)
+0.32 2.33 1.19 2.65 2.23 4.75
+
+EVEREST KANTO CYLINDER LIMITED
+B. STATEMENT OF UNAUDITED STANDALONE ASSETS AND LIABILITIES
+(? in lakhs) 
+As atAs at
+Particulars 30 September 2025 31 March 2025
+(Unaudited) (Audited)
+1 ASSETS
+1 Non-current assets
+(a) Property, plant and equipment 21,849 22,202
+(b) Capital work-in-progress 13,329 11,006
+(c) Investment property 2,515 2,536
+(d) Intangible assets
+(e) Financial assets
+49 51
+(i) Investments 2,544 2,544
+(ii) Trade receivables 92 114
+(iii) Other financial assets 427 903
+(f) Non-current tax assets (net) 392 571
+(g) Other non-current assets 1,751 1,694
+Total of non-current assets 42,948 41,621
+2 Current assets
+(a) Inventories
+(b) Financial assets
+26,520 25,965
+(i) Investments 6,240 6,003
+(ii) Trade receivables 14,147 15,062
+(iii) Cash and cash equivalents 150 420
+(iv) Bank balances other than cash and cash equivalents 1,862 1,550
+(v) Loans 52 87
+(vi) Other financial assets 151 132
+(c) Other current assets 6,707 5,659
+Total of current assets 55,829 54,878
+3 Assets classified as held for sale 894 894
+Total Assets 99,671 97,393
+II EQUITY AND LIABILITIES
+1 Equity
+(a) Equity share capital 2,244 2,244
+(b) Other equity 74,910 72,748
+Total equity 77,154 74,992
+2 Liabilities
+(i) Non-current liabilities
+(a) Financial liabilities
+(i) Borrowings 2,044 1,882
+(ii) Lease liabilities 1,904 1,932
+(iii) Other financial liabilities 35 35
+(b) Deferred tax liabilities (net) 720 691
+(c) Provisions 441 376
+Total of non-current liabilities 5,144 4,916
+(») Current liabilities
+(a) Financial liabilities
+(i) Borrowings 8,729 8,768
+(ii) Lease liabilities
+(iii) Trade payables
+97 41
+(a) Total outstanding dues of micro enterprises and small enterprises 414 641
+(b) Total outstanding dues of creditors other than micro enterprises and small enterprises 2,632 3,657
+(iv) Other financial liabilities 750 1,040
+(b) Other current liabilities 4,527 2,900
+(c) Provisions 224 224
+(d) Current tax liabilites (net) - 214
+Total of current liabilities 17,373 17,485
+Total Equity and Liabilities 99,671 97,393
+
+EVEREST KANTO CYLINDER LIMITED
+C. UNAUDITED STANDALONE STATEMENT OF CASH FLOWS
+(E in lakhs)
+Particulars Half Year ended 
+30 September 2025
+Half Year ended 
+30 September 2024
+Cash flow from operating activities
+(Unaudited) (Unaudited)
+Profit before tax 
+Adjustments for:
+4,531 3,388
+Bad debts written off 97 125
+Provision for doubtful debts (213) 7
+Excess provision written back of inventories (net) - (34)
+Depreciation and amortisation 1,187 1,231
+Provision for returns (5) -
+Loss on sale of property, plant and equipment (net) 10 10
+Gain on fair valuation of current investment (FVTPL) (237) (202)
+Realised (gain)/loss on redemption of current investments - (13)
+Provisions / liabilities no longer required written back (17) (147)
+Lease rent income (82) (81)
+Interest income (63) (90)
+Finance costs 539 229
+Operating profit before working capital changes 
+Adjustment for:
+5,747 4,423
+(increase) / decrease in inventories (555) (1,938)
+(Increase) / decrease in trade and other receivables (68) (8,096)
+Increase / (decrease) in trade and other payables 374 (172)
+Operating profit after working capital changes 5,498 (5,783)
+Direct taxes paid (net of refunds) (1.555) (857)
+Net cash generated from/(used in) operating activities 3,943 (6,640)
+B Cash flow from investing activities 
+Inflow:
+Interest received 44 48
+Sale of property, plant and equipment 2 38
+Lease rent received 82 81
+Fixed deposits matured (net) 221 980
+349 1,147
+Outflow:
+Purchase of property, plant and equipment/ intangible assets (including 
+capital work-in-progress)
+3,327 2,259
+Purchase of current investments - 1,500
+3,327 3,759
+Net cash used in investing activities (2,978) (2,612)
+C. Cash flow from financing activities 
+Inflow:
+Proceeds from non-current borrowings 442 35
+Proceeds from current borrowings - 10,002
+442 10,037
+Outflow:
+Repayment of current borrowings 318
+Dividend paid 785 785
+Finance costs paid 444 229
+Payments for lease liabilities 130 47
+1,677 1,061
+Net cash generated from/(used in) financing activities d.235) 8,976
+Net increase/(decrease) in cash and cash equivalents (A + B + C) ^<^2= • . (270) (276)
+Add: Cash and cash equivalents at the beginning of the year
+Cash and cash equivalents at the end of the year_____
+Cash and cash equivalents comprises of the following:
+Cash on hand
+Balances with banks - Current accounts________________
+Total cash and cash equivalents__________________________
+The above Unaudited Standalone Cash Flow Statement has been prepared under indirect method as set out in Ind 
+Statement of Cash Flows.
+
+EVEREST KANTO CYLINDER LIMITED 
+NOTES:
+1 The above unaudited standalone financial results were reviewed and recommended by the Audit Committee and approved by the Board of 
+Directors at their respective meetings held on 14 November 2025. These unaudited standalone financial results have been subjected to limited 
+review by statutory auditors who have issued an unqualified opinion on above results.
+2 These unaudited standalone financial results have been prepared in accordance with the recognition and measurement principles as laid down in 
+Indian Accounting Standard ('Ind AS') notified under the Companies (Indian Accounting Standards) Rules, 2015 (as amended), as prescribed 
+under Section 133 of the Companies Act, 2013.
+3 Exceptional item:
+a Exceptional item loss of ? 1,129 lakhs for the quarter and period ended 30 September 2025 pertains to the penalty imposed by the Office of the 
+Development Commissioner, Kandla Special Economic Zone, Gandhidham-Kutch, on account of non-fulfilment of cumulative positive Net Foreign 
+Exchange (NFE) obligation for the block of 5 financial years 2020-21 to 2024-25.
+b Exceptional item loss of ? 648 lakhs for the year ended 31 March 2025 represent impairment loss on Property, plant and equipment and capital 
+work-in-progress which remained idle for a considerable period of time.
+4 In accordance with Ind AS 108, 'Operating Segments', segment information has been disclosed in the unaudited consolidated financial results of 
+the Company, and therefore, no separate disclosure on segment information is given in the unaudited standalone financial results.
+5 Figures of previous period / year have been regrouped / rearranged, wherever considered necessary.
+For and on behalf of the Board of Directors
+Place: Mumbai
+Date : 14 November 2025
+Puneet Khurana 
+Managing Director 
+DIN: 00004074
+
+Suresh Su a & Associates LLP
+Chartered Accountants
+Suresh Surana & Associates LLP
+8th Floor, Bakhtawar 
+229, Nariman Point 
+Mumbai - 400 021, India
+T + 91 (22) 2287 5770 
+emails@ss-associates.com www.ss-associates.com
+LLP Identity No. AAB-7509
+Independent Auditor’s Review Report on the Quarterly and Year to Date Unaudited Consolidated 
+Financial Results of the Company pursuant to the Regulation 33 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations 2015, as amended
+To
+The Board of Directors
+Everest Kanto Cylinder Limited
+1. We have reviewed the accompanying Statement of Unaudited Consolidated Financial Results (“the 
+Statement”), of Everest Kanto Cylinder Limited (“the Holding Company”) and its subsidiaries (the 
+Holding Company and its subsidiaries together referred to as “the Group”), (refer Annexure 1 for the list 
+of subsidiaries included in the Statement) for the quarter and half-year ended 30 September 2025 (the 
+“Statement”) attached herewith, being submitted by the Holding Company pursuant to the requirement of 
+Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as 
+amended (the “Listing Regulations”).
+2. This Statement, which is the responsibility of the Holding Company’s Management and approved by the 
+Holding Company’s Board of Directors, has been prepared in accordance with the recognition and 
+measurement principles laid down in the Indian Accounting Standard 34 “Interim Financial Reporting" (“Ind 
+AS 34”), prescribed under Section 133 of the Companies Act, 2013 read with relevant rules issued 
+thereunder and other accounting principles generally accepted in India and in compliance with the 
+presentation and disclosure requirements of Regulation 33 of the Listing Regulations. Our responsibility 
+is to express a conclusion on the Statement based on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 2410 “Review of Interim Financial Information Performed by the Independent Auditor of the Entity”, 
+issued by the Institute of Chartered Accountants of India (ICAI). A review of interim financial information 
+consists of making inquiries, primarily of Holding Company’s personnel responsible for financial and 
+accounting matters and applying analytical and other review procedures. A review is substantially less in 
+scope than an audit conducted in accordance with Standards on Auditing specified under Section 143(10) 
+of the Companies Act, 2013 and consequently does not enable us to obtain assurance that we would 
+become aware of all significant matters that might be identified in an audit. Accordingly, we do not express 
+an audit opinion.
+We also performed procedures in accordance with the circular issued by the SEBI under Regulation 33(8) 
+of Listing Regulations, to the extent applicable.
+4. Based on our review conducted and procedures performed as stated in paragraph 3 above and based on 
+the consideration of the review report of the other auditor referred to in paragraph 5 below, nothing has 
+come to our attention that causes us to believe that the accompanying Statement, prepared in accordance 
+with the recognition and measurement principles laid down in the aforesaid Indian Accounting Standard 
+and other accounting principles generally accepted in India, has not disclosed the information required to 
+be disclosed in terms of Regulation 33 of the Listing Regulations, including the manner in which it is to be 
+disclosed, or that it contains any material misstatement
+RcQistored Office:
+308 300 Toctonopotts Knovrtedqe Parte, Matoaka* Cave< Road
+
+Suresh Sur & Associates LLP
+Chartered Accountants
+5. We did not review the interim financial results of the 6 subsidiaries included in the unaudited consolidated 
+financial results, whose interim financial results, without giving effects to elimination of intra-group 
+transaction reflect total assets of Rs. 133,020 lakhs as of 30 September 2025 and total revenues of Rs. 
+12,744 lakhs, total net profit after tax of Rs. 1,036 lakhs and total comprehensive income of Rs. 2,916 
+lakhs for the quarter ended 30 September 2025 and total revenue of Rs. 28,252 lakhs, total net profit after 
+tax of Rs. 3,666 lakhs, total comprehensive income of Rs. 6,023 lakhs and net cash outflows of Rs. 4,844 
+lakhs for the six months ended 30 September 2025, as considered in the Statement. These interim 
+financial results have been reviewed by the other auditors whose reports have been furnished to us by 
+the Management and our conclusion on the Statement, in so far as it relates to the amounts and 
+disclosures included in respect of these subsidiaries is based solely on the reports of the other auditors 
+and the procedures performed by us as stated in paragraph 3 above.
+Further of the above 3 subsidiaries, located outside India, interim financial results have been prepared in 
+accordance with accounting principles generally accepted in their respective countries and which have 
+been reviewed by other auditors under International Standards on Review Engagement applicable in their 
+respective countries. The Holding Company's management has converted the financial results of such 
+subsidiaries from accounting principles generally accepted in their respective countries to accounting 
+principles generally accepted in India. We have reviewed these conversion adjustments made by the 
+Holding Company's management. Our conclusion, in so far as it relates to the amounts and disclosures 
+included in respect of these subsidiaries is based on the review reports of other auditors and the 
+conversion adjustments prepared by the management of the Holding Company and reviewed by us.
+Our conclusion on the Statement is not modified in respect of the above matters with respect to our 
+reliance on the work done by and the reports of the other auditors.
+6. The Statement includes the interim financial results of 3 subsidiaries, which have not been reviewed by 
+their auditors, whose interim financial results, without giving effects to elimination of intra-group transaction 
+reflect total assets of Rs. 1,986 lakhs as of 30 September 2025 and total revenues of Rs. 928 lakhs, total 
+net loss after tax of Rs. 37 lakhs and total comprehensive loss of Rs. 71 lakhs for the quarter ended 30 
+September 2025 and total revenues of Rs. 1,575 lakhs, total net loss after tax of Rs. 53 lakhs and total 
+comprehensive loss of Rs. 140 lakhs and net cash outflows of Rs. 42 lakhs for the six months ended 30 
+September 2025. Our conclusion, in so far as it relates to the amounts and disclosures included in respect 
+of these subsidiaries is based on such unreviewed interim financial results. According to the information 
+and explanations given to us by the management, these interim financial results are not material to the 
+Group.
+Our conclusion on the Statement is not modified in respect of the above matter with respect to our reliance 
+on the financial results certified by the Board of Directors.
+For Suresh Surana & Associates LLP
+Chartered Accountants
+Firm's Reg. No.: 121750W/W100010
+Place: Mumbai
+Date: 14 November 2025
+
+Suresh Surana& Associates LLP
+/ Chartered Accountants
+Annexure 1 to the Independent Auditor’s Review Report on the Unaudited Consolidated Financial 
+Results of Everest Kanto Cylinder Limited for the quarter and half-year ended on 30 September 2025
+List of subsidiaries included in the Statement
+1. EKC International FZE.
+2. Next Gen Cylinder Private Limited
+3. Calcutta Compressions & Liquefaction Engineering Limited
+4. EKC Hungary Kft.
+5. CP Industries Holdings, Inc.
+6. EKC Europe GmbH.
+7. EKC Europe Gy^rtd Zrt.
+8. EKC for Pressure Vessels manufacturing (EKC Egypt) "S.A.E."
+9. EKC General Trading FZE.
+
+EVEREST KANTO CYLINDER LIMITED
+Registered Office: 204, Raheja Centre, Free Press Journal Marg, 214, Nariman Point, Mumbai 400 021 
+CIN: L29200MH1978PLC020434; Email: investors@ekc.ln;
+Tel Numbers: 022 4926 8300/01 Fax: 022 2287 0720; Website : www.everestkanto.com
+A. STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30 SEPTEMBER 2025
+(t In lakhs, unless otherwise stated)
+Sr. 
+No. Particulars
+Quarter ended Half Year ended Year ended
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024 31.03.2025
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+I Revenue from operations 36,038 38.688 36,728 74,726 71,008 1.49,921
+II Other income 467 609 1,023 1,076 1,380 985
+III Total Income (I ♦ II) 36,505 39,297 37,751 75,802 72,388 1,50,906
+IV Expenses
+(a) Cost of materials consumed 19,078 17,956 19,324 37,034 36,468 79,157
+(b) Purchases of stock-in-trade 75 65 51 140 350 769
+(c) Changes in inventories of finished goods, work-in-progress and (317) 1,943 384 1,626 1,171 1,916
+stock-in-trade
+(d) Employee benefits expense 4,247 3,905 3,607 8,152 6,912 14,870
+(e) Finance costs 400 391 824 791 1,043 1,348
+(f) Depreciation and amortisation
+(g) Other expenses
+1,135 1,069 1,051 2,204 2,051 4,149
+- Power and fuel 2,021 2,075 1,790 4,096 3,754 8,162
+- Others 6,645 6,613 6,260 13,258 12,892 27,494
+Total Expenses 33,284 34,017 33,291 67,301 64,641 1,37,865
+V Profit before exceptional items and tax (III - IV) 3,221 5,280 4,460 8,501 7,747 13,041
+VI Exceptional items gain / (loss) (net) (Refer note 3) (1.129) 1,263 - 134 - (648)
+VII Profit before tax (V ♦ VI) 2,092 6,543 4,460 8,635 7,747 12,393
+VIII Tax (expense) / credit 
+Current tax (793) (1.271) (649) (2.064) (1.187) (2.788)
+Deferred tax 67 (114) 49 (47) 90 167
+IX Profit after tax (VII ♦ VIII) 1,366 5,158 3,860 6,524 6,650 9,772
+X Other comprehensive income / (loss)
+(I) Items that will not be reclassified to profit or (loss), net of taxes: 
+i) Remeasurements of defined employee benefit plans (270) 328 (455) 58 152 71
+ii) Changes in fair value of FVOCI equity instruments - - - - 34
+Income tax relating to above items 5 5 (D 10 (2) 10
+(ii) Items that will be reclassified to profit or (loss), net of taxes:
+Gains / (losses) arising from translating the financial statements of foreign operations 2,421 230 713 2,651 174 1,410
+Income tax relating to above items - - - - - -
+Total other comprehensive Income / (loss), net of taxes 2,156 563 257 2,719 324 1,525
+XI Total comprehensive income, net of taxes (IX+X) 3,522 5,721 4,117 9,243 6,974 11,297
+XII Net Profit / (Loss) attributable to : 
+Equity shareholders of the Company 1,367 5,159 3,847 6,526 6.652 9,793
+Non controlling interests (1) (D 13 (2) (2) (21)
+Total Comprehensive Income / (Loss) attributable to: 
+Equity shareholders of the Company 3,523 5,722 4,104 9,245 6,976 11,318
+Non controlling interests (D (1) 13 (2) (2) (21)
+XIII Paid-up equity share capital 
+(Face Value - ? 2 per share)
+2,244 2,244 2,244 2,244 2,244 2,244
+XIV Other equity 1,18,396
+XV Basic and diluted earnings per share (face value of ? 2 each) (not annualised, 
+except for year end) (in ?)
+1.22 4.60 3.43 5.82 5.93 8.73
+
+EVEREST KANTO CYLINDER LIMITED
+B. STATEMENT OF UNAUDITED CONSOLIDATED ASSETS AND LIABILITIES
+Particulars
+ASSETS
+Non-current assets
+(a) Property, plant and equipment
+(b) Capital work-in-progress
+(c) Investment property
+(d) Intangible assets
+(e) Intangible assets under development
+(f) Financial assets
+(i) Investments
+(ii) Trade receivables
+(iii) Other financial assets
+(g) Non-current tax assets (net)
+(h) Other non-current assets 
+Total of non-current assets
+Current assets
+(a) Inventories
+(b) Financial assets
+(i) Investments
+(ii) Trade receivables
+(iii) Cash and cash equivalents
+(iv) Bank balances other than cash and cash equivalents
+(v) Loans
+(vi) Other financial assets
+(c) Other current assets
+Total of current assets
+Assets classified as held for sale
+Total Assets
+As at
+30 September 2025 
+(Unaudited)
+(? in lakhs) 
+As at
+31 March 2025
+(Audited)
+97,781
+41,072 39,063
+20,347 15,982
+2,515 2,536
+54 57
+491 346
+366 366
+92 114
+612 1,082
+392 571
+6,436 3,764
+72,377 63,881
+46,937 48,094
+6,240 6,003
+25,101 24,973
+1,090 6,246
+6,033 1,701
+54 88
+158 136
+12,168 9,413
+96,654
+894 894
+EQUITY AND LIABILITIES
+Equity
+(a) Equity share capital
+(b) Other equity
+Equity attributable to owners
+Non-controlling interests
+Total equity
+Liabilities 
+Non-current liabilities
+(a) Financial liabilities
+(i) Borrowings
+(ii) Lease liabilities
+(iii) Other financial liabilities
+(b) Deferred tax liabilities (net) 
+fc) Provisions
+(d) Government grants
+Total of non-current liabilities
+Current liabilities
+(a) Financial liabilities
+(i) Borrowings
+(ii) Lease liabilities
+(iii) Trade payables
+(a) total outstanding dues of micro enterprises and small enterprises
+(b) total outstanding dues of creditors other than micro enterprises and small enterprises
+(iv) Other financial liabilities
+(b) Other current liabilities
+(c) Provisions
+(d) Government grants
+(e) Current tax liabilites (net)
+Total of current liabilities
+Total Equity and Liabilities
+II Accountants j
+r
+1,71,052 1,61,429
+13,653
+2,244
+1,26,477
+2,244
+1,18,396
+1,28,721 1,20,640
+(1) (1)
+1,28,720 1,20,639
+5,950 2,682
+2,431 2,487
+35 35
+708 671
+763 898
+3,766 -
+6,773
+11,129
+206
+11,640
+221
+414 641
+6,152 6,642
+1,324 1,851
+8,795 12,435
+224 225
+55 -
+380 362
+28,679 34,017
+1,71,052 1,61,429
+
+EVEREST KANTO CYLINDER LIMITED
+C. UNAUDITED CONSOLIDATED STATEMENT OF CASH FLOWS
+Particulars
+Cash flow from operating activities
+Half Year Ended 
+30 September 2025
+(? in lakhs)
+Half Year Ended 
+30 September 2024
+(Unaudited)(Unaudited)
+Profit before tax 
+Adjustments for:
+8,635 7,747
+Bad debts written off 97 534
+Provisions for doubtful debts / loans / advances (net) (213) -
+Excess provision written back of inventories (net) - (34)
+Unrealised foreign exchange (gain)/ loss (net) (179) 29
+Depreciation and amortisation 2,204 2,051
+Provision for return (5) -
+Loss on sale of property, plant and equipment (net) 10 10
+Provision for diminution in value of investment 80
+Provisions / liabilities no longer required written back (17) (147)
+Gain on fair valuation of current investment (FVTPL) (237) (202)
+Realised (gain)/loss on redemption of current investments - (13)
+Lease rent income (105) (81)
+Interest income (136) (728)
+Finance costs 791 1,043
+Operating profit before working capital changes 
+Adjustment for:
+10,925 10,209
+(Increase) / decrease in trade and other receivables (5,597) (11,544)
+(Increase) / decrease in inventories 1,899 584
+Increase / (decrease) in trade and other payables (115) (3,350)
+Operating profit after working capital changes 7,112 (4,101)
+Direct taxes paid (net of refunds) (1,879) (974)
+Net cash generated from/ (used in) operating activities 5,233 (5,075)
+B. Cash flow from investing activities 
+Inflow:
+Lease rent received 105 81
+Interest received 118 140
+Fixed deposits matured 221 1,135
+Sale of property, plant and equipment 2 44
+446 1,400
+Outflow:
+Purchase of property, plant and equipment/ intangible assets (including capital work-in­
+progress)
+7,711 6,254
+Fixed deposits placed 3,906 9
+Purchase of current investment - 1,500
+11,617 7,763
+Net cash used in investing activities (11.171) (6,363)
+C. Cash flow from financing activities 
+Inflow:
+Proceeds from current borrowings 263 116
+Proceeds from non-current borrowings 3,184 11,685
+3,447 11,801
+Outflow:
+Repayment of non-current borrowings 23
+Repayment of current borrowings 1,007 -
+Finance costs paid 678 475
+Dividend paid 785 785
+Payment for acquisition of equity shares from non-controlling interests - 52
+Payments for lease liabilities 255 162
+2,748 1,474
+Net cash generated from financing activities 699 10,327
+D. Effect of changes in exchange rates for cash and cash equivalents 83 26
+Net increase / (decrease) in cash and cash equivalents (A+B+C+D) (5,156) (1.085)
+Add: Cash and cash equivalents at the beginning of the year 6,246 6,496
+Cash and cash equivalents at the end of the year 1,090 5,411
+Cash on hand 191 137
+Balances with banks - Current Accounts 899 5,274
+Cash and cash equivalents at the end of the year 1,090 5,411
+Note: The above Unaudited Consolidated Statement of Cash Flow has been prepared under indirect method as set out in Ind AS 7,
+Statement of Cash Flows.
+
+EVEREST KANTO CYLINDER LIMITED
+D. SEGMENT WISE REVENUE, RESULTS, ASSETS AND LIABILITIES
+(? in lakhs)
+Quarter ended Half Year ended Year ended
+Particulars 30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024 31.03.2025
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+1. Segment revenue 
+a) India 23,235 23,698 23,877 46,933 43,478 94,787
+b) U.A.E (Dubai) 4,069 4,653 3,894 8,722 9,131 17,547
+c) U.S.A and Hungary 8,675 10,855 8,832 19,530 17,787 37,405
+d) Others 928 647 965 1,575 1,807 2,714
+Total j 36,907 39,853 37,568 76,760 72,203 1,52,453
+Less: Inter segment revenue 869 1,165 840 2,034 1,195 2,532
+Revenue from operations 36,038 38,688 36,728 74,726 71,008 1,49,921
+2. Segment results
+Segment Result (before foreign exchange 
+variation gain / (loss), finance costs and tax)
+a) India 1,129 3,405 1,695 4,534 3,099 7,226
+b) U.A.E (Dubai) 450 221 66 671 492 213
+c) U.S.A and Hungary 1,182 2,685 2,578 3,867 4,047 5,824
+d) Others (77) (36) 7 (113) (8) (178)
+Total 2,684 6,275 4,346 8,959 7,630 13,085
+Add: Unallocable income / (expenses) (net) (416) 291 684 (125) 809 481
+Add: Foreign exchange variation gain / (loss) 169 314 197 483 240 (45)
+Less: Finance costs 345 337 767 682 932 1,128
+Profit before tax 2,092 6,543 4,460 8,635 7,747 12,393
+3. Segment assets 
+a) India 85,944 85,734 80,045 85,944 80,045 83,698
+b) U.A.E (Dubai) 20,978 24,652 25,650 20,978 25,650 26,074
+c) U.S.A and Hungary 37,433 31,637 32,054 37,433 32,054 33,485
+d) Others 10,781 8,721 5,309 10,781 5,309 6,313
+Total 1,55,136 1,50,744 1,43,058 1,55,136 1,43,058 1,49,570
+Add: Unallocated assets 15,916 11,355 11,286 15,916 11,286 11,859
+Total Segment assets 1,71,052 1,62,099 1,54,344 1,71,052 1,54,344 1,61,429
+4. Segment liabilities 
+a) India 10,449 9,046 10,007 10,449 10,007 10,566
+b) U.A.E (Dubai) 2,734 3,431 2,881 2,734 2,881 3,968
+c) U.S.A and Hungary 10,446 7,902 9,749 10,446 9,749 10,207
+d) Others 516 349 443 516 443 668
+Total 24,145 20,728 23,080 24,145 23,080 25,409
+Add: Unallocated liabilities 18,187 15,426 14,998 18,187 14,998 15,381
+Total Segment liabilities 42,332 36,154 38,078 42,332 38,078 40,790
+
+EVEREST KANTO CYLINDER LIMITED
+NOTES:
+1 The above unaudited consolidated financial results were reviewed and recommended by the Audit Committee and approved by the Board of Directors at their respective 
+meetings held on 14 November 2025. These unaudited consolidated financial results have been subjected to limited review by statutory auditors who have issued an 
+unmodified opinion on the above results.
+2 These unaudited consolidated financial results have been prepared in accordance with the recognition and measurement principles as laid down in Indian Accounting 
+Standard ('Ind AS') notified under the Companies (Indian Accounting Standards) Rules, 2015 (as amended), as prescribed under Section 133 of the Companies Act 
+2013.
+3 Exceptional item:
+a Exceptional item for the period ended 30 September 2025 comprises of:
+i Exceptional item loss of ? 1,129 lakhs for the quarter ended 30 September 2025 pertains to the penalty imposed by the Office of the Development Commissioner, 
+Kandla Special Economic Zone, Gandhidham-Kutch, on account of non-fulfilment of cumulative positive Net Foreign Exchange (NFE) obligation for the block of 5 
+financial years 2020-21 to 2024-25.
+ii Exceptional item gain of ? 1,263 lakhs for the quarter ended 30 June 2025 represent refund of employee retention credit (tax refund benefit) received by CP Industries 
+Holdings, Inc., wholly owned subsidiary of the Holding Company, from Department of the Treasury, Internal Revenue Service, USA.
+b Exceptional item loss of ? 648 lakhs for the quarter and year ended 31 March 2025 represent impairment loss on Property, plant and equipment and capital work-in- 
+progress which remained idle for a considerable period of time.
+4 The Holding Company, its subsidiaries and step down subsidiaries operate within a single business segment of manufacturing high-pressure seamless gas cylinders 
+and other cylinders, equipments, appliances and tanks with their parts and accessories, used for containing and storage of natural gas and other gases, liquids and air; 
+except for Calcutta Compressions & Liquefaction Engineering Limited, which is in the business of purchase and distribution of natural gas, the operations of which are 
+not material as compared to the overall business of the Group. Hence, the Group has disclosed geographical segment as the primary segment on the basis of 
+geographical location of the operations carried out by the Holding Company, its subsidiaries and step down subsidiaries.
+5 Figures of previous period / year have been regrouped / rearranged, wherever considered necessary.
+For and on behalf of the Board of Directors
+Place: Mumbai
+Date : 14 November 2025
+Puneet Khurana 
+Managing Director 
+DIN:00004074
+

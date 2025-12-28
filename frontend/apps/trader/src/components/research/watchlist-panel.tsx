@@ -301,9 +301,9 @@ export function WatchlistPanel({
                                         </div>
                                     </div>
                                     <div className="mt-3 flex items-center justify-between text-[10px] text-[#8b8f9a]">
-                                        <span>O: {quote?.open ?? "--"}</span>
-                                        <span>H: {quote?.dayHigh ?? "--"}</span>
-                                        <span>L: {quote?.dayLow ?? "--"}</span>
+                                        <span>O: {quote?.open.toFixed(2) ?? "--"}</span>
+                                        <span>H: {quote?.dayHigh.toFixed(2) ?? "--"}</span>
+                                        <span>L: {quote?.dayLow.toFixed(2) ?? "--"}</span>
                                         <span>
                                             Vol:{" "}
                                             {quote?.volume?.toLocaleString() ??
@@ -312,7 +312,7 @@ export function WatchlistPanel({
                                     </div>
                                     <div className="mt-2 flex items-center justify-between">
                                         <span className="text-[10px] text-[#8b8f9a]">
-                                            Prev: {quote?.previousClose ?? "--"}
+                                            Prev: {quote?.previousClose.toFixed(2) ?? "--"}
                                         </span>
                                         <button
                                             className="flex items-center gap-1 px-2 py-1 rounded text-[10px] font-medium text-[#f06c6c] hover:bg-[#f06c6c]/10 transition-colors"

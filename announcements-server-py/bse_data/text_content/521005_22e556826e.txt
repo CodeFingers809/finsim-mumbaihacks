@@ -1,0 +1,588 @@
+ 
+ 
+CIN. No: L72200AP1984PLC004380 
+Corporate Office: 
+# 404, 4th Floor, Lifestyle Building 
+Begumpet, Hyderabad  
+Telangana State - 500016 India. 
+Registered Office: 
+5th Floor, # 54-1-7/21, Panchajanya, Vijayalakshmi 
+colony, Road No. 2, Gunadala, Vijayawada. Andhra 
+Pradesh, India- 520007 
+www.titanintech.in 
+Ph: +91 87908 14671 
+Email: info@titanintech.in 
+                          November 14, 2025 
+ 
+To 
+Listing Compliance department 
+BSE Limited 
+PJ Towers, Dalal Street 
+Mumbai- 400001 
+ 
+Sub: Outcome of the Board Meeting 
+Ref: Scrip Code: TITANIN | 521005 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015 ('Listing Regulations'), we wish to inform that, the meeting of the Board of Directors of the 
+Company held on Friday, November 14, 2025, commenced at 11:30 A.M. and concluded at 12:30 P.M. 
+has inter-alia transacted: 
+ 
+1. Approved the unaudited F inancial results  of the Company for the quarter  and half year ended 
+September 30, 2025. (enclosed herewith) 
+ 
+2. Took note of the Limited Review Report issued by  the Statutory Auditors of the Comp any on the 
+unaudited F inancial results for the quarter and half year ended September  30, 202 5. (enclosed 
+herewith) 
+ 
+3. The capitalization of Research & Development (R& D) expenditure of Rs. 5.05 crores incurred in 
+second quarter of F.Y . 2025-26 for “3D Display & AI-enabled visualization technologies for LCD, LED, 
+and Light-Field (LfD) displays”. Company  is developing next-generation display controller systems and 
+AI-enabled visualization technologies for LCD, LED, and Light -Field (LfD) displays. The R&D combines 
+FPGA logic, SoC processors, and calibration to deliver low latency rendering for immersive learn ing, 
+simulation, and 3D interactive experiences for various LED and LCD display systems including IP based 
+RDSO PIS systems for Indian railways. 
+ 
+(Details required under Regulation 30 of Listing Regulations and SEBI Circular No. SEBI/HO/CFD/CFD-
+PoD-1/P/CIR/2023/123 dated July 13, 2023 is attached herewith “Annexure A”) 
+ 
+4. Approved allotment of equity shares by way of conversion of Convertible equity share warrants. 
+Allotment of 51,50 ,000 (Fifty one  lakhs fifty thousand ) Equity shares to Nadem Township Priv ate 
+Limited, on conversion of “convertible equity share warrants” into “equity shares” as full amount on 
+51,50,000 (Fifty one lakhs fifty thousand)  convertible equity share warrants has been received. 
+ 
+(Details required under Regulation 30 of Listing Regulations and SEBI Circular No. SEBI/HO/CFD/CFD-
+PoD-1/P/CIR/2023/123 dated July 13, 2023 is attached herewith “Annexure B”) 
+ 
+A copy of aforesaid annexures will be uploaded in the Company's website http://www.titanintech.in 
+We request you to kindly take the above on record.  
+ 
+Thanking you,  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CIN. No: L72200AP1984PLC004380 
+Corporate Office: 
+# 404, 4th Floor, Lifestyle Building 
+Begumpet, Hyderabad  
+Telangana State - 500016 India. 
+Registered Office: 
+5th Floor, # 54-1-7/21, Panchajanya, Vijayalakshmi 
+colony, Road No. 2, Gunadala, Vijayawada. Andhra 
+Pradesh, India- 520007 
+www.titanintech.in 
+Ph: +91 87908 14671 
+Email: info@titanintech.in 
+ 
+Yours faithfully,  
+For Titan Intech Limited  
+ 
+ 
+ 
+Mangla Sachin Savla 
+Company Secretary & Compliance Officer  
+Encl: as above  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+CIN. No: L72200AP1984PLC004380 
+Corporate Office: 
+# 404, 4th Floor, Lifestyle Building 
+Begumpet, Hyderabad  
+Telangana State - 500016 India. 
+Registered Office: 
+5th Floor, # 54-1-7/21, Panchajanya, Vijayalakshmi 
+colony, Road No. 2, Gunadala, Vijayawada. Andhra 
+Pradesh, India- 520007 
+www.titanintech.in 
+Ph: +91 87908 14671 
+Email: info@titanintech.in 
+ 
+“Annexure A” 
+ 
+Sr. No. Particulars Details 
+1 Overview 
+Titan Intech Limited (TIL) is developing next-generation display controller 
+systems and AI-enabled visualization technologies for LCD, LED, and Light-
+Field (LfD) displays. The R&D combines FPGA logic, SoC  processors, and 
+calibration to deliver low latency rendering for immersive learning, 
+simulation, and 3D interactive experiences for various LED and LCD display 
+systems including IP based RDSO PIS systems for Indian railways. 
+2 
+Nature of 
+Expenditure 
+(R&D Spend) 
+R&D Capitalization: 
+ 
+Controllers for LCD Interactive Panels: ₹1.05 Cr 
+PIS Systems for Indian Railways (RDSO Approval): 
+Master controllers for multiple display types and 
+data-distribution card development 
+₹1.21 Cr 
+Display Board R&D: Mechanical design, PCB + 
+FPGA development, and power-supply 
+engineering 
+₹0.55 Cr 
+Infrastructure & Equipment for RDSO ₹1.45 Cr 
+Manpower & Consultancy: ₹0.45 Cr 
+Development of production test zigs ₹0.34 Cr 
+Total R&D Capitalization ₹5.05 Cr. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CIN. No: L72200AP1984PLC004380 
+Corporate Office: 
+# 404, 4th Floor, Lifestyle Building 
+Begumpet, Hyderabad  
+Telangana State - 500016 India. 
+Registered Office: 
+5th Floor, # 54-1-7/21, Panchajanya, Vijayalakshmi 
+colony, Road No. 2, Gunadala, Vijayawada. Andhra 
+Pradesh, India- 520007 
+www.titanintech.in 
+Ph: +91 87908 14671 
+Email: info@titanintech.in 
+ “Annexure B” 
+ 
+Sr. 
+No 
+Particulars Remarks 
+ 
+1. Type of securities proposed to be 
+issued (viz. equity shares, 
+convertible securities etc.). 
+Equity Shares allotted pursuant to conversion of share warrants 
+2. Type of issue (further public 
+offering, rights issue, depository 
+receipts, qualified institutional 
+placement, preferential allotment 
+etc.). 
+Equity Shares allotted pursuant to conversion of share warrants 
+issued by way of Preferential Allotment 
+3. Total number of securities 
+proposed to be issued or the total 
+amount for which securities will 
+be issued. 
+51,50,000 number of equity shares allotted  
+4. Additional information in case of 
+preferential issue: 
+(a) Names of investors S No. Name of the 
+Investors 
+Category Number of 
+Equity shares 
+1 NADEM 
+TOWNSHIP 
+PRIVATE LIMITED 
+Public 51,50,000 
+  Total 51,50,000  
+ 
+(b) Post allotment of securities – 
+outcome of the subscription, 
+Issue price/allotted price (in case 
+of convertibles) 
+ 
+Now the face value has decreased to Rs. 1.00/ - that is why, 
+company is allotting 51,50,000 equity shares to the investor. 
+ 
+Preferential allotment of 5,15,000 Convertible Equity shares 
+warrants were allotted at a price of Rs 55/ - per share (Face value 
+Rs. 10/- and Premium Rs. 45/-), 
+(d) In case of convertibles, intimation 
+on conversion of securities or on 
+lapse of the tenure of the 
+instrument. 
+Not Applicable 
+ 
+(e) Any cancellation or termination of 
+proposal for issuance of securities 
+including reasons thereof. 
+ Not Applicable 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+s Nd Vago
+CHA&TEREtr ACCO
+Ffqt No'fo3, H.No2-2-llo5l35&37, Relionce Auon's Areno, Tiloh Nogar, Hyderobqd-sooo TelongonoE - Moil: covomrhi.rottelq@gmoil.com Mobile zgg660043g0
+LilVlrEp REVTEW REPORT
+ent of unaudited standalone financial results ofthe quarter ended 30 September, 2025 (the
+by the Company pursuant to the requirements
+ns and disclosure Requirements) Regulations,
+(,the circurar). 
+No: ctR/cFD/FAcr62/2016 dated Jury 5, 2016
+2'The preparation of the statement in accordance with the recognition and measurement
+ard 34, (lnd AS) 34tnterim Financial Reporting,,
+es Act, 2013 read with Rule 3 of Companies
+as amended, read with the Circular is the
+d has been approved by the Board of Directors
+revtew. 
+s a conclusion on tJle Slatement based on our
+3'we conducted our review in accordance with the standard on Review Engagements (sRE)24!0" Review of Interim Financial Information Performed by the Independent Auditor of theEntity' issued by the Institute of chartered Accot ntants oi rnoia. This standard required that weplan and perform the review to obtain moderate assurance as to whether the statement is freeof material misstatement' A Review is limited primarily to Inquiries of company personnel andanalytical procedures applied to financial data and thus provide less assurance than an audit.we have"not performed an audit and accordingly, we do not express an audit opinion,
+To
+The Board of Director
+Titan Intech Ltd
+U Dl N : 25229292B.MtcEt9891
+Place : Hyderabad
+Date: 14.i.1..2025
+U D I N : 252292928M tGEt9891
+hing has come to or attention that causes us toed in accordance with the rbcognition and
+ble Indian Accounting Standards (tnd AS,))
+2013, read with relevant rules issued tf,.r.
+d policies has not disclosed the information
+ion, read with the Circular, including the
+ins any material misstatement.
+For SMV & Co
+Charted Accountants
+Firm Regd No:015G30S
+R.VAMSHI KRISHNA
+Proprietor
+Mem No:229292
+Amount in (Lakhs)
+Year Ended
+30-Sep-25 30-Jun-25 30-Sep-24 30-Sep-25 30-Sep-24 31-Mar-25
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited
+Part I
+1 Income
+Revenue from operations 687.49 497.05 520.06 1184.54 1001.78 2701.52
+Other income 3.00 1.52 0.00 4.52 0.00 9.06
+Total income 690.49 498.57 520.06 1189.06 1001.78 2710.58
+2 Expenses
+(a) Cost of materials consumed 318.82 223.67 286.03 542.49 590.91 1511.73
+(b) Purchases of stock-in-trade 0.00 0.00 0.00 0.00 0.00 0.00
+(c) Changes in inventories of finished goods, work-in-progress and stock-in-trade 0.00 0.00 0.00 0.00 0.00 0.00
+(d) Employee benefit expense  60.95 57.25 25.65 118.20 49.74 178.07
+(e) Finance costs 8.63 6.34 4.12 14.97 7.72 20.86
+(f) Depreciation, depletion and amortisation expense 90.11 79.89 79.30 170.00 156.20 319.74
+(g) Other Expenses
+1 Other Expenses 79.41 55.86 21.77 135.27 41.03 212.92
+Total other expenses 79.41 55.86 21.77 135.27 41.03 212.92
+Total  expenses 557.92 423.01 416.87 980.93 845.60 2243.32
+3 Total profit before exceptional items and tax 132.57 75.56 103.19 208.13 156.18 467.26
+4 Exceptional items 0.00 0.00 0.00 0.00 0.00 0.00
+5 Total profit before tax 132.57 75.56 103.19 208.13 156.18 467.26
+6 Tax expense
+7 Current tax 19.89 11.33 15.48 31.22 23.43 70.09
+8 Deferred tax 0.00 0.00 0.00 0.00 0.00 0.00
+9 Total tax expenses 19.89 11.33 15.48 31.22 23.43 70.09
+10 Net movement in regulatory deferral account balances related to profit or loss and 
+the related deferred tax movement 0.00 0.00 0.00 0.00 0.00 0.00
+11 Net Profit Loss for the period from continuing operations 112.69 64.22 87.71 176.91 132.75 397.17
+12 Profit (loss) from discontinued operations before tax 0.00 0.00 0.00 0.00 0.00 0.00
+13 Tax expense of discontinued operations 0.00 0.00 0.00 0.00 0.00 0.00
+14 Net profit (loss) from discontinued operation after tax 0.00 0.00 0.00 0.00 0.00 0.00
+15 Share of profit (loss) of associates and joint ventures accounted for using equity 
+method 0.00 0.00 0.00 0.00 0.00 0.00
+16 Total profit (loss) for period 112.69 64.22 87.71 176.91 132.75 397.17
+17 Other comprehensive income net of taxes 0.00 0.00 0.00 0.00 0.00 0.00
+18 Total Comprehensive Income for the period 112.69 64.22 87.71 176.91 132.75 397.17
+19 Total profit or loss, attributable to
+Profit or loss, attributable to owners of parent 0.00 0.00 0.00 0.00 0.00 0.00
+Total profit or loss, attributable to non-controlling interests 0.00 0.00 0.00 0.00 0.00 0.00
+20 Total Comprehensive income for the period attributable to
+Comprehensive income for the period attributable to owners of parent 0.00 0.00 0.00 0.00 0.00 0.00
+Total comprehensive income for the period attributable to owners of parent non-
+controlling interests 0.00 0.00 0.00 0.00 0.00 0.00
+21 Details of equity share capital
+Paid-up equity share capital 3276.04 3151.04 3046.03 3276.04 3046.03 3076.04
+Face value of equity share capital 1.00 10.00 10.00 1.00 10.00 10.00
+Details of debt securities
+22 Reserves excluding revaluation reserve 5702.32 5027.13 4225.98 5702.32 4225.98 4625.41
+23 Earnings per share
+i Earnings per equity share for continuing operations
+Basic earnings (loss) per share from continuing operations 0.03 0.20 0.29 0.05 0.48 1.30
+Diluted earnings (loss) per share from continuing operations 0.03 0.20 0.29 0.05 0.48 1.30
+ii Earnings per equity share for discontinued operations
+Basic earnings (loss) per share from discontinued operations 0.00 0.00 0.00 0.00 0.00 0.00
+Diluted earnings (loss) per share from discontinued operations 0.00 0.00 0.00 0.00 0.00 0.00
+iii Earnings per equity share (for continuing and discontinued operations)
+Basic earnings (loss) per share from continuing and discontinued operations 0.03 0.20 0.29 0.05 0.48 1.30
+Diluted earnings (loss) per share from continuing and discontinued operations 0.03 0.20 0.29 0.05 0.48 1.30
+Statement of Unaudited Standalone Financial Results for the quarter and half year ended 30 September, 2025
+Quarter Ended
+Particulars
+Half Year Ended
+
+27 Disclosure of notes on financial results
+1
+2
+3
+4
+5
+6
+7
+For and on behalf of the Board of Directors
+NARSIMHARAO VENKATA LAXMI VENUTURUPALLE
+Whole Time Director
+DIN : 10565686
+Place: Hyderabad
+Date : November 14, 2025
+Previous period figures have been regrouped, wherever necessary, for the purpose of comparison.
+The results are also available on the website of the Company www.titanintech.in
+The figures for the quarter ended 30 September, 2025 are the balancing figures between the unaudited figures upto the half year ended 30 September 2025 and reviewed published figures of quarter ended 30 June, 2025. The figures for the 
+quarter ended 30 September, 2024 are the balancing figures between the unaudited figures upto the half year ended 30 September 2024 and audited published figures of quarter ended 30 June, 2024.
+Notes:
+The above Unaudited standalone financial results have been reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on 14 November, 2025. The Statutory Auditors have carried out limited review of 
+standalone financial results of the company for the quarter and half year ended 30 September, 2025.
+The Unaudited standalone financial results of the company have been prepared in accordance with Indian  Accounting Standards {Ind AS) notified under Section 133 of the Companies Act, 2013 read with the Companies {Indian Accounting 
+Standards) Rules, 2015 (as amended) and in terms of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("Listing Requirements").
+The company is primarily engaged in the segment of "Information technology enabled services" Accordingly, the Company has only one reportable segment "Information technology enabled services" and disclosures as per Ind AS 108 
+"Operating Segments" are not applicable. 
+The Company has capitalised expenditure incurred on R&D activities relating to “3D Display & AI-Integrated Educational Platforms.” The amount capitalised is ₹5.05 crores for the quarter ended 30th September 2025
+
+Amount in (Lakhs)
+As at 30 September 
+2025 (Unaudited)
+As at 30 September 
+2024 (Unaudited)
+  Assets
+1     Non-current assets
+Property, plant and equipment 3271.16 2553.39
+Capital work-in-progress
+Investment property
+Goodwill
+Other intangible assets
+Intangible assets under development 2230.00
+Biological assets other than bearer plants
+Investments accounted for using equity method
+Non-current financial assets
+Non-current investments
+Trade receivables, non-current
+Loans, non-current
+Other non-current financial assets 374.21
+Total non-current financial assets
+Deferred tax assets (net)
+Other non-current assets
+Total non-current assets
+2 Current assets
+Inventories 135.69
+Current financial asset
+Current investments
+Trade receivables, current 1389.98 924.74
+Cash and cash equivalents 95.85 37.47
+Bank balance other than cash and cash equivalents
+Loans, current 4587.22 3156.79
+Other current financial assets 220.33 1389.69
+Total current financial assets
+Current tax assets (net)
+Other current assets
+Total current assets
+3 Non-current assets classified as held for sale
+4 Regulatory deferral account debit balances and related deferred tax 
+Assets
+Total assets 11930.23 8436.29
+Equity and liabilities
+1 Equity
+Equity attributable to owners of parent
+Equity share capital 3276.04 3046.03
+Other equity 5702.32 4225.98
+Total equity attributable to owners of parent
+Non controlling interest 2161.13 182.13
+Total equity
+2 Liabilities
+Non-current liabilities
+Non-current financial liabilities
+Borrowings, non-current 245.94 255.16
+Trade Payables, non-current
+(A) Total outstanding dues of micro enterprises and small enterprises
+(B) Total outstanding dues of creditors other than micro enterprises 
+and small enterprises
+Total Trade payable
+Other non-current financial liabilities
+Total non-current financial liabilities
+Provisions, non-current
+Deferred tax liabilities (net) -6.61 -6.61
+Deferred government grants, Non-current
+Other non-current liabilities 301.36 181.50
+Total non-current liabilities
+Current liabilities
+Current financial liabilities
+Standalone Statement of Asset and Liabilities
+Particulars
+
+Borrowings, current
+Trade Payables, current 56.89 128.39
+(A) Total outstanding dues of micro enterprises and small 
+enterprises
+(B) Total outstanding dues of creditors other than micro enterprises 
+and small enterprises
+Total Trade payable
+Other current financial liabilities 94.15 400.29
+Total current financial liabilities
+Other current liabilities
+Provisions, current 99.01 23.42
+Current tax liabilities (Net)
+Deferred government grants, Current
+Total current liabilities
+3 Liabilities directly associated with assets in disposal group classified as 
+held for sale
+4 Regulatory deferral account credit balances and related deferred tax 
+liability
+Total liabilities
+Total equity and liabilities 11930.23 8436.29
+Disclosure of notes on assets and liabilities
+
+Amount in (Lakhs)
+As at 30 September 
+2025 (Unaudited)
+As at 30 September 
+2024 (Unaudited)
+Part I
+1 Statement of cash flows
+Whether cash flow statement is applicable on company
+Cash flows from used in operating activities
+Profit before tax 208.13 156.20                            
+2 Adjustments for reconcile profit (loss) .
+Adjustments for finance costs
+Adjustments for decrease (increase) in inventories -135.69
+Adjustments for decrease (increase) in trade receivables, current -465.20 -924.74
+Adjustments for decrease (increase) in trade receivables, non-current
+Adjustments for decrease (increase) in other current assets -1430.40
+Adjustments for decrease (increase) in other non-current assets
+Adjustments for other financial assets, non-current -2198.14
+Adjustments for other financial assets, current 1169.36 -1247.08
+Adjustments for other bank balances
+Adjustments for increase (decrease) in trade payables, current -71.50 128.39
+Adjustments for increase (decrease) in trade payables, non-current
+Adjustments for increase (decrease) in other current liabilities 154.21
+Adjustments for increase (decrease) in other non-current liabilities 119.90
+Adjustments for depreciation and amortisation expense
+Adjustments for impairment loss reversal of impairment loss recognised in profit or 
+loss
+Adjustments for provisions, current 75.60 -59.71
+Adjustments for provisions, non-current
+Adjustments for other financial liabilities, current -306.10
+Adjustments for other financial liabilities, non-current
+Adjustments for unrealised foreign exchange losses gains
+Adjustments for dividend income
+Adjustments for interest income
+Adjustments for share-based payments
+Adjustments for fair value losses (gains)
+Adjustments for undistributed profits of associates
+Other adjustments for which cash effects are investing or financing cash flow
+Other adjustments to reconcile profit (loss)
+Other adjustments for non-cash items 1476.30
+Share of profit and loss from partnership firm or association of persons or limited 
+liability partnerships
+Total adjustments for reconcile profit (loss)
+Net cash flows from (used in) operations 640.40 -3834.69
+Dividends received
+Interest paid
+Interest received
+Income taxes paid (refund) 31.22
+Other inflows (outflows) of cash
+Net cash flows from (used in) operating activities 671.62 -3834.69
+3 Cash flows from used in investing activities
+Cash flows from losing control of subsidiaries or other businesses
+Cash flows used in obtaining control of subsidiaries or other businesses
+Other cash receipts from sales of equity or debt instruments of other entities
+Other cash payments to acquire equity or debt instruments of other entities
+Other cash receipts from sales of interests in joint ventures
+Other cash payments to acquire interests in joint ventures
+Cash receipts from share of profits of partnership firm or association of persons or 
+limited liability partnerships
+Cash payment for investment in partnership firm or association of persons or limited 
+liability partnerships
+Proceeds from sales of property, plant and equipment
+Purchase of property, plant and equipment -717.77 -869.28
+Proceeds from sales of investment property
+Purchase of investment property 374.21 -374.21
+Proceeds from sales of intangible assets
+Purchase of intangible assets -2230.00 266.98
+Proceeds from sales of intangible assets under development
+Purchase of intangible assets under development
+Proceeds from sales of goodwill
+Purchase of goodwill
+Proceeds from biological assets other than bearer plants
+Purchase of biological assets other than bearer plants
+Proceeds from government grants
+Standalone Cash Flow Statement
+Particulars
+
+Proceeds from sales of other long-term assets
+Purchase of other long-term assets
+Cash advances and loans made to other parties
+Cash receipts from repayment of advances and loans made to other parties
+Cash payments for future contracts, forward contracts, option contracts and swap 
+contracts
+Cash receipts from future contracts, forward contracts, option contracts and swap 
+contracts
+Dividends received
+Interest received
+Income taxes paid (refund)
+Other inflows (outflows) of cash
+Net cash flows from (used in) investing activities -2573.56 -976.51
+4 Cash flows from used in financing activities
+Proceeds from changes in ownership interests in subsidiaries
+Payments from changes in ownership interests in subsidiaries
+Proceeds from issuing shares 230.00 1946.58
+Proceeds from issuing other equity instruments
+Payments to acquire or redeem entity's shares
+Payments of other equity instruments
+Proceeds from exercise of stock options
+Proceeds from issuing debentures notes bonds etc
+Proceeds from borrowings 232.35
+Repayments of borrowings -9.20 181.50
+Payments of lease liabilities
+Dividends paid
+Interest paid
+Income taxes paid (refund)
+Other inflows (outflows) of cash 1739.52 2458.76
+Net cash flows from (used in) financing activities 1960.32 4819.19
+Net increase (decrease) in cash and cash equivalents before effect of exchange 
+rate changes 58.38 7.99
+5 Effect of exchange rate changes on cash and cash equivalents
+Effect of exchange rate changes on cash and cash equivalents
+Net increase (decrease) in cash and cash equivalents 58.38 7.99
+Cash and cash equivalents cash flow statement at beginning of period 37.47 37.47
+Cash and cash equivalents cash flow statement at end of period 95.85 37.47
+

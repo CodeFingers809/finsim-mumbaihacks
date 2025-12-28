@@ -1,0 +1,1380 @@
+ 
+ 
+  
+November 14, 2025 
+Sc no.- 18823 
+ 
+Dear Sirs/Madam, 
+ 
+ 
+Sub: Submission of Investor presentation to be made to the Analysts/Investors 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 and with f urther reference to our letter  bearing sc no . 18814 dated  
+November 6,  2025, we are enclosing herewith the presentation to be made to the 
+Analysts/Investors on the Financial Results  of Tata Motors  Passenger Vehicles  Limited 
+(formerly Tata Motors Limited)  (‘the Company’)  for the second quarter and half year  ended 
+September 30, 2025. 
+ 
+The same is also being made available on the Company’s website at www.cars.tatamotors.com. 
+ 
+This is for information of the Exchanges and the Members. 
+ 
+ 
+Yours faithfully, 
+Tata Motors Passenger Vehicles Limited 
+(formerly Tata Motors Limited) 
+ 
+ 
+ 
+Maloy Kumar Gupta 
+Company Secretary and Chief Legal Officer 
+ 
+Encl: as above 
+ 
+ 
+ 
+ 
+ 
+BSE Limited    
+First Floor, New Trading Ring 
+Rotunda Building, P J Towers,  
+Dalal Street, Fort, Mumbai 400 001  
+ 
+ 
+National Stock Exchange of India Ltd. 
+Exchange Plaza, C-1, Block G,  
+Bandra Kurla Complex,  
+Bandra(E), Mumbai 400 051 
+ 
+  
+Results for the quarter ended September 30, 2025
+Tata Motors Passenger Vehicles Limited 
+( f o r m e r l y  k n o w n  a s  Tat a  M o t o r s  L i m i t e d ) 
+
+2
+Safe harbour statement
+Statements in this presentation describing the objectives, projections,
+estimates and expectations of Tata Motors Passenger Vehicles Limited (the 
+“Group”), Jaguar Land Rover Automotive plc (“JLR”) and its business 
+segments may be “forward-looking statements” within the meaning of
+applicable securities laws and regulations. Actual results could differ
+materially from those expressed or implied. Important factors that could
+make a difference to the Group’s operations include, amongst others,
+economic conditions affecting demand / supply and price conditions in the
+domestic and overseas markets in which the Group operates, changes in
+Government regulations, tax laws and other statutes and incidental factors. 
+Certain analysis undertaken and represented in this document may 
+constitute an estimate from the Group and may differ from the actual 
+underlying results.
+Narrations
+- Q2FY25 represents the 3 months period from 1 July 2024 to 30 Sep 2024
+- Q1FY26 represents the 3 months period from 1 Apr 2025 to 30 Jun 2025
+- Q2FY26 represents the 3 months period from 1 July 2025 to 30 Sep 2025
+- H1FY25 represents the 6 months period from 1 Apr 2024 to 30 Sep 2024
+- H1FY26 represents the 6 months period from 1 Apr 2025 to 30 Sep 2025
+ Accounting Standards
+• Financials (other than JLR)  contained in the presentation are as per IndAS
+• Results of Jaguar Land Rover Automotive plc are presented under IFRS as 
+adopted for use in the UK. 
+Other Details 
+• Presentation format : The results provided represent the details on consolidated segment 
+level. The operating segment comprise of Automotive segment and others.
+• In automotive segment, results have been presented for entities basis two reportable sub-
+segments as below.
+    
+• JLR volumes: Retail volume data includes sales from the Chinese joint venture (“CJLR”) and 
+Wholesale volumes exclude sales from CJLR.
+• Reported EBITDA is defined to include the product development expenses charged to P&L 
+and realised FX and commodity hedges but excludes the gain/ loss on realised derivatives 
+entered into for the purpose of hedging debt, revaluation of foreign currency debt, 
+revaluation of foreign currency other assets and liabilities, MTM on FX and commodity 
+hedges, other income (except government grant) as well as exceptional items.
+• Reported EBIT is defined as reported EBITDA plus profits from equity accounted investees 
+and deferral income less depreciation & amortisation.
+• Free cash flow  is defined as net cash generated from operating activities less net cash used 
+in automotive investing activities, including realised profit/ loss on sale of mutual funds and 
+excluding investments in consolidated entities, M&A linked asset purchases and 
+movements in financial investments, and after net finance expenses (including interest on 
+leases) and fees paid.
+• Reported ROCE is analytically derived by dividing the reported EBIT for the last 12 months 
+upon the average of the capital employed (YoY).
+TML Group Automotive business
+Tata Passenger Vehicles (Tata PV)
+Includes TMPVL, TPEML,TMDTC, 
+Trilix, Joint operation: FIAPL
+Jaguar Land 
+Rover 
+3
+Safe harbour – accounting nuances
+Entities
+Post Demerger for FY26 
+Prior period (FY25 & 
+Q1FY26) (recast) Q2-Q4 FY26
+Tata Motors Passenger 
+Vehicles Limited 
+(Consolidated)
+Existing PV segment + 
+JLR  + Others (incl. TTL) 
++ unallocable
+The prior period 
+financial results of CV 
+business are reported 
+as discontinued 
+operations
+Existing PV segment + 
+JLR  + Others (incl. 
+TTL)+ unallocable
+(1) For PV business, we continue to report the details for “Tata Passenger Vehicles” segment at consolidated segment level. 
+(2) The statutory Standalone Tata Motors Passenger Vehicles Limited results comprise of TMPVL + proportionate consolidation of Joint Operation FIAPL. The prior 
+period financial results of CV business are reported as discontinued operations.
+(3) The reported standalone and consolidated balance sheet in Statutory Financials for Mar’25 comprises of assets and liabilities of Commercial Vehicles business 
+as well. Hence the same is not comparable with Sep’ 25 balance sheet.
+  
+4
+Safe harbour – one time exceptional gain
+Difference between the fair value of net assets as on July 1, 2025 and book value of net assets is recorded as a one-time exceptional gain 
+in the income statement. This gain is offset in Retained earnings as deemed distribution to shareholders. 
+There is no impact on Net Worth.
+Standalone  (JO) Consolidated
+Profit & Loss ( P&L) Statement impact
+Total fair value of CV business undertaking (FV) 93.9 93.9
+Net worth of CV undertaking (NW) 11.6 11.3
+Gain on disposal of undertaking (FV-NW) considered in P&L 82.3 82.6
+Balance sheet impact (retained earnings)
+Profit for the period related to gain on disposal 82.3 82.6
+less: distribution of non-cash assets to owners (82.3) (82.6)
+Net impact in Retained earnings - -
+₹K Cr
+Q2FY26 – Key highlights
+5
+Launched Adventure X Persona of Harrier & 
+Safari; Nexon.ev with ADAS 
+Re-entered South Africa market with Bold, 
+Future-Ready Range of Passenger Vehicles
+Punch becomes India’s fastest SUV to cross 
+6 Lakh milestone in under 4 years
+Q2 performance impacted by cyber incident;
+Production restarted from 8 October
+Balance sheet supported with additional £3.5b 
+liquidity backstop
+Range Rover in Interbrand Top 100 Global 
+Brands
+
+6
+Q2: Revenue ₹72.3K Cr, EBITDA (0.1)%, PBT(bei) ₹(5.5)K Cr
+Performance impacted by JLR cyber incident; Domestic performance steady. Resurgence in demand post GST cuts
+Q 2  F Y 2 6 |  C o n s o l i d a t e d  |IndAS, ₹ K  C r
+4.8 4.0
+(5.5)
+PBT (bei)
+₹K Cr
+83.7 87.7
+72.3
+Revenue
+₹K Cr
+(2.9)
+(10.3) (8.3)
+FCF (Auto)
+₹K Cr
+4.6 3.3
+(6.8)
+EBIT
+%YoY (13.5) % YoY (1140) bps
+2 1 0 . 7
+W h o l e s a l e s  (  K  u n i t s ) E B I T D A  %
+1 1 . 1% 8 . 7% ( 0 . 1 )%
+N e t  a u t o  d e b t  ( ₹  K C r )
+1 1 . 4(2) 2 0 . 1
+Q 2  H1  
+12.3 
+(1.5)
+173.2
+160.0
+(1.7)
+(18.6)
+6.3
+(1.3)
+YoY - 7.6 % YoY (760) bps
+4 2 2 . 7
+W h o l e s a l e s  (  K  u n i t s ) E B I T D A  %
+1 2 . 8% 4 . 7%
+N e t  a u t o  d e b t  ( ₹  K C r )
+2 0 . 1
+Q2                       Q1                      Q2                                       Q2                       Q1        Q2                                   Q2                      Q1                       Q2                                  Q2 (1)                      Q1 (1)                      Q2
+          FY25                    FY26                   FY26                                   FY25                   FY26     FY26                                FY25                   FY26                   FY26                              FY25            FY26                       FY26 
+FY25                                  FY26                                                 FY25                        FY26                                           FY25                                   FY26                            FY25 (1)                                 FY26    
+4 5 4 . 4
+2 1 7 . 8 2 1 2 . 0
+YoY (13.8)K Cr
+YoY (10.3)K Cr
+( 1 . 0 )(2)
+F Y 2 5
+( 1 . 0 )(2)
+F Y 2 5
+(1)FCF for Q2 FY25 and H1FY25 is as reported earlier. For Q1 FY26, FCF is analytically derived for Consol PV business.  
+(2)Details for FY25 and Q1 FY26 represents the proforma net debt for PV business  for analytical purposes .
+
+7
+(10,175) (76)
+12 
+Q2 FY25 JLR PV Others Q2 FY26
+EBIT (6.8)%; Net Auto Debt at ₹20.1K Cr
+Revenue ₹K Cr PBT (bei) ₹ C r
+Net Auto Debt ₹K Cr
+83.7 72.3
+4.5 0.3(13.0)
+(3.2)
+Q2 FY25 Volume & Mix Price Translation Others Q2 FY26
+13.5% decrease
+(15.5)% (3.9)% 5.4% 0.5%
+Q 2  F Y 2 6 |  C o n s o l i d a t e d  |IndAS
+4.6% (11.3)% 0.0% (0.1)% (6.8)%
+Entities Net debt/(cash) 
+₹K Cr
+PV1) (4.7)
+JLR 20.8
+TML Holdings 5.3
+Others(2) (1.3)
+Total 20.1
+(1)Includes PV+EV+Joint operation FIAPL (2) Others include TTL and other subs
+(9.6)
+2.3
+11.38.6 9.1
+8.8
+FY25 Q1 FY26 Q2 FY26
+Ext. Debt Lease
+20.1
+(1.0)
+11.4
+4,777
+EBIT%
+(5,462)
+Cyber incident increases net debt, domestic PV+EV business in healthy net cash position
+(1) Details for FY25 and Q1 FY26 represents the proforma net debt for PV business  for analytical 
+purposes.
+8
+Results for the quarter ended September 30, 2025
+JAGUAR LAND ROVER AUTOMOTIVE PLC
+Chief Financial Officer
+R I C H A R D  M O LY N E U X
+
+9
+9
+(26)
+(1,549)
+1,091 
+(134)
+7.1 
+(1.4)
+5.1 4.0 
+(8.6)
+EBIT
+%
+YoY (1370) bps
+Q 2  
+6,475 6,604
+4,900
+Revenue
+£m
+Q2 Revenue £4.9bn, EBIT margin (8.6)%
+All metrices impacted by the cyber incident in September
+398 351 
+(485)
+PBT (bei)1
+£mYoY (24.3) %
+6 6 . 2
+W h o l e s a l e s  ( k  u n i t s )
+H1
+13,748
+11,504
+YoY (16.3) %
+1 5 3 . 5
+W h o l e s a l e s  ( k  u n i t s )
+FY25                                      FY26                                             FY25                              FY26                         FY25                                   FY26                                             FY25   FY26
+Q 2  F Y 2 6  |  J a g u a r  L a n d  R o v e r  |  I F R S ,  £ m
+1 1 . 7 9 . 3 ( 1 . 6 )
+(256)
+(758) (791)
+FCF
+£m
+YoY (850) bps
+E B I T D A  %
+1 3 . 9 4 . 7
+8 7 . 38 7 . 3
+1 8 5 . 1
+YoY (1.2) b YoY (1.5) b
+N e t  D e b t  ( £ b )
+1 .2 1 . 8
+R O C E  %
+1 9 . 3 1 0 . 41 6 . 2
+YoY (0.9) b YoY (0.5) b
+1 P B T  b e f o r e  e x c e p t i o n a l  i t e m s .  E x c e p t i o n a l  i t e m s :  £ ( 4 ) m  f o r  Q 1  F Y 2 6 ;  £ ( 2 3 8 ) m  f o r  Q 2  F Y 2 6 ;  £ 8 m  f o r  H 1  F Y 2 5 ;  £ ( 2 4 2 ) m  f o r  Q 2  F Y 2 6  
+P A T  ( £ m )
+283 ( 5 5 9 )248
+P A T  ( £ m )
+( 3 1 1 )785
+Q2 FY25                Q1 FY26               Q2 FY26     Q2 FY25              Q1 FY26             Q2 FY26                       Q2 FY25             Q1 FY26             Q2 FY26                           Q2 FY25             Q1 FY26             Q2 FY26
+E B I T D A  %
+10
+10
+Q2 FY26 performance 
+Significantly impacted by the cyber incident
+• V O L U M E  &  R E V E N U E
+- Volumes reduced in Q2 following production stoppages in September after a cyber incident and the 
+planned wind down of legacy Jaguar models ahead of the launch of new Jaguar
+- Q2 wholesales of 66k, down 24.2% YoY; Q2 retails of 85k, down 17.1% YoY
+- Q2 revenue of £4.9bn, down 24.3% YoY
+• P R O F I T A B I L I T Y
+- Q2 EBIT margin of (8.6)%, down from 5.1% in Q2 FY25
+- Loss before tax and exceptional items of £485m in Q2, down from profit of £398m
+- Exceptional items of £238m in the quarter reflect cyber related costs of £196m and voluntary redundancy 
+programme costs of £42m
+- ROCE for the 12-month rolling period to 30 September 2025 was 10.4% 
+• C A S H  F L O W
+- £791m of negative free cashflow, largely due to impact of production stoppages in September
+- Q2 cash balance of £3.0bn and liquidity of £6.6bn including undrawn RCF of £1.7bn and £2.0bn bridge 
+facility, signed on 22 September 2025
+- Liquidity improved further with the signing of a £1.5bn UKEF-guaranteed commercial loan on 3 October 
+2025; this loan remains undrawn
+
+11
+Q2 Wholesale volumes at 66.2K
+Production stoppages in September, and planned wind down of Legacy Jaguar reduced volumesQ2H1
+F Y 2 6  |  W h o l e s a l e s1  |  B r a n d s  | Units in 000’s
+1 W h o l e s a l e  v o l u m e s  e x c l u d e  s a l e s  f r o m  u n c o n s o l i d a t e d  C h i n a  j o i n t  v e n t u r e
+2 J a g u a r  w h o l e s a l e s  r e d u c e d  a s  p r o d u c t i o n  h a s  c o m e  t o  a n  e n d  i n  F Y 2 5
+3 T o t a l  w h o l e s a l e  v o l u m e s  d o  n o t  c a s t  d u e  t o  r o u n d i n g  d i f f e r e n c e s
+185.1
+153.5
+FY25 FY26
+14.2
+3.9
+FY25 FY26
+15.4 10.4
+FY25 FY26
+53.3 49.6
+FY25 FY26
+102.1
+89.7
+FY25 FY26
+87.3 87.3
+66.2
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+6.0 2.3 1.5
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+7.8 5.8 4.6
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+28.8 28.3
+21.3
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+44.8
+50.9
+38.8
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+J L R  P O W E R T R A I N  
+M I X  ( R E T A I L S )D E F E N D E R T O T A L 3R A N G E  R O V E R D I S C O V E R Y J A G U A R 2
+17% 16% 15%
+62% 68%
+55%
+21% 16%
+30%
+Q2 FY25 Q1 FY26 Q2 FY26
+BEV & PHEV MHEV ICE
+12
+F Y 2 6  |  W h o l e s a l e s1  |  R e g i o n s  | Units in 000’s
+Q2 Wholesale volumes at 66.2K
+Production stoppage in September, and planned wind down of Legacy Jaguar reduced volumes
+11.7 8.1
+FY25 FY26
+28.8
+23.1
+FY25 FY26
+29.1 24.7
+FY25 FY26
+56.1
+45.1
+FY25 FY26
+36.8
+29.6
+FY25 FY26
+7.7
+4.9 3.2
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+17.1
+11.7 11.4
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+12.7 14.2
+10.5
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+25.1 27.2
+17.9
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+13.7
+17.3
+12.3
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+O V E R S E A SN O R T H  A M E R I C A M E N AUK
+1 W h o l e s a l e  v o l u m e s  e x c l u d e  s a l e s  f r o m  u n c o n s o l i d a t e d  C h i n a  j o i n t  v e n t u r e
+E U R O P E C H I N A
+Q2H1
+11.1 11.9 10.9
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+22.5 22.8
+FY25 FY26
+13
+13
+Q2 FY26 EBIT decreased from 5.1% to (8.6)%
+Loss before tax and exceptional items of £485m in Q2 FY26, down from profit of £ 398m in Q2 FY25
+Q 2  F Y 2 6  |  I F R S ,  £ m
+398 (351)
+(257)
+(94)
+(7)
+(174)
+(485)
+Q1 FY25
+PBT (bei)
+Volume
+& mix
+Net
+pricing
+Contribution
+costs
+Structural
+costs
+FX &
+commodities
+Q1 FY26
+PBT (bei)
+Q2 Q2
+Volume & mix  (237)
+US Duties Impact (74)
+Other (40)
+VME (4.0)%    (257)
+to (6.9)%
+Industrial Ops (18)
+Warranty (76)
+D&A 88
+Inventory de-
+stocking (96)
+Other 1
+Operational FX (126)
+Realised FX 114
+derivatives 
+FX revaluation (144)
+Unrealised
+commodity  (18)
+derivatives 
+5.1% (10.8)% (2.0)% (0.7)% (0.2)% (8.6)%EBIT Margin
+14
+£791m of free cash outflow in the quarter
+After investment spend of £828 m
+Q 2  F Y 2 6  |  I F R S ,  £ m
+(485)
+(791)
+602
+(121)
+(4)
+(828)
+41
+PBT Non-cash and other Cash tax Cash profit after tax Investment spending Working capital &
+accruals
+Free cash flow
+Q2 FY25 398 537 (93) 842 (947) (151) (256)
+Free cashflow before working 
+capital £(832)m
+Payables (1,125)
+Receivables 367
+Inventory 634
+Other  165
+D&A                  345
+Engineering costs expensed   283
+Interest paid                (120)
+Other                94
+(bei)
+15
+Q2 FY26 investment spend of £828m
+Investment spend in Q2 continued despite the cyber incident
+Q 2  F Y 2 6  |  I F R S ,  £ m
+Q2 FY25 435 236 671 276 947
+346 
+283 629 
+199 828
+Capitalised
+Engineering
+Expensed
+Engineering
+Total
+Engineering
+Capital
+Investment
+Total
+Investment
+16
+BUSINESS UPDATE
+17
+Update on cyber incident response
+Production downtime used 
+to accelerate testing work in 
+both engineering and 
+manufacturing
+Establishment of processes for 
+retailers to continue delivering 
+vehicles to clients
+Restart of the systems used to 
+wholesale vehicles, supporting 
+cash generation for JLR
+Restart of JLR’s Global Parts 
+Logistics Centre, to help keep 
+customers’ cars on the road
+Implementation of interim manual 
+payments processes for suppliers
+Phased restart of 
+global 
+manufacturing from 
+8 October 2025, 
+with production 
+now returned to 
+normal levels
+Fast-track 
+introduction of 
+supplier financing 
+scheme to provide 
+qualifying JLR 
+suppliers with cash 
+upfront during the 
+production restart 
+phase
+Decisive actions taken to restart business safely, support stakeholders and recover operations at pace following recent cyber incident. 
+Actions included:
+
+18
+Update on Macroeconomic challenges 
+GEOPOLITICAL TENSIONS GLOBAL DEMAND SUPPLY CHAIN RISKS
+
+19
+Enterprise mission delivering but headwinds also grow
+HIGH VALUE
+EX-WORKS  On-track to deliver full-year targets pre-cyber incident
+COST EFFICIENCIES  Nearly 500 UK employees leaving under voluntary redundancy programme
+CHINA RESILENCE  Luxury tax changes and market dynamics make progress difficult; recent inventory 
+reduction to drive sales quality improvement
+UNLOCK POTENTIAL / 
+GAME CHANGING
+URGENT IMPACT
+US TARIFFS  Work with Government continues.  Internally, now focused on optimising parts business 
+where sectoral and metal tariffs overlap
+CO2  Excess credits identified, and contracts signed for sale to other OEMs (post 30-Sep-25)
+WARRANTY  Making progress - 25% reduction in vehicles off road globally; additional customer 
+acceptance lines built and launched at port in the US
+CUSTOMER LOVE  ‘Parts on order greater than 100 days’ reduced from 62 to three
+BRAND EXPRESSIONS  500 retailers trained on Halo and Bespoke vehicles to drive product sales mix 
+20
+Changes in guidance for FY26
+Challenges during Q2 have resulted in revised EBIT and cash flow guidance for FY26
+G U I D A N C E
+K E Y  F O C U S  A R E A S  
+- FY26 EBIT in the range of 0% to 2%
+- FY26 negative free cash flow of £2.2bn to 
+£2.5bn
+- Execute next phase of recovery by 
+ramping up production, stepping up 
+engineering intensity and hardening 
+system landscape
+- Navigate demand environment by 
+building the power of our brands
+- Execute Enterprise Missions 
+transformation programme to deliver 
+savings and cash flows
+
+21
+Tata Passenger Vehicles Shailesh Chandra & Dhiman Gupta
+( I n c l u d e s  T a t a  P V ,  E V  I n d i a ,  F I A P L  J O  r e s u l t s  a n d  I n t e r n a t i o n a l  b u s i n e s s ( P V + E V ) )
+
+T a t a  P a s s e n g e r  V e h i c l e s  |  I n d i a  b u s i n e s s  
+Average Monthly Offtake Volumes & 
+Vahan Domestic Market Share(1) Powertrain Mix
+(1) Vahan registration market share is based on Vahan portal (powered by National Informatics Centre). The data excludes registrations done in Telangana state.  
+Tata Motors PV CAFE Compliance
+(CO2 in g/km)
+95.1 96.8
+89.8*
+119.7 120.9 122.2*
+F Y 2 4 F Y 2 5 H 1 F Y 2 6
+TML PV Emissions CAFE Target
+*as per Tata Motors internal estimate
+Strong growth in volumes in Q2 with recovery in market share in Sep’25
+Alternate powertrains continue to grow in salience – now at 45% of mix
+58% 51% 50% 42%
+14%
+13% 10%
+13%
+12%
+11% 13% 17%
+16% 25% 27% 28%
+F Y 2 4 F Y 2 5 Q 1 F Y 2 6 Q 2 F Y 2 6
+Petrol Diesel EV CNG
+46.4
+41.6
+48.1
+60.9 61.3
+13.2%
+12.3% 12.8%
+14.0% 13.7%
+5.00%
+6.00%
+7.00%
+8.00%
+9.00%
+10.00%
+11.00%
+12.00%
+13.00%
+14.00%
+15.00%
+0
+10
+20
+30
+40
+50
+60
+70
+80
+F Y 2 5 Q 1 F Y 2 6 Q 2 F Y 2 6 S e p ' 2 5 O c t ' 2 5
+Wholesale (incl. IB) K units Vahan MS
+22
+T a t a  P a s s e n g e r  E l e c t r i c  V e h i c l e s
+EV Offtake Volumes (incl. IB) EV Vahan Domestic Market Share(1)
+(1) Vahan registration market share is based on Vahan portal (powered by National Informatics Centre) . The data excludes registrations done in Telangana state.  
+Public Charging Infrastructure
+Highest-ever quarterly EV volumes in Q2 with 59% growth YoY 
+Steep growth driven by strong response to Harrier .ev launch & growing traction for Nexon.ev 
+10,065
+21,742
+26,310
+F Y 2 4 F Y 2 5 H 1 F Y 2 6
+15.9 16.2
+24.9
+0
+5
+10
+15
+20
+25
+Q 4 F Y 2 5 Q 1 F Y 2 6 Q 2 F Y 2 6
+YoY + 58.9 % 43.3%
+36.7%
+41.4%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+30.00%
+35.00%
+40.00%
+45.00%
+50.00%
+Q 4 F Y 2 5 Q 1 F Y 2 6 Q 2 F Y 2 6
+5.2 5.3 5.4 5.3 5.7 5.2 7.1 8.5 9.2 9.3
+46.0% 44.0% 40.0% 37.0% 36.0% 37.0% 40.0% 42.0% 42.0% 42.0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+0
+2
+4
+6
+8
+10
+12
+J a n ' 2 5 F e b ' 2 5 M a r ' 2 5 A p r ' 2 5 M a y ' 2 5 J u n ' 2 5 J u l ' 2 5 A u g ' 2 5 S e p ' 2 5 O c t ' 2 5
+Wholesale (incl. IB)
+K units
+Vahan MS
+Monthly EV Volumes & Market Share
+23
+Q 2  F Y 2 6 |  T a t a  P a s s e n g e r  V e h i c l e s  |IndAS , ₹ KCr
+Q2: Revenue ₹13.5K Cr, EBITDA 5.8%, PBT(bei) positive
+Upswing in demand reflecting improvement in performance QoQ
+0.2 
+(0.1)
+0.2 
+PBT (bei)
+₹K Cr
+11.7 10.9
+13.5
+Revenue
+₹K Cr
+6.2
+4.0
+5.8
+EBITDA
+%YoY + 15.6 % YoY (40) bps
+1 4 4 . 5
+W h o l e s a l e s  ( K  u n i t s )
+Q 2  H 1  0.4
+0.0
+23.5 24.4 6.0
+5.0
+YoY 3.6 % YoY (100) bps
+2 6 9 . 3
+W h o l e s a l e s  (  K  u n i t s )
+Q2 FY25               Q1 FY26             Q2 FY26   Q2 FY25             Q1 FY26               Q2 FY26         Q2 FY25          Q1 FY26             Q2 FY26                      Q2 FY25             Q1 FY26              Q2 FY26
+FY25                                  FY26                                              FY25                                 FY26                                                FY25                                    FY26                             FY25                                    FY26
+0.1 
+(2.8)
+0.2 
+EBIT
+% YoY + 10 bps
+0.2 
+(1.1)
+YoY (130) bps
+1 2 4 . 71 3 0 . 5
+YoY (0.4)K Cr
+2 6 9 . 3
+YoY -K Cr
+24
+Q 2  F Y 2 6 |  T a t a  P a s s e n g e r  V e h i c l e s  |IndAS , ₹ KCr
+Q2 EBIT at 0.2% (+10 bps); PBT (bei) 0.2K Cr
+Fixed costs and adverse realizations offset impact of favourable volumes and variable cost savings
+231 
+71 
+(144) 135 
+(69)
+(50)
+125 (144)
+155 
+PBT (bei)  Q2FY25 Volume, Mix Realisations Var Cost Fixed cost D&A PLI Interest & others PBT (bei) Q2FY26
+For analytical purposes onlyEBIT % 0.1% 0.5% (1.1)% 1.0% (0.5)% (0.4)% 0.9% (0.3)% 0.2%
+FME : ₹31 Cr
+ Employee cost : ₹72 Cr     
+ PDE & Others : ₹34 Cr
+PV (ICE) and EV financials split
+PV
+₹K Cr Q2 FY25 Q1 FY26 Q2 FY26
+Revenue 9.7 8.8 9.8
+EBITDA % 8.5% 4.9% 6.4%
+PBT (bei) 0.3 (0.1) 0.0
+EV
+₹K Cr Q2 FY25 Q1 FY26 Q2 FY26
+Revenue 2.0 2.1 3.8
+EBITDA % Excl PDE 1.7% 5.6%1 8.0%1
+EBITDA % (5.0)% 0.2%1 4.2%1
+PBT (bei) (0.0) (0.0) 0.1
+1 includes PLI ₹87 Cr for Q1 FY26 and ₹125 Cr for Q2 FY26
+PY CCPS fair valuation : ₹71 Cr
+ JV : ₹36 Cr     
+25
+26
+• Operating environment improves due to GST 2.0 driving price 
+reduction for PVs by up to ~10%
+• First 5 months of FY26 (Apr-Aug) witnessed 1.6% decline in 
+sales. Industry grew 5% in Sep’25 and 17% in Oct’25 
+• CNG segment continued to see faster growth than industry 
+with 17% YoY growth in Q2
+• EV industry grew 126% YoY in H1 driven by launch of new 
+models esp. Harrier.ev
+• Actions undertaken in the last 18 months on business 
+processes and service yield strong returns
+• Recorded 10% YoY growth in offtakes in Q2 FY26
+ 
+• In Sep’25, we achieved record wholesales with 60.9k units 
+of sales with 47% YoY growth with record-breaking EV & 
+CNG sales at 9k+ and 17k+ units respectively. 
+ 
+• #2 player with Vahan shares of 14% in Sep’25
+ 
+• Strong demand across our portfolio with Nexon emerging 
+as #1 model in India & record volumes for Harrier, Safari
+ 
+• Bookings post 22nd Sep doubled for us compared to 1-21 
+Sep, resulting in a very strong pipeline for coming months
+ 
+Tata Motors Highlights for Q2 FY26Industry Highlights for Q2 FY26
+T a t a  P a s s e n g e r  a n d  E l e c t r i c   V e h i c l e s
+Business update – Q2 FY26
+Industry demand rebounded towards end of Q2; Record performance by Tata Motors following GST 2.0
+27
+T a t a  P a s s e n g e r  a n d  E l e c t r i c   V e h i c l e s
+Focus Areas – H2 FY26
+Sustain growth momentum & drive growth through new product interventions & strong marketing actions
+• Strong performance continued into October
+• Wholesales of 61k units 
+• Highest-ever CNG & EV retails at 9k & 25k units in Oct’25
+ 
+• Retailed over 1 lakh vehicle deliveries between Navratri and 
+Diwali (33% growth YoY) 
+• Dealer inventories reduced sharply to under 30 days
+   
+• TMPVL continues to be the #2 player across both Sep’25 & 
+Oct’25 (13.7% MS in Oct) 
+• Portfolio traction remains strong
+o Nexon was #1 model in industry in both Sep & Oct
+o Strong demand for Punch with 40k+ retails across Sep & Oct
+o Highest-ever Harrier & Safari volumes on the back of newly 
+launched Adventure X variants
+Strong Festive Performance – Sep & Oct’25
+• Leverage robust demand pipeline & comprehensive 
+marketing campaigns to sustain retail momentum in Q3 & 
+ensure lean inventories
+ 
+• Drive volume growth on the back of impactful launches for 
+new product interventions – new nameplate Sierra, 
+Harrier/Safari petrol powertrain and others 
+ 
+• Enhance profitability through structural cost reductions & 
+enhanced mix on the back of new launches & GST 2.0
+ 
+• Sustain EV growth momentum by strengthening portfolio 
+& driving mainstreaming
+ 
+• Continue our structural actions to strengthen network & 
+customer service
+  
+Key Focus Areas Going Forward
+Q2 FY26 Free Cash Flows ₹1.6K Cr 
+Payables, acceptances ₹1667 Cr
+Trade receivables ₹36 Cr
+Inventories ₹59 Cr
+Others ₹ 124 Cr
+68 
+207 
+1,016 
+(28)
+1,195 (1,321)
+1,638 1,580 
+PBT (bei) Non-cash 
+and other
+Tax Cash  profit 
+after tax
+Investment spend Working capital 
+changes
+Finance expenses 
+(net), dividend
+Free cash flowQ2 FY26
+F Y 2 6  |  D o m e s t i c  B u s i n e s s ( 1 ) | I n d A S ,  ₹  C r
+(1)
+For analytical purposes only(1) Includes free cash flows of TMPVL, TPEML and Joint operations FIAPL and includes corporate and interest costs not allocat ed to PV segment
+Investment spend in the quarter covered majorly by cash profits after tax 
+28
+Investment Spending in Q2 FY26 ~₹1.3K Cr 
+Steady investments as planned
+F Y 2 6  |  D o m e s t i c  B u s i n e s s( 1 ) | I n d A S ,  ₹  C r
+(1)Includes details for TMPVL, TPEML and Joint operation FIAPL 
+514
+231
+745
+576
+1,321
+Capitalised
+R&D
+Expensed
+R&D
+Total
+R&D
+Capital & Other
+Investment
+Total Investment
+SpendingQ2 FY26
+H1 FY26 1,106 500 1,606 1,113 2,719
+For analytical purposes only
+29
+30
+Outlook
+• Global demand continues to remain challenging. 
+• Anticipate resurgence in domestic demand due to greater affordability of PVs following rollout of GST 2.0
+• H1 performance disappointing. Anticipate a stronger H2 with JLR recovery actions and product actions on domestic PV business
+Looking ahead
+Key priorities
+JLR PV EV
+• Execute next phase of recovery by 
+• ramping up production, 
+• stepping up engineering intensity
+• hardening system landscape
+• Navigate demand environment by building the 
+power of our brands.
+• Execute enterprise missions plan to deliver 
+savings and cash flows
+• Continue to leverage on growth momentum & 
+strengthened demand pipeline following GST 
+2.0
+• Leverage multi-powertrain strategy & new 
+product interventions (incl. Sierra) to drive 
+growth 
+• Improve profitability through operating 
+leverage, better product & trim mix & 
+structural cost reductions
+• Continue to step-up the volumes with strong 
+demand across product portfolio – esp. for 
+Harrier.ev & Nexon.ev 
+• Introduce new product interventions to 
+strengthen portfolio 
+• Continue actions to drive EV mainstreaming 
+incl. charging infrastructure
+• Secure PLI benefits to drive profitability 
+31
+Please submit your questions in the Q&A textbox
+Please mention your name and name of the organization you represent along with the questions
+Thank youQ&A session 
+
+32
+Tata Motors Passenger Vehicles Group : Additional details
+Results for the period ended September 30, 2025
+33
+Tata Motors Passenger Vehicles Group Financials
+Consolidated Quarter ended September 30, 2025
+JLR
+Tata 
+Passenger 
+Vehicles
+Others* Consolidated
+Revenue  from operations 57,877 13,529 943 72,349 
+Grant income / incentives 631 207 -   838 
+Expenses :
+Cost of materials consumed (36,737) (10,971) (238) (47,946)
+Employee benefit expenses (9,517) (637) (677) (10,831)
+Other expenses (net) (10,204) (1,134) 85 (11,253)
+Product development and engineering expenses (3,339) (208) 8 (3,539)
+Exchange gain / loss (realized) 311 2 (2) 311 
+EBITDA (978) 788 119 (71)
+Depreciation and amortization (4,083) (760) (28) (4,871)
+Profit / loss from equity accounted investees & deferral income 12 -   33 45 
+EBIT (5,049) 28 124 (4,897)
+Other income (excl. grant income) 292 137 186 615 
+Finance cost (513) (36) (143) (692)
+Unrealized FX, Unrealized commodities (508) 26 (6) (488)
+PBT (bei) (5,778) 155 161 (5,462)
+PBT# (8,614) 155 389 (8,070)
+EBITDA Margin (1.7) % 5.8% NA (0.1) %
+EBIT Margin (8.7) % 0.2% NA (6.8) %
+Rs Cr. IndAS
+* Others include segment and income / expenses not specifically allocable to any other segments
+# continuing operations
+34
+Tata Motors Passenger Vehicles Group Financials
+Consolidated Quarter ended September 30, 2024
+JLR
+Tata 
+Passenger 
+Vehicles
+Others* Consolidated
+Revenue  from operations 71,100 11,701 857 83,658 
+Grant income / incentives 698 85 -   783 
+Expenses :
+Cost of materials consumed (41,192) (9,337) (231) (50,760)
+Employee benefit expenses (8,918) (570) (651) (10,139)
+Other expenses (net) (10,228) (928) 213 (10,944)
+Product development and engineering expenses (2,565) (225) 24 (2,766)
+Exchange gain / loss (realized) (560) (4) (2) (565)
+EBITDA 8,335 722 210 9,267 
+Depreciation and amortization (4,733) (705) (29) (5,467)
+Profit / loss from equity accounted investees & deferral income 24 -   37 61 
+EBIT 3,626 17 218 3,861 
+Other income (excl. grant income) 323 165 93 581 
+Finance cost (849) 22 (203) (1,030)
+Unrealized FX, Unrealized commodities 1,297 27 41 1,365 
+PBT (bei) 4,397 231 149 4,777 
+PBT# 4,397 231 180 4,808 
+EBITDA Margin 11.7% 6.2% NA 11.1%
+EBIT Margin 5.1% 0.1% NA 4.6%
+Rs Cr. IndAS
+* Others include segment and income / expenses not specifically allocable to any other segments
+# continuing operations
+35
+Tata Motors Passenger Vehicles Group Financials
+Consolidated Half year ended September 30, 2025
+JLR
+Tata 
+Passenger 
+Vehicles
+Others* Consolidated
+Revenue  from operations 133,829 24,406 1,790 160,025 
+Grant income / incentives 1,205 333 -   1,538 
+Expenses :
+Cost of materials consumed (83,571) (19,653) (456) (103,680)
+Employee benefit expenses (19,297) (1,231) (1,343) (21,871)
+Other expenses (net) (20,158) (2,174) 176 (22,156)
+Product development and engineering expenses (5,552) (454) 20 (5,986)
+Exchange gain / loss (realized) (320) (0) (4) (324)
+EBITDA 6,136 1,227 183 7,546 
+Depreciation and amortization (8,169) (1,498) (55) (9,722)
+Profit / loss from equity accounted investees & deferral income 86 -   74 160 
+EBIT (1,947) (271) 202 (2,017)
+Other income (excl. grant income) 605 301 227 1,133 
+Finance cost (978) (63) (343) (1,384)
+Unrealized FX, Unrealized commodities 609 65 81 755 
+PBT (bei) (1,711) 32 167 (1,512)
+PBT# (4,594) 32 395 (4,167)
+EBITDA Margin 4.6% 5.0% NA 4.7%
+EBIT Margin (1.5)% (1.1)% NA (1.3)%
+Rs Cr. IndAS
+* Others include segment and income / expenses not specifically allocable to any other segments
+# continuing operations
+36
+Tata Motors Passenger Vehicles Group Financials
+Consolidated Half year ended September 30, 2024
+JLR
+Tata 
+Passenger 
+Vehicles
+Others* Consolidated
+Revenue  from operations 147,999 23,548 1,698 173,245 
+Grant income / incentives 1,346 130 -   1,476 
+Expenses :
+Cost of materials consumed (85,684) (18,625) (456) (104,765)
+Employee benefit expenses (17,931) (1,131) (1,296) (20,358)
+Other expenses (net) (20,658) (2,090) 410 (22,337)
+Product development and engineering expenses (4,977) (445) 45 (5,377)
+Exchange gain / loss (realized) 406 17 (3) 419 
+EBITDA 20,501 1,404 398 22,303 
+Depreciation and amortization (10,116) (1,356) (51) (11,523)
+Profit / loss from equity accounted investees & deferral income 92 -   75 167 
+EBIT 10,477 48 422 10,947 
+Other income (excl. grant income) 788 328 130 1,246 
+Finance cost (1,758) (23) (386) (2,167)
+Unrealized FX, Unrealized commodities 2,229 49 40 2,318 
+PBT (bei) 11,736 402 206 12,344 
+PBT# 11,819 402 239 12,460 
+EBITDA Margin 13.9% 6.0% NA 12.8%
+EBIT Margin 7.1% 0.2% NA 6.3%
+Rs Cr. IndAS
+* Others include segment and income / expenses not specifically allocable to any other segments
+# continuing operations
+37
+Tata Motors Group Financials
+Jaguar Land Rover
+Q 2  F Y 2 6  |  IFRS, £m
+Q2
+F Y 2 5
+Q1
+F Y 2 6
+Q2
+F Y 2 6 F Y 2 5  Y T D F Y 2 6  Y T D Y o Y Q o Q Y T D  Y o Y
+Revenues 6,475 6,604 4,900 13,748 11,504 (1,575) (1,704) (2,244)
+Material and other cost of sales (3,784) (4,096) (3,126) (8,012) (7,222) 658 970 790
+Employee costs (811) (847) (800) (1,659) (1,647) 11 47 12
+Other (expense)/income (1,556) (1,488) (1,398) (3,053) (2,886) 158 90 167
+Product development costs  
+  capitalised 435 443 346 884 789 (89) (97) (95)
+Depreciation and amortisation (434) (356) (345) (944) (701) 89 11 243
+Share of profit from Joint Ventures 3 5 1 9 6 (2) (4) (3)
+A d j u s t e d  E B I T 328 265 ( 4 2 2 ) 973 ( 1 5 7 ) ( 7 5 0 ) ( 6 8 7 ) ( 1 , 1 3 0 )
+FX Revaluation & other 115 96 (40) 206 56 (155) (136) (150)
+Net finance (expense)/income (45) (10) (23) (88) (33) 22 (13) 55
+P r o f i t  b e f o r e  t a x  a n d  e x c e p t i o n a l  
+i t e m s 398 351 ( 4 8 5 ) 1 , 0 9 1 ( 1 3 4 ) ( 8 8 3 ) ( 8 3 6 ) ( 1 , 2 2 5 )
+Exceptional items - (4)    (238)    8 (242) (238) (234) (250)
+P r o f i t  b e f o r e  t a x  398 347 ( 7 2 3 ) 1 , 0 9 9 ( 3 7 6 ) ( 1 , 1 2 1 ) ( 1 , 0 7 0 ) ( 1 , 4 7 5 )
+Income tax (115) (99) 164 (314) 65 279 263 379
+P r o f i t  a f t e r  t a x  283 248 ( 5 5 9 ) 785 ( 3 1 1 ) ( 8 4 2 ) ( 8 0 7 ) ( 1 , 0 9 6 )
+38
+China JV performance
+Q 2  F Y 2 6  |  IFRS, £m
+Q2
+F Y 2 5
+Q1
+F Y 2 6
+Q2
+F Y 2 6 F Y 2 5  Y T D F Y 2 6  Y T D Y o Y Q o Q Y T D  Y o Y
+Retail volum es  (‘000 units) 10.5 6.3 7.4 21.0 13.7 (3.1) 1.1 (7.3)
+W holesale volum es (‘000 units) 9.9 5.6 8.2 21.7 13.8 (1.7) 2.6 (7.9)
+Revenue 310 169 221 671 390 (89) 52 (280)
+P rofit before tax 7 6 2 17 8 (6) (5) (9)
+P rofit after tax 5 8 - 15 8 (5) (8) (7)
+E BIT DA Marg in 16% 25% 14% 17% 19% (2)% (11)% 2%
+E BIT  Marg in 2% 4% 1% 2% 2% (2)% (4)% -%
+39
+Q2 YoY unfavorable operational FX
+Total Q2 FX and commodity impact £(175)m unfavorable YoY
+Q 2  F Y 2 6  Y o Y  |  I F R S ,  £ m
+(126) 114
+(12)
+(92)
+(52)
+(156)
+(18)
+(174)
+Rates Q2 FY26 QoQ YoY
+GBP:USD 1.3448 (1.9)% 0.5%
+GBP:EUR 1.1449 (2.0)% (4.5)%
+GBP:CNY 9.5883 (2.3)% 2.4%
+£m Q2 FY25 Q1 FY26 Q2 FY26
+Hedge reserve2
+867 1,472 1,026
+Change (YoY / QoQ) 159 (446)
+Total hedges3
+26,248 22,126 21,073
+1 T h e  y e a r - on - y e a r  o p e r a t i o n a l  e x c h a n g e  i s  a n  a n a l y t i c a l  e s t i m a t e ,  w h i c h  m a y  d i f f e r  f r o m  t h e  a c t u a l  i m p a c t
+2 H e d g e  r e s e r v e  i s  t h e  h e d g e  r e s e r v e  p r e - t a x
+3 T o t a l  h e d g e s  i s  n o w  d e f i n e d  a s  t h e  t o t a l  m a r k  t o  m a r k e t  a c r o s s  a l l  F X  d e r i v a t i v e s  i n c l u d i n g  F X  f o r w a r d s ,  F X  o p t i o n s ,  F X  s w a p s ,  c r o s s  c u r r e n c y  s w a p s  a n d  a n y  u n s e t t l e d  s p o t  t r a d e s
+Operational 
+exchange 1
+Realised FX 
+hedges
+FX impact on EBIT FX revaluation of 
+net debt & debt 
+hedges
+Other FX 
+revaluation
+FX impact on PBT Unrealised 
+commodity 
+hedges
+FX & Commodity 
+impact on PBT
+40
+Q2 Retail volumes 85.5K
+Retails fall 9% vs prior quarter and 17% YoYQ2H1
+F Y 2 6  |  R e t a i l s  |  B r a n d s  | Units in 000’s
+J L R  P O W E R T R A I N  
+M I X  ( R E T A I L S )D E F E N D E R T O T A L 1R A N G E  R O V E R D I S C O V E R Y J A G U A R
+52.2 53.4
+47.3
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+26.7 27.5 25.4
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+10.0
+8.3 5.9
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+14.2
+5.3 6.9
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+103.1 94.4
+85.5
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+214.3
+179.9
+FY25 FY26
+29.6
+12.2
+FY25 FY26
+21.4 14.2
+FY25 FY26
+54.1 52.9
+FY25 FY26
+109.2 100.7
+FY25 FY26
+17% 16% 15%
+62% 68%
+55%
+21% 16%
+30%
+Q2 FY25 Q1 FY26 Q2 FY26
+BEV & PHEV MHEV ICE
+1 T o t a l  r e t a i l  v o l u m e s  f o r  Q 1  F Y 2 6  a n d  H 1  F Y 2 6  d o  n o t  c a s t  d u e  t o  r o u n d i n g  d i f f e r e n c e s
+41
+Q2 Retail volumes 85.5K
+Reduction in domestically produced vehicle sales from CJLR partially offset by increase in imported vehicle sales
+F Y 2 6  |  R e t a i l s  |  R e g i o n s  | Units in 000’s
+Q2H1
+22.8 22.3
+FY25 FY26
+13.7 11.1
+FY25 FY26
+47.3
+34.9
+FY25 FY26
+36.5
+30.2
+FY25 FY26
+53.6 51.2
+FY25 FY26
+40.4
+30.3
+FY25 FY26
+11.6 11.1 11.1
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+6.2 5.8 5.3
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+22.8
+17.2 17.7
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+16.0 16.1 14.1
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+25.4
+28.1
+23.1
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+21.0
+16.1 14.2
+Q2
+FY25
+Q1
+FY26
+Q2
+FY26
+O V E R S E A SN O R T H  A M E R I C A M E N AUK E U R O P E C H I N A
+42
+182 316 322 
+638 
+Liquidity CY25 CY26 CY27 Total Borrowings
+Long Term Debt
+Debt profile
+Strong liquidity; debt maturities well spread out
+£m Debt maturity profile
+Total Debt  
+638
+* TMPVL Business includes data for Standalone TMPVL, TPEML and share of Joint Operation FIAPL
+TML Holdings
+Jaguar Land Rover
+Total liquidity
+£ 6,625m
+7,733
+30 920 1,200
+268 2,418 
+600 
+Liquidity CY25 CY26 CY27 CY28 Thereafter Total
+BorrowingsLong Term Debt Short Term Finance Lease
+TMPVL Domestic Business *₹ Cr
+Total Debt  
+3,018
+£m
+2,965
+2,000
+-344 124 26 105 582 105 105 548
+1,940
+702
+- 578 359
+845 302
+2,084
+1,660 
+2,000
+623
+1,037
+Total
+Liquidity
+CY25 CY26 CY27 CY28 CY29 CY30 CY31 CY32 Total
+Debt
+Cash and financial deposits Undrawn RCF (£2bn) Bank loans
+Leases (IFRS16) & other Bonds Undrawn RCF
+Bridge loan 
+facility1
+Undrawn RCF 2
+Total Debt
+£4,726m
+Changes to debt & liquidity since Q1 FY25:
+1.£1bn UKEF guaranteed loan dated 01-Aug-25, drawn on 
+27-Aug-25
+2.$700m bond due 15-Oct-25 repaid early on 29-Aug-25 
+3.£2bn bridge facility signed on 22-Sep-25, £500m 
+drawn on 03-Nov-25
+4.£1.5bn UKEF guaranteed loan signed on 03-Oct-25, 
+currently undrawn (not shown in chart)
+1.£2bn bridge loan has a term-out option to extend by 6 months to Mar-27. 
+2.RCF has two tranches, £1bn 5 year and £0.6bn 3+1+1 year. First extension option was exercised in Sep-25 changing the 
+maturity date from CY28 to CY29

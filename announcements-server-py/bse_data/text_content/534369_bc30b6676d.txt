@@ -1,0 +1,971 @@
+ 
+ 
+14th November, 2025 
+ 
+To, 
+The Manager, 
+Compliance Department, 
+National Stock Exchange of India Limited 
+Exchange Plaza, Plot No. C/1, G Block,  
+Bandra-Kurla Complex, Bandra (East),  
+Mumbai - 400 051 
+Symbol : TBZ 
+To, 
+The Manager, 
+Corporate Service Department, 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Mumbai - 400 001 
+ 
+Script Code & ID: 534369 
+  
+Dear Sir/Madam 
+ 
+ 
+Sub : Outcome of Board Meeting 
+   
+Ref : Regulation 30 & 33 of SEBI (Listing  Obligations and Disclosure Requirements) 
+Regulations 2015 ("Listing Regulations") 
+ 
+ 
+This is to inform you that, the Board of Directors of the Company at their meeting held today i.e. on             
+14th November, 2025 had inter-alia considered and approved the following: 
+ 
+1. Un-audited financial results (standalone and consolidated) for the quarter and half year ended             
+30th September, 2025 along with press release. The said unaudited financial results (standalone 
+and consolidated) quarter and half year ended 30 th September, 2025 along with Limited Review 
+Report(s) duly issued by M/s. Chaturvedi & Shah LLP, the Statutory Auditors of the Company are 
+enclosed herewith as Annexure – “A” to this letter. 
+ 
+2. Based on the recommendation of the Nomination and Remuneration Committee, the Board of 
+Directors of the Company approved the appointment of Mr. Kapil Budukh as Head-Advertising & 
+Marketing, designated as “Senior Management  Personnel” of the Company with effect from                   
+14
+th November, 2025. 
+ 
+In terms of SEBI/HO/CFD/PoD2/CIR/P/0155 dated 11 th November, 2024, read with Regulation 30 of 
+the Listing Regulations, the information required in respect of item no. 2 is given in the Annexure – “B” 
+to this letter.  
+ 
+The meeting of the Board of Directors commenced at 2.30 p.m. and concluded at 3.35 p.m.   
+ 
+Kindly take the same on record.  
+ 
+Thanking You. 
+  
+Yours faithfully,  
+ 
+For Tribhovandas Bhimji Zaveri Limited 
+ 
+ 
+Arpit Maheshwari 
+Company Secretary  
+ACS:42396 
+ 
+Encl: as above  
+CHATURVEDI 
+• • 
+SHAH -· 
+Chartered Accountants 
+• 
+Independent Auditor's Review Report on Standalone Unaudited Financial 
+Results of_ the Company Pursuant to the Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended 
+To, 
+The Board of Directors of 
+TRIBHOV AND AS BHIMJI ZA VERI LIMITED 
+1. We have reviewed the accompanying statement of standalone unaudited financial 
+results ofTribhovandas Bhimji Zaveri Limited ("the Company") for the quarter and 
+half year ended 30th September, 2025 ("the statement"), attached herewith, being 
+submitted by the Company pursuant to the requirement of Regulation 33 of the 
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (" the 
+Regulation"), as amended. 
+2. This statement, which is the responsibility of the Company's management and 
+·approved by the Company's Board of Directors, has been prepared in ac~orda~ce 
+with the recognition and measurement principles laid down in Indian Accountmg 
+Standard 34, Interim Financial Reporting (Ind AS 34) as prescribed under section 
+133 of the Companies Act, 2013 read with relevant rules issued thereunder and 
+other accounting principles generally accepted in India. Our responsibility is to issue 
+a report on the statement based on our review. 
+3 · We conducted our review of the Statement in accordance with the Standard on 
+Review Engagement (SRE) 2410, "Review of Interim Financial Information 
+Performed by the Independent Auditor of the Entity" issued by the Institute . of 
+Chartered Accountants of India. This standard requires that we plan and perform t?e 
+review to obtain moderate assurance as to whether the statement is free of matenal 
+misstatement. A review is limited primarily to inquiries of Company personnel and 
+an analytical procedure applied to financial data and thus provides less assurance 
+than an audit. We have not performed an audit and accordingly, we do not express 
+an-audit ·opinion. 
+CHATURVEDI SHAH 
+Chartered Accountants 
+4. Based on our review conducted as above, nothing has come to our attention that 
+causes us to believe that the accompanying statement of standalone unaudited 
+. financial results, prepareain accoraancewith-the~appl-icable -aceounti-ng~standards 
+and other recognized accounting practices and policies has not disclosed the 
+information required to be disclosed in terms of Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 20 15, as amended, 
+including the manner in which it is to be disclosed, or that it contains any material 
+misstatement. 
+For Chaturvedi & Shah LLP 
+Chartered Accountants 
+Registration No. 101720W/ W100355 
+Vijay Napawaliya 
+Partner 
+Membership No. 109859 
+UDIN: 25109859BMMJTE7869 
+Place: Mumbai 
+Date: 14th November, 2025 
+Continuation sheet. .. 
+TRIBHOVANDAS BHIMJI ZAVERI LIMITED 
+CIN: L27205MH2007PLC172598 
+Registered office: 241143, Zaveri Bazar, Mumbai- 400 002. 
+Tel No.: + 91 22 4046 5001. Website Add.: www.tbztheoriginal.com. Email ld: investors@tbzoriginal.com 
+UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30TH SEPTEMBER, 2025 
+~ ~ In lacs , unless otherwise stated \ 
+Statement of Profit and Loss 
+Sr. Quarter Ended Six Months Ended Year Ended 
+No. Particulars 30-Seo-25 30-Jun-25 30-Seo-24 30-Seo-25 30-Sep-24 31-Mar-25 
+(Unaudited) / Unaudited ) / Unaudited) ! unaudited\ ! unaudited ) ( Audited) 
+1 Revenue from operations 
+ca> Saleof products --68,779.5r i-----6-2~3-9-8~0-8-i---56~70T09. --1,31;177.59 --l-;-16~3-22~or I---2~6T;-98K39-
+(b) Other operating income 3.28 2.59 3.64 5.87 6.96 62.03 
+Total revenue from operations 68,782.79 62,400.67 56,704.73 1,31,183.46 1,16,329.03 2,62,048.42 
+Other income 198.16 185.37 139.45 383.53 251.90 490.58 
+Total income 68 980.95 62 586.04 56 844.18 1 31 566.99 1 16 580.93 2 62 539.00 
+2 Expenses 
+(a) Cost of materials consumed 46,014.24 34,454.96 31,748.18 80,469.20 69,288.08 1 ,69, 110.39 
+(b) Purchases of stock-in-trade 26,664.98 19,927.92 22,162.90 46,592.90 41,321.51 75,034.29 
+(c) Changes in inventories of finished goods, (17,082.30) (3,009.90) (6,113.38) (20,092.20) (12,863.48) (23, 136.90) work-in-progress and stock-in-trade 
+(d) Labour Charges 1,580.55 943.43 1,144.20 2,523.98 2,231.67 5,255.87 
+(e) Employee benefits expense 2,238.52 2,498.55 2,239.89 4,737.07 4,435.29 8,934.76 
+(f) Finance costs 1,648.41 1,767.79 1,310.94 3,416.20 2,591.22 5,613.28 
+(g) Depreciation and amortisation expense 758.11 734.45 607.90 1,492.56 1,218.09 2,515.69 
+(h) Other expenses 3,053.68 2,444.92 1,897.81 5,498.60 4,031.23 9,240.52 
+Total expenses 64 876.19 59 762.12 54 998.44 1 24 638.31 1 12 253.61 2 52 567.90 
+3 Profit before tax (1-2) 4,104.76 2,823.92 1,845.74 6,928.68 4,327.32 9,971.10 
+4 Tax expense 
+(a) Current tax (Including tax effects of earlier years) 1,094.00 804.00 508.53 1,898.00 1,213.94 2,748.41 
+(b) Deferred tax charge I (credit) (59.27) (74.50) 15.23 (133.77) (55.44) (12.31) 
+5 Profit after tax (3-4) 3 070.03 2 094.42 1 321.98 5 164.45 3 168.82 7 235.00 
+6 Other comprehensive income : 
+(a) Items that will not be reclassified to profit and loss 
+(i) Re-measu rement of defined benefit obligations 63.10 (99.78) (17.02) (36.68) (84.77) (134.36) 
+(ii) Income tax effect on above (15.88 1 25.11 4.28 9.23 21.33 33.82 
+7 Total comprehensive income (5+6) 3 117.25 2 019.75 1 309.24 5 137.00 3 105.38 7 134.46 
+8 Paid-up equity share capital 6,673.06 6,673.06 6,673.06 6,673.06 6,673.06 6,673.06 
+(Face ValueRs. 10 per share) 
+9 Other Equity excluding revaluation reserve 60,093.98 
+10 Earnings per share (of Rs.1 01- Each) Not Annualised Not Annualised Not Annualised Not Annualised Not Annualised 
+(a) Basic EPS 4.60 3.14 1.98 7.74 4.75 10.84 
+(b) Diluted EPS 4.60 3.14 1.98 7.74 4.75 10.84 
+See accomoanvinQ notes to the standalone financial results 
+Notes: 
+1 The Audit Committee has reviewed the above results and the Board of Directors has approved the above results and its release at their respective meetings held on 14th 
+November, 2025. The Statutory Auditor has carried out limited review of the above results. 
+2 The Company's business activity falls within a single primary business segment of "Jewellery" and one reportable geographical segment which is within India". Accordingly, the 
+Company is a single segment company in accordance with Indian Accounting Standard 108 "Operating Segment". 
+3 The figures for the corresponding previous period I year have been regrouped I rearr~d wherever considered necessary to make them comparable. 
+HIM. 
+9 ,, '""""'"" '"" -
+{! · :<:~. '" '"""'~""' Bh,mJ' "'~" um•reo 
+.. ~~)_UJl.!(~ ,~BAll-~-
+Place: Mumbai ~.N- . C>. "); Chairman & Managing Director 
+Date: 14th November 2025 ~/ 41/ \ 'P . '.I ..lr DIN: 00263725 
+~ l ~,tt~ - >~II "" ~-- ~/ ),_ 
+--
+~\.. J"b 
+~ .......... -'.1 '?. 
+~ccaum~\\-<\ 
+-
+TRIBHOVANDAS BHIMJI ZAVERI LIMITED 
+CIN: L27205MH2007PLC172598 
+Registered office: 241/43 , Zaveri Bazar, Mumbai . 400 002 . 
+Tel No.: + 91 22 4046 5001. Website Add.: www.tbztheoriginal.com. Emailld: investors@tbzoriginal.com 
+STANDALONE BALANCE SHEET AS AT 30TH SEPTEMBER, 2025 
+-
+SrNo. Particulars 
+I ASSETS 
+1) Non-Current Assets 
+'a)_l~mpect}f, _E>IaoLao_clEquipmeoL ____ _ 
+(b) Capital work-in-progress 
+(c) Right-to-use assets 
+(d) Investment property 
+(e) Intangible assets 
+(f) Financial assets 
+(i) Investment in subsidiaries 
+(ii) Other financial assets 
+(g) Deferred tax assets (net) 
+(h) Non current tax assets 
+(i) Other non current assets 
+Total Non Current Assets 
+2) Current Assets 
+(a) Inventories 
+(b) Financial assets 
+(i) Trade receivables 
+(ii) Cash and cash equivalents 
+(iii) Bank Balance other than above 
+(iv) Other financial assets 
+(c) Other current assets 
+Total Current Assets 
+TOTAL ASSETS 
+II EQUITY AND LIABILITIES 
+Equity 
+(a) Equity Share capital 
+(b) Other Equity 
+Total Equity 
+Liabilities 
+1) Non-Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 
+(ii) Lease liability 
+(b) Provisions 
+Total Non Current Liabilities 
+2) Current Liabilities 
+(a) Financial liabilities 
+(i) Borrowings 
+(ii) Lease liab ility 
+(iii) Trade payables 
+a) Total outstanding dues of micro enterprises and 
+small enterpr ises 
+b) Total outstanding dues of creditors other than micro 
+enterprises and small enterprises 
+--- (ivfbther finan cial iiabiTitle-s - --
+(b) Provisions 
+~~~~~&~~) Income Tax lia_bili~i~_s (Net) 
+~~r 1 6-~ Other current liab11it1es 
+( !;ir / ~~ ~I Current Liabilities 
+~~ t.fl ~N\\3f>..\ T~ IJAL EQUITY AND LIABILITIES 
+*' ~/~ '&\.... ./ ~ ?1.1> .............. ..- <s;,'S 
+dftRED ~~\; 
+-
+As at 
+30 September 2025 
+(Unaudited) 
+___ ____ _ 7,242.98 . 
+40.62 
+7,763 .96 
+1,728 .67 
+59.06 
+1,196.29 
+720 .32 
+821 .34 
+-
+76.81 
+19 650 .05 
+1,73,033 .97 
+420 .58 
+747 .32 
+8,434 .87 
+370 .36 
+2,230 .21 
+1 85 ,237 .31 
+2,04,887.36 
+6,673 .06 
+63 729.55 
+70 402.61 
+352 .58 
+7,272.17 
+1 881 .00 
+9 505 .75 
+72 ,655 .25 
+1,924 .58 
+1,759 .32 
+29,546 .59 
+--- -- ---- 2)35 .88 
+245.05 
+614 .28 
+15 998 .05 
+1 24 979 .00 
+2,04,887.36 
+(~ I n lacs ) 
+As at 
+31 March 2025 
+(Audited) 
+_ _ _6,59.6.03 _ 
+84.74 
+7,770.69 
+1,737.82 
+65.72 
+1,196.29 
+676 .63 
+678 .34 
+229 .72 
+234 .79 
+19,270 .77 
+1,46,297.42 
+349 .81 
+2,448 .03 
+7,323 .64 
+273 .02 
+1,843 .25 
+1,58 535 .17 
+1 '77 ,805.94 
+6,673 .06 
+60,093 .98 
+66 767 .04 
+183.66 
+7,102.59 
+1,716.31 
+9 002.56 
+69,815.44 
+2,074 .80 
+841 .22 
+15,342 .77 
+1,747 .3'5' 
+240.13 
+-
+11 974 .63 
+1 02 036 .34 
+1,77 805.94 
+-
+--·--
+TRIBHOVANDAS BHIMJI ZAVERI LIMITED 
+CIN: L27205MH2007PLC172598 
+Registered office: 241/43, Zaveri Bazar, Mumbai. 400 002. 
+Tel No.: + 91 22 4046 5001. Website Add.: www.tbztheoriginal.com. Emailld: investors@tbzoriginal.com 
+UNAUDITED STANDALONE CASH FLOW STATEMENTS FOR THE HALF YEAR ENDED 30TH SEPTEMBER, 2025 
+( ~In lacs) 
+Sr Particulars 
+No. 
+Half Year Ended 
+30th Seotember 2025 
+Half Year Ended 
+30th September, 2024 
+A CASH FLOW FROM OPERATING ACTIVITIES 
+Net profit before tax 
+Adjustments to : 
+Depreciation and amortisation Expenses 
+Finance cost 
+Interest income 
+(erofit)LLoss on sales of property, plant and equipment 
+Rental income 
+Liabilities written back 
+Assets written off 
+Operating cash flow before working capital changes 
+Changes in working capital 
+Adjustments for (increase)/ decrease in operating assets: 
+Trade receivables 
+Inventories 
+Other Receivables 
+Adjustments for increase I (decrease) in operating liabilities: 
+Trade payables 
+Other Payables 
+Provisions 
+Cash generated from operating activities 
+Direct tax paid (net of refund) 
+Net cash generated from operating activities 
+B CASH FLOW FROM INVESTING ACTIVITIES 
+Capital Expenditure on property, plant and equipment and intangible assets 
+Proceeds from sale of property, plant and equipment 
+Other Bank balance and Bank deposits 
+Rental income 
+Interest received 
+Net cash (used in) investing activities 
+C CASH FLOW FROM FINANCING ACTIVITIES 
+Proceeds I Repayment of non current borrowings 
+Proceeds from current borrowings (net) 
+Dividend paid 
+Lease liability payment 
+Finance costs 
+Net cash generated (used in)/from financing activities 
+Net decrease in cash and cash equivalents (A+B+C) 
+Cash and cash equivalent at beginning of the period 
+Cash and cash equivalent at end of the period 
+Components of cash and cash equivalents 
+Cash on hand 
+Balances with banks 
+-on current accounts 
+-
+6,928.68 
+1,492.56 
+3,416.20 
+(270.41) 
+8.42 
+(34.13) 
+0.00 
+11.86 
+11,553.18 
+(70.77) 
+(26,736.55) 
+(509.03) 
+15,121.93 
+4,298.03 
+169.61 
+3,826.40 
+(1,054.01) 
+2,772.39 
+(808.77) 
+4.03 
+(1 '111.22) 
+34.13 
+253.42 
+(1 ,628.41) 
+213.59 
+2,795.14 
+(1 ,367.46) 
+(1 ,529.96) 
+(2,956.00) 
+{2,844.69) 
+(1 ,700.71) 
+2,448.03 
+747.32 
+554.20 
+193.12 
+747.32 
+-
+4,327.32 
+1,218.09 
+2,591.22 
+(116.08) 
+4.50 
+(33.98) 
+(12.57) 
+79.04 
+8,057.54 
+1,369.89 
+(25,909.35) 
+(1 '182.46) 
+14,121.12 
+4,319.87 
+117.03 
+893.64 
+(745.28) 
+148.36 
+(396.53) 
+8.55 
+(464.24) 
+33.98 
+74.90 
+(743.34) 
+(8.94) 
+4,603.73 
+(1,167.79) 
+(1 ,225.66) 
+(2,017.22) 
+184.12 
+(410.86) 
+1,083.97 
+673.11 
+159.53 
+513.58 
+673.11 
+CHATURVEDI 
+• • 
+SHAH 
+Chartered Accountants 
+• 
+Independent Auditor's Review Report on consolidated unaudited financial 
+results of the Company Pursuant to the Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended 
+To, 
+The Board of Directors of 
+TRIBHOV ANDAS BHIMJI ZA VERI LIMITED 
+1. We have reviewed the accompanying statement of consolidated unaudited 
+financial results of Tribhovandas Bhimji Zaveri Limited ("the Parent") and its 
+subsidiary (the parent and its subsidiary together refer to as "the Group") for the 
+quarter and half year ended 30th September, 2025, being submitted by the Parent 
+pursuant to the requirement of Regulation 33 of the SEBI (Listing Obligation and 
+Disclosure Requirements) Regulation, 2015 ('the Regulation'), as amended. 
+2. This statement, which is the responsibility of the parent's management and 
+approved by the Parent's Board of Directors, has . been prepared in accordance 
+with the recognition and measurement principles laid down in Indian Accounting 
+Standard 34, Interim Financial Reporting (lnd AS 34} as prescribed under 
+Section 133 of the Companies Act, 2013 read with relevant rules issued 
+thereunder and other accounting principles generally accepted in India. Our 
+responsibility is to express a conclusion on the statement based on our review. 
+3. We conducted our review of the statement in accordance with the Standard on 
+Review Engagement (SRE) 2410, "Review of Interim Financial Information 
+Performed by the Independent Auditor of the Entity" issued by the Institute of 
+Chartered Accountants of India. A review of interim financial information 
+consists of making enquiries, primarily of persons responsible for financial and 
+accounting- matters, -and applying analytical and other review procedures. A 
+review is substantially less in scope than an audit conducted in accordance with 
+Standards on Auditing and consequently does not enable us to obtain assurance 
+_ that we wpuld become aware of all significant matters that might be identified in 
+D\ & an audit. Accordingly, we do not express an audit opinion. 
+o..~fr).,..-....,SifA 
+~'7' "'~~ 
+~/ ~ 
+t..J( MUMB > • 
+*' )~ C"l\. }~ 
+~'- .) ~ 
+~If;'"----<~ . . . REo p._ccc:s ad OffiCe: 912, Tuls1am Chambers, 212, Nariman Point, Mumbai-400 021, India. Tel.: +91 22 4163 8500 • Fax : +91 22 4163 8595 
+URL: www.cas.ind.in 
+CHATURVEDI SHAH 
+Chartered Accountants 
+We also performed procedures in accordance with the circular issued by the SEBI 
+under Regulation 33(8) of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended, to the extent applicable. 
+4. The statement includes the results of the following entities: 
+Parent Com pany: 
+Tribhovandas Bhimji Zaveri Limited 
+Subsidia ry Company: 
+Tribhovandas Bhimji Zaveri (Bombay) Limited 
+5. Based on our review conducted and procedures performed as stated in paragraph 3 
+above, nothing has come to our attention that causes us to believe that the 
+accompanying statement of consolidated unaudited financial results, prepared in 
+accordance with the-reeegnition - and--measurement principles laid down in the 
+aforesaid Indian Accounting Standard and other accounting principles generally 
+accepted in India, has not disclosed the information required to be disclosed in 
+terms of Regulation 33 .of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended, including the manner in which it is 
+to be disclosed, or that it contains any material misstatement. 
+For Chaturvedi & Shah LLP 
+Chartered Accountants 
+Registration No. 101720W/ W100355 
+~,., ~ ),'?$ 
+Vijay Napawaliya 
+Partner 
+Membership No. 109859 
+. BBI-N:-251-09859BMMJTF8275 
+Place: Mumbai 
+Date: 14th November, 2025 
+Continuation sheet... 
+TRIBHOVANDAS BHIMJI ZAVERI LIMITED 
+CIN: L27205MH2007PLC172598 
+Registered office : 24 1/43, Zaveri Bazar , Mumbai - 400 002 . 
+Tel No.: + 91 22 4046 5001. Website Add. : www.tbztheorig inal.com. Emailld: investors@tbzoriginal.com 
+UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30TH SEPTEMBER, 2025 
+(~In lacs unless otherwise stated ) 
+Statement of Profit and Loss 
+Sr. Quarter Ended Six Months Ended Year Ended 
+No. Particulars 30-Se p-25 30-Jun-25 30-Se p-24 30-Se p-25 30-Se p-24 31-Mar-25 
+_{Unaudited ! I Unaudited I !Unaudited ! !Unaudited ) ! Unaudited ) !Audited ) 
+1 Revenue from operations 
+(a) Sale of products 68,779 .51 62,398.08 56,701 .09 1,31 ,177.59 1,16,322.07 2,61 ,986 .39 
+(b) Other operating income 3.28 2.59 3.64 5.87 6.96 62.03 
+Total revenue from operations 68,782.79 62,400 .67 56,704.73 1;31,183.46 1 '16,329 .03 2,62,048 .42 
+Other income 183.69 173.44 123.98 357 .13 223 .50 436 .35 
+Total income 68 966.48 62 574.11 56 828.71 1 31 540.59 116 552.53 2.62 484.77 
+2 Expenses 
+(a) Cost of materials consumed 46,014 .24 34,454 .96 31,784.20 80,469.20 69,359.77 1,69,265.62 
+(b) Purchases of stock-in-trade 26,664 .98 19,927 .92 22,162 .90 46,592.90 41,321 .51 75,034.29 
+(c) Changes in inventories of finished goods , (16 ,965 .81 ) (3,176 .57) (5,992 .87) (20 , 142.38) (12 ,728.61) (22,943.24) work-in-progress and stock-in-trade 
+(d) Labou r Charges 891 .55 507.27 603 .64 1,398 .82 1,310 .74 3,344.81 
+(e) Employee benefits expense 2,345.10 2,603 .68 2,342 .65 4,948.78 4,630 .17 9,340.15 
+(f) Finance costs 1,648 .17 1,767.28 1,310.43 3,415.45 2,590 .19 5,611.22 
+(g) Depreciation and amortisation expense 765.40 741 .76 614 .64 1,507 .16 1.231 .36 2,543.41 
+(h) Other expenses 3,415 .00 2,768 .60 2,282 .30 6,183.60 4,777.04 10,712 .33 
+Total expenses 64 778.63 59 594.90 55107.89 1 24 373.53 112 492.17 2 52 908.59 
+3 Profit before tax (1-2) 4,187 .85 2,979.21 1,720.82 7,167.06 4,060.36 9,576.18 
+4 Tax expense 
+(a) Current tax (Including tax effects of earlier years) 1,094 .00 804.00 508 .53 1,898 .00 1,213.94 2,749.67 
+(b) Deferred tax charge I (credit) (59 .27) (74.50) 15.23 (133 .77) (55.44) (12.31) 
+5 Profit after tax (3-4) 3 153.12 2 249.71 1 197.06 5 402.83 2 901.86 6 838.82 
+6 Other comprehensive income : 
+(a) Items that will not be reclassified to profit and loss 
+(i) Re-measurement of defined benefit obligations 66.44 (100 .34) (20.32) (33.90) (88.88) (136 .60) 
+(ii ) Re-measurement profit I (loss) on quoted investment 0.19 0.38 (0.52) 0.57 (0.31) (0.68) 
+(iii) Income tax effect on above (15.88) 25.11 4.28 9.23 21 .33 33.82 
+7 Total comprehensive income (5+6) 3 203.87 2174.86 1180.50 5 378.73 2 834.00 6 735.36 
+Net Prof it attributable to: 
+Owners of the parent 3,153 .12 2,249 .71 1,1 97.06 5,402 .83 2,90 1.86 6,838.82 
+Non-controlling interests - - - - -
+Other Comprehensive Income attributable to: 
+Owners of the parent 50.75 (74.85) (16 .56) (24.10) (67.86) (103.46) 
+Non-controlling interests - - - - - -
+Total Comprehensive Income attributable to: 
+Owners of the parent 3,203.87 2,174 .86 1,180.50 5,378 .73 2,834.00 6,735.36 
+Non-controlling interests - - - - - -
+8 Paid-up equity share capital 6,673 .06 6,673. 06 6,673 .06 6,673.06 6,673 .06 6,673.06 
+(Face Value Rs. 10 per share ) 
+9 Other Equity excluding revaluation reserve - - - - 59,047.88 
+10 Earnings per share (of Rs.10/- Each) Not Annualised Not Annual ised Not Annual ised Not Annualised Not Annualised 
+(a) Basic EPS 4.73 3.37 1.79 8.10 4.35 10.25 
+(b) Diluted EPS 4.73 3.37 1.79 8.10 4.35 10.25 
+See accom llanvlnq notes to the consolidated financial results 
+Notes : 
+1 The Audit Committee has reviewed the above results and the Board of Directors has approved the above resuijs and its release at their respective meetings held on 14th November , 
+2025 . The statutory auditor of the company has carried out limited review of aforesaid resuijs . 
+2 The consolidated financial results relate to Trib hovandas Bhimji Zaveri Limited (The Parent Company ) and its subsidiary namely , Tribho vandas Bhimji Zaveri (Bombay ) Limited , 
+collectively referred to as 'the Group' . 
+3 The Group's business activity falls within a singhil)rimary bUsiness segment of "Jewellery " and one reportable geographical segment which is "within India". Accordingly , the Group is a 
+single segment company in accordance with Indian Accounting Standa rd 108 "Operating Segment" . 
+4 The figures for the corresponding previous period I year have been regrouped I rearranged wherever considered necessary to make them comparable . 
+~ a,mdNofih• Boo• 
+~\\~ll!.~tl) 
+1 
+~ ~>;;~~ ~ Fm T•ibh~oO$ Bhimji Z.~ri Umd"' ------· --------··-
+"'' V-¢ ( ~( ~ \cg_ ~ :-, ~ ~( , ):t> I Place : Mumbai l . )::Z: DtQ. ·~ Chairman & Managing Director 
+Date : 14th November , 2025 ~1. - ~)~ n:J l ~ DIN: 00263725 
+OA\. ./ ~ 
+~UNT~~ -
+TRIBHOVANDAS BHIMJI ZAVERI LIMITED 
+CIN: L27205MH2007PLC172598 
+Registered office: 241/43, Zaveri Bazar, Mumbai. 400 002. 
+Tel No.: + 91 22 4046 5001. Website Add.: www.tbztheoriginal.com. Email ld: investors@tbzoriginal.com 
+CONSOLIDATED BALANCE SHEET AS AT 30TH SEPTEMBER, 2025 
+Sr. 
+No. Particulars 
+I ASSETS 
+1) Non-Current Assets 
+(a) Property, Plant and Equipment 
+(b) Capital work-in-progress 
+(c) Right-to-use assets 
+--- \ o} lntangiole assets-- - .. 
+(e) Financial assets 
+(i) Investments 
+(ii) Other financial assets 
+(f) Deferred tax assets (net) 
+(g) Non current tax assets 
+(h) Other non current assets 
+Total Non Current Assets 
+2) Current Assets 
+(a) Inventories 
+(b) Financial assets 
+(i) Trade receivables 
+(ii) Cash and cash equivalents 
+(iii) Bank Balance other than above 
+(iv) Other financial assets 
+(c) Other current assets 
+Total Current Assets 
+TOTAL ASSETS 
+II EQUITY AND LIABILITIES 
+Equity 
+(a) Equity Share capital 
+(b) Other Equity 
+Equity attributable to equity holders of the Company 
+Liabilities 
+1) Non-Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 
+(ii) Lease liability 
+(b) Provisions 
+Total Non Current Liabilities 
+2) Current Liabilities 
+(a) Financialliabilities 
+(i) Borrowings 
+(ii) Lease liability 
+(iii) Trade payables 
+a) Total outstanding dues of micro enterprises and 
+small enterprises 
+b) Total outstanding dues of creditors other than micro 
+enterprises and small enterprises 
+(iv) Other financial liabilities 
+(b) Provisions 
+(c) Income Tax liabilities (Net) 
+(d) Other current liabilities 
+Total Current Liabilities ~ Mu ~ 
+TOTAI:EQUITY ANDUABitiTIES ______ __ _ /h'~~..--.... /ff'f'~ 
+As at 
+30th September, 2025 
+(Unaudited) 
+( ~ In lacs' 
+As at 
+31st March, 2025 
+(Audited) 
+9,237.05 8,606.76 
+40.62 84.74 
+7,763.96 7,770.69 
+--------- ---- ·59.06. --- - --- ---6·5~7T-
+5.04 
+728.77 
+821.34 
+66.89 
+79.85 
+18 802.58 
+1,72,850.71 
+420.58 
+748.73 
+8,434.87 
+369.43 
+2 384.99 
+1 85 209.31 
+2,04,011.89 
+6,673.06 
+62 925.14 
+69 598.20 
+352.58 
+7,272.17 
+1 953.79 
+9 578.54 
+72,655.25 
+1,924.58 
+1,821.58 
+29,281.00 
+2,218.17 
+272.62 
+614.28 
+16 047.67 
+1 24 835.15 
+4.47 
+683.07 
+678.34 
+276.35 
+235.39 
+18.405.53 
+1 ,46,063.98 
+349.81 
+2,497.70 
+7,323.64 
+262.91 
+2,031 .15 
+1 58 529.19 
+1 76 934.72 
+6,673.06 
+59,047.88 
+65 720.94 
+183.66 
+7,102.59 
+1 793.39 
+9,079.64 
+69,815.44 
+2,074.80 
+859.52 
+15,376.95 
+1,730.67 
+260.57 
+12,016.19 
+1 02 134.14 
+------------ 2 04 011.89 ----- ----1 76 934.72 
+-
+TRIBHOVANDAS BHIMJI ZAVERI LIMITED 
+CIN: L27205MH2007PLC172598 
+Registered office: 241/43, Zaveri Bazar, Mumbai. 400 002. 
+Tel No.:+ 91 22 4046 5001. Website Add.: www.tbztheoriginal.com. Emailld: investors@tbzoriginal.com 
+UNAUDITED CONSOLIDATED CASH FLOW STATEMENTS FOR THE HALF YEAR ENDED 30TH SEPTEMBER, 2025 
+Sr no. 
+A 
+Particulars 
+CASH FLOW FROM OPERATING ACTIVITIES 
+Net profit before tax 
+Adjustments to : 
+Depreciation and amortisation expenses 
+Finance costs 
+Interest income 
+(Profit) I Loss on sales of property, plant and equipment 
+Assets written off 
+-----Rental· income 
+Liabilities I Provision no longer required written back (net) 
+Operating cash flow before working capital changes 
+Changes is working capital 
+Adjustments for (increase)/ decrease in operating assets: 
+Trade receivables 
+Inventories 
+Other Receivables 
+Adjustments for increase I (decrease) in operating liabilities: 
+Trade payables 
+Other Payables 
+Provisions 
+Cash generated from operating activities 
+Direct tax paid (net of refund) 
+Net cash generated from operating activities 
+B CASH FLOW FROM INVESTING ACTIVITIES 
+Capital Expenditure on property, plant and equipment and intangible assets 
+Proceeds from sale of property, plant and equipment 
+Bank deposits 
+Rental income 
+Interest received 
+Net cash (used in) investing activities 
+C CASH FLOW FROM FINANCING ACTIVITIES 
+Proceeds I Repayment of non current borrowings 
+Proceeds from current borrowings (net) 
+Dividend paid 
+Lease liability payment 
+Finance costs 
+Net cash (used in) I generated from financing activities 
+Net decrease in cash and cash equivalents (A+B+C) 
+Cash and cash equivalent at beginning of the period 
+Cash and cash equivalent at the end of the period 
+Components of cash and cash equivalents 
+Cash on hand 
+Balances with banks 
+- on current accounts 
+-
+Half Year Ended 
+30th September, 2025 
+7,167.06 
+(~In lacs) 
+Half Year Ended 
+30th September, 2024 
+4,060.36 
+1,507.16 1,231.36 
+3,415.45 2,590.19 
+(270.41) (116.08) 
+8.42 4.53 
+11.91 79.04 
+(5-:-70)f----·- ---(5o12) 
+0.00 (12.57) 
+11,833.89 
+(70.77) 
+(26,786.73) 
+(490.10) 
+14,866.11 
+4,309.14 
+172.46 
+3,834.00 
+(1,074.27) 
+2,759.73 
+(815.97) 
+4.33 
+(1 '111.22) 
+5.70 
+253.42 
+(1,663.74) 
+213.59 
+2,795.12 
+(1 ,367.46) 
+(1 ,529.96) 
+(2,956.26) 
+(2,844.97) 
+(1,748.98) 
+2,497.70 
+748.72 
+554.23 
+194.49 
+748.72 
+7,831.71 
+1,369.89 
+(25,774.47) 
+(1 '193.59) 
+14,201.09 
+4,302.30 
+128.21 
+865.14 
+(764.29) 
+100.85 
+(421.22) 
+8.91 
+(464.24) 
+5.12 
+74.90 
+(796.53) 
+(8.94) 
+4,603.73 
+(1,167.79) 
+(1 ,225.66) 
+(2,016.19) 
+185.15 
+(510.53) 
+1,192.85 
+682.32 
+160.61 
+521.71 
+682.32 
+PRESS RELEASE 
+TBZ Ltd. Delivers >21o/o VoV Q2 Revenue Growth with Record 
+Margins; Triple-Digit PAT Growth and >45% H1 EBITDA Increase 
+Signifying Profitable, Design-Led Scaling 
+Mumbai, 14th November, 2025: Tribhovandas Bhimji Zaveri Limited ("TBZ" or "the Company"), India's most trusted 
+jewellery house, today announced its unaudited standalone financial and operating performance for the second quarter 
+and half year ended 30th September 2025 ("Q2 & H 1 FY26"). Q2 FY26 delivered a robust combination of 21.30% revenue 
+growth;-gross ar1d cBITE>A-margins-amt132;23%--pAigrowth,-while-HIF--v26-saw-revenue-crp-12;77%-;-EBffBA up 45.2?010-­
+and PAT up 62.98% year-on-year. 
+These results extend the profitable-growth trajectory established through FY25 and Q1 FY26, where TBZ systematically lifted 
+margins through, design-led product mix, tighter operating discipline and calibrated network expansion. 
+Summary Table (Standalone Figures) (Rs.ln Millions) 
+Particulars Q2 FY26 Q2 FY25 o/o Change H1 FY26 H1 FY25 o/o Change 
+(YoYQ2} (YoYH1} 
+Revenue from 6,878.28 5,670.47 21.30% 13,118.35 11,632.90 12.77% Operations 
+Gross Profit 1,160.53 776.28 49.50% 2,168.96 1,635.12 32.65% 
+Gross Margin% 16.87% 13.69% 318 bps 16.53% 14.06% 247 bps 
+EBITDA 631.31 362.51 74.15% 1 '145.39 788.47 45.27% 
+EBITDA Margin % 9.18% 6.39% 279 bps 8.73% 6.78% 195 bps 
+Profit Before Tax (PBT) 410.48 184.57 122.39% 692.87 432.73 60.11% 
+Profit After Tax (PAT) 307.00 132.20 132.23% 516.44 316.88 62.98% 
+PAT Margin% 4.46% 2.33% 213 bps 3.94% 2.72% 122 bps 
+Q2 & H1 FY2026 PERFORMANCE HIGHLIGHTS: 
+1. Q2 FY26 - Strong Revenue and Earnings. Reinforcing Strategy 
+• Revenue growth: Revenue from Operations grew 21.30% YoYto ~6,878.28 million, reflecting healthy demand 
+across key regions and categories, along with opening two new stores in Ahmedabad and Hyderabad in Q1 
+FY26. 
+• Expanded market presence: With the addition of these stores the company's network now stands at 37 
+stores across 27 cities, with expansion focus on high potential markets. 
+• PAT growth on higher margins: PAT increased 132.23% YoY to ~307.00 million, with PAT margin rising 213 
+bps to 4.46%, driven by gross and EBITDA margins. 
+TRIBHOVANDAS BHIMJI ZAVERI LIMITED 
+Clf\l No: L27205Mii2007PLCl72598 
+Regd. Office: 241/243, Zaveri Bazar, Mumbai -400 002. Tel.: +91 22 4046 5000/01,6130 0505. 
+11th Floor, West Wing, Tulsiani Chambers. Free Press Journal Road, Nariman Point. Mumbai-400 021, Tel.: 022 3073 5000 
+www.tbztheoriginal.com 
+LEADERSHIP COMMENTARY 
+Mr. Sri kant Zaveri, Chairman & Managing Director: 
+"Our Q2 and H1 FY26 performance represents the next chapter in the profitable-growth journey we set in motion through 
+FY25 and reinforced in Q1 FY26. In this quarter, revenue grew by more than 21% year-on-year while earnings accelerated 
+meaningfully faster, with increased gross and EBITDA margins. This is a reflection of how our business model has been 
+steadily reshaped through, design-led product mix, sharper merchandising and disciplined execution across our retail 
+network. Our flagship showrooms in Ahmedabad and Hyderabad, opened in Q1 FY26, continue to deepen our presence in 
+India's most attractive urban corridors and strengthen our brand recall across generations. 
+Ms. Binaisha Zaveri, Director: 
+"Over recent quarters, our endeavour has been to give TBZ's heritage a contemporary voice by uniting product, store 
+experience and storytelling. Within our network of showrooms, each store is curated with regional sensibilities in mind, yet 
+consistently reflects our national brand signature of trust and craftsmanship. These efforts translated into a healthy step­
+up in customer engagement this quarter, with strong walk-ins, a high proportion of new-customer contribution and a revival 
+of lapsed clients. By rooting our growth in design, experience and authenticity, we are steadily strengthening TBZ's position 
+as the preferred jewellery destination for bridal, festive and everyday fine jewellery for today's consumers and the 
+generations that will follow. 
+Mr. Mukesh Sharma, Chief Financial Officer: 
+"Our Q2 and H 1 FY26 numbers provide clear evidence that our journey for margin improvement that we have been marching 
+towards for the last two years is now firmly embedded in the business. From full-year FY25 EBITDA margins of 6.72% and 
+gross margins of 13.66%, we have moved to H1 FY26 EBITDA margin of8.73% and gross margin of 16.53%, alongside double­
+digit revenue growth in the early teens. In Q2 alone, revenue grew 21.30%, EBITDA rose 74.15% and PAT grew 132.23%. This 
+profit flow-through is a direct outcome of disciplined product and inventory management, procurement efficiencies and 
+tight control of operating costs. From a balance sheet perspective, our growth remains largely self-funded. We will continue 
+to manage capital prudently, grow revenue with a quality-first mindset and convert scale into cash flows, ensuring that 
+margin gains are sustainable and aligned with long-term shareholder interests." 
+About Tribhovandas Bhimji Zaveri Limited 
+Tribhovandas Bhimji Zaveri Limited is India's renowned and trusted jewellery retailer with a legacy of more than 
+161 years. The Company began its journey in 1864, opening its flagship store in Zaveri Bazar, M umbai. Over the 
+years, the Company has established itself as a preferred choice for customers in the wedding jewellery segment, 
+recognised for exquisite gold and diamond jewellery designs. It has led from the front in an otherwise largely 
+unorganised Indian jewellery industry, setting high-quality and transparency standards over the last 161 years, 
+being the first jeweller to offer a buyback guarantee on jewellery and to introduce 100% hallmarked jewellery in 
+India. The Company transformed from a one-store family-owned business in 1864 into a professional 
+organisation led by the 5th generation, expanding its presence and reach across India to 37 stores in 27 cities. 
+For Tribhovandas Bhimji Zaveri Limited 
+~ 
+Chairman & Managing Director 
+DIN:00263725 
+TRIBHOVANDAS BHIMJI ZAVERI LIMITED 
+CIN No: L27205M~OO?PLC172598 
+Regd. Office: 241/243, Zaveri Bazar, Mumbai -400 002. Tel.: +91 22 4046 5000/0l, 6130 0505. 
+11th Floor, West Wing, Tulsiani Chambers, Free Press Journal Road, Nariman Point, Mumbai-400 021. Tel.: 022 3073 5000 
+www.tbztheoriginal.com 
+ 
+ 
+Annexure B 
+ 
+Sr. 
+No 
+Particulars Details 
+1. Reason for change viz. 
+appointment, re -appointment, 
+resignation, removal, death or 
+otherwise 
+Appointment 
+2. Date & term of appointment Appointment of Mr. Kapil Budukh  as Head -
+Advertising & Marketing, designated as                       
+“Senior Management Personnel” with effect from                         
+14th November, 2025. 
+3. Brief profile (in case of 
+appointment) 
+Mr. Kapil holds a Master’s in Management Studies 
+from Pune University. He is highly accomplished and 
+results-oriented Head of Marketing with 17 years of 
+progressive experience driving significant growth 
+and transformation within the dynamic retail and                
+e-commerce landscape. 
+ 
+He has proven expertise in building and leading high-
+performing teams, developing and executing 
+omnichannel strategies, scaling digital businesses, 
+optimizing customer lifecycle value, and forging 
+impactful partnerships with leading brands. 
+ 
+In his last role, he was associated with Tata Croma 
+as Vice President & Head –  
+Marketing, where he 
+played a pivotal role in driving exponential growth, 
+geographic expansion, and digital acceleration. He 
+successfully led the formulation and execution of 
+omnichannel business strategies to ensure 
+seamless customer experiences across online and 
+offline platforms. He has also been associated with 
+2S Consulting Private Limited and GFK Mode. 
+ 
+4. Disclosure of relationships 
+between directors (in case of 
+appointment of a director) 
+Not applicable 
+ 
+

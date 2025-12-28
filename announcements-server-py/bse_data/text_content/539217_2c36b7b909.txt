@@ -1,0 +1,661 @@
+          
+ 
+ 
+Registered Office: Door No.19 & 20, General Muthiah Mudali Street, Sowcarpet, Chennai – 600003 
+CIN: L65993TN1985PLC012047 | E-mail: srestha.info@gmail.com | Phone No. 044-40057044            
+Date: November 14, 2025 
+To 
+The Manager 
+Listing Department 
+1. Bombay Stock Exchange Ltd, Mumbai 
+2. Metropolitan Stock Exchange of India Ltd, Mumbai. 
+ 
+Dear Sir, 
+ 
+Sub: Outcome of Board Meeting dated November 14, 2025 
+ 
+Pursuant to Regulation 33 and other applicable provisions of Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, it is hereby informed to the Bom bay Stock 
+Exchange ltd and Metropolitan Stock Exchange of India Ltd, that  the Board of Directors of the Company at its 
+meeting held today, i.e. November 14, 2025 has transacted the following business: 
+ 
+(a)  The Board of Directors approved the Un-Audited Standalone and Consolidated  Financial Results of the 
+Company for the quarter / half year ended September 30, 2025 along with Limited Review Report issued by 
+statutory auditors of the company. The copy of Un-Audited Financial Results along with Statement of Assets 
+& Liabilities, Statement of Cash Flows and Limited Review Report for the period ended September 30, 2025 
+are enclosed along with this letter for your reference and records. 
+ 
+(b) The Board considered and approved the compliances related matters. Also discussed and reviewed the on-
+going general business matters and propositions in operations of the company. 
+ 
+Further the Board Meeting commenced at 06.00 P .M. and concluded at 07.05 P .M. 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+For Srestha Finvest Limited 
+ 
+ 
+A. Jitendra Kumar Bafna 
+Company Secretary & Compliance Officer 
+ 
+Encl : As above 
+SRESTHA F1NVEST LIMITED
+Year Ended
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024 31.03.2025
+(Un Audited) (Un Audited) (Un Audited) (Un Audited) (Un Audited) (Audited)
+1. Income from Operations
+i) Interest Income 122.09                   320.52                   356.47                 442.62                 667.58                   1,108.16            
+ii) Dividend Income 1.94                       -                         0.90                      1.94                      0.90                        1.66                    
+iii) Rental Income -                         -                         -                        -                        -                          -                      
+iv) Fees and Commission Income -                         -                         -                        -                        -                          -                      
+v) Net gain on trading of shares -                         -                        -                        3,290.77                -                      
+vi) Net gain on trading of Futures & Options -                         47.01                     -                        47.01                   348.73                   -                      
+I) Total Revenue from operations 124.04                   367.53                   357.37                 491.57                 4,307.98                1,109.81            
+II) Other Income 50.06                     0.01                       0.01                      50.06                   0.01                        18.99                  
+III) Total Income (I) + (II) 174.09                   367.54                   357.38                 541.63                 4,307.99                1,128.80            
+Expenses
+i) Finance Costs -                         77.16                     69.08                   77.16                   178.51                   314.65               
+ii) Fees and Commission expense 5.24                       27.80                     26.40                   33.05                   43.72                      208.61               
+iii) Impairment on Financial Instruments -                         -                         -                        -                        -                          -                      
+iv) Employee Benefit Expenses 11.68                     12.01                     8.42                      23.69                   16.23                      33.72                  
+v) Depreciation, Amortisation and Impairment 14.63                     14.63                     18.79                   29.26                   37.59                      75.24                  
+vi) Loss in trading of shares 1.88                       0.47                       461.32                 2.35                      461.32                   384.10               
+vii) Loss in trading of Future & Options -                         -                         788.83                 -                        788.83                   2,647.88            
+viii) Bad Debts -                         -                         360.00                 -                        360.00                   360.00               
+ix) Provision of NPA 584.29                   -                         70.00                   584.29                 70.00                      171.31               
+x) Other Expenses 634.24                   18.06                     135.15                 652.30                 251.24                   436.67               
+IV) Total Expenses 1,251.97               150.13                   1,937.99             1,402.10             2,207.44                4,632.18            
+V) Profit before tax (III) - (IV) (1,077.88)              217.41                   (1,580.61)            (860.47)               2,100.56                (3,503.38)          
+VI) Tax Expense:
+i) Current Tax/Short Provision of Pervious year -                         -                         (96.30)                  -                        486.26                   1.12                    
+ii) Deferred Tax -                         -                         (2.21)                    -                        (4.82)                       (9.31)                  
+iii) Provision Against Standard Assets -                         -                         -                        -                        -                          3.25                    
+VII) Profit For the period (V) - (VI) (1,077.88)              217.41                   (1,482.11)            (860.47)               1,619.11                (3,498.44)          
+VIII) Other Comprehensive Income (OCI)
+A) (i) Items that will not be reclassified to profit or loss
+        -  Remeasurement loss on defined benefit plans -                         -                         -                        -                        -                          -                      
+        -  Change in Fair Value of Equity Instruments through OCI / Net gain on equity instruments through OCI183.08                   236.55                   923.38                 419.63                 (2,062.10)               (746.93)              
+    (ii) Income tax relating to the above items (26.18)                    (33.83)                    (213.86)                (60.01)                  328.45                   608.61               
+Subtotal (A) 156.90                   202.72                   709.52                 359.62                 (1,733.65)              (138.32)              
+B) (i) Items that will be reclassified to profit or loss
+        -  Net gain on debt instruments through OCI -                         -                         -                        -                        -                          -                      
+    (ii) Income tax relating to the above items -                         -                         -                        -                        -                          -                      
+Subtotal (B) -                         -                         -                        -                        -                          -                      
+Other Comprehensive Income (A + B) 156.90                   202.72                   709.52                 359.62                 (1,733.65)              (138.32)              
+(IX) Total Comprehensive Income for the period (VII+VIII) (920.98)                 420.13                   (772.59)               (500.85)               (114.54)                  (3,636.76)          
+(X) Paid - up equity share capital (Face Value of the share Rs 1/- each) 16,400.00             16,400.00             16,400.00           16,400.00           11,600.00              16,400.00          
+(XI) Reserve excluding revaluation reserves as per balance sheet of previous 
+accounting year 538.95               
+(XII) Earnings per equity share (Face value of Rs.1/- each) #
+Basic (Rupees) -0.07                       0.01                        -0.10                     -0.05                     0.11                         -0.23                   
+Diluted (Rupees) -0.07                       0.01                        -0.10                     -0.05                     0.11                         -0.23                   
+NOTES:
+14th November, 2025.
+3. The Company is engaged into two segment, Financing and Investments Activities.
+4. The company has carried out the assessement of Impairment of Asset as defined in IND AS.
+5. The Board of Directors have not declared any interim dividend.
+6. The Figures have been re-grouped, re-arranged, re-classified, wherever considered necessary to present better comparison.
+7. The diluted EPS is computed considering the amount received for allotment of convertible warrants
+Place: Chennai
+Date: 14.11.2025 DIN: 03120545
+SRESTHA FINVEST LIMITED
+CIN: L65993TN1985PLC012047
+Regd. Office: Door No.19 & 20, General Muthiah Mudali Street, Sowcarpet, Chennai - 600003
+Statement of Standalone Un-audited Financial Results for the Quarter Ended 30.09.2025
+e mail: srestha.info@gmail.com
+Particulars
+(Rs. In Lakhs)
+Quarter Ended Half Year Ended
+1. The above Standalone financial results of the Company have been prepared in accordance with Indian Accounting Standards (‘Ind AS’) as prescribed under section 133 of the Companies 
+Act, 2013 read with the Companies (Ind AS) Rules, as amended from time to time, directions/guidelines issued by the Reserve Bank of India ('RBI') and other recognized accounting practices 
+generally accepted in India. The above Standalone financial results are in compliance with Regulation 33 of the SEBI (LODR) Regulations, 2015, as amended. 
+2. The above Un-audited results were reviewed by the Audit Committee and were approved by the Board of Directors of the company at its meeting held on 
+SUNIL BHANDARI
+Whole Time Director
+(Rs. In Lakhs)
+S. No. Particulars  30th Sep 2025  31st March 2025 
+Assets
+(1) Financial Assets
+(a) Cash and cash equivalents 76.47                             687.46                         
+(b) Bank Balance other than (a) above -                                 -                               
+(c) Derivative financial instruments -                                 -                               
+(d) Receivables -                                 -                               
+(I) Trade Receivables -                                 -                               
+(II) Other Receivables -                                 -                               
+(e) Loans 11,668.08                     12,904.15                   
+(f) Investments 7,927.52                       6,737.57                      
+(g) Other Financial assets 87.60                             -                               
+(2) Non-Financial Assets
+(a) Inventories -                                 -                               
+(b) Current tax assets (Net) 2.14                               89.43                           
+(c) Deferred tax Assets (Net) 86.63                             146.64                         
+(d) Investment Property -                                 -                               
+(e) Biological  assets other than bearer plants -                                 -                               
+(f) Property, Plant and Equipment 145.79                          175.06                         
+(g) Capital work-in-progress -                                 -                               
+(h) Intangible assets under development -                                 -                               
+(i) Goodwill -                                 -                               
+(j) Other Intangible assets -                                 -                               
+(k) Other non-financial assets (to be specified) 2,627.20                       1,364.09                      
+Total Assets 22,621.44                     22,104.40                   
+Liabilities And Equity
+(1) Financial Liabilities
+(a) Derivative financial instruments -                                 -                               
+(b) Payables -                                 -                               
+(I)Trade Payables
+(i) total outstanding dues of micro enterprises and small enterprises -                                 -                               
+(ii) total outstanding dues of creditors other than micro enterprises -                                 -                               
+(II)  Other Payables
+(i) total outstanding dues of micro enterprises and small enterprises -                                 -                               
+(ii)total outstanding dues of creditors other than micro enterprises 442.21                          8.57                             
+     and small enterprises
+(c) Debt Securities -                                 -                               
+(d) Borrowings (Other than Debt Securities) 4,794.98                       4,789.88                      
+(e) Deposits -                                 -                               
+(f) Subordinated Liabilities -                                 -                               
+(g) Other  financial liabilities(to  be specified) -                                 -                               
+(2) Non-Financial Liabilities
+(a) Current tax liabilities  (Net) -                                 -                               
+(b) Provisions 945.76                          361.46                         
+(c) Deferred tax liabilities  (Net) -                                 -                               
+(d) Other  non-financial liabilities(to  be specified) 0.38                               5.53                             
+(3) Equity
+(a) Equity share capital 16,400.00                     16,400.00                   
+(b) Other equity 38.11                             538.95                         
+Total Liabilities 22,621.44                     22,104.40                   
+                                                                                     
+Sunil Bhandari
+Place :- Chennai Wholetime Director
+DIN: 03120545
+For Srestha Finvest Limited
+Date :- 14-11-2025
+SRESTHA FINVEST LIMITED
+CIN: L65993TN1985PLC012047
+Regd. Office: Door No.19 & 20, General Muthiah Mudali Street, Sowcarpet, Chennai - 600003
+e-mail: srestha.info@gmail.com | Ph: 044-40057044
+STATEMENT OF ASSETS AND LIABILITIES AS AT SEPTEMBER 30, 2025
+     For and on behalf of the Board
+(Rs. In Lakhs)
+S. No. Particulars 30th Sep 2025 31st March 2025
+A Cash Flows from Operating Activities:
+Net profit / (loss) before taxation (860.47) (3503.38)
+Adjustments for :
+Depreciation 29.26 75.24
+Provisioning for Statutory Reserves (net) 0 0.00
+Provisioning for NPA 584.29 171.31
+Loss / (Gain) on Sale of Investments -44.66 384.10
+Operating Profit before Working Capital Changes (291.57) (2872.72)
+(Increase) / Decrease in loan Assets 1236.07 (1663.46)
+(Increase) / Decrease in Trade Receivables 0.00 0.00
+(Increase) / Decrease in Other Financial assets (87.60)
+(Increase) / Decrease in Current Tax Assets (net) 87.29 (13.58)
+(Increase) / Decrease in non-Financial Assets (1263.11) (460.30)
+Increase / (Decrease) in trade payables and other payables 433.64 (126.86)
+Increase / (Decrease) in Borrowings 5.10 (178.00)
+Increase / (Decrease) in Provisions 584.29 0.00
+Increase / (Decrease) in other Financial liabilities (5.15) (33.99)
+Cash Generated from Operations 698.97 (5348.92)
+Less: Tax paid 0.00 1.12
+Net cash flow from / (used) in operating activites ( A ) 698.97 (5350.03)
+B Cash Flows from Investing Activities:
+Purchase of property plant and equipment 0.00 (0.33)
+Investments in Subsidiary 0.00 0.00
+Purchase / Sale of Investments (net) (1309.96) (1966.84)
+Net Cash From Investing   ( B ) (1309.96) (1967.17)
+C Cash flow from Financing Activities:
+Issue of Equity Shares during the year 0.00 4800.00
+Warrant Application money 0.00 2239.13
+Net Cash Used In Financing Activities (C) 0.00 7039.13
+Net Increase in Cash and  Cash Equivalents (A+B+C) -610.99 -278.08
+Cash and Cash Equivalents at beginning of Period 687.46 965.54
+Cash and Cash Equivalents at end of Period 76.47 687.46
+-610.99 -278.08
+0.00000
+Note:
+The above statement of Cashflow is prepred under "indirect method' as set out in Ind AS 7 'Statement of Cash Flows'.
+                                                                                     
+Sunil Bhandari
+Wholetime Director
+DIN: 03120545
+For Srestha Finvest Limited
+Date :- 14-11-2025
+SRESTHA FINVEST LIMITED
+CIN: L65993TN1985PLC012047
+Regd. Office: Door No.19 & 20, General Muthiah Mudali Street, Sowcarpet, Chennai - 600003
+e-mail: srestha.info@gmail.com | Tel: 044-40057044 | Website: www.srestha.co.in
+STATEMENT OF STANDALONE CASH FLOWS FOR THE PERIOD ENDED 30.09.2025
+     For and on behalf of the Board
+(Rs. In Lakhs)
+Particulars Year ended
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024 31.03.2025
+Unaudited Unaudited UnAudited Unaudited Unaudited Audited
+1. Segment Revenue
+(net sale/income from each segment should 
+be disclosed under this head)
+(a) Lending Division 122.09 320.52 357.08 442.62 667.58 1108.16
+(b) Investment/Trading in Equity and F&O 0.00 47.01 -                     48.95 3,639.50              1.66
+Net sales/Income From Operations 122.09 367.53 357.08 491.57 4307.09 1109.81
+2. Segment Results (Profit)(+)/ Loss (-) 
+before tax from Each segment)
+(a) Lending Division 1250.09 149.66 -329.85 1399.75 3350.71 7664.16
+(b) Investment/Trading in Equity and F&O 1.88 0.47 -1250.15 2.35 -1250.15 -3031.97
+(c) Unallocable -                     -                     -                     -                       0.00
+Total Profit Before Tax 1251.97 150.13 -1580.01 1402.10 2100.56 4632.18
+3. Segment Assets
+(a) Lending Division 14,693.91          15,750.27          17,553.26          14,693.91           17,553.26           15,366.83          
+(b) Investment/Trading in Equity and F&O 7,927.52            7,206.22            6,675.75            7,927.52              6,675.75              6,737.57            
+(c) Unallocable -                     -                     -                     -                       -                       -                     
+Total Segment Assets 22,621.44         22,956.49         24,229.01         22,621.44           24,229.01           22,104.40         
+4. Segment Liabilities
+(a) Lending Division 6,183.33            5,683.27            6,006.96            6,183.33              6,006.96              5,165.44            
+(b) Investment/Trading in Equity and F&O -                     -                     -                     -                       -                       -                     
+(c) Unallocable -                     -                     -                     -                       -                       -                     
+Total Segment Liabilities 6,183.33            5,683.27            6,006.96            6,183.33              6,006.96              5,165.44            
+4. Capital Employed
+(a) Lending Division 8,510.58            10,067.00          11,546.30          8,510.58              11,546.30           10,201.38          
+(b) Investment/Trading in Equity and F&O 7,927.52            7,206.22            6,675.75            7,927.52              6,675.75              6,737.57            
+Capital Employed 16,438.11         17,273.22         18,222.05         16,438.11           18,222.05           16,938.95         
+                                                                                     
+Place :- Chennai
+Date :- 14-11-2025 DIN: 03120545
+Half year EndedQuarter Ended
+     For and on behalf of the Board
+For Srestha Finvest Limited
+Sunil Bhandari
+Wholetime Director
+for the Quarter ended 30th Sep 2025
+SRESTHA FINVEST LIMITED
+CIN: L65993TN1985PLC012047
+Regd. Office: Door No. 19 & 20, General Muthiah Mudali Street, Sowcarpet, Chennai - 600003
+e mail: srestha.info@gmail.com | Contact No.: 044-40057044
+Segment Information in respect of Un-Audited Financial Results
+Ok
+I N D I A DARPAN & ASSOCIATES
+CHARTERED ACCOUNTANT
+#11/2, Shyam Avenue, College Road, Nungambakkam, Chennai - 600006
+dan)aimassociates@u
+'
+inail.coni
+Limited Review Report
+The Board of Directors of Srestha Finvest Limited
+We have reviewed the accompanying statement of unaudited standalone financial results of
+Srestha Finvest Limited ("the Company") for the quarter and half year ended
+30th September 2025 attached herewith,being submitted by the company pursuant to the requirements
+of Regulation 33 of the SEBI (listing obligations and Disclosure requirements) Regulations, 2015, as
+amended to date, except for the disclosures regarding 'Public Shareholding' and 'Promoter and
+Promoter Group Shareholding' which have been traced from disclosures made by the management and
+have not been reviewed by us.
+The preparation of the statement is the responsibility of the company's Management in accordance with
+applicable Indian Accounting Standards ('Ind AS') specified under section 133 of the Companies Act,
+2013,read with relevant rules and has been approved by the Board of Directors. Our responsibility is to
+express a conclusion on the statement based on our review.
+We conducted our review in accordance with the Standard on Review Engagement (SRE) 2410, "Review
+of Interim Financial Information performed by the Independent Auditor of the entity" issued by The
+Institute of Chartered Accountants of India. This standard requires that we plan and perform the review
+to obtain moderate assurance as to whether the financial statements are free of material misstatement.
+A review of interim financial statement is limited primarily to inquiries of persons responsible for
+financial and accounting matters and analytical procedures applied to the financial data. It is
+substantially less in scope than an audit conducted in accordance with the generally accepted
+accounting standards, the objectives of which is expression of opinion regarding the financial
+statements taken as a whole. We have not performed an audit and accordingly, we do not express an
+audit opinion.
+Basis for Qualified Conclusion
+Based on information provided to us by management, the company has not provided Interest of
+Rs.34.13 Lakhs on borrowings from Arcadia Shipping Ltd. The company has received letters from Arcadia
+shipping Ltd recalling the Interest and Loan outstanding. Based on the explanation given to us, the
+company has not given response for the same and is exploring legal options. As per Ind AS and Generally
+Accepted Accounting Principles,accounting policies adopted for annual accounts are to be followed for
+Interim Financials. Non-provision of the Interest has resulted in decrease in Finance Cost for the Quarter
+and half year ended 30.09.2025 to the extent of Rs.17.07 Lakhs and Rs.34.13 Lakhs respectively, and
+decrease in Loss after Tax for the Quarter and Loss after tax for half year ended 30.09.2025 to that
+extent.
+Qualified Conclusion:
+Based on our review conducted as above, with th
+paragraph, nothing has come to our atte
+statement of unaudited standalone financi
+option of the matter described in the preceding
+uses us to believe that the accompanying
+ired in accordance with the applicable Indian
+t
+^SS&Qc,
+res *
+miIdL- &
+(A
+I N D I A DARPAN & ASSOCIATES
+CHARTERED ACCOUNTANT
+#11/2, Shyam Avenue, College Road, Nungambakkam, Chennai - 600006
+dan)annassociat.es@gmail.com
+Accounting Standards ('Ind AS') specified under section 133 of the Companies Act, 2013, read with
+relevant rules issued thereunder and other recognised accounting practices and policies has not
+disclosed the information required to be disclosed in terms of Regulation 33 of the SEBI (Listing
+Obligation and Disclosure Requirements) Regulations,2015, as amended to date,including the manner
+in which it is to be disclosed,or that it contains any material misstatement.
+for Darpan & Associates
+Chartered Accountants.,
+ICAI Firm Reg.n No.o|§t
+r|gt
+(CA.'Darpan Kumar)
+Partner "
+M. No. 235817
+UDIN : 25235817BMJLPP5208
+r Voy
+Place: Chennai
+Date: November 14,2025
+Year Ended
+30.09.2025 30.06.2025 30.09.2025 31.03.2025
+(Un Audited) (Un Audited) (Un Audited) (Audited)
+1. Income from Operations
+i) Interest Income 122.09                       320.52                       442.62                     1,108.16                        
+ii) Dividend Income 1.94                            -                             1.94                          1.66                                
+iii) Rental Income -                              -                             -                            -                                  
+iv) Fees and Commission Income -                              -                             -                            -                                  
+v) Net gain on trading of shares -                              -                             -                            -                                  
+vi) Net gain on trading of Futures & Options -                              47.01                         47.01                        -                                  
+I) Total Revenue from operations 124.04                       367.53                       491.57                     1,109.81                        
+II) Other Income 50.06                         0.01                           50.06                        18.99                              
+III) Total Income (I) + (II) 174.09                       367.54                       541.63                     1,128.80                        
+Expenses
+i) Finance Costs -                              77.16                         77.16                        326.32                           
+ii) Fees and Commission expense 5.24                            27.80                         33.05                        208.61                           
+iii) Impairment on Financial Instruments -                              -                             -                            -                                  
+iv) Employee Benefit Expenses 11.68                         12.01                         23.69                        33.72                              
+v) Depreciation, Amortisation and Impairment 14.63                         14.63                         29.26                        75.24                              
+vi) Loss in trading of shares 1.88                            0.47                           2.35                          384.10                           
+vii) Loss in trading of Future & Options -                              -                             -                            2,647.88                        
+viii) Bad Debts -                              -                             -                            360.00                           
+ix) Provision of NPA 584.29                       -                             584.29                     171.31                           
+x) Other Expenses 634.24                       18.27                         652.51                     436.88                           
+IV) Total Expenses 1,251.97                   150.34                       1,402.32                  4,644.06                        
+V) Profit before tax (III) - (IV) -1,077.88                  217.20                       -860.68                    -3,515.26                      
+VI) Tax Expense:
+i) Current Tax/Short Provision of Pervious year -                              -                             -                            1.12                                
+ii) Deferred Tax -                              -                             -                            -9.31                               
+iii) Provision Against Standard Assets -                              -                             -                            3.25                                
+VII) Profit For the period (V) - (VI) -1,077.88                  217.20                       -860.68                    -3,510.32                      
+VIII) Other Comprehensive Income (OCI)
+A) (i) Items that will not be reclassified to profit or loss
+        -  Remeasurement loss on defined benefit plans -                             -                            -                                  
+        -  Net gain on equity instruments through OCI 183.08                       236.55                       419.63                     -746.93                          
+    (ii) Income tax relating to the above items -26.18                        -33.83                        -60.01                      608.61                           
+Subtotal (A) 156.90                       202.72                       359.62                     -138.32                          
+B) (i) Items that will be reclassified to profit or loss
+        -  Net gain on debt instruments through OCI -                             -                            -                                  
+    (ii) Income tax relating to the above items -                             -                            -                                  
+Subtotal (B) -                             -                            -                                  
+Other Comprehensive Income (A + B) 156.90                       202.72                       359.62                     -138.32                          
+(IX) Total Comprehensive Income for the period (VII+VIII) -920.98                     419.92                       -501.06                    -3,648.63                      
+(X) Profit for the year attributable to:
+Shareholders of the group -1,077.88                  217.25                       -860.68                    -3,507.35                       
+Non-controlling interests -                              -0.05                          -2.97                               
+(XI) Other Comprehensive Income attributable to:
+Shareholders of the group 156.90                       202.72                       359.62                     -138.32                          
+Non-controlling interests -                             -                            -                                  
+(XII) Total Comprehensive Income attributable to:
+Shareholders of the group -920.98                      419.97                       -501.06                    -3,645.66                       
+Non-controlling interests -                              -0.05                          -                            -2.97                               
+(XIII) Paid - up equity share capital (Face Value of the share Rs 1/- each) 16,400.00                 16,400.00                 16,400.00                16,400.00                      
+(XIV) Reserve excluding revaluation reserves as per balance sheet of 
+previous accounting year 
+(XV) Earnings per equity share (Face value of Rs.1/- each) #
+Basic (Rupees) -0.066 0.013 -0.052 -0.214
+Diluted (Rupees) -0.066 0.013 -0.052 -0.232
+NOTES:
+     held on 14th November, 2025.
+3. The Company is engaged into two segment, Financing and Investments Activities.
+4. The company has carried out the assessement of Impairment of Asset as defined in IND AS.
+5. The Board of Directors have not declared any interim dividend.
+6. The Figures have been re-grouped, re-arranged, re-classified, wherever considered necessary to present better comparison.
+7. The diluted EPS is computed considering the amount received for allotment of convertible warrants
+Place: Chennai
+Date: 14.11.2025
+SRESTHA FINVEST LIMITED
+CIN: L65993TN1985PLC012047
+Regd. Office: Door No.19 & 20, General Muthiah Mudali Street, Sowcarpet, Chennai - 600003
+Statement of Consolidated Un-audited Financial Results for the Quarter Ended 30.09.2025
+e mail: srestha.info@gmail.com
+DIN: 03120545
+Quarter Ended
+(Rs. In Lakhs)
+Half Year Ended
+1. The above Consolidated financial results of the Company have been prepared in accordance with Indian Accounting Standards (‘Ind AS’) as prescribed under 
+section 133 of the Companies Act, 2013 read with the Companies (Ind AS) Rules, as amended from time to time, directions/  guidelines issued by the Reserve 
+Bank of India ('RBI') and other recognized accounting practices generally accepted in India. The above Consolidated financial results are in compliance with 
+Regulation 33 of the SEBI (LODR) Regulations, 2015, as amended. 
+2. The above Un-audited results were reviewed by the Audit Committee and were approved by the Board of Directors of the company at its meeting 
+SUNIL BHANDARI
+Whole Time Director
+Particulars
+(Rs. In Lakhs)
+S. No. Particulars  30th Sep 2025  31st March 2025 
+Assets
+(1) Financial Assets
+(a) Cash and cash equivalents 79.79                             736.63                          
+(b) Bank Balance other than (a) above -                                  -                                
+(c) Derivative financial instruments -                                  -                                
+(d) Receivables -                                  -                                
+(I) Trade Receivables -                                  -                                
+(II) Other Receivables -                                  -                                
+(e) Loans 12,107.91                     12,904.15                    
+(f) Investments 7,890.02                        6,700.07                      
+(g) Other Financial assets (to be specified) 87.60                             -                                
+(2) Non-Financial Assets
+(a) Inventories -                                  -                                
+(b) Current tax assets (Net) 2.14                                89.43                            
+(c) Deferred tax Assets (Net) 86.63                             146.64                          
+(d) Investment Property -                                  -                                
+(e) Biological  assets other than bearer plants -                                  -                                
+(f) Property, Plant and Equipment 145.79                           175.06                          
+(g) Capital work-in-progress -                                  -                                
+(h) Intangible assets under development -                                  -                                
+(i) Goodwill -                                  -                                
+(j) Other Intangible assets -                                  -                                
+(k) Other non-financial assets (to be specified) 2,222.06                        2,214.92                      
+Total Assets 22,621.94                     22,966.90                    
+Liabilities And Equity
+(1) Financial Liabilities
+(a) Derivative financial instruments -                                  -                                
+(b) Payables -                                  -                                
+(I)Trade Payables
+(i) total outstanding dues of micro enterprises and small enterprises -                                  -                                
+(ii) total outstanding dues of creditors other than micro enterprises -                                  0.21                              
+(II)  Other Payables
+(i) total outstanding dues of micro enterprises and small enterprises -                                  -                                
+(ii)total outstanding dues of creditors other than micro enterprises 442.31                           8.57                              
+     and small enterprises
+(c) Debt Securities -                                  -                                
+(d) Borrowings (Other than Debt Securities) 4,794.98                        5,650.38                      
+(e) Deposits -                                  -                                
+(f) Subordinated Liabilities -                                  -                                
+(g) Other  financial liabilities(to  be specified) -                                  -                                
+(2) Non-Financial Liabilities
+(a) Current tax liabilities  (Net) -                                  -                                
+(b) Provisions 945.76                           361.46                          
+(c) Deferred tax liabilities  (Net) -                                  -                                
+(d) Other  non-financial liabilities(to  be specified) 0.38                                6.70                              
+(3) Equity
+(a) Equity share capital 16,400.00                     16,400.00                    
+(b) Other equity 28.98                             530.04                          
+(c) Non Controling Interest 9.53                                9.53                              
+Total Liabilities 22,621.94                     22,966.89                    
+                                                                                     
+Sunil Bhandari
+Place :- Chennai Wholetime Director
+DIN: 03120545
+For Srestha Finvest Limited
+Date :- 14-11-2025
+SRESTHA FINVEST LIMITED
+CIN: L65993TN1985PLC012047
+Regd. Office: Door No.19 & 20, General Muthiah Mudali Street, Sowcarpet, Chennai - 600003
+e-mail: srestha.info@gmail.com | Ph: 044-40057044
+STATEMENT OF ASSETS AND LIABILITIES AS AT SEPTEMBER 30, 2025
+     For and on behalf of the Board
+(Rs. In Lakhs)
+S. 
+No. Particulars 30th Sep 2025 31st March 2025
+A Cash Flows from Operating Activities:
+Net profit / (loss) before taxation (860.68)             (3,515.26)             
+Adjustments for :
+Depreciation 29.26                 75.24                    
+Provisioning for Statutory Reserves (net) -                     -                        
+Provisioning for NPA 584.29               171.31                  
+Loss / (Gain) on Sale of Investments (44.66)                384.10                  
+Operating Profit before Working Capital Changes (291.78)             (2,884.60)             
+(Increase) / Decrease in loan Assets 796.24               (1,663.46)             
+(Increase) / Decrease in Trade Receivables -                     -                        
+(Increase) / Decrease in Current Tax Assets (net) 87.29                 (13.58)                   
+(Increase) / Decrease in Financial Assets (87.60)                -                        
+(Increase) / Decrease in non-Financial Assets (7.14)                  (1,311.13)             
+Increase / (Decrease) in trade payables and other payables 433.53               (126.65)                 
+Increase / (Decrease) in Borrowings (855.40)              682.50                  
+Increase / (Decrease) in Provisions 584.29               -                        
+Increase / (Decrease) in other Financial liabilities (6.31)                  (32.82)                   
+Cash Generated from Operations 653.12               (5,349.75)             
+Less: Tax paid -                     1.12                      
+Net cash flow from / (used) in operating activites ( A ) 653.12               (5,350.86)             
+B Cash Flows from Investing Activities:
+Purchase of property plant and equipment -                     (0.33)                     
+Investments in Subsidiary -                     -                        
+Purchase / Sale of Investments (net) (1,309.96)          (1,929.34)             
+Net Cash From Investing   ( B ) (1,309.96)          (1,929.68)             
+C Cash flow from Financing Activities:
+Issue of Equity Shares during the year -                     4,800.00               
+Proceeds from issue of shares to NCI -                     12.50                    
+Warrant Application money -                     2,239.13               
+Net Cash Used In Financing Activities (C) -                     7,051.63              
+Net Increase in Cash and  Cash Equivalents (A+B+C) (656.84)             (228.92)                
+Cash and Cash Equivalents at beginning of Period 736.63               965.54                  
+Cash and Cash Equivalents at end of Period 79.79                 736.63                  
+(656.84)             (228.91)                
+Note:
+The above statement of Cashflow is prepred under "indirect method' as set out in Ind AS 7 'Statement of 
+Cash Flows'.
+                                                                                     
+Sunil Bhandari
+Wholetime Director
+DIN: 03120545
+For Srestha Finvest Limited
+Date :- 14-11-2025
+SRESTHA FINVEST LIMITED
+CIN: L65993TN1985PLC012047
+Regd. Office: Door No.19 & 20, General Muthiah Mudali Street, Sowcarpet, Chennai - 600003
+e-mail: srestha.info@gmail.com | Tel: 044-40057044 | Website: www.srestha.co.in
+STATEMENT OF CONSOLIDATED CASH FLOWS FOR THE PERIOD ENDED 30.09.2025
+     For and on behalf of the Board
+(Rs. In Lakhs)
+Particulars Year ended
+30.09.2025 30.06.2025 30.09.2025 31.03.2025
+Unaudited Unaudited Unaudited Audited
+1. Segment Revenue
+(net sale/income from each segment should 
+be disclosed under this head)
+(a) Lending Division 122.09 320.53 442.62 1108.16
+(b) Investment/Trading in Equity and F&O 1.94 47.01 47.01 1.66
+Net sales/Income From Operations 124.04 367.54 489.63 1109.81
+2. Segment Results (Profit)(+)/ Loss (-) before 
+tax from Each segment)
+(a) Lending Division -1080.23 216.73 1399.97 -6547.23
+(b) Investment/Trading in Equity and F&O 2.35 0.47 2.35 3031.97
+(c) Unallocable -                       -                       -                         0.00
+Total Profit Before Tax -1077.88 217.20 1402.32 -3515.26
+3. Segment Assets
+(a) Lending Division 14,731.92          15,366.83          14,731.92            16,266.83          
+(b) Investment/Trading in Equity and F&O 7,890.02             6,737.57             7,890.02               6,700.07             
+(c) Unallocable -                       -                       -                         -                       
+Total Segment Assets 22,621.94          22,104.40          22,621.94            22,966.90          
+4. Segment Liabilities
+(a) Lending Division 6,183.43             5,165.44             6,183.43               6,027.32             
+(b) Investment/Trading in Equity and F&O -                       -                       -                         -                       
+(c) Unallocable -                       -                       -                         -                       
+Total Segment Liabilities 6,183.43            5,165.44            6,183.43              6,027.32            
+4. Capital Employed
+(a) Lending Division 8,548.48             10,201.38          8,548.48               10,239.50          
+(b) Investment/Trading in Equity and F&O 7,890.02             6,737.57             7,890.02               6,700.07             
+Capital Employed 16,438.51          16,938.95          16,438.51            16,939.58          
+                                                                                     
+Place :- Chennai Wholetime Director
+Date :- 14-11-2025 DIN: 03120545
+Quarter Ended Half year Ended
+     For and on behalf of the Board
+For Srestha Finvest Limited
+Sunil Bhandari
+NOTE: The Segment Report for the Quarter/Half Year Ended on 30-Sep-2024 is not applicable as the subsidiary M/s. Srestha Greentech Private 
+Limited has no income for the said period
+for the Quarter ended 30th Sep 2025
+SRESTHA FINVEST LIMITED
+CIN: L65993TN1985PLC012047
+Regd. Office: Door No. 19 & 20, General Muthiah Mudali Street, Sowcarpet, Chennai - 600003
+e mail: srestha.info@gmail.com | Contact No.: 044-40057044
+Segment Information in respect of Un-Audited Consolidated Financial Results
+DARPAN & ASSOCIATES
+CHARTERED ACCOUNTANT
+#11/ 2, Shyam Avenue,College Road,Nungambakkam,Chennai -600006
+Email: darpannassociates@gmail.com
+Limited Review Report for Consolidated Financial Results
+The Board of Directors of Srestha Finvest Limited
+We have reviewed the accompanying statement of unaudited Consolidated financial results of
+Srestha Finvest Limited ("the Company") for the quarter and half year ended ended 30 September 2025
+attached herewith,being submitted by the company pursuant to the requirements of Regulation 33 of
+the SEBI (listing obligations and Disclosure requirements) Regulations,2015,as amended to date.
+The Statement is the responsibility of the Company's Management and has been approved by the
+Company's Board of Directors. Our responsibility is to express a conclusion on these financial results
+based on our review of the financial results for the quarter and half year ended ended
+30 September 2025 which is prepared in accordance with the recognition and measurement principles
+laid down in Indian Accounting Standard (Ind AS) 34 "Interim Financial Reporting" specified under
+Section 133 of the Companies Act,2013 (the 'Act') read with relevant rules issued thereunder and other
+accounting principles generally accepted in India;and the relevant requirements of the Regulation and
+the Circular.
+We conducted our review in accordance with the Standard on Review Engagements (SRE) 2410,"Review
+of Interim Financial Information Performed by the Independent Auditor of the Entity" issued by the
+Institute of Chartered Accountants of India. This Standard requires that we plan and perform the review
+to obtain moderate assurance as to whether the Statement is free of material misstatement.The review
+is limited primarily to inquiries of company personnel and analytical procedures applied to financial data
+and thus provides less assurance than an audit. We have not performed an audit and accordingly,we do
+not express an audit opinion.
+The Statement includes the results of following subsidiary:
+1. Srestha Greentech Pvt Ltd
+The accompanying unaudited consolidated financial results includes unaudited interim financial
+statements and other unaudited financial information in respect of subsidiary, which have not been
+reviewed by their auditor, whose interim financial statements reflect total revenues of Rs.O Lakhs and
+Rs.O lakhs for the quarter and half year ended September 30, 2025 respectively,net profit / (loss) after
+tax of Rs.O Lakhs and Rs.(0.21) Lakhs for the quarter and half year ended September 30, 2025
+respectively, and total comprehensive income / (loss) of Rs.O Lakhs and Rs.(0.21) Lakhs for the quarter
+and half year ended September 30, 2025 respectively, as considered in the unaudited consolidated
+financial results. These unaudited financial statements and other unaudited financial information have
+been approved and furnished to us by the management. Our conclusion, in so far as it relates to the
+affairs of the subsidiary, is based solely on such unaudited financial statements and other unaudited
+financial information. According to the information and explanations given to us by the Management,
+these interim financial statements are not material to the
+modified in respect of the above matter.
+nclusion on the Statement is not
+DARPAN & ASSOCIATES
+CHARTERED ACCOUNTANT
+#11/2,Shyam Avenue,College Road,Nungambakkam,Chennai -600006
+Email: darpannassociates@gmail.com
+Basis for Qualified Conclusion
+Based on information provided to us by management,the group has not provided Interest of Rs.34.13
+Lakhs on borrowings from Arcadia Shipping Ltd.The group has received letters from Arcadia shipping Ltd
+recalling the Interest and Loan outstanding. Based on the explanation given to us, the group has not
+given response for the same and is exploring legal options. As per Ind AS and Generally Accepted
+Accounting Principles, accounting policies adopted for annual accounts are to be followed for Interim
+Financials. Non-provision of the Interest has resulted in decrease in Finance Cost for the Quarter and
+half year ended 30.09.2025 to the extent of Rs.17.07 Lakhs and Rs.34.13 Lakhs respectively, and
+decrease in Loss after Tax for the Quarter and half year ended 30.09.2025 to that extent.
+Qualified Conclusion:
+Based on our review conducted as above,with the exception of the matter described in the preceding
+paragraph, nothing has come to our attention that causes us to believe that the accompanying
+statement of unaudited consolidated financial results prepared in accordance with the applicable Indian
+Accounting Standards ('Ind AS') specified under section 133 of the Companies Act, 2013, read with
+relevant rules issued thereunder and other recognised accounting practices and policies has not
+disclosed the information required to be disclosed in terms of Regulation 33 of the SEBI (Listing
+Obligation and Disclosure Requirements) Regulations, 2015, as amended to date, including the manner
+in which it is to be disclosed,or that it contains any material misstatement.
+for Darpan & Associates
+Chartered Accountants
+ICAI Firm Reg.n N
+(C]A. Darpan
+Partner
+M. No. 235817
+UDIN : 25235817BMJLP02885
+Place: Chennai
+Date: November 14,2025

@@ -1,0 +1,757 @@
+ 
+` 
+ 
+November 17, 2025 
+The Manager  
+Corporate Relationship Department 
+BSE Limited 
+Floor 25, Phiroze Jeejeebhoy Tower 
+Dalal Street, Mumbai-400001 
+The Manager – Listing Department 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th Floor 
+Plot No. C/1, G Block, 
+Bandra Kurla Complex, 
+Bandra(E), Mumbai-400051 
+BSE Scrip Code: 532341 NSE Symbol: IZMO 
+ 
+Dear Sir/Madam, 
+ 
+Subject: Investors’ Presentation. 
+ 
+In terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we submit herewith a copy of Investors Presentation with respect to Business 
+Overview of Izmo Limited (“the Company”).  
+ 
+Further a copy of the same is also available on the website of the Company, viz., 
+www.izmoltd.com 
+ 
+Kindly take the same on record. 
+ 
+Thanking You 
+ 
+Yours faithfully, 
+for IZMO Limited 
+  
+  
+      
+ 
+Varun Kumar A S 
+Company Secretary and Compliance Officer 
+ 
+Enc: As Above 
+Q2 & H1 FY26
+Investor Presentation
+Disclaimer
+This presentation has been prepared by IZMO Limited (the “Companies”) solely for information purposes and does not constitute any offer, recommendation or
+invitation to purchase or subscribe for any securities, and shall not form the basis or be relied on in connection with any contract or binding commitment what so
+ever. No offering of securities of the companies will be made except by means of a statutory offering document containing detailed information about the
+Companies.
+This Presentation has been prepared by the Companies based on information and data which the Companies considers reliable, but the Companies makes no
+representation or warranty, express or implied, whatsoever, and no reliance shall be placed on, the truth, accuracy, completeness, fairness and reasonableness of
+the contents of this Presentation. This Presentation may not be all inclusive and may not contain all of the information that you may consider material. Any liability in
+respect of the contents of, or any omission from, this Presentation is expressly excluded.
+Certain matters discussed in this Presentation may contain statements regarding the companies market opportunity and business prospects that are individually
+and collectively forward-looking statements. Such forward-looking statements are not guarantees of future performance and are subject to known and unknown
+risks, uncertainties and assumptions that are difficult to predict. These risks and uncertainties include, but are not limited to, the performance of the Indian economy
+and of the economies of various international markets, the performance of the industry in India and world-wide, competition, the companies ability to successfully
+implement its strategy, the companies future levels of growth and expansion, technological implementation, changes and advancements, changes in revenue,
+income or cash flows, the companies market preferences and its exposure to market risks, as well as other risks. The companies actual results, levels of activity,
+performance or achievements could differ materially and adversely from results expressed in or implied by this Presentation. The companies assumes no obligation
+to update any forward-looking information contained in this Presentation. Any forward-looking statements and projections made by third parties included in this
+Presentation are not adopted by the companies and the companies is not responsible for such third party statements and projections.
+
+Table of Contents
+Financial 
+Highlights
+Business 
+Overview
+Industry 
+Overview
+Way 
+Ahead
+01
+Company
+Overview
+02 03 04 05
+
+Managing Director, IZMO Ltd
+Management Comment
+“Performance in this quarter has been in line with expectations, continuing on our growth trajectory
+steadily . We are seeing rising demand for our existing as well as new offerings across established and
+new markets .
+This quarter we added 78 clients in the US and 22 in Europe and the UK. This steady client accretion
+reflects the scalability of our products and operations, which in turn, is a result of years of R&D,
+development and our core competencies .
+In the quarter ended 30th September 2025, we reported a 2.7% year-on-year growth in revenue at Rs.
+60.1 crores . EBITDA excluding other income grew 42.4% year-on-year to Rs. 13.5 crores, while PAT was
+reported at Rs. 12.6 crores . Addition of new clients was supported by synergies from Geronimo and our
+subsidiary Izmo Microsystems (IMPL), to drive this growth. Increased adoption of AI helped boost
+operational efficiencies, benefitting margins .
+We recently launched a redesigned platform for izmoStock, our global auto imagery division, with
+several new and useful features, further enhancing its utility for players in the auto sector . We also
+launched Automotive AI Factory, a dedicated innovation hub to boost AI adoption in the auto industry .
+Moreover, IMPL is making significant strides, such as a breakthrough in silicon photonics packaging, and
+a Galvanic Isolated Hex-Bridge Inverter developed in-house. In fact, izmo recently received recognition
+from DSIR, GoI, for our in-house R&D unit. We see tremendous potential in this line, from various verticals .
+Overall, we are quite excited and optimistic about the ongoing year. I would like to thank the entire Izmo
+team and all our stakeholders for their support, which drives the Company forward .”
+Mr. Sanjay Soni
+“
+
+izmostock’snew global portal
+ Streamlined Navigation & Search – Easily locate 
+images by year, make, model, trim, and body style. 
+ Comprehensive Image Sets – Standardized 
+exterior and interior images for nearly every 
+vehicle on the market - in every OEM color.
+ Unlocks new market segments by powers growth 
+by better accessibility and user experience
+izmo AI Factory
+ Dedicated AI Innovation Hub
+ DEEP (Data Extraction & Enrichment Platform) is 
+the first product from this initiative
+ Lower cost than similar applications in the 
+market
+ Enable izmo to be player with its own AI 
+products
+Key Recent Updates
+
+izmomicro –Semiconductor Expansion
+Investment in 
+Semiconductor Packaging
+unit is showing results
+Breakthrough in advanced 
+packaging for Silicon Photonics 
+and Power modules
+Steady growth through 
+technology innovation
+Strong order book position
+Additional support from dedicated 
+teams in USA and Germany
+Revenue from Operations (Rs. Cr.)
+PAT (Rs. Cr.) / Margin (%)
+EBITDA (incl. other income) (Rs. Cr.) / Margin (%)
+EBITDA (excl. other income) (Rs. Cr.) / Margin (%)
+40.9
+10.5 12.1 10.6
+18.0
+69.8%
+17.9% 20.2% 18.8%
+29.9%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26
+58.6 58.7
+59.8
+56.5
+60.1
+Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26
+9.5 8.3
+11.2 9.7
+13.5
+16.2% 14.1%
+18.8% 17.1%
+22.5%
+0%
+5%
+10%
+15%
+20%
+25%
+0
+2
+4
+6
+8
+10
+12
+14
+16
+Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26
+29.9
+6.1 6.9 6.0
+12.6
+51.1%
+10.3% 11.5%
+10.6%
+20.9%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+0
+5
+10
+15
+20
+25
+30
+35
+Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26
+Consolidated
+Quarterly Financial Highlights
+
+Rs. Crs Q2 FY26 Q2 FY25 YoY% Q1 FY26
+Income from Operations 60.11 58.55 56.51
+Other Operating Income 0.00 0.00 0.00
+Total Income from Operations 60.11 58.55 2.65% 56.51
+Raw Material Expenses 1.75 0.83 1.58
+Employee Cost 27.77 31.50 28.16
+Other Costs 17.07 16.73 17.10
+Total Expenditure 46.59 49.07 46.84
+EBITDA (excluding other income) 13.51 9.49 42.44% 9.67
+EBITDA  Margin % 22.48% 16.20% 628 bps 17.11%
+Other Income 4.45 31.41 0.96
+Depreciation 4.40 3.96 4.20
+Interest 0.40 0.15 0.43
+Profit Before Tax  13.16 34.39 (61.72)% 6.00
+Tax 0.61 4.49 0.00
+Profit After Tax 12.56 29.90 (58.00)% 6.00
+PAT Margin % 20.90% 51.07% (3017) bps 10.62%
+EPS in Rs. 8.43 21.14 (60.12%) 4.03
+Consolidated
+Quarterly Financial Highlights
+• Revenue growth 
+driven by new client 
+addition across US & 
+Europe markets
+• Contributions from 
+Geronimo & izmo 
+Micro continue to rise
+• Robust business 
+pipeline from multiple 
+sectors for izmo 
+Micro’s SiP offerings
+North 
+America
+71%
+Europe
+17%
+India
+12%
+Izmo Cars
+28%
+Izmo Studio
+40%
+Frog Data
+27%
+Izmo Micro
+5%
+Izmo Cars
+27%
+Izmo Studio
+41%
+Frog Data
+26%
+Izmo Micro
+6%
+North 
+America
+71%
+Europe
+17%
+India
+12%
+H1 FY26
+Stellantis & You 
+France
+3%
+Add-On Auto
+4%
+Europcar 
+International
+4%
+Sony 
+Interactive
+3%
+Autosphere
+2%
+Others
+84%
+Add-On Auto
+4%
+Hertz Europe
+2%
+Stellantis & 
+You France
+3%
+Autosphere
+3%Black Horse 
+Off-Road
+2%
+Others
+86%
+Revenue Bifurcations
+By Business Divisions By Geography Top Customers
+Q2 FY26
+16.57
+16.03
+Q1 FY26 Q2 FY26
+22.35
+24.38
+Q1 FY26 Q2 FY26
+15.18
+15.89
+Q1 FY26 Q2 FY26
+2.41
+3.81
+Q1 FY26 Q2 FY26
+Gross Revenue Retention Rate stable at 98.5%
+Revenue (Rs. Cr.)
+Consolidated Segmental Revenue
+Izmo Cars Izmo Studio
+Frog Data Izmo Micro
+Segment Revenue (Rs. Cr.) Segment Revenue (Rs. Cr.)
+Segment Revenue (Rs. Cr.)
+Rs. Crs H1 FY26 H1 FY25 YoY %
+Income from Operations 116.62 106.13
+Other Operating Income 0.00 0.00
+Total Income from Operations 116.62 106.13 9.88%
+Raw Material Expenses 3.33 1.83
+Employee Cost 55.93 54.76
+Other Costs 34.17 30.76
+Total Expenditure  93.44 87.34
+EBITDA (excluding other income) 23.18 18.79 23.38%
+EBITDA  Margin % 19.88% 17.70% 218 bps
+Other Income 5.41 32.19
+Depreciation 8.60 7.84
+Interest 0.83 0.33
+Profit Before Tax  19.17 40.42 (52.58)%
+Tax 0.61 4.49
+Profit After Tax 18.56 35.93 (48.34)%
+PAT Margin % 15.92% 33.86% (1794) Bps
+EPS in Rs. 12.52 25.40 (50.71)%
+Consolidated
+Half Yearly Financial Highlights
+• Healthy demand for 
+existing product suite 
+in established as well 
+as new markets
+• Internal cost 
+efficiencies from AI-
+based automation
+• Significant growth 
+visibility for izmo Micro
+23.63 29.14
+39.90 38.31
+17.84% 18.94%
+21.37% 17.05%
+0%
+5%
+10%
+15%
+20%
+25%
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+FY22 FY23 FY24 FY25
+132.43
+153.83
+186.75
+224.61
+FY22 FY23 FY24 FY25
+Revenue from Operations (Rs. Cr.)
+Basic EPS (Rs.)
+EBITDA (excl. other income) (Rs. Cr.) / Margin (%)
+12.04
+14.96
+19.30
+33.90
+0
+5
+10
+15
+20
+25
+30
+35
+40
+FY22 FY23 FY24 FY25
+16.04 20.02 26.05
+48.88
+12.11%
+13.01%
+13.95%
+21.76%
+0%
+5%
+10%
+15%
+20%
+25%
+0
+10
+20
+30
+40
+50
+60
+FY22 FY23 FY24 FY25
+PAT (Rs. Cr.) / Margin (%)
+Consolidated
+Annual Financial Highlights
+Particulars (Rs. Cr.) 31st March 2025 30th Sept 2025
+Shareholders Funds 359.15 379.47
+Share Capital 14.87 14.89
+Other Equity 344.28 364.58
+Non Current Liabilities 9.33 11.08
+Financial Liabilities
+LT Borrowings 4.42 3.59
+LT Provisions 3.66 4.17
+Lease Liability 1.25 3.31
+Current Liabilities 69.57 76.75
+Trade Payables 4.46 11.74
+Other Financial Liabilities 6.10 5.73 
+ST Provisions 0.72 0.74 
+Other Current Liabilities 53.28 57.76 
+Current Tax Liabilities (Net) 5.01 0.79
+Total Equity & Liabilities 438.05 467.30
+Particulars (Rs. Cr.) 31st March 2025 30th Sept 2025
+Non Current Assets 285.92 289.89
+Property Plant & Equipment 6.35 6.36
+Right of Use Asset 1.90 4.50
+Capital work in progress 0.00 0.00
+Investment Property 0.00 0.00
+Other Intangible Assets 267.84 272.87 
+Deferred Tax Assets 0.73 0.95
+Other Non-Current Assets 9.10 5.22
+Current Assets 152.13 177.41
+Inventories 0.21 0.50
+Trade receivables 98.89 116.60
+Cash & Cash equivalents 24.52 12.91
+Other Financial Assets 28.52 47.40
+Total Assets 438.05 467.30
+Consolidated
+Balance Sheet Highlights
+World leader in Automotive Interactive Marketing Solutions
+ Founded in 1995
+ Global footprint with operations in 22 countries
+ Cutting-edge technology and products in Digital Retail, CRM & 
+Data Analytics
+ World’s largest library of automotive stock images with global 
+coverage
+ izmo.ai platform for AI solutions for Automotive
+Business Mix
+ Automotive Solutions – Enterprise Platform for Digital Retail, CRM 
+for After Sales Automotive, Performance Consulting for 
+Automotive Retail excellent
+ Interactive  Media  Solutions – Offers world’s largest library of 
+automotive stock images and 3D Interactive Virtual Showrooms
+ Data Analytics – Fully integrated platform for Decision Analytics 
+and AI for the Automotive industry
+ Semiconductor Packaging – Advanced packaging and Silicon 
+Photonics manufacturing
+Rich Management Experience
+ Experienced Management backed by highly qualified 
+engineering and operational teams
+ Demonstrated ability to operate in diverse verticals –
+Content, Digital Platform, Analytics and 
+Semiconductors
+Marquee Clients
+ Digital Retail Solutions– Stellantis France, Emil 
+Frey, Ford, Renault.
+ Semiconductor Packaging – BEL, ADS Germany, 
+IIT Madras, SCL
+ Stock Image Licensing – Hertz, Avis, Europcar, 
+Edmunds.com
+About Us
+Mr. Tej Soni
+(CEO izmocars, USA)
+Rod Lampart
+(Director of Product)
+Chris Dulla
+(Vice President)
+Chris Daniels
+(Director of Interactive Media)
+Mr. Benoit Bachelot
+Director General, izmo France
+Ms. Jackie Lawton
+Chief Operating Officer, izmoUK
+Mr. Gopi SD
+(Associate Director - Finance & Accounts)
+Mr. Sarbashish Bhattacharjee
+(Chief Technology Officer)
+Mrs. Kiran Soni
+(Chief  Financial Officer)
+Core & Experienced Management
+ Founder of Logix Microsystem later changed into IZMO
+ Over 25 years experience in automotive industry with several 
+publications in computer science
+ Postgraduate from IIM Bangalore
+Mr. Sanjay Soni
+(Managing Director)
+U.S.A. Europe INDIA
+
+Key strengths
+Only Multinational / Multilingual
+Digital Retail Platform for Auto
+Breakthrough in Silicon Photonics 
+packaging through in -house R&D
+Experienced Management
+with deep domain expertise
+Highly -Profitable SaaS Platform with Annual
+Recurring Revenue (ARR) revenue model
+Growth driven by surge in Online Retail 
+for Automotive
+Successful diversification into 
+semiconductor packaging
+Recognized as R&D Unit by DSIR 
+(Department of Scientific and 
+Industrial Research) 
+Strong R&D Initiatives: Average annual
+spend of Rs. 10 -12 cr (>10% of revenue)
+
+• Global leader in 
+automotive stock images
+• World’s largest library of 
+rights managed 
+automotive stock images
+• International studios 
+backed by low cost 
+production center in India
+izmostock
+• Advanced platform for 
+decision analytics for the 
+automotive industry
+• Integration with IT ecosystem 
+in USA enabling seamless 
+operability
+• Enhanced solutions using AI 
+from izmo.ai lab
+frogdata
+• Digital Marketing Platform 
+for Automotive Retail
+• CRM for Parts Distribution 
+for OEMs
+• Operates in 22 countries 
+with over 3,000 dealer 
+customers
+izmoauto
+Business Divisions
+• Advanced semiconductor 
+packaging unit
+• Design+ capabilities along with 
+semiconductor manufacturing
+• Breakthrough in Silicon 
+Photonics package assembly
+• High growth potential with 
+support from Make in India 
+initiative for semiconductors
+izmomicro
+• Multi -lingual Digital Web & 
+Marketing Platform for automotive 
+retail
+• Proprietary CRM for Parts 
+Distribution used by major OEM
+• More than 3,000 dealers worldwide 
+use izmo solutions
+• Growing organically and through 
+acquisitions
+izmoauto
+• Innovation hub for next generation 
+AI applications
+• Provides integrated AI capability 
+for existing platforms
+• DEEP (Data Extraction & Enrichment 
+Platform released 
+izmo.ai (New)
+• World’s largest automotive stock 
+library with global coverage
+• Strong brand name with 22 years of 
+heritage
+• Large enterprise clients in Rental, 
+Leasing, OEM & Online Portals
+• International studios with low cost 
+post -production center in India
+izmostock
+Digital Marketing & Retail Platform
+01 02 03
+
+ Integrated with major DMS System
+ Many Systems, One Dashboard (DMS, 
+CRM, Google, Service)
+ Data Analytics Platform for Auto 
+Retail
+FDAP
+Decision Analytics Platform
+• Comprehensive Service Operations 
+Management
+• Data-Powered Service Intelligence
+• Workflow Automation Engine
+• Scalable Dealership Operating 
+System
+FixedOps Mojo
+Service Operations Management 
+Platform
+• AI-driven FixedOps marketing platform
+• Data-powered hyper-local engine
+• Conversion-focused service platform
+• Custom strategy and ongoing campaign 
+management
+FixedOps Velocity
+Hyper-Local Marketing for Service
+
+Business Focus
+ Specializes in System-in-Package 
+(SiP) semiconductor packaging
+Target Industries
+ Consumer Electronics, Automotive, 
+Telecom, Green Energy
+Semiconductor Innovation for the Future
+Core Capabilities
+ 3D Die Stacking
+ Fine-Pitch Wire Bonding
+ Class 1000 Clean Room
+ RF/MW Packaging, Power Modules, 
+Co-Packaged Optics
+Strategic Partnership
+ Collaboration with IIT Madras (CPPICS)
+ Focus on Programmable Photonic 
+Processors, Quantum & Microwave 
+Photonics
+Key Differentiators
+ Advanced packaging solutions for 
+compact, high-performance systems
+ In-house design & manufacturing 
+integration
+ Focus on energy-efficient, next-gen 
+chip solutions
+izmo Microsystems
+
+Advanced Silicon Photonics 
+packaging in partnership with IIT 
+Madras
+Recognized R&D Unit by DSIR 
+(Department of Scientific and Industrial 
+Research)
+AI Initiative - izmo.ai
+powers next generation AI apps and 
+solutions
+Ultra-High Speed, Data Extraction & 
+Enrichment Platform
+DEEP
+Strong R&D Team
+Developed WebGL based 3D 
+Interactive Platform for personalization 
+of cars with accessories
+
+San Francisco
+Chicago
+Bangalore
+Brussels
+Long Beach
+Paris
+Global Presence
+Revenue from 
+Exports in FY25~90%
+Marquee Clients
+
+Sources: https://www.grandviewresearch.com/industry-analysis/business-software-services-market
+https://www.linkedin.com/pulse/digital-marketing-market-size-projected-showcase-growth-singhania/
+Business Software Market
+ Global business software & services market was valued 
+at $389.86 billion in 2020 and forecasted to grow at 
+CAGR of 11.3% during 2021-28
+ Growing automation of business processes and increase 
+in enterprise data are driving growth in this industry
+ COVID-19 pandemic further expedited this growth as 
+demand for SaaS based services and products increase 
+across sectors
+Silicon Photonics Industry
+• Silicon photonics (incl. packaging) is a $2–3B market in 
+2024 growing at 25–30% CAGR, projected to reach $8–10B 
+by 2030.
+• Photonic packaging overall exceeds $250B+ globally, with 
+silicon-photonics as the fastest-growing segment.
+• Explosive AI / data-centre growth is driving demand for 
+high-bandwidth, low-power optical interconnects, 
+making silicon-photonics packaging a core enabler of AI 
+scale-up.
+Market Scenario
+
+Sources: Company
+• Advanced Packaging TAM: ~$50B today, 
+growing to ~$80B by 2030 (8–10% CAGR) 
+driven by 2.5D/3D, chiplets, HBM, and co-
+packaged optics.
+• Silicon Photonics Surge: ~$2–3B market in 
+2024, projected to reach $10B+ by 2030 (25–
+30% CAGR), the fastest-growing packaging 
+segment.
+• AI & Data-Centre Demand: AI compute 
+growth demands high-bandwidth, low-
+power optical links—making silicon-
+photonics packaging critical for next-gen AI 
+systems.
+• $2B today → $10B+ by 2030 (25–27% 
+CAGR), one of the fastest-growing areas 
+in advanced packaging.
+• Growth led by AI/data-centre adoption
+of 800G–1.6T optical links—lower power 
+and latency than copper.
+• Telecom, LiDAR and high-speed 
+interconnects add to TAM, but AI is the 
+strongest demand driver.
+Prevailing 
+Global Trends
+Silicon 
+Photonics
+Global Market –Semiconductor Packaging
+Focus on Growing Existing Products in Existing 
+Geographies
+ izmostock – Driven by growth in digital retail
+ izmoauto– European market continues to grow
+ FrogData – AI & Data Analytics boom fuels growth
+Focus on New Products
+ New products – FixedOps Mojo & FixedOps 
+Velocity opens service market segments
+ DEEP (Data Extraction & Enrichment Platform) is a 
+cost effect AI enablement platform for SMEs
+Invest in Semiconductor Products
+ izmo Microsystems – Expansion plans for new products that will 
+create new market opportunities in coming years
+Silicon Photonics & Advanced Packaging 
+ izmomicro is taking advantage of Make in India 
+initiative of GOI to meet huge new demands 
+from emerging sector 
+ DSIR recognition opens doors for R&D funds for 
+new product development
+Way Ahead
+
+Thank You
+Investor Relations Advisors :
+Adfactors PR Pvt. Ltd.
+Ms. Devishi Goel
+devishi.goel@adfactorspr.com
+Mr. Rahul Trivedi
+rahul.trivedi@adfactorspr.com
+www.adfactorspr.com

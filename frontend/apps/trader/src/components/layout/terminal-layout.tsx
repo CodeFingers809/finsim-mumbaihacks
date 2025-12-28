@@ -12,6 +12,7 @@ import {
     RotateCcw,
     Maximize2,
     PieChart,
+    Bell,
 } from "lucide-react";
 import { cn } from "@/lib/utils/cn";
 
@@ -35,6 +36,7 @@ export function TerminalLayout({
     const isFetch = pathname?.includes("/fetch");
     const isSimulate = pathname?.includes("/simulate");
     const isOptimize = pathname?.includes("/optimize");
+    const isAlerts = pathname?.includes("/alerts");
 
     return (
         <div className="fixed inset-0 z-50 bg-[#0c0d10] flex flex-col overflow-auto">
@@ -102,6 +104,18 @@ export function TerminalLayout({
                         >
                             <PieChart className="h-3.5 w-3.5" />
                             <span>Optimize</span>
+                        </Link>
+                        <Link
+                            href="/alerts"
+                            className={cn(
+                                "flex items-center gap-2 px-2.5 lg:px-3.5 py-1.5 lg:py-2 text-xs rounded-lg transition-all duration-200",
+                                isAlerts
+                                    ? "bg-[#6c8cff] text-white font-medium shadow-md"
+                                    : "text-[#8b8f9a] hover:text-[#e8eaed] hover:bg-[#252730]"
+                            )}
+                        >
+                            <Bell className="h-3.5 w-3.5" />
+                            <span>Alerts</span>
                         </Link>
                     </div>
 

@@ -1,0 +1,412 @@
+I
+ndiGrid Investment Managers Limited 
+Registered & Corporate Office: Unit No. 101, First Floor, Windsor, Village KoleKalyan, off CST Road, Vidyanagari 
+Marg, Kalina, Santacruz (East), Mumbai – 400 098, Maharashtra, India CIN: U28113MH2010PLC308857 
+Ph: +91 72084 93885 | Email: complianceofficer@indigrid.com | www.indigrid.co.in 
+INDIGRID INVESTMENT MANAGERS LIMITED 
+Date: November 18, 2025 
+B S E Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street,  
+Mumbai — 400 001 
+Security Code- 540565 
+National Stock Exchange of I ndia Ltd 
+Exchange Plaza, C/1, Block G, 
+Bandra-Kurla Complex, Bandra (East), 
+Mumbai — 400 051 
+Symbol- INDIGRID 
+Subject: Transcript of Earning Conference Call of IndiGrid Infrastructure Trust held on  
+Wednesday, November 12, 2025 
+Dear Sir/ Madam,  
+With reference to our earlier intimation dated  November 06 , 2025, we hereby provide the Text 
+Transcript of the Earning Conference Call on the Financial Performance of IndiGrid Infrastructure 
+Trust for the period ended on  September 30, 2025, held on Wednesday, November 12, 2025, at 
+04:00 PM IST.  
+The transcript can also be accessed on the website of IndiGrid Infrastructure Trust as per below 
+path: 
+ (Path: Financial R esults - Quarterly R esults – Curren t Year – Q2- Call Transcript T ext ) 
+You are requested to take the same on record. 
+Thanking you, 
+For and on behalf of the IndiGrid Investment Managers Limited  
+(Representing IndiGrid Infrastructure Trust as its Investment Manager) 
+Urmil Shah  
+Company Secretary & Compliance Officer 
+ACS-23423  
+CC to- 
+Axis T rustee Services Limited 
+The Ruby, 2nd Floor, SW, 
+29, Senapati Bapat Marg, 
+Dadar West, Mumbai- 400 028 
+Maharashtra, India 
+Page 1 of 9 
+ 
+ 
+“IndiGrid Infrastructure Trust 
+ 
+Q2 FY26 Earnings Conference Call” 
+November 12, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+MANAGEMENT: MR. HARSH SHAH –MANAGING DIRECTOR –INDIGRID 
+INFRASTRUCTURE TRUST 
+ MS. MEGHANA PANDIT – CHIEF FINANCIAL OFFICER–
+INDIGRID INFRASTRUCTURE TRUST 
+ MR. SANIL NAMBOODIRIPAD – CHIEF OPERATING 
+OFFICER – INDIGRID INFRASTRUCTURE TRUST 
+ 
+MODERATOR: MR. KETAN JAIN – SPARK INSTITUTIONAL EQUITIES 
+PRIVATE LIMITED 
+ 
+
+  IndiGrid Infrastructure Trust 
+  November 12, 2025 
+ 
+Page 2 of 9 
+ 
+ 
+Moderator: Ladies and gentlemen, good evening and welcome to the IndiGrid Q2 FY26 Earnings 
+Conference Call hosted by Spark Institutional Equities Private Limited. As a reminder, all 
+participant lines will be in the listen -only mode and there will be an opportunity for you to ask 
+questions after the presentation concludes. Should you need assistance during the conference 
+call, please signal an operator by pressing st ar then zero on your touchtone phone.  Please note 
+that this conference is being recorded. I now hand the  conference over to Mr. Ketan Jain from 
+Spark Institutional Equities Private Limited. Thank you, and over to you, sir. 
+Ketan Jain: Thank you, operator. Good evening, everyone. On behalf of Avendus Spark, I welcome you all 
+to the Second Quarter FY'26 Results Conference Call of IndiGrid Infrastructure Trust.  We are 
+joined today by Mr. Harsh Shah, Managing Director; Ms. Meghana Pandit, Chief Financial 
+Officer and Mr. Sanil Namboodiripad, Chief Operating Officer. I would now like to hand over 
+the call to Mr. Harsh Shah for his opening remarks. Over to you, sir. 
+Harsh Shah: Thank you. Thank you, Ketan, and thank you, everyone, for joining the quarter 2 results call 
+today. I will refer the slides of the presentation that we have uploaded on the exchanges as a 
+matter of reference, and me, Meghana and Sanil will take you through the quarterly performance 
+and we'll end the call with Q&A in this regard. 
+ Starting on Slide 3, I would like to reiterate our vision. Our vision is to become the most admired 
+yield vehicle in Asia. And on the back of focused business model, value accretive growth, 
+predictable distribution and optimal capital structure, we believe we have the ingredients that 
+will take us to the most admired vehicle in Asia. 
+ On Slide 4 is just a depiction of our assets under management as of date. We are present in 20 
+states and 2 union territories with 90 different revenue -generating elements with an AUM of 
+about INR32,500 crores, spread across 9,300 circuit kilometers and 25,000 MVA of 
+transformation capacity. 
+ We also own about 1.5 gigawatt peak of solar generation and 900 megawatt hour of BESS 
+projects. Our transmission projects, most of them are on a BOOM basis, so perpetual contracts, 
+but the residual contract life is approximately 25.7 years and for solar, the same number is 19.6 
+years. 
+ On Slide number 5, I'll take you through the specific highlights of the quarter. In this quarter, 
+we have signed one agreement, a definitive agreement to acquire a project called NERES XVI 
+for an EV of about INR460 crores when the project is commissioned from Techno Electric. We 
+also raised capital of INR 438 crores via preferential allotment and with a healthy mix of 
+institutional as well as non-institutional investors.  
+IndiGrid was also included in this quarter in the FTSE Emerging Markets/APAC - All Cap Index 
+and FTSE India - All Cap Index, which I'm sure many of you have seen has boosted the liquidity 
+in the IndiGrid ticker . On our portfolio side, we have secured a second TBCB win with 125 
+megawatts and 500-megawatt hour of BESS projects in Uttar Pradesh with the contracting party 
+as NVVN.  
+  IndiGrid Infrastructure Trust 
+  November 12, 2025 
+ 
+Page 3 of 9 
+ 
+IndiGrid plans to acquire this project when it achieve s COD and we acquire it from EnerGrid. 
+With this win, total battery capacity as in gigawatt hour terms, we are at 2.1 gigawatt hour 
+between IndiGrid and EnerGrid together.  On the financial side, quarter 2 reported a marginal 
+increase of 2.6% on revenue on account of two projects that we acquired last quarter.  
+There is a marginal dip on quarterly EBITDA by 1.1% on a year -on-year basis. It's largely 
+because of the spill  over impact of one -time issue in a solar project where the turbine had a 
+breakdown, which is resolved now and a true -up of tariff order in one of our regulated tariff 
+mechanism project. 
+ None of these -- both these issues are adjusted in this quarter, and therefore, this is a one -off 
+impact. On AUM net debt basis, we are closing the quarter with an AUM of INR32,500 crores, 
+net debt to AUM of 61.4%. And a post preferential issue basis, the net debt to AUM will be 
+approximately 60%, which will give us a sizable headroom to grow further. 
+ On quarter 2 FY '26, the collection was at 108% for transmission, 89% for solar. Overall, DSO 
+days remain in very healthy territory.  DPU, we declared a DPU of INR4 a unit, which is 6.7% 
+higher than the same period last year and in line with the full year guidance, which we provided 
+in quarter 1 this year. 
+ Our weighted average quarterly availability for the quarter is 99.72% and solar CUF is at 20.9%. 
+We believe that these are clear signs that we will be able to deliver superior total returns, 
+sustainably increase DPU and maintain stable operations. On the next slide, Slide 7, a high-level 
+update on the industry. We saw a peak demand of 229 gigawatts during this quarter.  
+While the peak demand reduced a little bit compared to last year, largely due to prolonged 
+monsoons, we believe that the decade of growth in power sector has just begun, and we'll 
+continue to see growth in both peak demand and installed capacity in the country, which we feel 
+is going to fuel our 2 target segments, which is transmission and renewables, a sizable amount 
+of growth opportunities in the coming years. 
+ In quarter 2, about INR28,000 crores of new projects, transmission bids and INR 12,000 crores 
+of new BESS bids were concluded under TBCB mechanism.  If you look at the next slide, we 
+are looking at the next 12 months to 18 months, another INR1,20,000 crores bids in transmission 
+and about INR15,000 crores bids in battery storage. So we're seeing a very healthy pipeline of 
+about INR1,35,000 crores in the sector , just in transmission and BESS.  On Slide 9 is our 
+operating performance quarter -to-quarter. I will request Sanil, our Chief Operating Officer, to 
+brief you on the same. 
+Sanil Namboodiripad: Thank you, Harsh. Good afternoon, everyone. This is on the Slide 9, operational performance. 
+Regarding the HSE updates, we had zero medical treatment cases and 1 first aid case and 1 lost 
+time incident. These are minor incidents. Our performance, in the Power Transmission segment, 
+we had a weighted average of availability of 99.72% based on the revenues. We have solar 
+generation for the quarter was at 533 million units at 20.90% CUF. 
+ The reliability scores, if you look at it, the trips per line was 0.22 which was slightly increased 
+compared to the last year because of various trippings on the lines that happened due to foreign 
+  IndiGrid Infrastructure Trust 
+  November 12, 2025 
+ 
+Page 4 of 9 
+ 
+materials and natural calamities. We had extended monsoon and thunder and lightning across 
+the North and Northeast India. 
+ Substation trips per element is at 0.06, well within control. And regarding the solar availability, 
+the plant availability was at 96.9%. This was due to some temporary availability challenges due 
+to extreme weather conditions, flooding, et cetera, in Gujarat and Maharashtra and some of 
+which have been recovered through the insurance coverages. If you look at the availability 
+graphs, they are all in green, except for JKTP L, which is having slightly lesser availability as 
+compared with the normative availabilities.  
+This was due to a failure of a transformer, which has already been restored in August.  The key 
+indicators, we are at par with the last -- if you compare through quarter-on-quarter last year and 
+this year, we are almost similar and not much of any concerns in the key indicators of number 
+of trips per line, training man hours, lost time incide nts as well as the generation and  the CUF. 
+So we are maintaining a consistent track record of maintaining superior availability and yield 
+performance. Thank you. Over to you, Meghana. 
+Meghana Pandit: Thanks, Sanil. Good afternoon, everyone. I'm on Slide number 1 0. We'll take you through the 
+financial performance for Q2 fiscal year '25- '26. The reported revenue for this quarter, we ended 
+at INR826.7 crores, which is a marginal increase of about 2.6% over Q2 of FY '25.  On the 
+EBITDA front, there is a marginal dip by 1.1%, basically because of two events.  
+One was a spill over effect of the generator issue which we faced in Q1 and which has already 
+been restored. And the other one was because of a true -up petition tariff impact in one of our 
+cost plus or regulated tariff mechanism project, which is featuring.  On the NDCF front, the 
+NDCF generated for the quarter is INR362.9 crores, which is 13.5% higher than Q2 of FY '25, 
+which was at INR319.7 crores.  
+This is on the back of robust collections and the acquisitions also that we did in Q1 of FY '26.  
+The DPU for this quarter continues at INR4, which is a 6.7% increase over INR3.75 for Q2 FY 
+'25. On the collection and receivable days, pretty robust performance. In the transmission asset, 
+the collections were at around 108% compared to 103% on a Y-o-Y basis. 
+ The DSO days also remained at around 35 days, which is pretty stable and pretty robust. Same 
+on the solar side, the collections were at 89% in Q2 compared to 117% in Q2 last year. And 
+again, on the DSO days, more or less constant at around 51 days compared to 47 in September 
+2024. 
+ Moving on to Slide number 11 on the distribution update. As I said earlier, INR4 for Q2 FY '26 
+continues. The breakup of which is given under the 4 components: interest dividend, capital 
+repayment and other income, interest being the largest part of that.  The outstanding units on 
+September were at about INR 834.5 million, but after the preferential issuance, it has increased 
+slightly. So the gross distribution for the quarter will be about INR344.2 crores, which is on the 
+expanded capital base. 
+ The record date for distribution is on November 14, 2025, and the tentative distribution date 
+stands somewhere around November 21 or before that. The NAV per unit as on September is at 
+  IndiGrid Infrastructure Trust 
+  November 12, 2025 
+ 
+Page 5 of 9 
+ 
+about INR148.4, which is more or less in line with Q2 of FY '25.  The annual distribution trend 
+that you see on the right -hand side of the graph continues to show almost a 6% CAGR on the 
+distribution, which we have been maintaining and providing. 
+ So INR4 for the quarter continues to be in line with the annual DPU guidance of INR 16 for 
+fiscal year '25-'26. On Slide number 12, the consolidated EBITDA to NDCF waterfall starting 
+from EBITDA at the SPV level, we started at INR729.8 crores and all the movements at all the 
+SPVs put together, finance income, working capital movement, capex spend, et cetera, we come 
+to the NDCF at SPV with INR766.7 crores. 
+ With all the expenses at IndiGrid level, trust level, a large part of which is the finance cost and 
+then the working capital movements and tax, we ended with an NDCF at IndiGrid with INR362.9 
+crores. With the distribution for the quarter of INR 344.2 crores, close to about INR 18.7 crores 
+got added to the reserves. So we end September quarter with a total reserve balance at INR573.1 
+crores. 
+ Moving on to Slide number 13, talking about the balance sheet position. We continue to remain 
+AAA rated by all the 3 rating agencies, and our weighted average cost of debt stands at an 
+attractive 7.44%. Net debt to AUM stands at 61.4% and with the preferential issuance taking 
+into consideration, it will be at around 60%. 
+ Out of the total gross borrowing of INR21 ,700-odd crores, 88% of the borrowings are in fixed 
+rate nature, thereby insulated from highly volatile movements in interest costs. The interest 
+coverage ratio also remains very healthy at about 1.71x and a cash balance of almost INR2,000-
+odd crores, which includes the quarter 2 distribution plus DSRA and other balances. 
+ On the borrowing book, almost 71% of the borrowing book is in the form of NCDs, which are 
+subscribed by various kinds of investors from mutual funds, banks, financial institutions, retail, 
+insurance companies, et cetera. And almost 30% of the book is provided by bank loans. 
+ The repayment or refinancing schedule that you see at the bottom of the chart provides a well -
+diversified and termed out borrowing to ensure that we do not bunch up a significant part of the 
+debt in any particular year from a refinancing standpoint.  We try and maintain the refinancing 
+profile in a way that not more than 10% to 12% of borrowing comes up for refinancing in any 
+particular year. Almost everything for fiscal year '25 -'26 has been refinanced, barring close to 
+about INR4-odd billion, which will come up in the next 2 quarters. 
+ Moving on to Slide number 14. We talk about the risk -adjusted total returns to the investors. 
+And as you can see, IndiGrid continues to provide outperformed on an outperformed basis -- on 
+an annualized return basis, it's about 13% total return, which is a summation of distribution plus 
+the price change. 
+ Absolute terms, it's about 174% since the time we got listed. And when we compare this with 
+pure-play debt securities, which is the GSEC bond, 10- year and 30-year and on the right -hand 
+side, which is pure-play equity indices, you can see that IndiGrid stands out. More importantly, 
+on the beta level, which signifies the risk profile or volatility in the stock, it remains very close 
+to 0 at 0.06. So IndiGrid has consistently been outperforming on a risk-adjusted basis. 
+  IndiGrid Infrastructure Trust 
+  November 12, 2025 
+ 
+Page 6 of 9 
+ 
+ Moving on to Slide number 15 on the business outlook. I think from a portfolio strategy basis, 
+we continue to focus on ensuring that stable operations are there, which will enable us to provide 
+predictable and sustainable distribution. On the greenfield development, largely on the EnerGrid 
+side and the few projects that IndiGrid is also executing, we have complete focus to ensure that 
+we complete all these projects on time. 
+ Participating in the future greenfield opportunities on the back of a huge pipeline on transmission 
+and battery energy provides great opportunities and also deliver on the DPU guidance of INR16 
+for FY '26. On the balance sheet side, we continue to maintain our focus on ensuring the interest 
+costs can be optimized as far as possible.  
+And more importantly, we try and elongate the tenor profile in terms of the refinancing that we 
+need to do and funding for any future acquisitions and ensure that the leverage remains on 
+prudent basis by keeping a sufficient headroom for enabling inorganic and organic growth. Asset 
+management, again, continues to be a focus area to ensure we provide at least 99.5% of 
+availability across the operational transmission portfolio and similar CUF levels on the solar 
+portfolio as well. 
+ Increasingly, we are focusing on ensuring that self -reliant O&M capabilities get strengthened, 
+whether it is through digital and predictive analytics, both on the transmission side as well as on 
+the solar side, and we are taking help of AI -powered image analytics and other options which 
+are available for the same. 
+ Underpinning that continues the world-class EHS and ESG practices, which we continue to 
+focus on and improve.  And on industries stewardship basis also, I think we have been 
+participating and we continue to do in terms of shaping of policy advocacy and industry 
+dialogues to ensure how we are able to provide a deeper role in the infrastructure sector, both on 
+the el ectricity side as well as on the InvIT side. I'll take a pause here, and we can start the 
+question-and-answer session with this. Thank you. 
+Moderator: Thank you very much. We will now begin the question and answer session. The first question is 
+from the line of Dhavesh Chandra, an Individual Investor. Please go ahead. 
+Dhavesh Chandra: Excellent one more quarter. One time possible in such kind of rainy season at least we have a 
+good team. We have to maintain everything. I have only one question, Mr. Harsh Shah. 
+Normally, the slide which talks about DPU accretive acquisition that's very favorite screen. So 
+I request to add that slide in your future presentation, which talks about the DPU different colors 
+for different AUMs. That's it, thank you 
+Harsh Shah: I think certainly, we will add that. We used to add that in the past. We will consider when from 
+next quarter probably. 
+Moderator: The next question is from the line of Deep from Bandhan AMC. 
+Deep: Congrats on a steady quarter with success ful pref issue as well. So my first question revolves 
+around are we planning for some more fundraise in near term because I think we have INR1,500-
+  IndiGrid Infrastructure Trust 
+  November 12, 2025 
+ 
+Page 7 of 9 
+ 
+odd crores of Board approval and out of which we have raised INR 438 crores of pref issue. So 
+I mean, any near-term plans and anything that you can throw some light on? 
+Harsh Shah: I think the Board has approved INR1,500 crores, we have made it public. So yes, over a period 
+of total 12 months, we would look to raise INR 1,500 crores. The exact timing and mode of 
+issuances, I think, gets announced closer to the issuance when the decision has been made. But 
+yes, we do plan to raise INR 1,500 crores over  next 12 months.  Out of which first tranche is 
+already raised. 
+Deep: Okay. Sir, second question, I think, was around the true-up order impact in one of the cost assets, 
+as you mentioned. So I mean, if we -- I mean, it's around revenue reversal of around INR7 crores 
+plus INR16 crores versus INR23 crores. So can we have some normalized EBITDA impact on 
+this? Because I mean, if this event would not have happened and the spill  over issue of the 
+transformer failure in Q1 also wouldn't have happened. So I mean, what would have been the 
+normalized EBITDA? Any sense on that? 
+Harsh Shah: I don't have that number exactly, but I can tell you that the cost plus true -up INR23 crores has 
+an impact of last 10 years. So annualized impact is probably INR1-2 crores. It's just that 10-year 
+impact is coming in the quarter, and that's why you see that number a little bit higher. 
+ So you can probably add back that to come to a regular number. And on the rotator failure, I 
+won't have the exact number, but we have about 40 days or 45 days in quarter 2. The rotator was 
+repaired in mid-July. And therefore, about 45 days of revenue for that particular asset. But again, 
+it's a variety of things put together. So any number that I give you will be a guess for right now. 
+probably you'll see in run rate quarter next quarter. 
+Deep: Okay. Sir, I mean, I have one more question. I mean we have seen historically, NDCFs has 
+always been high in H2. So I mean, the trend is like that because I think Q1 and Q2 revolves 
+more around monsoon and less collections. So I mean, do we expect that trend to continue? And 
+can we throw some business dynamics here? I mean, how does this work? 
+Harsh Shah: There is typically a trend that quarter 4 is high. And honestly, it's just that the economic activity 
+in quarter 4 in the country is high. That means there's higher liquidity. Everybody wants to push 
+for capex. So probably that's why we see higher collections coming in quarter 4.  
+By that virtue, quarter 1 is lower. And then by that virtue, quarter 2 is relatively higher. So it's 
+just a little bit cyclical nature. But if you can look at the numbers on Slide 10, it's marginal 
+movement, right? The movement of 46  to 38 days to 41 days and 35 days is not a material 
+movement. It's hardly 10% on a DSO days basis. So it is a trend. Other than the economic cycle 
+trend, I don't know why this trend exists, but it's just the way it is. But honestly, it's very marginal 
+the way we look at it. So it's not something which impacts our business. 
+Deep: I mean I have a few questions. Should I join the queue again or can I ask right now? 
+Harsh Shah: Go ahead, if you're on the line. 
+  IndiGrid Infrastructure Trust 
+  November 12, 2025 
+ 
+Page 8 of 9 
+ 
+Deep: Yes. So I think we have a DPU guidance of INR16 and 3% to 5% CAGR over the next 2 years. 
+So I mean, I understand that this stays intact and the AUM is expected to kind of double in next 
+5 to 6 years. So just wanted to ask that our AUM is dominated by transmission, 75% 
+transmission, 22% solar and BESS balance. So does this domination will continue from 
+transmission and BESS and solar will gain some market share? Or I mean, just trying to 
+understand where will the major growth come from in the AUM? 
+Harsh Shah: Sure. So that is correct. BESS for us is part of transmission business because Ministry of Power 
+also classifies BESS depending on where it is located. If a BESS is located on the transmission 
+system, it is considered as part of transmission. All the proje cts that we have won till now are 
+co-located with transmission, so they are part of transmission.  
+We don't have any projects on BESS which is co-located with generation. In that case, it would 
+have qualified as generation. So the way we look at it, most of our BESS is transmission, all our 
+BESS is transmission. We are today about 76-77% transmission and 24% solar. I think as we -- 
+as the portfolio grows, depending on how the opportunities come out in the sector, largely we’ll 
+remain transmission. Now whether it's 65% or 75%, that is the difference. So I don't think at any 
+point in time, renewables will grow beyond 30-35% of our portfolio. 
+Deep: Sure, sir. And sir, the last question is the DPU is primarily dominated by interest to around 75-
+odd percent. So is that expected to continue or we can see some more capital repayment or 
+dividend kind of structure? 
+Harsh Shah: Capital structure, we just follow what are the income tax guidelines around that. So difficult to 
+project in future, but I can tell you majority will remain as an interest payout. 
+Moderator: The next question is from the line of Shashank Sharma from ASK Wealth Advisors. 
+Shashank Sharma: Congrats on the great quarter. I had a question given the current weather conditions and natural 
+calamities that we're seeing, what is the expected impact on the major maintenance charges, 
+specifically on the transmission lines and also on the solar availability? 
+Harsh Shah: Yes. I think a very pertinent question. I do feel that there is an impact of climate change in the 
+entire country. We are seeing monsoons extending till October, which we have not seen in the 
+past. So there is relatively less impact on MMR on account of this. We have experienced and we 
+have seen the overall generation, not just for us but entire country being down depending on the 
+states in the range of 2% to 8% in different parts of the country on account of either pollution or 
+floods or extended monsoons and lower irradiation. 
+ However, our portfolio being only 25% on the solar, the overall impact has not been that 
+material. And if you look at the long-term average, we have seen in the past, 3 -4 year cycle 
+where the generation is down, then it comes back to long-term average, then it's again down. So 
+we've seen cycles.  
+So we are only hoping that the overall climate change and monsoon variability stabilizes and 
+generation is less impacted in future.  On transmission side, see, we are present across 9,000 
+kilometers. So there's always some kind of an event happening somewhere there's an earthquake, 
+  IndiGrid Infrastructure Trust 
+  November 12, 2025 
+ 
+Page 9 of 9 
+ 
+somewhere there's a flood, a reverse change or high wind, et cetera. But we have contractually 
+a few protections. First is our revenue is protected by way of force majeure clauses in our 
+contracts, and therefore, we get paid. 
+ Second, we take sizable amount of insurance. So most of our force majeure conditions, including 
+some breakdowns are covered under insurance, and we cover quite a bit of c apex that happens 
+on account of that. B ut none of that is major to the extent that we need to build  major 
+maintenance reserve because most of the assets, while they are exposed across the country, the 
+impact is localized, right? 
+ So let's say, you have floods, and you have a few towers getting lost in it. It's still not a major 
+maintenance reserve. It's still a relatively small impact. And if you factor in after insurance, that 
+impact becomes sizably lower. So we expense out. So in  our P&L over the last 5 years, those 
+impacts are already factored in. And even after that, our transmission business is higher than 
+90% EBITDA. 
+Shashank Sharma: Right. I had another question. So how many assets are you looking to add currently given the 
+debt to AUM has come down to 60% post the pref issue? 
+Harsh Shah: I don't have a number, but we are already signing contracts with EnerGrid for -- the EnerGrid 
+already is executing one transmission project and two BESS projects. So we're going to acquire 
+those projects over the next 2 years. So the growth of that itself is around INR5,000-odd crores. 
+So those assets getting added over the next 2 years. That's something which is a known pipeline 
+of projects that we have signed and we are seeing that growth.  Anything other than that on 
+acquisition side, it depends on when anything gets signed, et cetera. So that's when we can 
+forecast that specific number. 
+Shashank Sharma: Thank you, sir. Thank you for the opportunity. 
+Moderator: Thank you. Ladies and gentlemen, as there are no further questions, I would now like to hand 
+the conference over to the management for closing comments. 
+Harsh Shah: Thank you. So  I'll just conclude the call by thanking all the participants who have asked the 
+questions about our business. I think we are in a sector which is going through an unprecedented 
+transformation in terms of the amount of investment that the sector requires, amount of 
+regulatory support, technology support that we've seen in the country. And we are excited to be 
+in the middle of it. 
+ We play in the midstream of energy transition in India on transmission and battery storage 
+largely and we do see sizable amount of investments happening in the sector. And even if we 
+capture a very marginal part of the overall investment and small market share, we are confident 
+that we will be able to grow IndiGrid meaningfully and provide superior risk-adjusted return to 
+our unit holders. So thank you for all your support and looking forward to connect with you with 
+the quarter 3 results soon. Thank you. 
+Moderator: Thank you. On behalf of IndiGrid, that concludes this conference. Thank you for joining us 
+today and you may now disconnect your lines. 

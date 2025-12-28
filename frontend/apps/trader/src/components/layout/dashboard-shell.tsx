@@ -20,6 +20,7 @@ const navItems = [
     { href: "/backtesting", label: "Backtesting", icon: NotebookPen },
     { href: "/positions", label: "Positions", icon: Wallet },
     { href: "/orders", label: "Orders", icon: Rocket },
+    { href: "/alerts", label: "Alerts", icon: Bell },
 ];
 
 export function DashboardShell({ children }: { children: React.ReactNode }) {

@@ -1,0 +1,1724 @@
+ 
+November 17, 2025 
+ 
+ 
+BSE Limited 
+25th Floor, P J Towers, 
+Dalal Street, Fort, 
+Mumbai - 400 001 
+Scrip Code: 531637 
+ 
+Dear Sirs, 
+ 
+Sub. : Investor Presentation on the Unaudited Financial Results (Consolidated and 
+Standalone) for the quarter and half year ended September 30, 2025 
+ 
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 , please find enclosed Investor 
+Presentation on Unaudited Financial Results (Standalone and Consolidated) of the 
+Company for the quarter and half year ended September 30, 2025. 
+ 
+This is for your information and dissemination on your website. 
+ 
+Thanking You, 
+ 
+Yours Faithfully, 
+For Praveg Limited 
+ 
+ 
+ 
+Mukesh Chaudhary 
+Company Secretary & 
+Compliance Officer 
+ 
+Encl. : As Above 
+ 
+PRAVEG LIMITED
+Q2 FY26 Investor Presentation
+2Investor Presentation
+Disclaimer 
+This presentation  and the accompanying  slides  (the Presentation),  which  have been prepared  by Praveg  Limited  (Praveg,  The Company)  solely  for 
+information  purposes  and do not constitute  any offer,  recommendation  or invitation  to purchase  or subscribe  for any securities,  and shall  not form the basis 
+or be relied  on in connection  with any contract  or binding  commitment  what so ever. No offering  of securities  of the Company  will be made except  by means  
+of a statutory  offering  document  containing  detailed  information  about  the Company .
+This Presentation  has been prepared  by the Company  based on information  and data which  the Company  considers  reliable,  but the Company  makes no 
+representation  or warranty,  express  or implied,  whatsoever,  and no reliance  shall  be placed  on, the truth,  accuracy,  completeness,  fairness  and 
+reasonableness  of the contents  of this Presentation . This Presentation  may not be all inclusive  and may not contain  all of the information  that you may 
+consider  material . Any liability  in respect  of the contents  of, or any omission  from,  this  Presentation  is expressly  excluded .
+Certain  matters  discussed  in this Presentation  may contain  statements  regarding  the Company’s  market  opportunity  and business  prospects  that are 
+individually  and collectively  forward -looking  statements . Such forward -looking  statements  are not guarantee  of future  performance  and are subject  to known 
+and unknown  risks,  uncertainties  and assumptions  that  are difficult  to predict .  
+These  risks and uncertainties  include,  but are not limited  to, the performance  of the Indian  economy  and of the economies  of various  international  markets,  
+the performance  of the industry  in India  and world-wide,  competition,  the company’s  ability  to successfully  implement  its strategy,  the Company’s  future  
+levels  of growth  and expansion,  technological  implementation,  changes  and advancements,  changes  in revenue,  income  or cash flows,  the Company’s  
+market  preferences  and its exposure  to market  risks,  as well as other  risks . 
+The Company’s  actual  results,  levels  of activity,  performance  or achievements  could  differ  materially  and adversely  from results  expressed  in or implied  by 
+this Presentation . The Company  assumes  no obligation  to update  any forward -looking  information  contained  in this Presentation . Any forward -looking  
+statements  and projections  made by third  parties  included  in this Presentation  are not adopted  by the Company  and the Company  is not responsible  for 
+such  third -party  statements  and projections .
+Praveg’s Limited Q2 & H1 FY25 
+Financial & Operational Highlights 
+
+4Investor Presentation
+Chairman’s Message – Strategic Growth & Vision 2028
+Dr. Vishnukumar Patel
+(Chairman)
+“H1 FY26 has demonstrated strong top-line momentum, with consolidated total income 
+growing 28.94% to ₹77.71 crore, driven by the continued expansion of our hospitality portfolio 
+and consistent performance in our events and advertising businesses. While margins were 
+impacted due to higher operating costs at newly launched properties and four seasonal 
+properties that remained closed during Q2 FY26 and initial ramp-up expenses related to recent 
+expansions; these effects are temporary and inherent to the scale-up phase of new 
+destinations. In addition, profitability was affected by the fixed lease commitments payable to 
+the Government under the PPP model for our resorts, which continue even during periods of 
+lower occupancy in non-season months and for seasonal properties that remained closed 
+during Q2 FY26.
+With a portfolio of over 825 rooms across 17 operational resorts along with one five-star hotel, 
+we are well positioned for sustained operational leverage. As occupancy levels mature and 
+efficiencies normalize, we anticipate meaningful improvement in profitability metrics.
+The launch of new initiatives, most notably the Praveg Adalaj Theme Park will further 
+strengthen our growth trajectory. Our strategy remains firmly focused on disciplined 
+expansion, operational excellence, and enhancing our eco-responsible luxury offerings. We 
+remain confident in delivering sustainable longterm growth and creating enduring value for 
+all stakeholders.”
+
+5Investor Presentation
+Particulars Consolidated Standalone
+Q2 FY25 Q2 FY26 Q2 FY25 Q2 FY26
+Net Sales 31.44 37.50 23.69 26.29
+Other Income 4.14 0.34 4.11 0.38
+Total Income 35.58 37.84 27.81 26.67
+Expenses
+Event & Site Expenses 16.09 18.55 11.79 14.19
+Employee Benefit Expenses 5.72 7.74 5.03 6.78
+Other Expenses 3.18 7.60 2.33 5.27
+Total Expenditure 25.00 33.89 19.14 26.25
+EBIDTA 10.58 3.96 8.66 0.41
+EBIDTA(%) 29.75% 10.45% 31.15% 1.56%
+Interest 1.90 2.68 1.57 2.39
+Depreciation 6.37 10.18 5.19 8.16
+PBT 2.31 -8.91 1.91 -10.13
+TAX Expense 0.91 0.31 0.48 0.00
+PAT 1.40 -9.22 1.43 -10.13
+Minority Interest -0.01 0.45 0.00 0.00
+Reported Net Profit 1.41 -9.67 1.43 -10.13
+Other Comprehensive Income 0.00 0.00 0.00 0.00
+Total Comprehensive Income 1.40 -9.22 1.43 -10.13
+NPM(%) 3.98% -25.55% 5.14% -38.00%
+Diluted EPS (₹) 0.55 -3.58 0.56 -3.75
+In ₹ Cr
+Q2 FY26 Financial Performance
+6Investor Presentation
+Particulars Consolidated Standalone
+H1 FY25 H1 FY26 H1 FY25 H1 FY26
+Net Sales 54.84 76.89 47.09 55.56
+Other Income 5.43 0.81 5.40 0.99
+Total Income 60.26 77.71 52.49 56.55
+Expenses
+Event & Site Expenses 26.41 40.85 22.08 31.52
+Employee Benefit Expenses 10.38 15.15 9.70 13.34
+Other Expenses 14.47 11.53 4.43 7.97
+Total Expenditure 51.27 67.54 36.21 52.83
+EBIDTA 9.00 10.17 16.29 3.72
+EBIDTA(%) 14.93% 13.09% 31.02% 6.57%
+Interest 3.54 4.91 3.21 4.44
+Depreciation 11.33 19.61 10.15 15.98
+PBT -5.87 -14.35 2.93 -16.71
+TAX Expense 1.17 0.62 0.74 0.00
+PAT -7.04 -14.97 2.19 -16.71
+Minority Interest -0.01 0.85 0.00 0.00
+Reported Net Profit -7.03 -15.81 2.19 -16.71
+Other Comprehensive Income -0.01 0.00 0.00 0.00
+Total Comprehensive Income -7.03 -14.97 2.19 -16.71
+NPM(%) -11.66% -20.35% 4.17% -29.54%
+Diluted EPS (₹) 0.85 -5.85 0.86 -6.18
+In ₹ Cr
+H1 FY26 Financial Performance
+7Investor Presentation
+Particulars Q2 FY25 Q2 FY26 H1 FY25 H1 FY26
+Net Sales 23.69 26.29 47.09 55.56
+Other Income 4.11 0.38 5.40 0.99
+Total Income 27.81 26.67 52.49 56.55
+Expenses
+Event & Site Expenses 11.79 14.19 22.08 31.52
+Employee Benefit Expenses 5.03 6.78 9.70 13.34
+Other Expenses 4.20 6.24 8.18 11.13
+Total Expenditure 21.02 27.22 39.96 55.99
+EBIDTA 6.79 -0.55 12.54 0.56
+EBIDTA(%) 24.41% -2.08% 23.88% 0.99%
+Interest 0.04 0.93 0.15 1.49
+Depreciation 3.62 6.47 7.02 12.60
+PBT 3.13 -7.95 5.37 -13.53
+TAX Expense 0.48 0.00 0.74 0.00
+PAT 2.65 -7.95 4.63 -13.53
+Minority Interest 0.00 0.00 0.00 0.00
+Reported Net Profit 2.65 -7.95 4.63 -13.53
+Other Comprehensive Income 0.00 0.00 0.00 0.00
+Total Comprehensive Income 1.42 -7.95 2.19 -13.53
+NPM(%) 9.51% -29.80% 8.83% -23.93%
+Diluted EPS (₹) 0.56 -3.75 0.86 -6.18
+In ₹ Cr
+Q2 FY26 Standalone Financial Performance After ROU
+Operational Highlights Q2 FY26
+Praveg continues to deliver milestone projects, adding new destinations, event 
+venues, and government collaborations that strengthen its growth momentum.
+9Investor Presentation
+Praveg Adalaj Theme Park – A Landmark Destination For Premium Events
+Dining Area 
+Strategically located on the Ahmedabad–Gandhinagar Highway, Praveg Adalaj 
+Theme Park is a first-of-its-kind destination seamlessly blending Gujarat’s 
+timeless architecture with state-of-the-art event infrastructure. Developed under 
+a 30-year PPP model with TCGL, the property draws design inspiration from the 
+iconic Adalaj Stepwell and stands as a landmark for cultural, social, and 
+corporate gatherings.
+Since
+September 
+2025
+2023
+Spread Across
+23,000 sq m
+o Museum of Heritage & Culture showcasing Gujarat’s art and legacy
+o 1,350 sq m amphitheatre “Jal Tarang” for live performances and conferences
+o Signature venue “The Vaav” for cultural shows, exhibitions & photo shoots
+o 4,500 sq m open garden and 1,924 sq m dining area for grand ceremonies
+o Dedicated 5,000 sq m parking zone and premium guest facilities
+An iconic destination redefining Gujarat’s event 
+landscape, where tradition, culture, and 
+celebration come alive under one roof.
+Unique Value Proposition
+Venues & Spaces
+Ceremony Zone 
+ Open Garden
+Amphitheatre
+
+10Investor Presentation
+Key Highlights
+• High-profile state-level event attended by senior dignitaries and public audiences
+• Demonstrates Praveg’s leadership in executing large-scale, protocol-sensitive projects
+• Reinforces company’s long-standing partnership with government bodies in Gujarat
+World Lion Day 2025 – Celebrating The Pride Of Gujarat
+Praveg Limited has been awarded a prestigious contract to manage the World Lion Day 2025 
+celebrations — a flagship government event dedicated to wildlife conservation and the 
+protection of the Asiatic Lion. The event underscores Gujarat’s global recognition as the 
+natural home of this majestic species and its deep cultural association with eco-
+conservation.
+Scope of Work
+• Design and setup of venue infrastructure including domes, lounges, and seating
+• VIP & VVIP hospitality arrangements with lounges, dining, and amenities
+• Comprehensive audio-visual systems, live streaming, and branding across venue
+• Event logistics, security installations, catering, and guest management
+Expected Attendance 
+8,000 + guests
+Event Value 
+₹ 3.99 Cr
+Location
+Timdi, Dwarka 
+District, Gujarat
+Authority 
+Deputy Conservator of Forest, 
+Porbandar Forest Division
+Date 
+10 August 2025
+Guest of 
+Honour
+Hon’ble Chief Minister
+of Gujarat
+
+From Event Expertise To Experiential Escapes 
+The Evolution Of Praveg
+Transitioning From Events To Experiential Tourism, Backed By 
+Infrastructure Capabilities And Creative Design Thinking.
+12Investor Presentation
+Praveg At A Glance 
+Praveg is a pioneer in eco-responsible luxury hospitality. The Company’s resorts are located in areas of significance from a cultural and heritage point of view and 
+places of exotic and natural beauty. The company’s luxury tents allow access to locations, where no traditional construction is possible, which allows tourism to 
+flourish while ensuring the preservation of delicate local ecosystems. Due to the premium quality of the company’s tents and the high-end experience, the resorts 
+enjoy very high occupancy, strong pre-sales at luxury hotel rates and a high return on capital due to the non-permanent structure of the resort.
+Praveg is also a strong player in events due to its roots in event management and expertise in creating large, non-permanent, world-class structures in very short 
+periods of time. The Events division has recently diversified into Weddings and Banquets hotels.
+13Investor Presentation
+Key Facts & Figures
+10.6 Lakh + 
+Meals served
+2.5 Lakh +
+Rooms Sold
+1,000+
+Events
+FY25 
+Revenues - ₹ 174.43 Cr 
+EBITDA - ₹ 56.88 Cr 
+Net Profit - ₹ 16.05 Cr
+ISO
+9001:2015 Certified
+577+
+Planned Rooms
+11
+New Destinations
+2,000+ 
+Exhibitions
+20+ 
+Years of Experience
+Managing 
+17 Resorts
+150+
+Client Base
+827+
+Rooms
+Spread Across
+4.87 Lakh Sqm
+5 Star 
+Category Hotel
+Presence Across 
+2 Union Territories & 
+3 States
+
+14Investor Presentation
+Praveg’s Milestones Of Growth (2005–2025)
+2024
+2017-2021
+2005-2015
+o Founded Praveg 
+Communications Pvt. Ltd.
+o Won Gold Medal & 1st 
+Prize for Gujarat Pavilion 
+at IITF
+o AMC Pavilion recognized 
+at Shanghai Expo 2010
+o Limca Record for largest 
+stage & backdrop at Khel 
+Mahakumbh
+o Organized Glorious 
+Gujarat USA (15,000+ 
+visitors)
+o Entered hospitality with 
+White Rann Resort, Rann 
+Utsav
+o Held Glorious India Expo in 
+the USA (20,000+ visitors)
+o Set up Tent City Narmada 
+near Statue of Unity (200 
+rooms)
+o Listed on BSE
+o Launched Real Estate 
+Marketing Division
+o Started Skill Development 
+Training
+o Awarded for 50+ tents at Agatti Island, 
+Lakshadweep
+o Workorders for 200 tents at Thinnakara 
+& 150 at Bangaram (Lakshadweep)
+o Operations Started at Praveg Saryu 
+Resort, Ayodhya (Feb 2024)
+o Opened Safari Velavader Resort, Gujarat 
+(12 cottages)
+o Operations Started at Nagoa Beach, Diu 
+(May 2024)
+o Grand Eulogia Received Five-star 
+accreditation (July 2024)
+o Partnered with Lallooji & Sons for Rann 
+Utsav 2024–25
+o Operations started Started 
+Damanganga Circuit House (Dec 2024)
+o Operations started at Jalandar Beach 
+Diu under brand name ‘Ginger’ (Dec 
+2024)
+o Inventory Agreement with Mahindra 
+Holidays
+2023
+o Awarded for managing Tent City at 
+Ghoghla Beach, Diu
+o Workorders for Tent Cities at Light 
+House Beach & Chakratirth Beach 
+(Daman & Diu)
+o Operation started for Tent City 
+Varanasi on Ganga banks (Jan 2023)
+o Operations started at Light House 
+Beach, Daman (May 2023)
+o Operations started at Jampore Beach, 
+Daman (Aug 2023)
+o Operations started at Chakratirth 
+Beach, Diu (Aug 2023) 
+o Awarded PPP-based Tent City project 
+for Kihim & Kashid beach, Alibag, 
+Maharashtra
+o Awarded Managemrnt of :
+• Nagao Beach (Diu)
+• Damanganga Garden (Daman)
+• Jalandhar Beach (Diu)
+• Damanganga Circuit House (Silvassa)
+o Operation Started at Praveg’s Tent 
+City Ayodhya, Bramhakund (Nov 
+2023)
+o Operation started at  Ghoghla Beach, 
+Diu (Nov 2023)
+o Operation started in Dholavira (Nov 
+2023)
+o Operation started at Grand Eulogia - a 
+luxury hotel at the prime location of 
+Ahmedabad (Nov 2023) 
+o Unveiled Praveg Caves 
+Jawai & Latest Luxury 
+Resort on (Jan 2025)
+o Unvailed Praveg Atoll’s 
+on Bangaram Island 
+Lakshwadeep  (Jan 
+2025)
+o Launched Praveg Resort 
+Kachigam – A Premier 
+Island Retreat in Daman 
+(May 2025)
+o Entered into an 
+agreement with Indian 
+Hotels Company 
+Limited (IHCL) for the 
+management of 'Praveg 
+Atolls' under the 
+prestigious 'Taj 
+SeleQtions' brand.
+o Unvailed Praveg Adalaj 
+Theme Park – A 
+Landmark Destination 
+For Premium Events 
+(Sept 2025)
+2022
+o Awarded Adalaj Stepwell 
+Project
+o Licensed by Ministry for 
+satellite TV channel
+o Selected for Varanasi Tent 
+City project
+o Acquired land at 4 locations 
+for luxury hospitality
+2025
+15Investor Presentation
+Praveg’s Core Competence
+• Innovative, low-cost hospitality concepts delivering high 
+returns
+• Long-standing partnerships with tourism departments
+• Extensive network of travel agents and OTAs across India
+• Robust, independent, and modern infrastructure
+• Skilled and experienced professional workforce
+• Proven track record in managing 710+ hotel rooms under 
+PPP model with State Governments
+• In-house creative studio for marketing and design
+• Dedicated 24x7 reservation team for hospitality operations
+• Team of professionals with deep hospitality expertise
+• Quality Control Manager deployed for training and assurance
+• In-house social media and IT teams with strong domain 
+experience
+• Inhouse Architect Team 
+• Inhouse Food & Beverages team
+16Investor Presentation
+Leadership & Board Of Directors
+Dr. Vishnukumar Patel
+Chairman
+Mr. Bhumit Patel
+Whole time Director
+Mr. Kalpesh Patel
+Non Executive 
+Director
+Mr. Ajit Panda
+Independent Director
+Mr. Dilipkumar Patel
+Independent Director
+Mr. Mukesh 
+Chaudhary
+Company Secretary
+Mrs. Bijal Parikh
+Finance Director
+Mr. Alpeshkumar Patel
+Executive Director
+Mr. Keyoor Bakshi
+Independent Director
+Mr. Rajendrakumar 
+Patel
+Independent  Director
+Ms. Pooja khakhi 
+Independent Director
+Mr. Dharmendra Soni
+Chief Financial Officer
+17Investor Presentation
+Stock Data
+BSE: 531637 | ISIN: INE722B01019 Share Holding Pattern 
+Share Performance From 01-01-2021 To Till Date
+Share Price (₹) 319.20 
+Market Capitalization (₹ Cr) 834.41
+No. of Shares Outstanding 2,61,40,695
+Face Value (₹) 10.00
+52-week High-Low (₹) 780.00 – 297.70
+45.5
+41.37
+5.48 7.65 Promoter &
+Promoter Group
+NII
+FII
+DII
+As on 30-09-2025
+51.00
+319.20
+0
+2000000
+4000000
+6000000
+8000000
+10000000
+12000000
+14000000
+16000000
+18000000
+0.00
+200.00
+400.00
+600.00
+800.00
+1000.00
+1200.00
+1400.00
+1-Jan-21
+1-Feb-21
+1-Mar-21
+1-Apr-21
+1-May-21
+1-Jun-21
+1-Jul-21
+1-Aug-21
+1-Sep-21
+1-Oct-21
+1-Nov-21
+1-Dec-21
+1-Jan-22
+1-Feb-22
+1-Mar-22
+1-Apr-22
+1-May-22
+1-Jun-22
+1-Jul-22
+1-Aug-22
+1-Sep-22
+1-Oct-22
+1-Nov-22
+1-Dec-22
+1-Jan-23
+1-Feb-23
+1-Mar-23
+1-Apr-23
+1-May-23
+1-Jun-23
+1-Jul-23
+1-Aug-23
+1-Sep-23
+1-Oct-23
+1-Nov-23
+1-Dec-23
+1-Jan-24
+1-Feb-24
+1-Mar-24
+1-Apr-24
+1-May-24
+1-Jun-24
+1-Jul-24
+1-Aug-24
+1-Sep-24
+1-Oct-24
+1-Nov-24
+1-Dec-24
+1-Jan-25
+1-Feb-25
+1-Mar-25
+1-Apr-25
+1-May-25
+1-Jun-25
+1-Jul-25
+1-Aug-25
+Volume Price
+As on 15-11-2025
+Expanding Footprints, Deepening Verticals 
+Creating Value Across the Tourism Chain
+From site development to event execution and advertising 
+monetization, Praveg commands the full value spectrum.
+19Investor Presentation
+Business Verticals That Drive Revenue
+Business Verticals FY23 FY24 FY25
+Event, Exhibitions & Hospitality 84.87 91.60 132.77
+Advertisement - - 34.41
+In ₹ Cr
+Exhibitions & EventsTourism & Hospitality Advertisement
+
+20Investor Presentation
+Work Order For Luxurious Tent Resorts In Lakshadweep's Islands
+High-end Amenities:
+o Scuba Diving
+o Destination Weddings
+o Corporate Events
+o Private Gatherings
+o Health and Wellness 
+Centre
+o Children’s Play Area
+o Coffee Shop
+Locations
+200 luxury tents on 
+Thinnakara Island
+150 luxury tents on 
+Bangaram Island
+Project Duration
+Initial term of 5 years
+Extendable by 2 years
+Issued by
+Department of Tourism, Union 
+Territory of Lakshadweep
+Scope 
+Development, Operation, 
+Maintenance, and Management of 
+luxury tent accommodations and 
+commercial activities
+
+21Investor Presentation
+Ongoing Construction Of Luxury Resorts At Thinnakara Islands
+Thinnakara
+ Adalaj
+
+22Investor Presentation
+Current Portfolio Snapshot – 18 Properties & Growing
+200 Tents
+76 Rooms
+30 Cottages
+39 Cottages
+76 Rooms
+30 Cottages
+12 Cottages33 Tents35 Cottages
+35 Rooms
+30 Cottages35 Cottages
+38 Rooms 20 Cottages 50 Villas
+Company manages over 827+ Rooms across the 17 Resorts and 1 Five star Hotel
+CURRENT PROJECTS
+45 Rooms
+ 50 Rooms
+
+23Investor Presentation
+Tent City Narmada – Pride Of Gujarat Tourism
+Tents
+200
+Events Arranges
+2015
+Average Price
+₹ 7,495
+Well Equipped
+Conference Halls
+9
+Guest Served
+Since Inception
+2,19,573+
+Spread Across
+1,24,000 
+Sqm
+Since
+2018
+    
+Located near the iconic Statue of Unity in Ekta Nagar (Kevadia), Tent City Narmada 
+is a flagship project operated and managed by Praveg in collaboration with Gujarat 
+Tourism. Since its inception in 2018, the site has emerged as a premier eco-luxury 
+hospitality destination for tourists seeking immersive and comfortable 
+experiences amidst nature.
+Best Eco Resort-Runner Up in Gujarat Travel 
+& Tourism Excellence Awards in 2021
+o Seamless blend of luxury, nature, and cultural experience
+o Fully integrated with Gujarat’s tourism initiatives
+o Offers unparalleled guest services with curated activities, tours, and packages
+o Boosts local economy through employment and engagement with local vendors 
+and artisans
+Unique Value Proposition
+24Investor Presentation
+White Rann Resort – Iconic Desert Experience
+Average Price
+₹ 12,879
+Guest Served
+Since Inception
+71,815+
+Spread Across
+40,000 
+Sqm
+Since
+2015
+Located at Dhordo, Kutch, White Rann Resort is a premier luxury tent and bhunga 
+destination developed and operated by Praveg in collaboration with Gujarat 
+Tourism. The resort serves as the official hospitality partner for the globally-
+renowned Rann Utsav, offering an immersive cultural and luxury travel experience 
+in the heart of the White Desert.
+76
+Rooms
+2015
+o Culturally immersive stay with traditional bhunga architecture
+o Proximity to the breathtaking White Rann – ideal for nature lovers and adventure 
+seekers
+o Integral to Rann Utsav, featuring folk performances, local art, cuisine, and desert 
+activities
+Best Eco Resort – Runner Up in Gujarat 
+Travel & Tourism Excellence Awards in 2019
+Unique Value Proposition
+25Investor Presentation
+Resort At Dholavira – Starlit Luxury In An Ancient Land
+Average Price
+₹ 8,289
+Guest Served
+Since Inception
+6,600+
+Spread Across
+7,800 Sqm
+Since
+November 
+2023
+2023
+A distinctive triangular cottage resort with 20-ft high A-frame structures, glass 
+walls for panoramic sky views, and modern amenities set in the heritage-rich 
+location of Dholavira.
+Cottages
+30
+o Iconic architectural appeal with A-frame cottages
+o Ideal for stargazers and astronomy lovers
+o Positioned near UNESCO World Heritage Site – Dholavira
+o Combines history, design, and solitude
+A cosmic escape where ancient heritage 
+meets stargazer luxury in iconic A-frame 
+cottages
+Unique Value Proposition
+26Investor Presentation
+Grand Eulogia, Ahmedabad – A New Era In Urban Luxury
+Ahmedabad’s premier 5-star hotel with unmatched infrastructure including a 
+20th-floor pool, 32-ft LED screen, ₹1 Cr Chauri design, and Gujarat’s largest 
+honeymoon suite.
+Average Price
+₹ 5,265
+No. Of Guest serve
+3,00,000+
+Spread Across
+13,187 Sqm
+Since
+October
+2023
+2023
+76
+Rooms
+o High-end features for events, weddings & celebrities
+o Signature ₹1 Cr Chauri adds exclusivity to décor
+o A destination in itself for both leisure & corporate travelers
+Ahmedabad’s skyline jewel redefines opulence 
+with sky-high pools, mega-watt glamour, and 
+iconic design
+Unique Value Proposition
+27Investor Presentation
+Tent City Ayodhya (Brahmakund) – Spiritually Inspired Comfort
+Average Price
+₹ 7,346
+No. Of Guest serve
+23,000+
+Spread Across
+8,120 Sqm
+Since
+November
+2023
+2023
+Cottages
+30
+Located near the revered Ram Lalla Temple, this property reflects Ayodhya’s 
+spiritual legacy with thematic luxury tents and immersive cultural ambiance.
+o Strategically positioned next to Ram Mandir
+o Immersive ambiance inspired by Ramayan heritage
+o Designed for pilgrims, dignitaries, and spiritual seekers
+o Symbol of sacred luxury hospitality
+Step into a divine chapter of the Ramayan with 
+spiritual luxury pitched right beside history
+Unique Value Proposition
+
+28Investor Presentation
+Tent City Ayodhya Near Saryu River – Riverside Bliss
+Average Price
+₹ 7,416
+No. Of Guest serve
+25,000+
+Spread Across
+8,889 Sqm
+Since
+February
+2024
+2024
+Cottages
+39
+An eco-luxury tent city by the Saryu River, this retreat blends sustainable design 
+with sacred proximity, offering peace, reflection, and serenity.
+Where sacred waters meet eco-luxury—this 
+riverside sanctuary radiates calm and culture
+o Eco-responsible spiritual resort
+o Offers Riverfront Immersion Experience
+o Perfect for cultural tourism, family getaways, and retreats
+o Closely aligned with the growing religious tourism boom
+Unique Value Proposition
+29Investor Presentation
+Safari Resort Velavadar – Immersed In The Wild
+Spread Across
+15,000 Sq. Ft
+Since
+March
+2024
+2024
+Cottages
+12
+Nestled at the edge of Blackbuck National Park, this intimate safari-style resort 
+offers a rare luxury-in-the-wild experience with gourmet dining and an infinity 
+pool.
+ARR
+₹ 6,924
+Guests Served
+Since Inception
+1000+
+o Only premium resort near Blackbuck National Park
+o Wildlife + Luxury = Ideal for eco-tourism enthusiasts
+o Man-made pond and gourmet restaurant amplify the experience
+o Captures India’s growing interest in conscious travel
+Luxury goes wild at India’s premier Blackbuck 
+safari stay—where nature and comfort roam free
+Unique Value Proposition
+30Investor Presentation
+Lighthouse Beach Resort, Daman – Where The Sea Meets Luxury
+Spread Across
+10,000 Sq.m
+Since
+May
+2023
+2023
+Tents
+33
+A coastal paradise with 33 sea-facing cottages and Machans 8 ft above the 
+ground, offering panoramic views and premium coastal living.
+Average Price
+₹ 7,255
+Well Equipped
+Conference Hall 
+1
+No. Of Guest serve
+50,000+
+o Unrivalled views of Lighthouse Beach
+o Elevated Machans for exclusive ocean views
+o Rare blend of resort + business facility with conference hall
+o  Popular for weekend escapes and private events
+Elevated above the sea, this lighthouse-
+facing haven is coastal charm reimagined 
+with flair
+Unique Value Proposition
+31Investor Presentation
+Jampore Beach Resort, Daman – Serene Coastal Living
+A tranquil beachfront retreat with 28 luxury cottages and 7 elevated Machans for 
+immersive ocean-side comfort and rejuvenation.
+Average Price
+₹ 7,215
+Guests Served
+Since Inception
+40,000+
+Spread Across
+7,900 Sqm
+Since
+October
+2023
+2023
+Cottages
+35
+o Nestled on Jampore Beach, known for calm tides
+o Offers coastal serenity with upscale aesthetics
+o Ideal for small group travel, yoga retreats & honeymooners
+For those chasing peace and tide-kissed 
+mornings, this boutique beachfront resort 
+is a coastal dream
+Unique Value Proposition
+32Investor Presentation
+Nagao Beach Resort, Diu – Sunset-Facing Ocean Retreat
+Average Price
+₹ 7,153
+Guest Served
+Since Inception
+21,000+
+Spread Across
+10,000 Sqm
+Since
+May 2024
+2024
+35
+Rooms
+Luxurious tents and suites with sunset views at Diu’s most scenic beach, with 
+pools, event lawns, and wellness zones.
+o Positioned on Diu’s most premium beach
+o Appeals to both leisure and MICE (Meetings, Incentives, Conferences, Exhibitions) 
+audiences
+o Perfect for destination weddings & luxury stays
+Golden sunsets, luxe stays, and 
+wedding-perfect backdrops—Diu’s gem 
+for indulgent escapes
+Unique Value Proposition
+33Investor Presentation
+Chakratirth Beach Resort, Diu – Arabian Sea At Doorstep
+Beachfront luxury with 24 independent cottages and 6 Machans offering 
+panoramic Arabian Sea views in Diu’s quiet coastal corner.
+Average Price
+₹ 9,048
+Guest Served
+Since Inception
+34,000+
+Spread Across
+5,650 Sqm
+Since
+October
+2023
+2023
+Cottages
+30
+o Panoramic views of Arabian Sea sunsets
+o Elevated hospitality in a private, uncrowded beachfront setting
+Secluded seaside luxury with front-row seats 
+to the Arabian Sea’s most magical sunsets
+Unique Value Proposition
+34Investor Presentation
+Ghoghla Beach Resort, Diu – Coastal Cabins Reimagined
+An eye-catching line of hobbit-inspired wooden cottages facing Ghoghla Beach, 
+offering a unique coastal lodging experience with modern comforts.
+Average Price
+₹ 10,069
+Guest Served
+Since Inception
+32,900+
+Spread Across
+9,300 Sqm
+Since
+November
+2023
+2023
+Cottages
+35
+o Visually distinct cabins ideal for Instagram-era travellers
+o Combines quirky design with premium beach access
+o Strong potential for influencer and experiential marketing
+Hobbit-inspired hideaways meet 
+beachfront bliss, irresistibly unique
+Unique Value Proposition
+35Investor Presentation
+Where tribal culture, riverside beauty, and budget-friendly luxury blend into the 
+perfect weekend retreat
+Damanganga Resort, Silvassa – Nature, Culture & Comfort
+A renowned getaway, Silvassa is famous for lush greenery, tribal culture, 
+and historic influences from Portuguese and Maratha rule. Attractions 
+include Vanganga Lake Garden, Deer Park, Dudhani Lake, and the Tribal 
+Cultural Museum, enhancing tourism potential. 
+38
+well-appointed 
+rooms
+Average Price 
+₹ 3,765
+Spread Across
+12,103 Sqm
+Since
+December
+ 2024
+Unique Value Proposition
+o Strategically placed in a popular yet underserved tourist region
+o Offers affordable luxury with conference-ready infrastructure
+o Ideal for both corporate retreats and family holidays
+36Investor Presentation
+ARR
+₹ 17,133
+cave-style rooms
+   12
+Spread Across
+12,688 Sq mt
+Luxury Tents
+8
+Jawai A Hidden Gem of Rajasthan Renowned for its thriving leopard population, 
+coexisting with the indigenous Rabari community. A growing eco-tourism hub 
+offering wildlife safaris, nature walks, bird watching, and cultural experiences. 
+Increasing visitor influx boosts local economy, employment, and small 
+businesses.
+Unveiled Praveg Caves Jawai – A New Era of Luxury & Adventure
+Since
+January 
+2025
+2025
+Praveg Caves, Jawai – The Hidden Gem Of Rajasthan
+37Investor Presentation
+Bangaram Island, Lakshadweep – a pristine paradise where tranquility meets 
+luxury. With its untouched natural beauty and modern comforts, this island 
+offers an exclusive retreat for discerning travelers. As a rising hotspot for both 
+domestic and international visitors, Bangaram is fast becoming the ultimate 
+destination for those seeking a serene and immersive island getaway.
+Praveg Unveiled Its Latest Luxury Resort on Bangaram Island
+Average Price
+₹ 33,636
+Spread Across
+12,460 Sq mt
+Since
+January 
+2025
+2025
+Cacoon Shaped 
+Rooms
+45
+Praveg Bangaram, Lakshadweep – Tranquility Meets Luxury
+Shell Shaped 
+Rooms
+5
+
+38Investor Presentation
+Praveg Resort Kachigam – A Premier Island Retreat in Daman
+Set around a serene lake and surrounded by lush greenery, Praveg Resort 
+Kachigam offers a unique island retreat experience
+Average Price
+₹ 9,799
+Guest Served
+1,200+
+Spread Across
+28,994 Sqm
+Since
+May
+2025
+2023
+Rooms
+50
+o Lakefront Setting: Enchanting natural surroundings across four connected islands
+o Spa & Wellness Center: An oasis of rejuvenation in nature’s lap
+o Club Martini’z & Dance Floor: A vibrant party zone with a pergola and bar for celebrations 
+o Banquet Hall & Open Lawns: Versatile spaces for weddings, receptions, and events 
+A tranquil escape that merges 
+nature, celebration, and comfort
+Unique Value Proposition
+
+39Investor Presentation
+Strategic Alliance With IHCL – Redefining Island Hospitality
+Praveg Limited has partnered with Indian Hotels Company Limited (IHCL) 
+to manage its premium resort, Praveg Atoll’s, Bangaram Island, 
+Lakshadweep, under the SeleQtions brand.
+Operational 
+Excellence
+IHCL takes full 
+management control, 
+ensuring top-tier 
+hospitality standards.
+Luxury 
+Experience
+High-end travelers will 
+enjoy world-class 
+amenities in an 
+exclusive island setting.
+Sustainability 
+Focus 
+Eco-friendly practices 
+to maintain 
+environmental balance.
+Revenue 
+Growth
+Higher occupancy 
+rates, increased ARR, 
+and enhanced brand 
+positioning.
+Key Benefits
+
+40Investor Presentation
+Jalandhar Circuit House Resort, Diu – In Partnership With Ginger
+Nestled on Gujarat’s southern coast, Diu is a serene town renowned for its 
+Portuguese heritage, historic landmarks like Diu Fort and St. Paul’s Church, and 
+stunning natural attractions, including Naida Caves and pristine beaches like 
+Nagoa, Ghoghla, Chakratirth, and Jalandhar.
+Partnership with Ginger – An IHCL Brand
+Praveg Limited has partnered with Roots Corporation Limited (Ginger – An IHCL 
+Brand) to blend eco-luxury with world-class hospitality. This collaboration 
+leverages Praveg’s sustainable ethos and Ginger’s operational expertise to 
+deliver a distinctive and exceptional guest experience.
+45
+well-appointed 
+rooms
+Average Price 
+₹ 6,581
+Spread Across
+15,313 Sqm
+Since
+December
+ 2024
+o Brand-backed trust: Operated in collaboration with IHCL’s Ginger
+o Combines eco-luxury with world-class service
+o Ideal for high-value leisure tourism and experiential travel
+o Positioned as a flagship beachfront resort in western India
+Unique Value Proposition
+41Investor Presentation
+Collaborations With Lallooji & Sons & Club Mahindra
+• Granted exclusive rights to market and manage 
+bookings for 400 luxury tents at Rann Utsav
+• Exclusive responsibility for event design, consulting, 
+and execution at Rann Utsav.
+• Artist coordination & cultural programming to 
+enhance visitor engagement.
+Partnership with Lallooji & Sons for Rann 
+Utsav 2024-25
+Master Franchise for Luxury Tent Bookings
+Three-Year Partnership with Mahindra 
+Holidays & Resorts India Ltd. (MHRIL)
+• Enhancing Hospitality Standards Across Key 
+Destinations i.e Daman, Diu, and Ayodhya
+• Inventory Agreement: 70 Rooms Across Select 
+Properties
+• MHRIL secures 70 Inventory Rooms
+• 35 Fixed Rooms (long-term allocation).
+• 35 Floating Rooms (flexible allocation 
+across properties).
+
+42Investor Presentation
+Operational Metrics – Rooms & Meals Served Over The Years
+6,007 
+26,476 
+33,590 
+62,592 
+88,426 
+FY21 FY22 FY23 FY24 FY25
+Number Of Rooms Sold
+25,628 
+131,904 
+183,065 
+210,662 
+357,489
+FY21 FY22 FY23 FY24 FY25
+Number Of Meals Served
+Praveg has crossed the mark of selling 80,000 room in a year during the FY25
+In Nos In Nos
+43Investor Presentation
+Growth Roadmap – Upcoming Resorts Across India
+UPCOMING RESORTS
+4 
+9 
+11 
+12 
+13 
+15 15 
+17 17 
+301
+548
+599 619 631
+714
+777
+827 827
+-70
+30
+130
+230
+330
+430
+530
+630
+730
+830
+ -
+ 2
+ 4
+ 6
+ 8
+ 10
+ 12
+ 14
+ 16
+ 18
+ 20
+Q2 FY24 Q3 FY24 Q4 FY24 Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26
+Quarter wise Projects In Operation FY 2023-24/ 2024-25/ 2025-26
+No Of Resorts No Of Rooms
+Sr. No. Resorts No. of rooms
+1 Udaipur, Rajashthan 35
+2 Ranthambhore, Rajasthan 30
+3 Kihim, Maharashtra 40
+4 Kashid, Maharashtra 40
+5 Agatti Island, Lakshadweep 50
+6 Thinakara-I, Lakshadweep 100
+7 Thinakara-II, Lakshadweep 100
+8 Bangaram-II, Lakshadweep 100
+Total Rooms 495
+44Investor Presentation
+Growing Strength To Strength
+Vision 2028
+Rooms
+2,000 +
+Resort Locations
+50 +
+Anticipated 
+Room Addition
+1200+
+Number Of Rooms
+Existing Rooms 
+800+
+Under Construction 
+Projects
+3
+Upcoming Hospitality Projects
+Under Planning 
+Projects 
+2
+45Investor Presentation
+Exhibitions & Events – Over 2,000 Events Delivered
+EXHIBITIONS & EVENTS
+Praveg's core competence is in Exhibition and Event Management. 
+Exhibitions are regularly organized by Praveg, nationally and internationally, 
+and the portfolio includes projects in the USA, China, South Korea, Africa, 
+Europe and in the Middle East. Praveg has organized many State events on 
+turnkey basis to the fullest satisfaction of its clients.
+2,000+ 
+Exhibition
+1,000+ 
+Events
+20+ 
+Years
+
+46Investor Presentation
+Award-winning Legacy In Events – A Track Record Of Excellence
+Pavilion of Gujarat Maritime 
+Board 
+Adjudged The Best Stall of VGGTS 
+2013
+Pavilion on Life of Swami 
+Vivekananda 
+Adjudged The Second Best Stall of 
+VGGTS 2013
+Special Mention for Ahmedabad 
+Pavilion (AMC) at Shanghai 
+World Expo 2010, China
+1st Prize with Gold Medal for 
+Gujarat Pavilion at IITF 2008
+Award winning tableaus presented 
+in Republic Day celebrations for 
+GSPC
+Finds a mention in the Limca Book of Records 2014 having designed the longest backdrop; largest multi-level temporary stage 
+and the largest ball created out of 6400 nursery balls during Khel Mahakumbh held in South Gujarat University, Surat.
+Pavilion for Gujarat Tourism 
+Second Best Innovative Stall in 
+VGGTS 2017
+Pavilion for Gujarat Tourism 
+Adjudged The Best Stall at STONA 
+2014 and MINING MAZMA 2013, 
+held in Bangalore
+More than 20 awards for Gujarat 
+Tourism Pavilions at various 
+exhibitions across the country
+47Investor Presentation
+Strong Client Base (Government Sector)
+Praveg Serving 150+ Clients across both Government As Well As Private Sector 
+
+48Investor Presentation
+Strong Client Base (Government Sector)
+
+49Investor Presentation
+Strong Client Base (Private Sector)
+
+50Investor Presentation
+Abhik Advertising Private Limited At A Glance
+Established in 2008 under the visionary leadership of Mr. Mukesh Patel, an 
+advertising stalwart with over two decades of experience in the industry, Abhik 
+Advertising Private Limited has grown into a formidable player in the advertising 
+and marketing space. In 2015, Dr. Abhik Patel joined the organization after 
+completing his Bachelor's in Physiotherapy, bringing a fresh perspective and 
+dynamic energy to the company.
+In 2016-17, the company made a strategic acquisition of Bidhan Advertising and 
+Marketing Private Limited, a 50-year-old legacy firm that had successfully 
+launched renowned brands such as Hipolin and Sintex. This acquisition brought 
+along esteemed accreditations like INS and IBF, significantly enhancing the 
+company’s credibility and market reach.
+51Investor Presentation
+Abhik Advertising Private Limited Financial Snapshot Q2 FY26
+Particulars Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26
+Net Sales 272.14 681.69 889.95 1060.22 939.13 976.38
+Other Income 0.52 0.82 1.03 16.02 6.73 22.31
+Total Income 272.66 682.51 890.98 1076.24 945.85 998.68
+Expenses
+Event & Site Expenses 204.79 392.76 400.39 577.02 527.77 504.13
+Employee Benefit Expenses 60.09 62.34 70.19 68.47 76.82 87.25
+Other Expenses 56.76 44.31 57.30 36.68 53.73 62.99
+Total Expenditure 321.64 499.41 527.89 682.17 658.32 654.37
+EBIDTA -48.97 183.10 363.09 394.07 287.53 344.31
+EBIDTA(%) -17.96% 26.83% 40.75% 36.62% 30.40% 34.48%
+Interest 21.70 23.78 11.16 59.98 37.09 50.32
+Depreciation 68.37 96.05 115.91 182.27 146.18 185.30
+PBT -139.04 63.26 236.01 151.82 104.26 108.69
+TAX Expense 0.00 42.39 8.24 58.25 29.15 26.87
+Net Profit -139.04 20.87 227.77 93.57 75.11 81.83
+NPM(%) -50.99% 3.06% 25.56% 8.69% 7.94% 8.19%
+Diluted EPS (₹) -695.20 104.34 819.00 325.19 237.00 258.00
+In ₹ Lacs
+52Investor Presentation
+Bidhan Advertising & Marketing Private Limited At A Glance
+Bidhan Advertising and Marketing Private Limited, with its 
+inception dating back over 50 years, has been a pioneer in the 
+advertising landscape. The company has played a pivotal role in 
+establishing iconic brands and continues to uphold its legacy of 
+innovation and excellence. 
+With accreditations from INS and IBF, Bidhan Advertising is 
+recognized as a trusted name in the industry, known for its 
+expertise and strategic approach to advertising and media 
+solutions.
+
+53Investor Presentation
+Bidhan Advertising & Marketing Private Limited Financial Snapshot Q2 FY26
+Particulars Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26
+Net Sales 22.02 92.86 240.61 330.05 115.75 217.77
+Other Income 0.00 2.03 0.88 8.85 0.88 0.26
+Total Income 22.02 94.89 241.49 338.89 116.63 218.03 
+Expenses
+Event & Site Expenses 33.21 38.07 123.21 167.15 72.42 159.65
+Employee Benefit Expenses 5.67 6.45 8.54 10.99 8.72 8.39
+Other Expenses 7.27 41.07 5.92 19.11 12.28 13.82
+Total Expenditure 46.15 85.59 137.66 197.26 93.42 181.85 
+EBIDTA -24.13 9.30 103.83 141.63 23.21 36.18 
+EBIDTA(%) -109.57% 9.80% 42.99% 41.79% 19.90% 16.59%
+Interest 0.38 9.27 4.27 4.14 2.36 4.86
+Depreciation 0.00 22.75 12.49 15.25 13.74 17.40
+PBT -24.51 -22.72 87.07 122.24 7.11 13.92 
+TAX Expense 0.00 0.53 13.17 31.07 1.85 3.62
+Net Profit -24.51 -23.25 73.90 91.17 5.26 10.30 
+NPM(%) -111.31% -24.51% 30.60% 26.90% 4.51% 4.72%
+Diluted EPS (₹) 16.59 -11.39 44.00 51.20 3.00 5.00
+In ₹ Lacs
+54Investor Presentation
+Combined Capabilities & Services
+Smart Toilets with Advertising Rights
+• Exclusive rights to operate 120 smart toilets in Ahmedabad 
+under the PPP model; 40 already installed.
+• 15-year advertising rights expected to generate ₹3.4 Cr annually 
+through capital investment.
+Private Hoardings in Gujarat
+• Portfolio of 800 private hoardings across key cities like 
+Ahmedabad, Baroda, and Rajkot.
+• Annual revenue of ₹15 Cr, backed by substantial CAPEX 
+investment.
+HPCL Hoarding Media Rights
+• Exclusive rights for 800+ hoardings across Gujarat 
+and Rajasthan.
+• Delivers ₹5 Cr in annual revenue with zero capital 
+investment.
+Government Business via UFO Digital Theatres
+• Sole rights to secure government advertising in UFO digital 
+theatres in Gujarat.
+• Generates ₹3 Cr annually with no capital expenditure.
+Adani Airports Partnership
+• Authorized procurement partner for Adani Airports, appointed 
+by the Gujarat government.
+• Delivers ₹1.8 Cr annual revenue, capital-free.
+Expansion into Rajasthan
+• Deployed two double smart toilets in Jaisalmer under a 
+municipal corporation-funded CAPEX model.
+• Additional revenue generated via hoarding rights in the 
+region.
+Ayodhya Development Project
+• Developing 15,000 sq. ft. of prime advertising space across 
+Ayodhya.
+• Focused on tapping religious tourism, with projected 
+revenue of ₹80 lakh annually.
+Media Procurement Across Multiple Channels
+• Active media buying across print, radio, television, and 
+digital platforms.
+• Contributes over ₹6 Cr in annual revenue through 
+cross-channel advertising procurement.
+
+India’s Tourism Renaissance – Powered by 
+Culture, Connectivity & Conscious Travel
+A new era driven by rising domestic mobility, infrastructure 
+investment, and demand for meaningful experiences.
+56Investor Presentation
+Industry Landscape – Hospitality & Events On The Rise
+F0CUSED SECT0RS
+➢ HOSPITALITY & TOURISM
+➢ EVENTS & EXHIBITIONS
+EVENTS & EXHIBITION
+MARKET SIZE
+CAGR - 4.73%
+➢ 2023 - USD 4.75 Bn
+➢ 2030 - USD 8.44 Bn
+Source: Mordor Intelligence
+HOSPITALITY & TOURISM
+➢ 5%
+     Current GDP Contribution
+➢ 137 Mn
+     projected employment
+     Generation by 2030       
+➢ US$ 250 Bn
+     Projected contribution
+     by 2030
+DOMESTIC
+TOURIST ARRIVALS (DAs)
+➢ 2021-22 - 610.22 Mn
+➢ 2022-23 - 677.63 Mn
+WORLD ECONOMIC FORUMS
+TRAVEL AND TOURISM
+COMPETITIVENESS INDEX
+➢ 2013 - 65th Rank
+➢ 2019 - 34th Rank
+➢ 2021 – 54th Rank
+➢ 2024- 39th Rank
+HOSPITALITY INDUSTRY
+IN INDIA (MARKET SIZE)
+CAGR 4.73%
+➢ 2023 - USD 23.50 Bn
+➢ 2028 - USD 29.61 Bn
+FOREIGN
+TOURIST ARRIVALS (FTA’s)
+➢ 2024 – 9.66 Mn
+➢ 2030E – 28 Mn
+Source: Mordor Intelligence
+Source: Mordor Intelligence
+Source: Indian Hotels Company Limited, 
+Ministry of Tourism 
+➢ US$ 56 Bn
+    foreign exchange earnings (FEE)
+    by 2030
+INDUSTRY TRENDS
+57Investor Presentation
+India’s Travel Boom – Government Backed Growth
+The Gyan Bharatam Mission to digitize over 1 Cr manuscripts, safeguarding India’s rich heritage for future generations.
+Source: PIB
+Transforming India’s Tourism Landscape
+Development of 
+50 top tourist 
+destinations
+40 projects 
+across 23 states 
+to receive interest-free 
+loans of ₹3,295.8 Cr
+Enhanced focus on 
+spiritual tourism (through 
+PRASHAD) and medical 
+tourism with the “Heal in 
+India” initiative.
+Medical Value Travel 
+projected to grow 
+significantly, bolstering 
+India’s reputation as a 
+premier global healthcare 
+destination.
+₹2,541.06 Cr
+ allocated to boost 
+tourism infrastructure, 
+skill development, and 
+travel facilitation.
+58Investor Presentation
+New Travel Trends – Experiences Over Destinations
+Airlines: Domestic traffic hit 14.93 M 
+passengers in Dec 2024; annual flyers 
+rose from 60 M in FY14 to 145 M, with 
+400 M projected by 2027.
+Hotels: Revenue growth of 7–9% in FY25 
+and 6–8% in FY26; premium occupancy 
+rising to 72–74%; market to expand from 
+US$32 B (FY20) to US$52 B by FY27.
+Intercity cabs & buses: Tier-II/III cities 
+now account for 67% of bus bookings; 
+FY20 markets of US$2.2 B (cabs) and 
+US$9 B (buses) set to double by FY27.
+Passenger traffic forecast to jump from 
+0.4 M to 4 M by 2032, lifting revenues from 
+US$110 M to US$5.5 B; five new terminals 
+and 1,000 ships planned.
+Wellness tourism & staycations 
+Projected to grow ~7.5% in FY22-23; 
+MDA grants now cover accredited 
+wellness centres.
+Govt plans to convert 65 lighthouses (13 in 
+Gujarat) into visitor hubs with museums, 
+amphitheatres, cafés, children’s parks and 
+eco-cottages.
+In 2021, sky-adventure services (flying, cockpit flying, skydiving) launched; July 2024 
+allocations of ₹782.6 cr (NE) and ₹518 cr (Himalayan) to boost adventure circuits.
+Eco-friendly camping and caravan parks promoted 
+to drive rural incomes and conservation; backed by 
+a dedicated Ministry policy.
+India aims to build adventure tourism 
+into an US$800 B sector by 2047 and 
+become a year-round destination.
+
+59Investor Presentation
+Growth Drivers – From Connectivity To Culture
+The industry creates a wide range of jobs, helping reduce 
+unemployment and boosting local economies.
+Projects like Swadesh Darshan and PRASHAD improve tourist facilities 
+and infrastructure, enhancing the travel experience.
+Projects like Swadesh Darshan and PRASHAD improve tourist facilities 
+and infrastructure, enhancing the travel experience.
+Tools like the Incredible India Digital Portal and 24x7 live chat support 
+provide travelers with easy access to information and services.
+Enhanced air and regional connectivity through initiatives like UDAN 
+make it easier to reach tourist destinations across the country.
+Campaigns such as Dekho Apna Desh and nationwide polls engage 
+citizens and promote India’s diverse cultural heritage.
+The industry is expanding into niche areas like adventure, eco-
+tourism, medical tourism, and rural tourism, attracting varied 
+interests.
+The hotel star rating system and professional training for hospitality 
+staff ensure better service quality, making India more attractive to 
+tourists.
+Collaborations between the government and private sectors,
+including training initiatives with leading hotel chains, drive 
+innovation and service improvements in tourism.
+Tourism drives economic growth by contributing significantly to GDP 
+and generating revenue.1
+2
+3
+4
+5 10
+9
+8
+7
+6
+Margin-Focused, Growth-Ready
+A Financial Model Designed for Scalability
+Asset-light operations ensure margin stability even as 
+capital is deployed for expansion.
+61Investor Presentation
+84.86 94.55
+174.43
+FY23 FY24 FY25
+Total Income
+45.30
+32.14
+56.88
+28.42
+12.95 16.13
+FY23 FY24 FY25
+Profitability
+EBITDA PAT
+25.27
+17.04
+32.54
+FY23 FY24 FY25
+Operating Cash Flow
+112.46
+287.84
+463.22
+FY23 FY24 FY25
+Net Worth
+In ₹ Cr
+In ₹ Cr In ₹ Cr
+In ₹ Cr
+Consolidated Key Financial Highlights
+62Investor Presentation
+Consolidated Key Ratios
+53.38
+34.00 32.6133.51
+13.75 8.97
+FY23 FY24 FY25
+Margins
+EBITDA Net Profit
+In %
+14.64
+5.66 5.96
+FY23 FY24 FY25
+Earning Per Share
+In ₹
+25.28
+4.52 3.46
+34.56
+6.18 5.42
+FY23 FY24 FY25
+Return Ratios
+ROE ROCE
+In %
+53.75
+117.33
+177.20
+FY23 FY24 FY25
+Book Value
+In ₹
+30.74
+0.17 0.18
+FY23 FY24 FY25
+Dividend Pay Out Ratio
+In Times
+4.93
+12.41
+2.19
+FY23 FY24 FY25
+Current Ratio
+In Times
+63Investor Presentation
+Consolidated Profit & Loss Statement
+Particulars FY23 FY24 FY25
+Revenues 84.48 91.60 167.18
+Other Income 0.38 2.96 7.25
+Total Income 84.86 94.55 174.43
+Event & Site Expenses 28.98 38.15 76.42
+Employee costs 6.64 16.00 26.66
+Other expenses 3.94 8.26 14.47
+Total Expenditure 39.56 62.41 117.55
+EBITDA 45.30 32.14 56.88
+Finance Costs 0.69 2.39 8.05
+Depreciation 6.09 10.68 27.84
+PBT 38.52 19.07 20.98
+Tax 10.09 6.07 4.93
+PAT 28.44 13.00 16.05
+Less Minority Int &P&L from Assoc 0.00 0.00 0.72
+Reported Net Profit 28.44 13.00 15.33
+Other Comprehensive Income 0.00 -0.05 0.09
+Total Comprehensive Income 28.42 12.95 16.13
+In ₹ Cr
+64Investor Presentation
+Consolidated Balance Sheet
+Equities & Liabilities FY23 FY24 FY25
+Equity 20.92 24.53 26.14
+Reserves 91.54 263.30 437.08
+Non Controlling Interests 0.00 0.00 15.62
+Net Worth 112.46 287.84 463.22
+Non Current Liabilities
+Non Current Borrowings 0.05 0.00 0.98
+Lease Liabilities 0.58 59.56 61.99
+Deferred Tax Liability 0.00 4.52 8.01
+Long Term Provision 0.40 0.63 0.85
+Total Non Current Liabilities 1.03 64.71 71.82
+Current Liabilities
+Current Borrowings 0.37 0.05 9.18
+Lease Liabilities 0.85 2.52 5.13
+Trade Payables 6.45 6.68 36.11
+Current Tax Liabilities (Net) 0.77 0.00 0.00
+Short Term Provisions 0.97 0.61 4.71
+Other Current Liabilities 2.71 2.21 3.22
+Total Current Liabilities 12.12 12.07 58.34
+Total Liabilities 125.61 364.62 609.00
+Assets FY23 FY24 FY25
+Non Current Assets
+Fixed assets 42.14 205.55 468.33
+Non Current Investments 0.10 0.10 0.00
+Other Non Current Financial Assets 0.39 1.32 6.65
+Deferred Tax Assets (Net) 0.13 0.00 0.00
+Other Non Current Assets 23.03 7.85 6.21
+Total Non Current Assets 65.79 214.82 481.19
+Current Assets
+Inventories 11.74 12.10 12.22
+Trade receivables 16.28 19.97 48.76
+Cash & Bank Balance 22.62 103.11 18.50
+Other Current Financial Assets 1.50 2.58 3.70
+Current Tax Assets (Net) 0.06 1.39 3.27
+Other Current Assets 7.62 10.66 41.38
+Total Current Assets 59.82 149.80 127.81
+Total Assets 125.61 364.62 609.00
+In ₹ Cr
+65Investor Presentation
+Standalone Profit & Loss Statement
+Particulars FY23 FY24 FY25
+Revenues 84.38 91.42 132.63
+Other Income 0.38 2.96 6.97
+Total Income 84.76 94.37 139.60
+Event & Site Expenses 28.95 38.00 58.14
+Employee costs 6.64 16.00 23.72
+Other expenses 3.92 8.33 12.03
+Total Expenditure 39.51 62.34 93.89
+EBITDA 45.24 32.04 45.70
+Finance Costs 0.69 2.39 6.70
+Depreciation 6.09 10.68 22.71
+PBT 38.47 18.97 16.28
+Tax 10.09 6.07 3.42
+PAT 28.38 12.89 12.86
+Total Comprehensive Income 28.36 12.84 12.95
+In ₹ Cr
+66Investor Presentation
+Standalone Balance Sheet
+Equities & Liabilities FY23 FY24 FY25
+Equity 20.92 24.53 26.14
+Reserves 91.57 263.22 425.77
+Net Worth 112.49 287.76 451.92
+Non Current Liabilities
+Long Term Borrowing 0.05 0.00 0.00
+Lease Liabilities 0.58 59.56 56.64
+Deferred Tax Liabilities 0.00 4.52 7.22
+Long-term Provision 0.40 0.63 0.85
+Total Non Current Liabilities 1.03 64.71 64.71
+Current Liabilities
+Short Term Borrowings 0.34 0.03 5.98
+Lease Liabilities 0.85 2.52 2.93
+Trade Payables 6.45 6.58 18.71
+Current Tax Liabilities (Net) 0.77 0.00 0.00
+Short Term Provision 0.97 0.61 4.47
+Other Current Liabilities 2.71 2.26 2.53
+Total Current Liabilities 12.10 12.00 34.61
+Total Liabilities 125.61 364.47 551.24
+Assets FY23 FY24 FY25
+Non Current Assets
+Fixed Assets 41.47 196.23 384.30
+Non-current Investments 0.22 0.11 22.36
+Deferred Tax Assets 0.39 1.32 2.38
+Other Non Current Financial Assets 0.13 0.00 0.00
+Other Non Current Assets 23.03 7.85 6.20
+Total Non Current Assets 65.24 205.50 415.24
+Current Assets
+Inventories 11.74 12.10 11.98
+Trade Receivables 16.28 19.97 33.04
+Cash & Bank Balance 22.49 102.08 11.42
+Other Current Financial Assets 2.27 12.81 41.57
+Current Tax Assets (Net) 0.06 1.39 1.47
+Other Current Assets 7.54 10.62 36.51
+Total Current Assets 60.37 158.96 136.00
+Total Assets 125.61 364.47 551.24
+In ₹ Cr
+67Investor Presentation
+Investment Rationale
+Financial Performance
+• Total Income of ₹ 174.43 Cr against ₹ 94.55 Cr in FY23-24.
+• EBITDA of ₹ 56.88 Cr against ₹ 32.14 Cr in FY23-24.
+• Net Profit of ₹ 16.13 Cr against ₹ 12.95 Cr in FY23-24.
+Diverse Client Portfolio
+• Serves over 200 clients across government and private sectors.
+• Long-term contracts with state tourism departments across 
+Gujarat, Rajasthan, Daman & Diu, UP, and Lakshadweep.
+• Balanced revenue streams from government and private clients.
+Proven Expertise
+• Over 20 years of experience in tourism and hospitality.
+• Manages 827+ hotel rooms in partnerships with state governments.
+• Highly skilled leadership and team with proven industry knowledge.
+Expanding Resort Network
+• From 1 property in 2015 to 18 properties across 5 states/UTs today
+• Pipeline of 11 new resorts (577 rooms) across iconic destinations like 
+Udaipur, Ranthambhore, Agatti, and Thinakara.
+• On track to achieve Vision 2028: 2,500+ rooms across 65+ locations.
+Event Leadership
+• Organized over 500 events, including corporate and government events.
+• Expertise in large-scale event management across India.
+• Growing footprint in both domestic and international markets.
+Competitive Advantages
+• Low-cost, high-return hospitality models with non-permanent structures.
+• Strong partnerships with state tourism and a wide agent network across India.
+• In-house teams for creative, reservation, and quality control.
+Strategic Acquisitions
+• Acquired 51% stake in Abhik Advertising and Bidhan Advertising.
+• Diversified into advertising and event management sectors. 
+• Strengthened market presence and revenue potential.
+Geographic Presence
+• Resorts present in Rajasthan, Uttarpradesh, lakshwadeep, Maharashtra, Diu & 
+Daman.
+• Diverse geographic footprint enhances growth opportunities.
+• Focus on emerging tourism markets across India.
+Tourism Growth Opportunity
+• Indian tourism expected to grow at a CAGR of 10%.
+• Rising domestic travel demand due to increasing incomes and urbanization.
+• Government incentives supporting tourism infrastructure development.
+Eco-Tourism Leadership
+• Non-permanent structures promote sustainable, eco-friendly operations.
+• Focus on nature conservation and responsible tourism practices.
+• Resorts designed to integrate with natural surroundings for minimal environmental 
+impact.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Praveg Limited
+Westport, 18th Floor, Sindhu Bhavan Road, 
+Nr Taj Skyline, Off SP Ring Road, 
+Ahmedabad, Gujarat – 380 058
+Email: info@praveg.com
+Phone: +91-79-27496737, 27494266
+Website: dizcoverpraveg.com/
+Kirin Advisors Private Limited
+713-B, Lodha Supremus II, 
+Wagle Estate, Thane West – 400 604.
+Email: info@kirinadvisors.com
+Phone: 022 4100 2455
+Website: www.kirinadvisors.com 
+THANK YOU
+

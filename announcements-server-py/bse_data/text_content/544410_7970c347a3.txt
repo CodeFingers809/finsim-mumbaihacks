@@ -1,0 +1,1015 @@
+ 
+ 
+Prostarm/Secretarial/2025-26/65 November 14, 2025 
+ 
+To, 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Mumbai – 400 001 
+Script Code: 544410 
+ 
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex, Bandra (E), Mumbai – 400 051 
+Symbol: PROSTARM 
+ 
+Sub: Outcome of the Board Meeting of Prostarm Info Systems Limited (the “Company“) held on November 
+14, 2025 
+ 
+Ref: Regulation 30 and 33 of the Securities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirements Regulations), 2015 (the “SEBI Listing Regulations”) 
+ 
+Dear Sir/Madam, 
+ 
+With reference to captioned subject, the Board of Directors of the Company in their meeting held today, inter-alia, 
+transacted and approved the following businesses amongst others: 
+ 
+1.  The Unaudited Standalone and Consolidated Financial Results for the Quarter and Half Year ended September 
+30, 2025, along with the Limited Review Report issued by the Statutory Auditors of the Company thereon 
+pursuant to Regulation 33 of the SEBI Listing Regulations; 
+ 
+A copy of the approved Unaudited Financial Results along with the Limited Review Report is enclosed herewith; 
+ 
+2. Re-constituted the CSR Committee of the Board:  
+ 
+Consequent to resignation of Mr. Raghu Ramesh Thammannashastri, with effect from effect from close of 
+business hours on November 30, 2025 as a result, he will be step down as a Member of CSR Committee and 
+post inducting a new members, the revised composition of the CSR Committee w.e.f December 01, 2025 shall 
+be as under: 
+ 
+Sr. No. Name of Member Category Designation 
+1 Tapan Ghose Chairperson Chairman & Managing Director 
+2 Bhargav Chatterjee Member Independent Director 
+3 Ram Agarwal Member Whole time Director & CEO 
+4 Vikas Agarwal Member Whole time Director 
+ 
+ 
+ 
+ 
+Further, pursuant to the provisions of Regulation 47 of the SEBI Listing Regulations, an extract of the 
+aforementioned un-audited Financial Results would be published in the newspapers in accordance with the SEBI 
+Listing Regulations, and the same will be made available on the Company’s website at www.prostarm.com.  
+ 
+The meeting of Board of Directors of the Company commenced at 03:43 p.m. and concluded at 04:20 p.m. 
+ 
+Kindly take the above information on record.   
+ 
+Thanking you, 
+ 
+For Prostarm Info Systems Limited 
+ 
+ 
+ 
+ 
+Sachin Gupta 
+Company Secretary and Compliance officer 
+Membership No: F12500 
+ 
+Encl: as above 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CA 
+IND I A 
+Mansaka Ravi & Associates 
+Chartered Accountants 
+Independent Auditor's Review Report on the Unaudited Quarterly and Year to Date Standalone Financial Results of the 
+Company Pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, as amended 
+To 
+The Board of Directors of 
+Prostarm Info Systems Limited 
+(1) We have reviewed the accompanying statement of Standalone Unaudited Financial Results of Prostarm Info 
+Systems Limited for the quarter and six month ended September 30, 2025 together with notes thereon ("the 
+Statement"), being submitted by the Company pursuant to the requirements of Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 (as amended) ('Listing Regulations'). 
+(2) This Statement, which is the responsibility of the Company's Management and has been approved by the Board 
+of Directors, has been prepared in accordance with the recognition and measurement principles laid down in 
+Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"), prescribed under Section 133 of the 
+Companies Act, 2013 ("the Act"), as amended, read with relevant rules made thereunder and other accounting 
+principles generally accepted in India and in compliance with the presentation and disclosure requirements of the 
+Regulation 33 of Listing Regulations. Our responsibility is to express a conclusion on the Statement based on our 
+review. 
+(3) We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE} 2410 
+"Review of Interim Financial Information Performed by the Independent Auditor of the Entity", issued by the 
+Institute of Chartered Accountants of India. This standard requires that we plan and perform the review to obtain 
+moderate assurance as to whether the financial statements are free of material misstatement. A review is limited 
+primarily to inquiries of company personnel and analytical procedures applied to financial data and thus provides 
+less assurance than an audit. We have not performed an audit and accordingly, we do not express an audit opinion. 
+(4) Based on our review conducted as above, nothing has come to our attention that causes us to believe that the 
+accompanying statement of unaudited financial results prepared in accordance with applicable accounting 
+standards and other recognized accounting practices and policies has not disclosed the information required to 
+be disclosed in terms of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015 including the manner in which it is to be disclosed, or that it contains any material misstatement. 
+For Mansaka Ravi & Associates 
+Chartered Accountants 
+FRN:015023C 
+Partner 
+M.N.410816 
+UDIN: 25410816BMLILU2329 
+Place of Signature: Navi Mumbai 
+Date: 14th November, 2025 
+17, Ground Floor, Palm Beach Arcade, Sector-4, Nerul West, Navi Mumbai - 400706 
+\. +91 9829 7 53254 I IS2:I Email: ravi@ravimansaka.com 
+PR@STARM 
+PROST ARM INFO SYSTEMS LIMITED 
+Plot No .. EL 79, Electronic Zone, TTC, MIDC, Mahape, Navi Mumbai, Thane, Maharashtra, India, 400710 
+Email: cs@prostarm.com, Website: www.prostarm.com, Tel: +91 22 45280500 
+CIN: L31900MH2008PLC368540 
+UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER & HALF YEAR ENDED SEPTEMBER 30, 2025 
+(l in Lakhs) 
+For the Quarter Ended For the Half Year Ended For the Year Ended 
+Particulars 30 Sept, 30 June, 30 Sept, 30 Sept, 30 Sept, 31 March, 2025 2025 2025 2024 2025 2024 
+Unaudited Unaudited Unaudited Unaudited Audited Audited 
+I. Revenue from operations 6461.16 5097.63 9850. 90 11558.79 19232.88 34588.57 
+II. Other Income 151.69 83.43 45.26 235.12 83.18 189.72 
+Ill. Total Income (I +II) 6612.85 5181.05 9896.16 11793.91 19316.07 34778.30 
+IV. Expenses: 
+Cost of Material Consumed 1770.89 1512.64 1434.48 3283.53 2409.10 6601.89 
+Purchase of Stock-in-Trade 2642.74 2729.11 6191.19 5371.85 12385.51 17870.73 
+Changes in inventories of finished goods, -421 .53 -471 .82 -926.09 -893.35 -551 .01 363.41 work in progress and stock-in-trade 
+Employee benefit expenses 671.80 553.10 447.46 1224. 91 876.24 1861.98 
+Finance Costs 88.45 158.03 170.71 246.48 291 .32 537.86 
+Depreciation and amortization expenses 62.45 52.43 60.36 114.88 115.79 246.99 
+Other Expenses 663.23 433.21 629.16 1096.44 1651.40 3161.76 
+Total Expenses 5478.05 4966.71 8007.27 10444.75 17178.35 30644.61 
+V. Profit Before Taxes (Ill-IV) 1134.81 214.34 1888.89 1349.15 2137.71 4133.68 
+VI. Tax expense: 
+(1) Current tax 287.51 54.59 485.12 342.10 547.75 1089.18 
+(2) Tax of Earlier Years 0.67 0.00 3.41 3.41 
+(3) Deferred tax 1.74 3.57 1.24 5.31 -1.32 -10.24 
+VII. Profit/(Loss) for the period (V-VI) 845.56 156.19 1401.86 1001.74 1587.88 3051.33 
+VIII Other Comprehensive Income (Net of Tax) -9.70 -3.29 -1 .59 -12.99 -1.48 0.45 
+IX Total Comprehensive Income for the 835.85 152.90 1400.27 988.75 1586.40 3051.78 
+Earning per equity share (Face Value of 
+X. Rs. 10 each) 
+(Not annualised, except for the year ended 
+31.03.2025) 
+(1) Basic (In ~) 1.57 0.35 2.38 1.86 3.70 7.12 
+Diluted (In~) 1.56 0.35 2.38 1.85 3.70 6.93 
+If of the Board of Directors of For Mansaka Ravi & Associates 
+Charter 
+FRN: 01 
+(Tapan Ghose) ~ 
+Chairman & Managing Director 
+DIN:- 01739231 
+Place : Navi Mumbai Place: Navi Mumbai 
+Dated: November 14, 2025 Dated: November 14, 2025 
+PROSTARM INFO SYSTEMS LIMITED 
+Plot No •. EL 79, Electronic Zone, TTC, MIDC, Mahape, Navi Mumbai, Thane, Maharashtra, India, 400710 
+Email: cs@prostarm.com, Website: www.prostarm.com, Tel: +91 22 45280500 
+CIN: L31900MH2008PLC368540 
+UNAUDITED STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2025 
+As At 
+(' in Lakhs) 
+Particulars 30.09 .2025 31 .03.2025 
+ASSETS 
+Non-Current Assets 
+(a) Property, Plant and Equipment 
+(b) Capital Work-in-Progress 
+(c) Investment Property 
+(d) Intangible Assets 
+(e) Right-of-Use Assets 
+(f) Financial Assets 
+(i) Investments 
+(ii)Other financial assets 
+(g) Deferred Tax Assets (Net) 
+(h) Other non-current assets 
+Total Non-Current Assets 
+Current Assets 
+(a) Inventories 
+(b) Financial Assets 
+(i) Trade receivables 
+(ii) Cash and cash equivalents 
+(iii) Bank balances other than (ii) above 
+(iv) Loans 
+(v) Others current financial assets 
+(c) Current Tax Asset (Net) 
+(c) Other Current Assets 
+Total Current Assets 
+Total Assets 
+EQUITY AND LIABILITIES 
+Equity 
+(a) Equity Share Capital 
+(b) Other Equity 
+Total Equity 
+LIABILITIES 
+Non-Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 
+(ii) Other financial liabilities 
+(b} Provisions 
+Total Non-Current Liabilities 
+Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 
+(ii) Trade payables 
+(a) total outstanding dues of micro enterprises and small enterprises; and 
+(b} total outstanding dues of creditors other than micro enterprises and small 
+enterprises. 
+(iii) Other Financial Liabilities 
+(b) Other Current Liabilities 
+(c) Provisions 
+(d} Current Tax Liabilities (Net) 
+Total t Liabilities 
+ehalf of the Board of Directors of 
+Chairman & Managing Director 
+DIN:- 01739231 
+Place : Navi Mumbai 
+Dated: November 14, 2025 
+Unaudited 
+1565.03 
+1.35 
+871 .63 
+5.95 
+429.23 
+1514.78 
+4921.41 
+81 .95 
+34.76 
+9426.09 
+6440.84 
+11299.22 
+1351.63 
+2.55 
+4190.29 
+30.80 
+1806.44 
+25121.77 
+34547.86 
+5887.46 
+21852.44 
+27739.90 
+103.20 
+1.88 
+180.33 
+285.40 
+1519.82 
+394.63 
+4235.04 
+172.16 
+129.96 
+70.94 
+6522.56 
+34547 .86 
+For Mansaka Ravi & Associates 
+Partner 
+M.N. 410816 
+Place: Navl Mumbai 
+Dated: November 14, 2025 
+Audited 
+1486.62 
+287.38 
+8.09 
+432.34 
+1504.78 
+1551.67 
+82.89 
+34.76 
+5388.53 
+5178.33 
+10719.73 
+42.34 
+197.98 
+51.18 
+762.39 
+2080.02 
+19031.97 
+24420.49 
+4287.46 
+7441.02 
+11728.48 
+338.60 
+2.00 
+138.96 
+479.56 
+6384.38 
+161.42 
+5011.16 
+132.32 
+246.72 
+56.07 
+220.38 
+12212.45 
+24420.49 
+PR@STAR M 
+PR@STARM 
+PROSTARM INFO SYSTEMS LIMITED 
+Plot No .. EL 79, Electronic Zone, TTC, MIDC, Mahape, Navi Mumbai, Thane, Maharashtra, India, 400710 
+Email: cs@prostarm.com, Website: www.prostarm.com, Tel: +91 22 45280500 
+CIN: L31900MH2008PLC368540 
+UNAUDITED ST AN DALO NE ST AT EM ENT OF CASH FLOW FOR THE HALF VEAR ENDED 30 SEPTEMBER, 2025 
+Particulars 
+A Cash Flow From Operating Activities 
+Net Profit/ (Loss) Before Tax 
+Adjustments For : 
+Depreciation and Amortization Expense 
+Interest Expenses 
+Interest on Leased Liabilities 
+Interest Incomes 
+Provision for Warranty 
+Unrealised Foreign Exchange (Gain) / Loss 
+Misc Items Written off 
+(Profit)/Loss on sale of Property, plant & equipment (PPE) 
+Expenses on share based payments to employees 
+Remeasurment of defined benefit plan 
+Operating Profit Before Working Capital Changes 
+Adjustments For : 
+Decrease/(lncrease) in other financial assets 
+Decrease/(lncrease) in other assets 
+Decrease/(lncrease) in Loans 
+Decrease/(lncrease) in inventories 
+Decrease/(lncrease) in trade receivables 
+(Decrease)/lncrease in Trade payables 
+(Decrease)/lncrease in other financial liabilities 
+(Decrease)/lncrease in other liabilites 
+Retirement Benefits Paid (Out of Provisions) 
+Lease Rental Payments 
+Warranty Expenses Actually Paid (Out of Provisions) 
+Increase/Decrease in Provisions 
+Cash Generated From Operations 
+Less: Direct Taxes Paid net of refund (including TDS) 
+Net Cash flow From Operating Activities 
+B Cash Flow From Investing Activities 
+Addition in Property, Plant & Equipment [PPE] 
+Addition to CWIP 
+Addition to ROU Assets 
+Addition in Intangible Assets 
+Addition/ Deletion in Investment Properties 
+Proceeds from Sale of PPE 
+Deposits (Net) 
+Interest Income 
+Investment of Shares of Subsidiary 
+Net Cash (Used) In/From Investing Activities 
+(fin Lakhs) 
+For the Half Year Ended For the Year Ended 
+30 Sept, 2025 31 March, 2025 
+Unaudited 
+1349.15 
+114.88 
+191 .80 
+0.00 
+203.74 
+44.29 
+57.32 
+20.27 
+1981.46 
+-6793.11 
+6968.84 
+48.63 
+-1262.50 
+-579.49 
+-542. 91 
+39.72 
+-116.76 
+-2.35 
+0.00 
+-23.33 
+0.00 
+-281.82 
+593.28 
+-875.10 
+-182.05 
+-1 .35 
+-590.24 
+0.00 
+-6499.04 
+-203.74 
+-10.00 
+-7486.42 
+Audited 
+4133.68 
+246.99 
+487.44 
+0.17 
+-97.36 
+43.84 
+-20.31 
+0.15 
+1.96 
+56.04 
+30.89 
+4883.49 
+-248.45 
+-1591.17 
+-0.74 
+604.36 
+-1737.53 
+-1093.69 
+13.85 
+4.46 
+-3.47 
+-5.99 
+-54.22 
+2.00 
+772.91 
+1121.09 
+-348.18 
+-1188.88 
+949.32 
+-4.90 
+-14.27 
+2.13 
+-222.80 
+97.36 
+-1159.00 
+-1541.03 
+Particulars 
+C Cash Flow From Financing Activities 
+Proceeds from Initial Public Offer (Net of IPO Expense) 
+(Decrease)/lncrease in Non-Current Borrowings 
+(Decrease)/lncrease in Current Borrowings 
+Interest paid on Borrowings 
+Net Cash (Used) In/From Financing Activities 
+D Net Change In Cash & Cash Equivalents(A+B+C) 
+E Cash & Cash Equivalents at beginning of the year 
+F Cash & Cash Equivalents at end of the year 
+Components of Cash & Cash Equivalents 
+Cash on Hand 
+In Term Deposits with maturity less than 3 months at inception 
+Balance with Banks in Current Accounts 
+Cheques, Drafts on Hand 
+PR@STARM 
+For the Half Vear Ended For the Vear Ended 
+30 Sept, 2025 31 March, 2025 
+Unaudited Audited 
+14962.57 
+-235.40 -122.84 
+-4864.56 2504.68 
+-191 .80 -487.44 
+9670.81 1894.40 
+1309.29 5.18 
+42.34 37.15 
+1351.63 42.34 
+30 Sept, 2025 31 March, 2025 
+16.28 13.65 
+1009.53 
+325.82 28.69 
+Note:1 The Statement of Cash Flows has been prepared under the "Indirect Method" as set out in Ind AS - 7 "Statement of Cash 
+Flows". 
+For and o 
+Prostarm 
+(Tapan Ghose) 
+If of the Board of Directors of 
+Chairman & Managing Director 
+DIN:- 01739231 
+Place : Navi Mumbai 
+Dated: November 14, 2025 
+For Mansaka Ravi & Associates 
+Chartered Accountants ,,&:.=====~ 
+FRN: 015023C 
+Partner 
+M.N.410816 
+Place: Navi Mumbai 
+Dated: November 14, 2025 
+V 
+PR@STARM ,_ 
+PROSTARM INFO SYSTEMS LIMITED 
+Plot No. EL 79, Electronic Zone, TTC, MIDC, Mahape, Navi Mumbai, Thane, Maharashtra, India, 400710 
+Email: sales@Prostarm.com, Website: www.Prostarm.com, Tel: +91 22 49856522/26 
+CIN: U31900MH2008PLC368540 
+Notes to the Standalone Financial Results 
+1. The above Unaudited Standalone Financial Results have been reviewed by the Audit Committee 
+and approved by the Bord of Directors of the Company at their respective meeting held on 
+November 14, 2025 
+2. The Statutory Auditors of the Company have carried out the Limited Review of the above 
+Unaudited Standalone financial results of the Company and have expressed an unmodified 
+opinion on these Results. 
+3. The above unaudited financial results have been prepared in accordance with the recognition 
+and measurement principles laid down in Indian Accounting Standard 34 (Ind AS 34) "Interim 
+Financial Reporting" specified under Section 133 of the Companies Act, 2013, as amended, read 
+with Companies (Indian Accounting Standards) Rules, 2015 and other accounting principles 
+generally accepted in India and in compliance with Regulation 33 of the Securities and Exchange 
+Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (SEBI LODR), 
+as amended. 
+4. The Company operates as a single business segment based on its products and has one 
+reportable segment namely "Customized Power Electronic Solutions' products". Accordingly, in 
+the context of Ind AS 108 on operating segment reporting, are considered to constitute one 
+segment by the Chief Operating Decision Maker and the Company has not made any additional 
+segment disclosures. 
+5. Previous year's/ period's figure have been regrouped/reclassified/ restated, wherever necessary 
+to confirm to classification of current year's/period's figures. 
+6. All the amounts included in the financial results are rounded off to the neareast lakhs, except per 
+share data and unless stated otherwise. Further, due to rounding off, certain amounts are 
+appearing as 'O'. 
+For Pr'ncn11nn 
+(Tapan Ghos 
+Chairman & M 
+DIN: 01739231 
+Place: Navi Mumbai 
+Dated: 14th November, 2025 
+CA 
+IND I A 
+Mansaka Ravi & Associates 
+Chartered Accountants 
+Independent Auditor's Review Report on the Unaudited Quarterly Consolidated Financial Results of the 
+Company Pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended 
+To 
+The Board of Directors of 
+Prostarm Info Systems Limited 
+(1) We have reviewed the accompanying statement of Consolidated Unaudited Financial Results of 
+Prostarm Info Systems Limited ("the Parent Company") and its subsidiaries (the parent Company and 
+its subsidiaries together referred to as 'the Group'), for the quarter and six month ended September 
+30, 2025 together with notes thereon ("the Statement"), being submitted by the Company pursuant to 
+the requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 (as amended) ('Listing Regulations'). 
+(2) This Statement, which is the responsibility of the Parent Company's Management and has been 
+approved by the Parent Company's Board of Directors, has been prepared in accordance with the 
+recognition and measurement principles laid down in Indian Accounting Standard 34 "Interim Financial 
+Reporting" ("Ind AS 34"), prescribed under Section 133 of the Companies Act, 2013 ("the Act"), as 
+amended, read with relevant rules made thereunder and other accounting principles generally accepted 
+in India and in compliance with the presentation and disclosure requirements of the Regulation 33 of 
+Listing Regulations. Our responsibility is to express a conclusion on the Statement based on our review. 
+{3) We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+{SRE) 2410 "Review of Interim Financial Information Performed by the Independent Auditor of the 
+Entity", issued by the Institute of Chartered Accountants of India. This standard requires that we plan 
+and perform the review to obtain moderate assurance as to whether the financial statements are free 
+of material misstatement. A review is limited primarily to inquiries of company personnel and analytical 
+procedures applied to financial data and thus provides less assurance than an audit. We have not 
+performed an audit and accordingly, we do not express an audit opinion. 
+We also performed procedures in accordance with the circular issued by the SEBI under Regulation 
+33{8) of the SEBI {Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, to 
+the extent applicable. 
+(4) The Statement includes results of following s bsidiaries: 
+a. Prostarm Energy Systems Private Limited 
+b. Prostarm Bihar Bess Private Limited 
+c. Prostarm Karnataka Bess Private Limited 
+(5) Based on our review conducted and procedures performed as stated in paragraph 3 above and based 
+on the consideration of the review reports of the other auditors referred to in paragraph 6 below, nothing 
+has come to our attention that cause$ us to believe that the accompanying Statement, l)r ~=====::,,... 
+accordance with the recognition and measurement principles laid down in the af ~,.,.----i----...--.,, 
+,_,'Ii 
+l 
+* q 
+17, Ground Floor, Palm Beach Arcade, Sector-4, Nerul West, Navi Mumbai-~ lQlOO.:::; 
+\. +91 98297 53254 I ~ Email: ravi@ravimansaka.com 
+CA 
+INDIA 
+Mansaka Ravi & Associates 
+Chartered Accountants 
+Accounting Standard and other accounting principles generally accepted in India, has not disclosed the 
+information required to be disclosed in terms of Regulation 33 of the SEBI {Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, as amended, including the manner in which it is to be 
+disclosed, or that it contains any material misstatement. 
+{6) We did not review the interim financial results of subsidiaries mentioned above at paragraph 3{a) of the 
+Statement (except Prostarm Bihar BESS Private Limited), whose financial information {before 
+eliminating intercompany transactions and balances) reflect, total revenues of INR 426.37 lakhs, total 
+net loss of INR 18.70 lakhs, other comprehensive income of INR 0.05 Lakhs for the quarter ended 
+September 30, 2025 and total revenues of INR 1239 .42 lakhs, total_ net profit after tax of IN R 7. 92 lakhs, 
+other comprehensive loss of INR 2.95 Lakhs for the six months ended September 30, 2025 as 
+considered in the Statement. These interim financial results have been reviewed by other auditors 
+whose review reports have been furnished to us by the management, and our conclusion in so far as it 
+relates to the amounts and disclosures included in respect of these subsidiaries is based solely on the 
+review reports of such other auditors and the procedures performed by us as stated in paragraph 3 
+above. 
+(7) Our conclusion is not modified in respect of this matter with respect to our reliance on the work done 
+by and the reports of the other auditors. 
+For Mansaka Ravi & Associates 
+Chartered Accountants 
+FRN:015023C ~==::::,... 
+Partner 
+M.N. 410816 
+UDIN: 25410816BMLILV8820 
+Place of Signature: Navi Mumbai 
+Date: 14th November, 2025 
+17, Ground Floor, Palm Beach Arcade, Sector- 4, Nerul West, Navi Mumbai - 400706 
+\. +91 98297 53254 I ~ Email: ravi@ravimansaka.com 
+PROSTARM INFO SYSTEMS LIMITED PR@STAR M 
+Plot No .. EL 79, Electronic Zone, TIC, MIDC, Mahape, Navi Mumbai, Thane, Maharashtra, India, 400710 
+Email: cs@pProstarm.com, Website: www.prostarm.com, Tel: +91 22 45280500 
+GIN: L31900MH2008PLC368540 
+UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2025 
+· For the Quarter Ended Half Year Ended on 
+Particulars 30 Sept, 30 June, 30 Sept, 30 Sept, 30 Sept, 
+2025 2025 2024 2025 2024 
+Unaudited Unaudited Unaudited Unaudited Audited 
+Revenue from operations 6591 .52 5491.39 9849.05 12082.91 19226.76 
+II. Other Income 151.89 83.43 45.58 235.31 83.50 
+Ill. Total Income (I +II) 6743.40 5574.82 9894.63 12318.22 19310.27 
+IV. Expenses: 
+Cost of Material Consumed 2025.26 1723.73 1530.77 3748.99 2586.51 
+Purchase of Stock-in-Trade 2481.02 2636.17 6161.75 5117.19 12332.32 
+Changes in inventories of finished goods, work in progress and stock-in-trade -493.10 -377.26 -1002.19 -870.37 -654.53 
+Employee benefit expenses 766.58 650.30 530.37 1416.88 1056.71 
+Finance Costs 88.48 158.08 170.67 246.55 291.32 
+Depreciation and amortization expenses 75.18 65.09 73.98 140.27 142.99 
+Other Expenses 690.63 468.41 565.35 1159.03 1598.11 
+Total Expenses 5634.05 5324.51 8030.70 10958.56 17353.43 
+V. Profit Before Taxes (Ill-IV) 1109.35 250.31 1863.93 1359.66 1956.84 
+VI. Tax expense: 
+(1) Current tax 287.51 54.59 485.12 342.10 547.75 
+(2) Tax of Earlier Years 0.67 3.41 
+(3) Deferred tax -4.79 12.92 -12.75 8.12 -56.73 
+VII. Profit/(Loss) for the period (V-VI) 826.64 182.80 1390.89 1009.44 1462.41 
+Attributable to: 
+Owners of the Parent Company 826.64 182.80 1400.37 1009.44 1528.00 
+Non-controlling interest -9.48 -65.59 
+VIII Other Comprehensive Income 
+(i) Items that will not be reclassified to profit or loss 
+Fair value gain loss on Investments 
+Remeasurement gain/(loss) on defined benefit obligation -12.89 -8.45 0.65 -21.35 0.27 
+(ii) Income tax relating to items that will not be reclassified to profit or loss 3.24 2.16 -0.19 5.41 -0.09 
+(iii) Items that will be reclassified to profit or loss 
+(iv) Income tax relating to items that will be reclassified to profit or loss 
+Total of Other Comprehensive Income -9.65 -6.29 0.46 -15.94 0.19 
+Attributable to: 
+Owners of the Parent Company -9.65 -6.29 -0.54 -15.94 -0.63 
+Non-Controlling Interests 1.01 0.00 0.82 
+IX. Total Comprehensive Income for the period (Vll+VIII) 816.99 176.51 1391.35 993.50 1462.60 
+Attributable to: 
+Owners of the Parent Company 816.99 176.51 1399.83 993.50 1527.37 
+Non-Controlling Interests -8.48 -64.77 
+X. Earning per equity share: 
+(Not annualised except for the year ended 31.03.2025) 
+(1) B ic ~) 1.54 0.39 4.35 1.88 3.56 
+(2) Dilu,te n ~) 1.53 0.41 4.35 1.86 3.56 
+For Mansaka Ravi & Ass 
+(Tapan Ghose) 
+Place : Navi Mumbai 
+Dated : November 14, 2025 Place: Navi Mumbai 
+Dated: November 14, 2025 
+(fin Lakhs) 
+For the Year 
+31 March, 2025 
+Audited 
+35064.67 
+190.26 
+35254.93 
+7079.23 
+17870.73 
+150.64 
+2235.55 
+541.04 
+302.27 
+3177.64 
+31357.11 
+3897.82 
+1089.18 
+3.41 
+-79.94 
+2885.18 
+2968.42 
+-83.24 
+3.40 
+-0.88 
+2.52 
+2.52 
+2887.70 
+2970.94 
+-83.24 
+6.92 
+6.74 
+PROSTARM INFO SYSTEMS LIMITED 
+Plot No .. EL 79, Electronic Zone, TTC, MIDC, Mahape, Navi Mumbai, Thane, Maharashtra, India, 400710 
+Email: cs@pProstarm.com, Website: www.prostarm.com, Tel: +91 22 45280500 
+Particulars 
+ASSETS 
+Non-Current Assets 
+(a) Property, Plant and Equipment 
+(b) Capital Work-in-Progress 
+(c) Investment Property 
+(d) Intangible Assets 
+(e) Right-of-Use Assets 
+(f) Financial Assets 
+(i) Investments 
+(ii)Other financial assets 
+(g) Deferred Tax Assets (Net) 
+(h) Other non-current assets 
+Total Non-Current Assets 
+Current Assets 
+(a) Inventories 
+(b) Financial Assets 
+(i) Trade receivables 
+(ii) Cash and cash equivalents 
+(iii) Bank balances other than (ii) above 
+(iv) Loans 
+(v) Others current financial assets 
+(c) Current Tax Asset (Net) 
+(d) Other Current Assets 
+Total Current Assets 
+Total Assets 
+EQUITY AND LIABILITIES 
+Equity 
+(a) Equity Share Capital 
+(b} Other Equity 
+CIN: L31900MH2008PLC368540 
+UNAUDITED CONSOLIDATED BALANCE SHEET AS AT 30 SEPTEMBER, 2025 
+Equity attributable to owners of the Parent Company 
+Non-Controlling Interest 
+Total Equity 
+LIABILITIES 
+Non-Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 
+(ii) Other financial liabilities 
+(b) Provisions 
+(c) Other Non-Current Liabilities 
+Total Non-Current Liabilities 
+Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 
+(ii) Trade payables 
+(a) total outstanding dues of micro enterprises and small enterprises; and 
+(b) total outstanding dues of creditors other than micro enterprises and small enterprises. 
+(iii) Other Financial Liabilities 
+(b) Other Current Liabilities 
+(c) 
+(d) iabilities (Net) 
+ilities 
+iabilities 
+of the Board of Directors of 
+Chairman an ing~ lr~ 
+DIN:· 01739231 _"."' ~ 
+Place : Navi Mumbai 
+Dated : November 14, 2025 
+As At 
+30-09-2025 
+Unaudited 
+1661.69 
+11.37 
+871.63 
+174.18 
+429.23 
+0.10 
+4931.97 
+261.18 
+34.76 
+8376.11 
+7053.62 
+10882.29 
+1378.69 
+0.00 
+2.55 
+4180.16 
+39.48 
+1879.62 
+25416.41 
+33792.52 
+5887.46 
+20514.30 
+26401.76 
+26401.76 
+103.20 
+1.88 
+194.57 
+0.00 
+299.65 
+1519.82 
+150.48 
+623.46 
+4322.66 
+230.09 
+170.79 
+73.81 
+0.00 
+7091.11 
+33792.52 
+PR@STAR M 
+(fin Lakhs) 
+31-03-2025 
+Audited 
+1591.25 
+287.38 
+191 .59 
+432.34 
+0.10 
+1562.23 
+263. 90 
+34.76 
+4363.56 
+5873.07 
+10740.75 
+62.77 
+197.98 
+51.82 
+758.36 
+8.07 
+1695. 70 
+19388.52 
+23752.09 
+4287.46 
+6098.13 
+10385.59 
+10385.59 
+338.60 
+2.00 
+146.67 
+487.27 
+6384.38 
+604.16 
+5168.67 
+180.01 
+263.15 
+58.48 
+220.38 
+12879.22 
+23752.09 
+PR@STARM 
+' 
+PROSTARM INFO SYSTEMS LIMITED 
+Plot No .. EL 79, Electronic Zone, TTC, MIDC, Mahape, Navi Mumbai, Thane, Maharashtra, India, 400710 
+Email: cs@pProstarm.com, Website: www.prostarm.com, Tel: +91 22 45280500 
+CIN: L31900MH2008PLC368540 
+UNAUDITED CONSOLI DA TED ST A TEMENT OF CASH FLOW FOR THE HALF VEAR ENDED 30 SEPTEMBER, 2025 
+Particulars 
+A Cash Flow From Operating Activities 
+Net Profit/ {Loss) Before Tax 
+Adjustments For : 
+Depreciation and Amortization Expense 
+Interest Expenses 
+Interest Income 
+Interest on Leased Liabilities 
+Unrealised Foreign Exchange {Gain)/Loss 
+Provision for Warranty 
+Misc Items Written Off 
+(Profit)/Loss on sale of Property, Plant & Equipment {PPE) 
+Expenses on share based payments to employees 
+Remeasurment of defined benefit plan 
+Operating Profit Before Working Capital Changes 
+Adjustments For : 
+Decrease/(lncrease) in other financial assets 
+Decrease/(lncrease) in other assets 
+Decrease/(lncrease) in Loans 
+Decrease/{lncrease) in inventories 
+Decrease/(lncrease) in trade receivables 
+(Decrease)/lncrease in Trade payables 
+(Decrease)/lncrease in other financial liabilities 
+(Decrease)/lncrease in other liabilites 
+Lease Rental Payments 
+Retirement Benefits Paid (Out of Provisions) 
+Warranty Expenses Actually Paid 
+Increase/Decrease in Provisions 
+Cash Generated From Operations 
+Less: Direct Taxes Paid net of refund (including TDS) 
+Net Cash flow From Operating Activities 
+B Cash Flow From Investing Activities 
+Addition in Property, Plant & Equipment [PPE] 
+(lncrease)/Decrease in CWIP 
+Addition to ROU Assets 
+Addition in Intangible Assets 
+Addition / Deletion in Investment Properties 
+Procees from Sale of PPE 
+Deposits (Net) 
+Interest Incomes 
+Cost of Acqusition of NCI Portion 
+Net Cash {Used) In/From Investing Activities 
+For the Half Vear Ended 
+30 Sept, 2025 
+Unaudited 
+1359.66 
+140.27 
+191 .80 
+-203.74 
+0.00 
+44.29 
+0.00 
+0.00 
+60.10 
+23.28 
+1615.66 
+-6791.53 
+6513.10 
+49.27 
+-1180.56 
+-141.54 
+-676.23 
+49.95 
+-92.35 
+-2.35 
+-23.33 
+0.00 
+-679.92 
+593.87 
+-1273.79 
+-184.19 
+-11 .37 
+-590.24 
+-6499.04 
+203.74 
+-7081.10 
+(fin Lakhs) 
+For the Vear Ended 
+31 March, 2025 
+Audited 
+3897.82 
+302.27 
+487.44 
+-97.36 
+0.17 
+-20.31 
+43.84 
+0.15 
+1.96 
+60.06 
+35.17 
+4711.22 
+-248.96 
+-1183.47 
+-1 .38 
+-19.15 
+-1710.46 
+-636.49 
+-52.52 
+1.63 
+-5.99 
+-3.47 
+-54.22 
+1.07 
+797.81 
+1121.09 
+-323.28 
+-1204.50 
+949.32 
+-9.90 
+-14.27 
+2.13 
+-222.80 
+97.36 
+-1159.00 
+-1561.65 
+Particulars 
+C Cash Flow From Financing Activities 
+Proceeds from Initial Public Offer (Net of IPO Expense) 
+(Decrease)/lncrease in Non-Current Borrowings 
+(Decrease)/lncrease in Current Borrowings 
+Interest paid on Borrowings 
+Net Cash (Used) In/From Financing Activities 
+D Net Change In Cash & Cash Equivalents(A+B+C) 
+E Cash & Cash Equivalents at beginning of the year 
+F Cash & Cash Equivalents at end of the year 
+Components of Cash & Cash Equivalents 
+Cash on Hand 
+In Term Deposits with maturity less than 3 months at inception 
+Balance with Banks in Current Accounts 
+Cheques, Drafts on Hand 
+PR@STAR M 
+For the Half Vear Ended For the Vear Ended 
+30 Sept, 2025 31 March, 2025 
+Unaudited Audited 
+14962.57 
+-235.40 -122.84 
+-4864.56 2504.68 
+-191.80 -487.44 
+9670.81 1894.40 
+1315.92 9.46 
+62-77 53.30 
+1378.69 62.77 
+30 Sept, 2025 31 March, 2025 
+16.56 13.82 
+1009.53 
+352.59 48.94 
+Note:1 The Statement of Cash Flows has been prepared under the "Indirect Method• as set out in Ind AS - 7 "Statement of Cash 
+Flows• 
+ehalf of the Board of Directors of 
+fo Systems Limited 
+(Tapan Ghose) 
+Chairman & Managing Director 
+DIN:- 01739231 
+Place : Navi Mumbai 
+Dated : November 14, 2025 
+For Mansaka Ravi & Associates 
+Chartered Accountants 
+FRN:015023C 
+(CAR~ 
+Partner 
+M.N. 410816 
+Place: Navi Mumbai 
+Dated: November 14, 2025 
+PR@STARM 
+PROSTARM INFO SYSTEMS LIMITED 
+Plot No. EL 79, Electronic Zone, TTC, MIDC, Mahape, Navi Mumbai, Thane, Maharashtra, India, 400710 
+Email: sales@Prostarm.com, Website: www.Prostarm.com, Tel: +91 22 49856522/26 
+CIN: L31900MH2008PLC368540 
+Notes to the Consolidated Financial Results 
+1. The above Unaudited Consolidated Financial Results have been reviewed by the Audit Committee 
+and approved by the Bord of Directors of the Company at their respective meeting held on 
+November 14, 2025 
+2. The Statutory Auditors of the Company have carried out the Limited Review of the above Unaudited 
+Consolidated financial results of the Company and have expressed an unmodified opinion on 
+these Results. 
+3. The above unaudited financial results have been prepared in accordance with the recognition and 
+measurement principles laid down in Indian ~ccounting Standard 34 (Ind AS 34) "Interim Financial 
+Reporting" specified under Section 133 of the Companies Act, 2013, as amended, read with 
+Companies (Indian Accounting Standards) Rules, 2015 and other accounting principles generally 
+accepted in India and in compliance with Regulation 33 of the Securities and Exchange Board of 
+India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (SEBI LODR), as 
+amended. 
+4. The Group operates as a single business segment based on its products and has one reportable 
+segment namely "Customized Power Electronic Solutions' products". Accordingly, in the context 
+of Ind AS 108 on operating segment reporting, are considered to constitute one segment by the 
+Chief Operating Decision Maker and the Group has not made any additional segment disclosures. 
+5. Previous year's/ period's figure have been regrouped/reclassified/ restated, wherever necessary 
+to confirm to classification of current year's/period's figures. 
+6. All the amounts included in the financial results are rounded off to the neareast lakhs, except per 
+share data and unless stated otherwise. Further, due to rounding off, certain amounts are 
+appearing as 'O'. 
+(Tapan 
+Chairman & Man 
+DIN: 01739231 
+Place: Navi Mumbai 
+Dated: 14th November, 2025 

@@ -1,0 +1,570 @@
+ 
+ 
+ 
+ 
+IGESL: NOI: 2025                                                                                                  14th November, 2025  
+ 
+ 
+The Secretary  
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street  
+Mumbai 400 001 
+ 
+The Secretary 
+National Stock Exchange of India Limited 
+Exchange Plaza, Bandra Kurla Complex 
+Bandra (E) 
+Mumbai 400 051 
+ 
+ 
+Scrip code:  543667  
+ 
+NSE Symbol:   INOXGREEN 
+ 
+ 
+Dear Sir/ Madam, 
+ 
+Sub: Disclosure of Material Event/ Information under Regulation 30 of SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 - Earnings 
+Presentation 
+ 
+Dear Sir/Madam, 
+ 
+Pursuant to the Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, please find enclosed a copy of the Earnings Presentation 
+on the Standalone and Consolidated Un-audited Financial Results of the Company for the quarter and 
+half year ended 30th September, 2025.  
+ 
+The said Earnings Presentation is also being uploaded on the Company's website, www.inoxgreen.com. 
+ 
+You are requested to take the above on record. 
+ 
+Thanking You  
+ 
+Yours faithfully, 
+For Inox Green Energy Services Limited 
+ 
+ 
+ 
+ 
+Anup Kumar Jain 
+Company Secretary  
+ 
+Encl: As above 
+ 
+ 
+ 
+ 
+1
+INOX GREEN ENERGY SERVICES LIMITED
+Q2 FY26 RESULTS PRESENTATION
+NOVEMBER 2025
+2
+SAFE HARBOUR
+This presentation and the accompanying slides (the “Presentation”), which have been prepared by Inox Green Limited (the “Company”), have been
+prepared solely for information purposes and do not constitute any offer, recommendation or invitation to purchase or subscribe for any securities,
+and shall not form the basis or be relied on in connection with any contract or binding commitment whatsoever. No offering of securities of the
+Company will be made except by means of a statutory offering document containing detailed information about the Company and in compliance with
+applicable SEBI Regulations.
+This Presentation has been prepared by the Company based on information and data which the Company considers reliable, but the Company makes
+no representation or warranty, express or implied, whatsoever, and no reliance shall be placed on, the truth, accuracy, completeness, fairness and
+reasonableness of the contents of this Presentation. This Presentation may not be all inclusive and may not contain all of the information that you
+may consider material. Any liability in respect of the contents of, or any omission from, this Presentation is expressly excluded.
+Certain matters discussed in this Presentation may contain statements regarding the Company’s market opportunity and business prospects that are
+individually and collectively forward-looking statements. Such forward-looking statements are not guarantees of future performance and are subject
+to known and unknown risks, uncertainties and assumptions that are difficult to predict. These risks and uncertainties include the effect of economic
+and political conditions in India, volatility in interest rates, new regulations and Government policies that may impact the Company’s business as well
+as its ability to implement the strategy, the Company’s future levels of growth and expansion, technological implementation, changes and
+advancements, changes in revenue, income or cash flows, the Company’s market preferences and its exposure to market risks, as well as other risks.
+The Company’s actual results, levels of activity, performance or achievements could differ materially and adversely from results expressed in or
+implied by this Presentation. The Company assumes no obligation to update any forward-looking information contained in this Presentation. Any
+forward-looking statements and projections made by third parties included in this Presentation are not adopted by the Company and the Company is
+not responsible for such third-party statements and projections.
+3
+CONTENTS 
+1. KEY HIGHLIGHTS OF THE QUARTER
+2. GROUP OVERVIEW
+3. INOX GREEN – RENEWABLE O&M 
+BUSINESS – STABILITY WITH GROWTH
+4. WIND SECTOR IN INDIA – A MULTI-
+DECADAL GROWTH STORY BOOSTED BY 
+DOMESTIC CONTENT REQUIREMENT
+5. KEY FINANCIALS
+
+4
+✓Best ever quarterly financial performance
+✓For the quarter, Inox Green reported:
+✓Total income of Rs 129.5 crores in Q2 FY26 vs Rs 64.4 crores in Q2 FY25, up 101 % YoY
+✓EBIDTA of Rs 52.2 crores in Q2 FY26, vs Rs 34.4 crores in Q2 FY25, up 52 % YoY
+✓Profit after tax of Rs 28.1 crores in Q2 FY26 vs Rs 6.1 crore in Q2 FY25, up 363 % YoY . 
+✓Cash PAT of Rs 50.9 crores in Q2 FY26 vs Rs 23.1 crores in Q2 FY25, up 121 % YoY
+✓Machine availability for the portfolio improves to 96.3% in Q2 FY26
+✓Inox Green on track to become the largest Indian RE O&M company
+✓Completes investments to acquire 6.5 GW of wind O&M assets taking its O&M portfolio to ~ 12.5 GW; numbers to consolidate intothe 
+P&L in FY27; profitability for FY27 to grow manifold over FY26
+✓Scheme of demerger of substation business from Inox Green and subsequent merger into Inox Renewable Solutions receives approval 
+from shareholders and creditors; this will result in elimination of depreciation resulting in higher profitability
+KEY HIGHLIGHTS
+Particulars (Rs cr) Q2 FY26 Q2 FY25 YoY % H1 FY26 H1 FY25 YoY %
+Total income 129.5 64.4 101% 227.3 119.1 91%
+EBITDA 52.2 34.4 52% 99.9 64.0 56%
+Profit before tax 40.9 9.7 323% 73.9 11.5 545%
+Profit after tax 28.1 6.1 363% 50.5 10.2 394%
+Cash PAT* 50.9 23.1 121% 94.7 38.1 149%
+* Cash PAT = PAT + Depreciation + Deferred Taxes
+5
+GROUP OVERVIEW
+6
+INOXGFL Group, with a legacy of over nine decades, is a multi-billion-dollar Indian conglomerate with three listed entities. Being one of the 
+leaders in energy transition, the Group is a forerunner in diversified business segments spanning fluoropolymers, fluorochemicals, battery 
+chemicals, wind turbines, solar modules and renewable power generation. 
+Chemicals
+Gujarat Fluorochemicals Ltd. is a leading Indian Chemicals Company 
+supplying fluoropolymers and fluorochemicals to the global market. 
+It is the only PTFE / fluoropolymer manufacturer in India. The 
+company is developing products / grades across segments catering 
+to new age businesses, including EVs, BESS & green hydrogen
+Inox Wind is one of the leading fully integrated player in the wind 
+energy market in India providing end-to-end turnkey solutions to 
+customers. Its current offerings include manufacturing and supplies 
+of 2MW & 3MW class WTGs, EPC & infrastructure development 
+(through subsidiary IRSL) and O&M (through subsidiary Inox Green)
+Renewables
+INOXGFL GROUP – A MULTI-BILLION-DOLLAR INDIAN CONGLOMERATE
+• Battery materials company, 
+a subsidiary of GFL
+• Catering to the EV/ESS 
+ecosystem through Battery 
+Salts, Additives, 
+Electrolytes, CAM & 
+Cathode Binders
+Subsidiary of GFL providing 
+fluoropolymer solutions for 
+the entire solar and green 
+hydrogen value chain, 
+including proton exchange 
+membranes for 
+electrolyzers and fuel cells
+Subsidiary of IWL; India's
+leading renewable O&M
+services player with ~ 12.5
+GW* of assets under
+management. Inox Green is
+India’s only listed pure-play
+renewable O&M service
+company.
+6
+Subsidiary of IWL (formerly
+Resco Global) offering a
+host of EPC services –
+resource assessment, site
+acquisition, project &
+evacuation infra
+development, erection and
+commissioning of WTGs
+and modules, cranes and
+transformer manufacturing
+Inox Neo is a RE
+power generation
+platform targeting 10
+GW of hybrid RE
+capacity – wind +
+solar + BESS – within
+the next 2-3 years
+Inox Solar is a fully
+integrated solar
+manufacturing player
+targeting 7.5 GW of
+solar cell & module
+manufacturing
+capacity
+#
+#
+#
+# Company listed on the Indian stock exchanges
+* includes investment already made by Inox Green to acquire 6.5 GW of wind O&M assets
+Inox Clean is the holding company of Inox Neo Energies, 
+the RE IPP, and Inox Solar, the solar cell & module 
+manufacturing entity
+
+7
+INOXGFL Group has one of the most integrated presence across the energy transition value chain
+Manufacturing
+RE Power Purchase 
+RE Independent Power Producer
+Services
+INOXGFL GROUP – LEADERS IN ENERGY TRANSITION
+8
+INOX GREEN – RENEWABLE O&M BUSINESS – STABILITY WITH GROWTH
+9
+A GROWTH-ORIENTED ANNUITY BUSINESS PROPOSITION
+Reliable & Stable Cash Flows 
+through long-term O&M services 
+for wind farm projects
+Established track 
+record in the wind 
+energy O&M industry 
+of >10 years
+Significant organic and 
+inorganic growth 
+opportunities across wind, 
+solar and hybrid projects
+Strong support from sponsor, 
+INOXGFL Group, a multi-billion 
+dollar Indian conglomerate with 
+deep interests across chemicals 
+and renewables 
+Comprehensive O&M 
+Solutions Provider for WTGs, 
+solar and common 
+infrastructure for renewable 
+power projects
+Enjoys synergistic benefits 
+being a subsidiary of Inox 
+Wind Ltd. and Group 
+company Inox Clean Energy
+Technology driven 
+company with focus on 
+predictive maintenance 
+over reactive maintenance
+Machine availability at 96.3% 
+for Q2 FY26 registering a 
+continuous improvement over 
+the past years
+10
+A COMPELLING GROWTH STORY
+✓ Provides comprehensive O&M Solutions for WTGs, solar & hybrid 
+projects as well as for the common infrastructure for renewable projects 
+through long-term contracts of 5-20 years
+✓ Presence across India with an established track record of > 10 years 
+✓ Portfolio of ~12.5 GW* of renewable O&M assets including ~ 10 GW* 
+wind and ~ 2.5 GW solar
+✓ Robust relationships with renewable asset owners – customers include 
+PSUs, IPPs and private investors
+✓ Reliable & stable cash flows through long-term O&M services for 
+renewable projects as well as value added services
+✓ Natural beneficiary of the WTG business of parent Inox Wind, hybrid 
+project development by Inox Clean Energy’s IPP arm and solar project 
+development by Inox Solar 
+✓ Strong technological capabilities with 24x7 centralized monitoring of 
+assets and focus on preventive rather than reactive maintenance
+✓ Value-added services, which includes refurbishment, booster sales, 
+carbon credit trading, amongst other offerings, is a high growth vertical
+✓ ESG compliant; independently assured by EY; participated in S&P’s CSA 
+2024
+Inox Green’s 12.5 GW* O&M portfolio is 
+spread across 12 key renewable states of India
+Wind + Solar assets
+Solar assets
+Wind assetsMap not to scale
+* includes investment already made by Inox Green to acquire 6.5 GW of wind O&M assets
+11
+PORTFOLIO OF ~ 12.5 GW* OF O&M ASSETS
+Key Metrics
+Strong growth in O&M portfolio since inception 
+4 5 61 32
+~12.5 GW*
+Current 
+Portfolio
+Multi-year residual 
+duration of the O&M 
+contracts 
+3.2 GW
+Net Order Book of 
+IWL
+Rs 100 cr
+H1 FY26 EBITDA
+Rs 227 cr
+H1 FY26 Revenue
+Upto 25 years
+Tenor of O&M 
+contracts 
+0.09
+1.1
+2.4 2.8
+12.5
+2013 2016 2019 2022 2025
+* includes investment already made by Inox Green to acquire 6.5 GW of wind O&M assets
+*
+Portfolio in GW
+12
+AN ASSET-LIGHT GROWTH-ORIENTED ANNUITY BUSINESS MODEL
+Scope of contracts include both comprehensive 
+O&M and common infrastructure O&M
+Annual Maintenance Contract 
+Semi-Comprehensive Operations & Maintenance Contract
+Annual Operations & Maintenance Contract 
+Comprehensive Operations & Maintenance Contract
+Demerger to lighten up balance sheet; Focus is on 
+long-term contracts with steady cashflows
+24x7 centralized 
+monitoring of assets
+Upgradation to SAP 
+HANA in progress
+Development of 
+mobile-based O&M 
+management tool
+SCADA analysis
+Performance analysis 
+& improvement
+Digital Transformation Initiatives of Inox Green
+Inox Green provides Long-term O&M services for wind 
+farm projects, wind turbine generators (“WTGs”) and the 
+common infrastructure facilities on the wind farm which 
+support the evacuation of power from WTGs.
+The board of Inox Green approved the scheme of 
+demerger of common infrastructure from Inox Green and 
+merger of the same into Inox Renewable Solutions Ltd.
+Post the board approval, the scheme has received ‘no 
+objection’ from the stock exchanges and approvals from 
+shareholders & creditors.
+The scheme is being filed in the NCLT for its approval.
+Post the NCLT approval, the common infrastructure will 
+be demerged from Inox Green and merged into IRSL, 
+leading to the consequential listing of IRSL and a cleaner 
+and an asset-light balance sheet for Inox Green. 
+The demerger will also eliminate the associated 
+depreciation in the income statement to be reflected in 
+higher profit after tax for Inox Green.
+13
+Organic growth opportunities
+Inorganic growth opportunities
+Customers across the board are looking for a switchover to a strong, credible, renowned and Indian O&M service provider . At 
+Inox Green, we are well placed to capture this opportunity going forward.
+Multiple opportunities to takeover O&M portfolios of large IPPs / developers who are currently managing majority of their 
+portfolio captively.
+Opportunities to enter into contracts with customers for projects where the existing contracts may have expired / are on the 
+verge of expiring.
+Growing the portfolio through new long-term O&M contracts with customers purchasing IWL’s WTGs – IWL’s order book of ~ 3.1 GW 
+provides a very strong visibility.
+Group’s foray into solar to add large scale solar project O&M to Inox Green’s portfolio; Inox Green has entered into exclusive arrangement 
+with Inox Solar to provide O&M services to projects where Inox Solar will be supplying modules
+O&M contracts from group IPP platform, which targets > 3 GW of installed capacity addition annually, to add to the growing portfolio.
+Revision/Reset of existing O&M contracts.
+Value added services to contribute meaningfully to the topline.
+GROWTH STRATEGY – ON TRACK TO BECOME THE LARGEST INDIAN O&M COMPANY
+14
+ESG FRAMEWORK
+Global Reporting Initiative Standard Business Responsibility  & 
+Sustainability Reporting
+Policy Structure & Certifications
+• Environment & Energy as part of IMS
+• ISO 14001:2015:- Environment Management 
+System
+• Reducing emissions, water usage and waste 
+generation
+• Guidelines on Human Rights 
+• Corporate Social Responsibility Policy
+• Occupational Health & Safety
+• Equal Employment Opportunity
+• Stakeholder engagement
+• Board Diversity 
+• Code of Conduct 
+• Related Party Transaction Policy
+• Whistle Blower Policy
+• Data Policy
+Environment
+Social 
+Governance
+Scope 1 emissions
+Includes: Use of diesel
+Total: 1009 tons CO2 equivalent
+Reduction measures: Replacing diesel with greener 
+fuels like CNG or use Electric Vehicles
+Sources of emissions
+Scope 2 emissions
+Includes: Purchased electricity
+Total: 93 tons CO2 equivalent
+Reduction measures: Using green energy for our 
+business requirements
+Scope 3 emissions
+Includes: Purchased goods and services, capital 
+goods, fuel and energy related activities, waste 
+generated
+Total: 456 tons CO2 equivalent
+Reduction measures: Purchasing goods with least 
+carbon footprint
+15
+WIND SECTOR IN INDIA – A MULTI-DECADAL GROWTH STORY BOOSTED BY 
+FAVORABLE POLICY & REGULATORY ENVIRONMENT
+16
+INDIA WIND SECTOR – A MULTI-DECADAL GROWTH STORY
+Sources: CEA, SECI, MNRE, NIWE, GWEC, NITI Aayog, PIB, National Green Hydrogen Mission , JMK Research
+• India targets 122 GW of installed wind capacity from 53 GW currently  – provides visibility of > Rs 5 trn for wind OEMs 
+and a large multi-year opportunity for O&M service providers
+• Demand from commercial & industrial (C&I) players for renewable power continues to be strong due to its green 
+credentials and price arbitrage w.r.t. grid based / merchant power.
+• India’s Green Hydrogen targets of 5 mmtpa may result in incremental ~ 125 GW of RE capacity addition (solar + wind)
+• Wind continues to be one of the cheapest sources of power, much lower than APPC
+• Wind’s complementarity to solar in Indian conditions makes it an important source for grid stabilization and higher grid 
+utilization 
+• Hybrid / RTC / FDRE projects, with significant proportion of wind capacity, is the way forward due to: 1. Higher project 
+PLFs, 2. Increased grid utilization & stability, 3. Round-the-clock generation potentially replacing conventional sources for 
+base power supply, 4. Lower LCoE and better IRRs for project developers
+• GST on wind components reduced from 12% to 5%
+• MNRE notifies ALMM (Wind) and ALMM (Wind Turbine Components) mandating domestic sourcing of ~75-80% of WTG 
+components including blades, towers, gearbox, generators and special bearings, as well as locating R&D, data centers & 
+servers within India
+• CERC has notified amendments to connectivity and GNA regulations for ISTS, allowing hybridization of existing solar and 
+wind transmission projects with capacity upwards of 50 MW.
+• India’s onshore wind potential stands at 695 GW at 120m hub height and 1,164 GW at 150m hub height
+• NIWE estimates India’s repowering potential at ~ 25 GW across multiple states
+• India has announced a VGF scheme for setting up 1 GW of offshore wind capacity with ~ Rs 7,500 crore outlay
+Economics & 
+complementarity to 
+solar to aid demand 
+for wind
+Large capacity 
+targets leading to 
+demand growth
+Immense potential 
+for wind capacity 
+addition in India
+Favorable policy 
+environment
+17
+INDIA WIND SECTOR – FAVORABLE MACRO ENVIRONMENT
+~8.3 GW
+RE capacity 
+Awarded in 
+7MFY26
+800 MWWind
+3,086 MW wind capacity was added in H1 FY26; All-India RE capacity (including large hydro of 50GW) reached ~ 247 GW by Sep’25
+24.8 GW RE capacity was added in H1 FY26 Break up of India’s RE capacity (ex-large hydro) of ~ 197 GW as of  Sep’25
+Out of ~ 8.3 GW renewables capacity awarded through tenders 
+in Apr-Oct’26, ~ 3 GW comprised of wind / FDRE projects
+India targets to reach 596 GW of RE capacity by 2032
+Sources: CEA, SECI, PIB, JMK Research
+2170 MWFDRE
+350 MWSolar
+5000 MW
+Solar + 
+ESS
+Wind Power, 
+3,086 MW
+Solar Power, 
+21,686 MW
+Small Hydro 
+Power, 33 MW
+Others, 28 
+MW
+Wind Power, 
+53,124 MW
+Solar Power, 
+1,27,332 MW
+Small Hydro 
+Power, 5,134 MW
+Others, 11,612 
+MW
+18
+KEY FINANCIALS
+19
+KEY FINANCIALS - CONSOLIDATED INCOME STATEMENT
+Particulars (Rs cr) Q2 FY26 Q1 FY26 Q2 FY25
+(a) Revenue from operation (net of taxes) 85.9 56.2 55.2
+(b) Other Income 43.6 41.6 9.2
+Total Income from operations (net) 129.5 97.8 64.4
+Expenses
+(a) EPC, O&M, Common infrastructure facility  expenses 53.2 28.1 17.8
+(b) Purchases of stock-in-trade - - -
+(c) Changes in inventories - - -
+(d) Employee benefits expense 14.6 12.9 11.0
+(e) Finance costs 1.2 3.6 4.7
+(f) Depreciation and amortization expense 10.1 11.1 13.4
+(g) Other expenses 9.5 9.0 7.8
+Total Expenses (a to g) 88.6 64.8 54.7
+Profit/(Loss) before & tax  40.9 33.0 9.7
+- Current Tax 0.1 0.3 -
+- Deferred Tax 12.7 10.4 3.6
+Total Provision for Taxation  12.8 10.6 3.6
+Profit/(Loss) after tax from continuing operations  28.1 22.4 6.1
+Profit/(loss) after tax for the period 28.1 22.4 6.1
+EBITDA including discontinued operations 52.2 47.7 34.4
+Cash PAT 50.9 43.8 23.1
+* Cash PAT = PAT + Depreciation + Deferred Taxes
+20
+KEY FINANCIALS - CONSOLIDATED BALANCE SHEET
+Particulars (Rs cr) As at 
+30 September, 2025
+As at 
+31 March, 2025
+ASSETS 
+(1 ) Non-current assets
+(a) Property, Plant and Equipment 675 694
+(b)  Capital work-in-progress 7 7
+(c) Goodwill 10 10
+(c) Intangible assets  0 0
+(i) Investments 285 265
+(ii) Loans 0 0
+(i) Other non- current financial assets 374 414
+(e) Deferred  tax assets (Net) 70 80
+(f) Income tax assets (net) 10 9
+(g) Other non-current assets 2 2
+Total Non - Current Assets (I) 1433 1482
+(2) Current assets 
+(a) Inventories 94 97
+(b) Financial Assets 
+(i) Investments 201 181
+(ii) Trade receivables 234 180
+(iii) Cash and cash equivalents 18 6
+(iv) Bank Balances other than (iii) above 45 42
+(v) Loans 274 364
+(vi)  Other current financial assets 121 105
+(c) Income tax assets (net) 0 0
+(d) Other current assets 46 31
+(e) Assets classified as held for sale 0 0
+Total Current Assets (II) 1032 1005
+Total Assets (I+II) 2466 2487
+Particulars (Rs cr) As at 
+30 September, 2025
+As at 
+31 March, 2025
+EQUITY AND LIABILITIES
+Equity 
+(a) Equity Share capital 367 367
+(b)  Investments entirely equity in nature 0 0
+(c)  Other Equity 1500 1448
+(d)  Money received against share warrants 152 152
+(e) Non Controlling Interest 7 7
+Total equity (I) 2027 1974
+Liabilities
+Non-current liabilities
+(a) Financial Liabilities
+(i) Borrowings 0 0
+(ii) Other non-current  financial liabilities 0 0
+(b) Provisions 3 3
+(c) Other non-current liabilities 204 211
+(d) Deferred tax liabilities 15 0
+Total Non - Current Liabilities (II) 222 215
+Current liabilities
+(a) Financial Liabilities
+(i) Borrowings 95 181
+(ia) Lease liabilities 0 0
+(ii) Trade payables
+a) total outstanding dues of MSMEs 0 0
+b) total outstanding dues of creditors other than MSMEs 68 55
+(iii) Other current  financial liabilities 11 13
+(b) Other current liabilities 42 47
+(c) Provisions 0 0
+(d) Current Tax Liabilities (Net) 0 1
+(e)Liabilities classified as held for sale 0 0
+Total Current Liabilities (III) 216 298
+Total Equity and Liabilities (I+II+III) 2466 2487
+21
+ 21
+THANK YOU
+This presentation and the related discussions may contain “forward looking statements” by Inox Green Energy Services Limited (“Inox Green” or “the Company”) that are not historical in nature. These forward looking statements, 
+which may include statements relating to future state of affairs, results of operations, financial condition, business prospe cts, plans and objectives, are based on the current beliefs, assumptions, expectations, estimates, and 
+projections of the management of Inox Green about the business, industry and markets in which Inox Green operates.
+These statements are not guarantees of future performance, and are subject to known and unknown risks, uncertainties, and oth er factors, some of which are beyond Inox Green’s control and difficult to predict, that could cause 
+actual results, performance or achievements to differ materially from those in the forward looking statements.
+Such statements are not, and should not be construed, as a representation as to future performance or achievements of Inox Gr een. In particular, such statements should not be regarded as a projection of future performance of 
+Inox Green. It should be noted that the actual performance or achievements of Inox Green may vary significantly from such sta tements.
+Accordingly, this presentation is subject to disclaimer and qualified in its entirety, by assumptions and qualifications and therefore, the readers and participants are cautioned not to place undue reliance on forward looking 
+statements as a number of factors could cause assumptions, actual future results and events can differ materially from those expressed in the forward looking statements.
+Follow us on 
+Social Media:
+Investor Relations
+Contact No: +91 120 614 9600 
+Email : investor@inoxgreen.com

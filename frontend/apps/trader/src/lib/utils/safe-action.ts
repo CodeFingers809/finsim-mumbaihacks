@@ -1,25 +1,13 @@
+import { auth } from "@clerk/nextjs/server";
 import { NextResponse } from "next/server";
 
-/**
- * Mock authentication utility
- * In production, replace with actual authentication (NextAuth, Clerk, etc.)
- */
-
-/**
- * Get the current authenticated user ID
- * This is a simplified mock implementation
- */
-export function getCurrentUserId(): string | null {
-    // In production, this would check session/JWT/cookies
-    // For now, return a mock user ID
-    return "demo_user_123";
+export async function getCurrentUserId(): Promise<string | null> {
+    const { userId } = await auth();
+    return userId ?? null;
 }
 
-/**
- * Verify if user is authenticated
- */
-export function isAuthenticated(): boolean {
-    const userId = getCurrentUserId();
+export async function isAuthenticated(): Promise<boolean> {
+    const userId = await getCurrentUserId();
     return userId !== null;
 }
 
@@ -32,8 +20,7 @@ export async function withAuth(
     handler: (userId: string) => Promise<NextResponse>
 ): Promise<NextResponse> {
     try {
-        // Check authentication
-        const userId = getCurrentUserId();
+        const userId = await getCurrentUserId();
 
         if (!userId) {
             return NextResponse.json(

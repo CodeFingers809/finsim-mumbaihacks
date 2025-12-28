@@ -1,0 +1,539 @@
+301, 3rd Floor, Naman Chambers, G Block, Plot No- C-32, Bandra Kurla Complex, Bandra East, Mumbai- 400051 
+Tel: 91 22 6944 8400/8500| CIN – L74120MH2012PLC230380 | Email: info@nsdl.co.in | Web: nsdl.co.in 
+ 
+ 
+NSDL/AF/BSE/2025/034  Date: November 18, 2025 
+To,  
+Listing Compliance Department 
+BSE Limited, 
+Phiroze Jeejeebhoy Towers 
+Dalal Street 
+Mumbai 400 001 
+Dear Sir/Madam, 
+Scrip Code: 544467    ISIN: INE301O01023 
+Sub.:  Transcript for Conference Call held on November 13, 2025, for Q2(2025-26) 
+Results 
+Ref.: Regulation 30 of the Securities and Exchange Board of India (Listing 
+Obligations & Disclosure Requirements) Regulations, 2015. 
+With reference to our intimation dated November 06, 2025, and November 13, 2025 , 
+regarding schedule of Conference Call held on Thursday, November 13, 2025, organised 
+by ICICI Securities for Q 2 (2025-26) Results, please find attached the transcript of the 
+mentioned Conference Call. 
+The said information is also available on the website of the Company – https://nsdl.co.in/  
+We request you to kindly take the same on record. 
+Thanking you, 
+Yours faithfully, 
+For National Securities Depository Limited 
+Alen Ferns 
+Company Secretary & Compliance Officer 
+Membership No. A30633 
+Encl: as above 
+P age 1 of 14 
+“N
+ational Securities Depository Limited Q2 FY’26 
+Earnings Conference Call” 
+November 13, 2025 
+MANAGEMENT: MR. VIJAY CHANDOK – MANAGING DIRECTOR & 
+CHIEF EXECUTIVE OFFICER 
+MR. JIGAR SHAH – CHIEF FINANCIAL OFFICER 
+MR. PRASHANT VAGAL – CHIEF OPERATING OFFICER 
+MR. SAMEER PATIL – CHIEF BUSINESS OFFICER 
+MR. KOTHANDARAMAN PRABHAKARAN – CHIEF 
+TECHNOLOGY OFFICER 
+MR. VISHAL GUPTA – DEPUTY CHIEF TECHNOLOGY 
+OFFICER 
+MR. YASH GYANANI – CHIEF REGULATORY OFFICER 
+MR. ABHIJIT KAMALAPURKAR – MANAGING 
+DIRECTOR & CHIEF EXECUTIVE OFFICER, NSDL 
+PAYMENTS BANK 
+MR. SAMEER GUPTE – MANAGING DIRECTOR & CHIEF 
+EXECUTIVE OFFICER, NSDL DATABASE 
+MANAGEMENT 
+MODERATOR: MR. ANSUMAN DEB – ICICI SECURITIES LIMITED 
+
+N ational Securities Depository Limited 
+November 13, 2025 
+P age 2 of 14 
+ 
+ 
+Moderator: Ladies and gentlemen, good day, and welcome to the Q2 FY '26 results of National Securities 
+Depository Limited or NSDL, hosted by ICICI Securities Limited. 
+As a reminder , all participants’  lines will be in the listen -only mode  and t here will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need assistance 
+during the conference call, please signal an operator by pressing ‘*’ and then ‘0’ on your 
+touchtone phone. Please note that this conference is being recorded. 
+I now hand the conference over to Mr. Ansuman Deb from ICICI Securities Limited. Thank you 
+and over to you, sir. 
+Ansuman Deb: Good evening, ladies and gentlemen. It's a privilege to host the Senior Management of National 
+Securities Depository Limited. From the Management, we have Mr. Vijay Chandok – Managing 
+Director and Chief Executive Officer ; Jigar Shah – Chief Financial Officer; Prashant Vagal – 
+Chief Operating Officer; Sameer Patil – Chief Business Officer; Kothandaraman Prabhakaran – 
+Chief Technology Officer; Vishal Gupta – Deputy Chief Technology Officer; Yash Gyanani – 
+Chief Regulatory Officer; Abhijit Kamalapurkar – MD & CEO, NSDL Payments Bank; Sameer 
+Gupte – MD & CEO, NSDL Database Management. 
+I now hand over the call to Mr. Vijay Chandok, MD & CEO. Over to you, sir. 
+Vijay Chandok: Thank you very much, Ansuman . Very good evening to everyone and a warm welcome to all 
+the shareholders, investors and analysts who are joining this call today. I truly appreciate the 
+continued trust and support that all of you, along with now 8.31 lakh valued shareholders have 
+placed with us. Today, I am going to take you through the progress of our business for the quarter 
+ended 30th September 2025. 
+So, let me start what happened in this quarter , talking a little bit about the market trends. So, 
+market saw some very interesting divergent trends. When it comes to incremental DEMAT 
+accounts, which is an important input to our business, the industry actually saw a de -growth of 
+almost 40%, 39% to be precise, with additions on an incremental run rate basis , with additions 
+coming in at 14.62 million in the half -year ended 2026.  This compared with 24.05 million in 
+half year 2025. 
+When we talk about ADTO in cash segment, we saw that the momentum of growth was there, 
+but it was quite moderate. It was moderate at about 8.9% and stood at INR 66.3 trillion in the 
+quarter ended FY 2026. This was after experiencing a slowdown in the first quarter. However, 
+divergent to this, the primary market showed a robust growth in terms of total capital raised in 
+H1, and the total amount of capital raised in H1 FY 2026 was 710.9 billion through 188 IPOs as 
+compared to 561.2 billion in the correspondin g half year last year through about 186 IPOs.  So, 
+while there was some moderation and slowdown when it comes to DEMAT accounts and when 
+it comes to the ADTOs in cash segment, the primary market growth was quite robust. 
+N ational Securities Depository Limited 
+November 13, 2025 
+P age 3 of 14 
+ 
+ 
+Well, the financial services ecosystem in India continues to deepen with strong domestic 
+participation, increasing investor awareness and increasing formalization and savings. NSDL as 
+a key market infrastructure institution has continued to play a central role in this transformation, 
+and we are proud to serve as India's largest depository, a position built on trust, tech resilience 
+and transparency. 
+Now, coming to specifically NSDL, I will talk about our operational performance first.  During 
+the quarter, our operational performance remained strong. The total number of  DEMAT 
+accounts for NSDL crossed 4 crores and stood at 4.19 million as at September 30, 2025, with an 
+incremental run rate of 4.9% and this contrasted with the industry which showed a degrowth of 
+about 39% on incremental run rate. As a result of this, our incremental market share in DEMAT 
+account additions during Quarter 2 stands at 17.6%, which is a sharp rise from 9.9% in the same 
+period last year.  So, we have seen an improvement of 770 basis points in the retail  DEMAT 
+account incremental market share in the current quarter.  
+In the Unlisted Issuer Equity segment, our leadership strengthened further with a market share 
+of 73% and over 11,500 companies were admitted on the NSDL network during that quarter , 
+and a milestone that we crossed as at September 30, 2025 is that we had more than 1 lakh issuers 
+onboarded on us. This reflects the trust placed by issuers on our platform and the deep 
+engagement that we have established across the corporate ecosystems. 
+Well, our focus on technology and process innovation continues to be the cornerstone of our 
+growth, and several key digital initiatives were rolled out in the recent past, and I will talk only 
+about a few of them. So, we successfully migrated to the common contract note regime on our 
+platform called STEADY. We also integrated the proxy advisory recommendations within the 
+e-voting system specifically targeted at the retail investors.
+We launched the enhanced SPEED -e application, which offers a consolidated view across the 
+securities on the app. We also did a successful implementation of the direct payout settlement 
+of securities earlier in the year. 
+We also remain deeply committed to investor protection and financial literacy , and in this 
+connection, our joint awareness campaign with SEBI under the hashtag " Raho Digitally 
+Chaukanna" theme reached more than 79 million investors across India, and in multiple formats, 
+in multiple languages , and we continue to conduct over 2,500 investor awareness programs 
+annually, reaching out to about 1.56 lakh participants across Tier -1, Tier-2, Tier-3, Tier-4 and 
+Tier-5 cities. 
+We continue to service our investors with our monthly newsletters called Financial 
+Kaleidoscope. We also roll out our digital outreach programs like regular W hatsApp targeted 
+campaigns helping investors reclaim their unclaimed dividend shares, appoint nominees, update 
+KYCs for frozen accounts and so on and so forth, basically all aimed at building trust, improving 
+N ational Securities Depository Limited 
+November 13, 2025 
+P age 4 of 14 
+PUBLIC 
+ 
+customer experience and improving participation in the market , in the right way. The monthly 
+campaigns that we did were done in 8 regional languages, which also broadened our reach.  
+Now I will come to the financial side of our output: 
+On the financial front, NSDL delivered another quarter of strong and consistent performance , 
+and I will talk now about Quarter 2 FY '26 on a standalone basis first, and then a consol. 
+So, on a standalone basis, total income for the NSDL depository stood at 250.6 crore compared 
+to 210.8 crore last year in the corresponding Quarter 2  of FY '25. So, this increased by 18.9% 
+on a Y-o-Y basis, and on a sequential basis 31.6%. 
+Coming to profit after tax: 
+Profit after tax stood at INR 120.4 crore for Quarter 2, up by about 18.3% on a Y-o-Y basis, and 
+on a sequential basis it increased by 45.7%. This included however dividend that we received 
+from our subsidiary and ex-dividend it grew by 23.6%. 
+So, now I will talk about the consol numbers of NSDL which includes our 2 subsidiaries added. 
+The total income for Quarter 2 stood at INR 432.2 crore compared to INR 385.3 crore last year 
+in the same period increasing by 12.2% on a Y-o-Y basis. The profit after tax stood at INR 110.3 
+crores increasing by 14.7% on a Y-o-Y basis and on a sequential basis by 23%. 
+I will now talk very briefly about the numbers for the half year: 
+For the half year ending September 30, 2025 the total income stood at INR 779 crore, reflecting 
+the scale and sustainability and our profit stood at INR 200 crore for the half year ended 
+September increasing by 14.9% on a Y-o-Y basis. 
+Coming now to technology: 
+Our spend on technology revolves around improvement in cyber security and technology 
+resilience as the first area of focus ; capacity enhancement as the second ; improving customer 
+experience as the third; and increasing automation in our processes and systems as the fourth. 
+Looking ahead, we also see 4 key areas of focus for the company to drive strategy. One is 
+deepening retail investor participation through improving digital onboarding experiences, 
+investor awareness and also focusing on acquiring new age brokers as our depository 
+participants. Second is to leverage technology for operational excellence, improve customer 
+service, customer experience and build trust through cyber security and tech resilience. The third 
+one being supporting new and ongoing regulatory initiatives of SEBI and some of the ongoing 
+ones that I will talk about, couple of them, is the nomination options which is now coming for 
+up to 10 nominations per  DEMAT account, which is getting operationalized shortly. Also 
+N ational Securities Depository Limited 
+November 13, 2025 
+P age 5 of 14 
+PUBLIC 
+ 
+introduction of systematic transfer plan and systematic withdrawal plan in  DEMAT form for 
+mutual funds, which is also expected to come soon. The unified investor app phase 2 where 
+mutual fund folios in the account statement and information of open position and margin details 
+are available is also something that is there shortly. 
+Under ease of business, we have recently launched a CAF platform, which is a unified platform 
+for registering both FPI and FVCI. The whole idea is to simplify and speed up the whole process 
+of onboarding. And lastly, it is driving value through our subsidiaries, particularly through the 
+payments bank. 
+Our business model, as you all know, is inherently a capitalized business model, cash generating 
+ability with strong operating margin and kind of a leverage position with strong operating margin 
+leverage and well-positioned to benefit from the structural expansion of Indian capital markets. 
+We are seeing strong tailwinds of domestic participation as we move forward. We see 
+macroeconomic stability, and we see continued digital transformation providing a very strong 
+foundation for sustainable long-term growth. 
+Before I hand over the call now to our CFO, I would once again like to express my gratitude to 
+all our esteemed stakeholders, regulators and our dear staff and employees for their continued 
+commitment and support in our journey of nation building. 
+Thank you from my side, and I will hand it over to Jigar Shah, our CFO. 
+Jigar Shah: Good evening, everyone, and thank you Vijay.  Let me now take you through the standalone 
+consolidated financial highlights briefly for the quarter ended 30th September 2025, and the first 
+half year FY '26.  
+On a standalone basis, revenue from operations for Quarter 2  FY '26 stood at INR 204.2 crore, 
+a growth of 20.7% on a year -on-year basis and 26.8% sequentially.  Total income, we have 
+registered a growth of 18.9% on year -on-year basis from INR 210.8 crore to INR 250.6 crore. 
+And on a sequential basis, we have registered a growth of 31.6%. Excluding dividend which we 
+have received from our subsidiary NDML, our growth stands on sequential basis at 22%. 
+Our EBITDA margin for the current quarter stands at 64.1% and excluding dividend it stands at 
+61.3%. Our EBITDA for Quarter 2  FY '26 is at  INR 160.7 crore. Our net profit after tax for 
+Quarter 2 FY '26 grew by 18.3% on a year -on-year basis and 45.7% sequentially to INR 120.4 
+crore. Excluding dividend, sequentially it stands at 23.6% respectively. Our PAT margins remain 
+stable at 44% excluding dividend for the current quarter. 
+I would like to share a brief update for the first half of FY '26 on standalone highlights: 
+N ational Securities Depository Limited 
+November 13, 2025 
+P age 6 of 14 
+ 
+ 
+Total income stood at INR 441.0 crore at a growth of 20.1% on a Y-o-Y basis. Profit after tax 
+for H1 stood at INR 203 crore up by 20.6%. Net worth on standalone basis stands at INR 1970.9 
+crore. 
+I am pleased to update, we have crossed 3 million customers in one of our subsidiaries, NSDL 
+Payments Bank with customer deposit crossing INR 400 crores. Furthermore, the inclusion of 
+NSDL Payments Bank in the second schedule of RBI Act marks a significant milestone elevating 
+its operational capabilities and regulatory stature. 
+The bank was officially accorded the status of Scheduled Payment Bank in July 2025. Both 
+subsidiaries are profitable as of H1 FY '26 and we continue to focus on building a strong 
+franchise. I will now brief on consolidated highlights for Quarter 2 FY '26. 
+Our total income grew by 12.2% from INR 385.3 crore to INR 432.2 crore on a Y-o-Y basis and 
+24.6% sequentially. 
+Our PAT - Profit After Tax stood at INR 110.3 crore representing 14.7% growth on Y-o-Y basis 
+and 23% sequentially. For the first half year FY '26 consolidated highlights, total income stood 
+at INR 779 crore up by 3.8%, H1 FY '26 , and our PAT stood at INR 200 crore up by 14.9% in 
+first half year, 30th September 2025.  
+With the financial updates, I will conclude my opening remarks. Thank you for joining us today 
+and I will now open up the floor for Q&A session. 
+Thank you. 
+Moderator: Thank you very much.  We will now begin the question-and-answer session. Ladies and 
+gentlemen, we will now wait for a moment while the question queue assembles. Our first 
+question comes from the line of Swarnabh Mukherjee from B&K Securities. Please go ahead. 
+Swarnabh Mukherjee: Hi sir. Thank you for the opportunity. A couple of questions. So, wanted to understand that your 
+annual custody queue, there has been a sharp jump from last quarter to this quarter. I just wanted 
+to understand what led to this and how do we actually account for that? Is this revenue 
+provisioned over the 4 quarters equally? If you could show some colour on that. That is the first 
+question. 
+And if you can also talk about the expense base , because I think all your 3 major expenses that 
+you have reported, the employee side, the technology, and the other expense side, there has been 
+a quarter -on-quarter increase. So, what is driving that? How could we think about this cost 
+structure for the rest of the year and next year, if you could explain? 
+N ational Securities Depository Limited 
+November 13, 2025 
+P age 7 of 14 
+ 
+ 
+And one bookkeeping question, in the Corporate Action and IPO, if you could give us a breakup 
+of how it was in this quarter between Corporate Action and IPO and the same breakup last 
+quarter, that is for 1Q. Thank you, sir. 
+Vijay Chandok: Thank you for asking this question. So, for the first question with regards to the custody fee, 
+essentially, these are the custody fees that we charge from our onboarding the customers.  And 
+in the past, you would have seen the leg, for example, this quarter, we have onboarded 11,000 
+companies on our depository platform. 
+So, bulk of the custody fee, now, we have an equal share with regards to the listed custody fee 
+and unlisted custody fee. So, bulk of the fees, if you see the growth on quarter-on-quarter basis, 
+it is emanating from the growth that is happening in the unlisted space and we continue to have 
+a higher market share of 73% on a month-on -month basis. So, that is part one on the custody 
+fee. 
+The second part of the question with regards to the expenditure, which is going up on a quarterly 
+basis as well as yearly basis, as you would have heard, Vijay, our focus is to strengthen our 
+technology. So, there are a lot of exercise that we are doing in order to build our capacities also 
+at the same time trying to strengthen our core depository. 
+And with that regards, there are a lot of activities we are doing within the company with regards 
+to something like clean air gap solutions. There are a lot of core depository work that we are 
+doing and that is getting front loaded. 
+One data point which I would like to share in this first half year, we have spent about 30 odd 
+crores as a capital investment, which is part of our disclosure as well, compared to previous year 
+where for full year we had spent INR 35 odd crores. So, technology remains a core focus for us 
+to do large investments and that is where you will see the continued investment to augur in the 
+next couple of quarters. 
+And at the same time, we continue to invest in people as well. Our employee strength has grown 
+from March to now in terms of size, and in terms of volume and in terms of skill sets. So, that is 
+where the area of investments as far as our focus is concerned. 
+With regards to the Corporate Action, the third question that you asked, we typically do not 
+share the split between the Corporate Action,  and how much of the Corporate Action is 
+contributed by the IPO. But second quarters are typically good quarters in the depository 
+spectrum, where bulk of the IPOs and the flow of pipeline is seen especially and that is where 
+we tend to make higher fees with regards to the IPO chunk. 
+Swarnabh Mukherjee: Right, sir. Understood. Very helpful.  Just one follow-up on the first response. So, if I got you 
+right, you were saying that in your custody fees, the contribution from listed and unlisted are 
+almost equal. Would that be right understanding, sir? 
+N ational Securities Depository Limited 
+November 13, 2025 
+P age 8 of 14 
+ 
+ 
+Vijay Chandok: Yes. So, one more point that has come in custody fee, just to follow up on that as well, that we 
+have started charging and we have been saying that we have a blockchain technology or a 
+platform, DLT, Distributed Ledger Technology. That we have started charging from June end 
+onwards. So, that is where in this quarter, some of the income in custody fee has gone in, because 
+we charge annual fees to 600 corporates. 
+So, that is also you would see in the second quarter , and this will continue to be in the next 
+couple of quarters as far as the future years are concerned. 
+Swarnabh Mukherjee: Okay. Sir, could you give any color? How much of this would be discharge, how much of the 
+custody fees? 
+Vijay Chandok: So, we are not giving split, how much the breakup of the custody at this point, as and when we 
+move ahead and progress into multiple quarters because this is just an activity that we started 
+off. Once this revenue becomes significant, we will definitely circle back.  
+Swarnabh Mukherjee: Sure, sir. And also one thing that for unlisted companies, is there a processing fee component 
+that you charge when they come first time for dematerialization ? And if yes, is that significant 
+in that overall custody fee mix? Yes. 
+So, we charge something called joining fees. So, if it is an unlisted company, we charge 15,000 
+for unlisted companies and for listed companies, we charge 20,000. So, it is not included in part 
+of custody, that is a separate fee item?  
+Vijay Chandok: That is part of the non-recurring fee. Okay, sir. Understood. Very helpful. Thank you so much, 
+sir. And all the best. 
+Moderator: Thank you. Thank you. Our next question comes from the line of Prayesh Jain  from Motilal 
+Oswal. Please go ahead. 
+Prayesh Jain: Yes. Hi, Jigar and  Vijay. Congrats on great set of numbers.  Firstly, again, just extending that 
+custody question, P retty surprised that sequentially the growth has been almost like INR 14 
+crores. So, could you give some data points behind this with respect to the number of unlisted 
+companies that would have gone up? And second would be on the number of folios that would 
+have gone up on the listed side? 
+Vijay Chandok:  So, hey, hi, Prayesh. See, the broad breakup I can share is one element, as I mentioned, is the 
+DLT annual fee that we started off from June onwards.  So, some of this is contributed through 
+the growth that we have seen or we started charging the DLT ledger platform. The second part 
+of that, the folios have gone up as well, as you rightly said. We had 11.5 crore folios in the month 
+of March ending on early April, which has gone to 14 crores folios.  So, folios have also gone 
+up. 
+N ational Securities Depository Limited 
+November 13, 2025 
+P age 9 of 14 
+ 
+ 
+Between the first 2 quarters, if you see, we have onboarded roughly 22,000 companies as well. 
+So, when we are onboarding companies, that time also we charge annual custody fee and then 
+we charge at the same time the processing fee or the joining fee.  So, it is a collective effort of 
+all 3 line of services, which is looking at our sequential growth with regards to 14 odd crores. 
+Prayesh Jain: Got that, got that. And the other question is on DEMAT accounts.  While in the second quarter, 
+we really saw an improvement in terms of incremental DEMAT accounts. October data seems 
+to be otherwise and there has been a fall. Anything to read into it? How should we think about 
+incremental DEMAT account market share from here on? 
+Vijay Chandok: Yes. So, actually, October has been a month of, I would say, lot of festivals and holidays, which 
+have impacted our DPs probably a little more, because there has been a sort of a drop in attributed 
+to that. That is what it appears prima facie at this stage. Not hing abnormal other than that.  
+However, like I said, we are not giving any guidance on how things will shape up. 
+Our strategy and our efforts are very, very aligned to put our heads down and try and win more 
+new age customers, old age customers, whatever. We basically look at market opportunities for 
+expanding new DPs , and also talk to our existing DPs to try and solve their problems , so that 
+their run rates improve, their ability to sell to larger number of customers improve.  So, we will 
+continue to do that. There could be certain seasonality effects in a specific segment of DPs which 
+could get impacted. And that is something beyond our control.  But beyond that, at least as of 
+now, I do not see anything abnormal which would have led to that kind of a situation. 
+Prayesh Jain: Last time we had mentioned about one Bangalore-based discount broker starting to 
+incrementally give accounts to us. Is there any such more in the pipeline or anything that you 
+can highlight right now? 
+Vijay Chandok: So, actually, the Bangalore-based is actually a tech broker.  It is a fintech broker. I do not want 
+to use the word discount broker. So, it is a fintech broker. And yes, so he continues to scale up. 
+We have also onboarded Gurgaon-based, in this case, a fintech discount broker who has also 
+scaled up. These are some new additions that will be visible in larger number in Quarter 2. And 
+also, while it is not available in the numbers yet, but a very large Bombay-based new company 
+has also submitted their application and all necessary integration is underway, whose numbers 
+are yet to be visible in the outcome that you have seen in Quarter 2. 
+Prayesh Jain: Got that. And last question is on the banking services part , where we have seen a very strong 
+traction in terms of revenue, sequential basis. Last time we had mentioned that some of the 
+elements we had gone slow on and focus on more core activities. So, could you elaborate more 
+on that as to what has driven this growth and how should we think about this from a full year 
+perspective?  
+Vijay Chandok: Are you talking about the payments bank? 
+N ational Securities Depository Limited 
+November 13, 2025 
+P age 10 of 14 
+ 
+ 
+Prayesh Jain: Yes, payments bank. Yes. 
+Vijay Chandok: Okay. Yes. So, payments bank has shown traction on 2 fronts fundamentally. One, which has 
+been sort of a part of our strategic focus. One, it has shown traction on quality customer increase. 
+So, our quality customer increase has crossed 3 million. This was at the same time last year 
+approximately half that number. And also, we have seen more than 100% increase in CASA  
+because we focus on quality. So, combination of quality customer coming along with CASA has 
+been one factor, which has led to better financial outcomes. 
+The second is we have started this UPI acquisition business, which has again found traction and 
+a lot of work was being done to onboard quality partners for that last year, and particularly later 
+part of last year. I think those efforts have all been completed and now more partners are 
+onboarded and as more volumes of UPI acquisition is now coming to our bank and that is leading 
+to the second reason for growth. 
+So, as things stand, I think both these feeders of revenue seem to be sustainable and we continue 
+to believe that the kind of growth we have seen in Q uarter 1 and Quarter 2  momentum should 
+continue.  
+Prayesh Jain: Got that. Thank you so much. And wish you all the best. 
+Vijay Chandok: Thank you.  
+Moderator: Our next question comes from the line of Amit Chandra from HDFC Securities. Please go ahead.  
+Amit Chandra: Yes, sir. Thanks for the opportunity. So, my question is on the annual custody fees. Sorry for 
+harping on that, but major part of the growth that is coming in annual custody is from the unlisted 
+opportunity. So, where we are in terms of the unlisted opportunity ? Do you see more structure 
+continuing for another 3, 4 quarters or it is in the next 3, 4 quarters, we can see some dip there?  
+And also, in terms of market share for the unlisted, how do you see the market share moving , 
+because earlier we were only issuing the ISINs. Now, the ISIN issuance has also gone to the 
+competitor. So, can we see some market share loss there in the unlisted part? 
+And also, second question, sir, is on the overall cost. Obviously, there has been increasing cost 
+and you mentioned that you are investing in the platform and technology. So, where we are in 
+terms of the investment journey, because the increase has been sharp and also for this quarter, 
+how much of the increase sequential has been because of e-voting, because e-voting is more like 
+seasonal. So, we have to exit off the cost related to e-voting. 
+So, what is the sustainable cost and how do we see the investments going on? Thank you. 
+N ational Securities Depository Limited 
+November 13, 2025 
+P age 11 of 14 
+ 
+ 
+Vijay Chandok: So, I think there are a bunch of questions here. We will go one by one.  Let me start with your 
+cost question first. So, we have been saying this in the past also that as far as cost is concerned, 
+we do believe that historically, we have underinvested in technology and certain types of skills 
+that are required, particularly in the field of technology, data and some of the areas where 
+automation and new age techs can be used. 
+So, we are clearly articulated in the past and we continue to pursue that path of improving skills 
+and infusing new technology, both hardware and software and other partners that have come up 
+in this space to get onboarded with us. 
+We will continue to do that because the business we believe needs it. We also anticipated growth 
+in market opportunity translating into numbers, which is, as you can see in the half year, it has 
+played out. But for whatever seasonality of these factors or transient pullbacks that markets can 
+unpredictably demonstrate, I think those things we will take it in our stride. 
+We remain resolute on increasing our spends in the right areas and that is right people and 
+technology. So, while we are not giving any guidance on how the costs are going up, I think it 
+is a little bit of discretion you should give it to the Management team that they will spend the 
+money in the right areas with a medium to long term benefits coming out. Because in any case, 
+we strongly believe and we have confidence in an operating leverage business. 
+So, there could be potential, what should I say, front loading of costs, which could have impact 
+on margins. But if the business is concomitantly coming with due to good market, then that 
+operating disadvantage, that little bit of margin disadvantage will not be very sharp, which is 
+what you would have seen in H1. Despite our increase in spends, you would have seen margins 
+are still not too impacted. 
+But if the second half in terms of market opportunity plays out on the other side, then we will 
+continue to do our spends. There could be impact on markets. So, I do not know how the market 
+will play out. But on cost, we remain visible. 
+On your customer custody question, I think, as probably Jigar also alluded to, there is an element 
+of DLT, which is included in that annual fee, which you have to segregate. So, actually there is 
+a custody component there and there is also a DLT, which is our Distributed Ledger Technology 
+component, which was not being charged in the past, which has started getting charged in Q2.  
+So, that is giving a little bit of a bump up. Both these charges are here to continue.  
+The future scale up of custody fee is clearly a function of 2 things.  One is how onboarding of 
+customer accounts happen, as well as how onboarding of unlisted companies happen. So, I do 
+not want to give any guidance of how the  DEMAT account scale up will happen. As I already 
+mentioned, we will continue to focus on growing the numbers and we are doing a lot of effort 
+in trying to increase run rates there. 
+N ational Securities Depository Limited 
+November 13, 2025 
+P age 12 of 14 
+ 
+ 
+As far as the unlisted issuers are concerned, I think we are clearly seeing from a market point of 
+view, things are sort of peaked out and it is slowing down. The reason is because we have now 
+close to 1.4 lakh issuers who have already onboarded. So, have taken ISINs and dematerialized 
+their shares. So, going forward, the run rates are definitely expected to slow down. 
+As far as market share is concerned, again, giving no guidance, we are broadly in the ballpark 
+of that 70%-72% range, which is where it is. I think our effort will be to remain plus-minus 2% 
+range perhaps. That is what we will try to do. I do not think we do not see that as a very big point 
+of change.  
+Having said that, there was a third question, I think. Can you just remind me what it is? 
+Amit Chandra: No sir. You have almost covered. So, the next thing that I want to ask is on the incremental 
+market share. Obviously, we are seeing some improvements there in terms of the incremental 
+share that we see on a monthly basis.  But onboarding some of the smaller brokers will not like 
+move the needle. Because a lot of concentration is there with the top 3, 4 discount brokers. 
+So, what is the necessity for a discount broker to shift or to derisk themselves from one 
+depository? Is it a necessity or they are happy with working with one depository itself , because 
+they are very comfortable with working with them? So, what is the thought process there?  
+Vijay Chandok: So, singularly, depending on shifting a depository from depository A to NSDL, our strategy is 
+not completely predicated on that, right. Our strategy is predicated on finding. See, even today, 
+there are some potentially very, very large new age brokers who are getting started. We have 
+engaged and we have started the process of onboarding them. Their numbers are yet to play out. 
+I think if these people in the next few quarters complete their integration and start onboarding 
+and gain momentum, they could be very, very meaningful numbers coming to our kitty. But that 
+is, of course, contingent on their own scale-up and the pace of their scale-up, et cetera, and how 
+successfully they scale up. But the names are very, very promising. 
+So, it is not just predicated on the existing players getting transferred, because winning existing 
+players transferred would require some value to be offered. We are seeing out of the top few 
+brokers, one of them promising. But it is still, they do not happen and they do not start showing 
+numbers, I do not want to give any commitment. Conversations are definitely on.  So, we will 
+have to wait and see whether that happens. So, our market share, we feel optimistic we will do 
+well because of the efforts that we are doing. But obviously, it is to be seen. 
+Amit Chandra: Okay, sir. Thank you and all the best, sir. 
+Moderator: Thank you. Our next question comes from the line of Sanil Desai from ICICI Securities. Please 
+go ahead. 
+N ational Securities Depository Limited 
+November 13, 2025 
+P age 13 of 14 
+ 
+ 
+Sanil Desai: Good evening.  Thank you for the opportunity. So, my first question would be more on the 
+breakup of the revenue which you have given. So, I see there has been some change in reporting, 
+like the numbers from last quarter which you had reported in the PPT and this quarter. 
+So, can you just tell what has been the general changes, because some figures are different over 
+here. And if possible, can you give the revenue for FY '25 in the same breakup? So, it just helps 
+to connect with that. 
+Vijay Chandok: No. W e have not changed the reporting.  The only thing that we have done is that the 
+classification of DLT has got added. But however, having said that, the FY '25 breakup is there. 
+If you want H1, we can share the H1 separately to you with regards to ensuring you can have 
+like-to-like comparison. 
+So, right now, we have all annual fee or the custody fee sitting as part of recurring fee, which is 
+43%, Corporate Action, e-voting settlement, and the other transaction charges. Other includes 
+pledge fee, joining fees, CAS , and other data charges. That is how we are putting across our 
+revenue breakups. 
+Sanil Desai: Yes. No, I just meant that last time you had just given transaction fee, I think, which included 
+Corporate Action as well now. I think you have split it. So, there was some, I think… 
+Vijay Chandok: Yes. So, that is why we have got the Q1. If you want the prior years, we will definitely share the 
+similar breakups to build into your model.  
+Sanil Desai: Yes, that would be helpful. And secondly, I think, just touching upon the last question, where I 
+think you alluded to the fact that the run rate for the unlisted companies has slowed down. So, if 
+my understanding is correct, so going ahead, maybe, as you said, right now, the annual custody 
+fees, 50% is from joining and 50% is from the recurring that  part. So, maybe going ahead, the 
+joining fees would come down and the recurring fee portion would increase.  So, overall, the 
+growth for that particular revenue item would be more of flattish on this base, i s my 
+understanding would be correct in this part. 
+Vijay Chandok: So, I think there are a couple of interventions I need to make here. So, first of all, I mentioned 
+unlisted companies run rates are going down issuers. 
+So, just to clarify, if you look at our total revenue, and I am giving you broad approximations 
+here, so bear with me. We have 2 types of revenues, recurring and non-recurring. Okay? 
+Recurring is approximately 43% of our total revenue. 57% of our total revenue is non-recurring. 
+Out of our recurring, you have recurring fee coming from listed and unlisted. And in the current 
+quarter, you would have added a third dimension, which is DLT fees, which is recurring.  This 
+together is on the ballpark of about 43%. 
+N ational Securities Depository Limited 
+November 13, 2025 
+P age 14 of 14 
+ 
+ 
+While the DLT fees is very new and raw, so it will be a small amount, the recurring fee arising 
+out of custody of listed and unlisted is broadly equal. 58% has got 6 line items, 1 of the line 
+items is joining fees. 
+Sanil Desai: Okay. Got it. Got it. 
+Vijay Chandok: You will have to do that context. Yes. 
+Sanil Desai: Yes. That's clear. Thank you. Thank you for that. 
+Moderator: Thank you. We have no further questions, ladies and gentlemen. I would now like to hand the 
+conference over to the Management for closing comments. Over to you, gentlemen. 
+Vijay Chandok: Thank you very much. Thank you, all of you for having taken the efforts and joining us rather 
+late. We had to shift the call to manage logistics. Thank you for bearing with us. Thank you for 
+all the questions you have asked. We really value your questions. 
+And in case there are any afterthoughts or questions after you do detailed analysis of our 
+financials, please do not hesitate. We will be very, very eager and happy to help. We have the 
+whole team led by Jigar, raring to go and answer your questions , and wish you all a good late 
+evening, I should say, because I know you guys work late.  So, and a good weekend coming 
+ahead.  
+Thank you very much from the NSDL team. 
+Jigar Shah: Thank you.  
+Moderator: Thank you. On behalf of ICICI Securities Limited, that concludes this conference. Thank you 
+all for joining us. You may now disconnect your lines. 

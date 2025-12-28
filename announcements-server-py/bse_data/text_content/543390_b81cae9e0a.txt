@@ -1,0 +1,86 @@
+ 
+Format for disclosures under Regulation 29(2) of Securities and Exchange Board of India 
+(Substantial Acquisition of Shares and Takeovers) Regulations, 2011 
+Name of the Target Company (TC) PB Fintech Ltd. 
+(ISIN: INE417T01026) 
+Name(s) of the acquirer and Persons Acting in Concert (PAC) 
+with the acquirer 
+New World Fund, Inc. 
+Whether the acquirer belongs to Promoter/Promoter group N/A 
+Name(s) of the Stock Exchange(s) where the shares of TC are 
+Listed 
+BSE 
+National Stock Exchange of India 
+Details of the acquisition / disposal as follows 
+Number % w.r.t.total 
+share/voting 
+capital 
+wherever 
+applicable (*) 
+% w.r.t. total 
+diluted 
+share/voting 
+capital of the TC 
+(**) 
+Before the acquisition under consideration, holding of :    
+a) Shares carrying voting rights 22,795,194 5.0521% 5.0521% 
+b) Shares in the nature of encumbrance (pledge/ lien/ 
+non-disposal undertaking/ others) N/A N/A N/A 
+c) Voting rights (VR) otherwise than by shares N/A N/A N/A 
+d) Warrants/convertible securities/any other instrument 
+that entitles the acquirer to receive shares carrying 
+voting rights in the TC (specify holding in each 
+category) 
+N/A N/A N/A 
+e) Total (a+b+c+d) 22,795,194 5.0521% 5.0521% 
+Details of acquisition/sale    
+a) Shares carrying voting rights acquired/sold -9,214,138 -2.0952% -2.0952% 
+b) VRs acquired/sold otherwise than by shares N/A N/A N/A 
+c) Warrants/convertible securities/any other instrument 
+that entitles the acquirer to receive shares carrying 
+voting rights in the TC (specify holding in each 
+category) acquired/sold 
+N/A N/A N/A 
+d) Shares encumbered / invoked/released by the acquirer N/A N/A N/A 
+e) Total (a+b+c+/-d) -9,214,138 -2.0952% -2.0952% 
+ 
+ 
+After the acquisition/sale, holding of:    
+a) Shares carrying voting rights 13,581,056 2.9569% 2.9569% 
+b) Shares encumbered with the acquirer N/A N/A N/A 
+c) VRs otherwise than by shares N/A N/A N/A 
+d) Warrants/convertible securities/any other instrument 
+that entitles the acquirer to receive shares carrying 
+voting rights in the TC (specify holding in each 
+category) acquisition 
+N/A N/A N/A 
+e) Total (a+b+c+d) 13,581,056 2.9569% 2.9569% 
+Mode of acquisition / sale (e.g. open market / off-market / 
+public issue / rights issue / preferential allotment / inter-se 
+transfer etc). 
+Net sale through open market 
+Date of acquisition / sale of shares / VR or date of receipt of 
+intimation of allotment of shares, whichever is applicable 
+12 November 2025 
+Equity share capital / total voting capital of the TC before the 
+said acquisition / sale 
+451,203,464 
+Equity share capital/ total voting capital of the TC after the 
+said acquisition / sale 
+459,307,364 
+Total diluted share/voting capital of the TC after the said 
+acquisition 
+459,307,364 
+(*) Total share capital/ voting capital to be taken as per the latest filing done by the company to the Stock Exchange 
+under Clause 35 of the listing Agreement. 
+(**) Diluted share/voting capital means the total number of shares in the TC assuming full conversion of the 
+outstanding convertible securities/warrants into equity shares of the TC. 
+Signature of the acquirer / seller / Authorised Signatory 
+_____________________________________________________ 
+By its investment adviser, Capital Research and Management Company 
+Christopher J. Salo 
+Vice President 
+Place: Los Angeles, California 
+Date: 13 November 2025 
+ 
+

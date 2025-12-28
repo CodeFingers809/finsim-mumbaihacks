@@ -1,0 +1,867 @@
+ 
+ 
+ 
+ 
+Date: November 19, 2025 
+ 
+To, 
+BSE Limited  
+The Corporate Relationship Department 
+Phiroze Jeejeebhoy Towers,  
+1
+st Floor, Dalal Street, Mumbai – 400 001  
+ 
+Ref: Scrip Code: 543931 
+ISIN: INE0Q0M01015 
+ 
+Sub: Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 – Revised Transcript of the 
+earnings conference call for the half year ended  30th September, 2025. 
+ 
+Dear Sir/ Ma’am, 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, please find enclosed the  revised transcript of the earnings conference call for the half year 
+ended 30th September, 2025, conducted after the meeting of Board of Directors held on November 
+13, 2025, for your information and records. 
+ 
+Kindly take the above information on record.  
+ 
+The information in the above notice is also available on the website of the Company www.veefin.com.  
+ 
+Thanking you, 
+ 
+For Veefin Solutions Limited 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Urja Thakkar 
+Company Secretary & Compliance Officer 
+ACS 42925 
+P age 1 of 23 
+Veefin Solutions Limited 
+H1 FY’26 Earnings Conference Call 
+November 14, 2025 
+M
+oderator: Ladies and gentlemen, good day and welcome to the Veefin Solutions Limited H1  FY’26 
+Earnings Conference Call, hosted by Valorem Advisors. 
+As a reminder, all participant lines will be in the listen -only mode and there will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need 
+assistance during the conference call, please signal an operator by pressing “*” and then “0”  
+on your touchtone phone. 
+Please note that this conference is being recorded. I now hand the conference over to Mr. Anuj 
+Sonpal from Valorem Advisors. Thank you and over to you, sir. 
+Anuj Sonpal: Thank you. Good afternoon, everyone, and a very warm welcome to you all. My  name is Anuj 
+Sonpal from Valorem Advisors. 
+We represent the investor relations of Veefin Solutions Limited. On behalf of the company and 
+Valorem Advisors, I would like to thank you all for participating in the company's earnings call 
+for the first half of financial year 2026. 
+Before we begin, let me mention a short cautionary statement. Some of the statements made 
+in today's earnings call may be forward-looking in nature. Such forward-looking statements are 
+subject to risks and uncertainties, which could cause actual results to differ from those 
+anticipated. Such statements are based on management's beliefs as well as assumptions made 
+by and information currently available to management. Audiences are cautioned not to place 
+any undue reliance on these forward-looking statements in making any investment decisions. 
+The purpose of today's Earnings Call is purely to educate and bring awareness about the 
+company's fundamental business and financial quarter under review. Before we start, I would 
+also like to inform all participants that a link to view the presentation was provided in the 
+conference call invitation, which the management would be presenting in their opening 
+remarks. So, we would request you, if you would like to follow the presentation while the 
+management is talking. If you would like to view the same, please click on the link. 
+Alternatively, this presentation has also been uploaded on the exchanges that you can access 
+yourself as well. 
+Now let me introduce you to the management participating with us in today's Earnings Call and 
+hand it over to them for opening remarks: 
+ Page 2 of 23 
+We firstly have with us Mr. Raja Debnath, Managing Director and Co -Founder, Mr. Gautam 
+Udani – Chief Operating Officer and Co -Founder, and Mrs. Payal M aisheri – Chief Financial 
+Officer. 
+Without any further delay, I request Mr. Raja to start with his opening presentation. Thank you 
+and over to you, Mr. Raja. 
+Raja Debnath: Good afternoon, everyone, and thank you all for joining us. I am speaking to you today from 
+the Singapore Fintech Festival. And trust me, the conversations that we are seeing here with 
+most of the global banks, it just ali gns perfectly with what Veefin  has been building.  As a 
+founder, I have always believed that Veefin  should be built on fundamentals of a profitable 
+score, disciplined execut ion, and a product roadmap that i s years ahead of the competition. 
+So, today I will walk you through three things. What we have delivered, what we are currently 
+building, and how is the market responding to what we are doing. 
+As a Summary, How is the last six months been for us? The first thing that you can  see is that 
+our core of Veefin is our supply chain finance business, and that core is working extremely well. 
+We are showing 54% EBITDA profitability in the supply chain finance business. And this is taking 
+into account whether it i s capitalized or not capitalized, there is  a 54% EBITDA in the supply 
+chain finance business. So, this business is what is funding the IP creation of the businesses 
+also. The second aspect that we will talk about, and what we have seen over the last six months 
+is that we have now embarked on a journey of buil ding six enterprise- grade products 
+simultaneously. And all of this are being built on the Veefin’s 4.0 shared architecture. The third 
+thing we will speak about and we will see is the discipline, execution, and financial strength of 
+what we are building. The last is that there is a very sustained growth story that we are able to 
+see here. We have grown our revenues year-on-year by 108%, and we have a very strong $4 5 
+million pipeline, which is a qualified pipeline, with strong cross -sell traction. So, we will speak 
+about all of these and our future plans. What we will see is that if you combine all of these 
+things together, what we are doing with a disciplined IP investment, a disciplined execution, 
+and a global expansion plan, Veefin is well set to be India's first multi -product, I mean, not 
+services, a multi-product technology product company. That is what we are trying to build. 
+For people who would like to see Veefin  at a glance, so what is Veefin ? It is a global software 
+product provider to banks and NBFCs. And this is since 2020. That is what we are. And many of 
+you will think of Veefin  only as supply chain financing.  However, if you look at t he product 
+lineup here, Veefin is no longer just supply chain finance. It goes beyond that into the entire 
+transaction banking suite, whether it i s supply chain, trade finance, cash management, 
+corporate, retail, internet banking, LMS, collections, fraud risk, multiple products. So, Veefin is 
+now a horizontally product factory. And we now have clients across 24 countries. So, Veefin is 
+no longer jus t an India -based story. Veefin  very clearly is a global phenomenon.  We have 80 
+plus FIs, 300 plus co rporates who are on the Veefin  group platform. And we had last year, or 
+last six months, the numbers that we have seen, our run rate is $40 billion worth of annual 
+ Page 3 of 23 
+disbursements. And a very key thing here is, we have our attrition levels on the voluntary side 
+are next to nil. We will come to more on this later. And the last thing that I will leave you with 
+here is that we have won numerous awards. And what I  am talking in terms of Veefin being a 
+supply chain finance behemoth, it is not something that we are saying.  The industry has 
+recognizing that Just yesterday night in London, we won the Euro Money Transaction Banking 
+Award for the most innovative supply chain finance solution globally. Just yesterday night. 
+And while we are at what we are, I get this question a lot in terms of why is it tha t Veefin is 
+able to do what Veefin is doing? And what is it that differentiates us? The core differentiation. 
+And I think the most important thing that we have that differentiates us is our leadership. Just 
+take a moment here and just look at the leaders that we have here. This 14 -member team, 
+each one of them with minimum 15, 16 years of experience, many years to  25 plus years of 
+experience. Each one of these players, each one of these people could have gone ahead and 
+started their own startup. And all of you would have invested in them. But each one of us could 
+have gone and built their own startup. But all of them have come together to build Veefin as a 
+global powerhouse in the BFSI  product space. Our latest addition to the team, Saurabh 
+Dhawan. Till recently, he was a CEO of NBFC. He just joined us recently. For being the CEO for 
+Public Sector Bank Exchange, our PSBX change project with a jewel in Veefin’s crown. That i s 
+where he comes in. So, if you look at this, we have 300 plus years of experience looking at India. 
+And if you see the number of companies and the kind of companies that all of this experience 
+is coming from, at its heart are companies which are in the BFSI  technology space who are 
+trying to build products. And what differentiates us is the wealth of banking experience here.  
+We have people here from the top banks, both in India and outside India. This is the experience 
+which is actually delivering  and because of this, we are able to build so many products 
+simultaneously. I keep getting asked this question. And we were asked this question even in 
+Singapore. Last month, even in Germany, where we were. How is it that a company which is so 
+young is able to build so many products simultaneously? And that goes back to this leadership 
+that we have here. 
+Moving on to what are the highlights from the last earnings call that we had six months back: 
+So, the key points here are the major things. Veefin had multiple subsidiaries. It was a complex 
+structure. So, we are amalgamating our subsidiaries. And the amalgamation has already been 
+announced. And the BSE filing has also been done.  The other core thing that we have done 
+over the last six months is around the public sector bank exchange project. Wherein we have 
+continued rollout of PSBXchange . We have gone ahead and done live transactions.  Plus, not 
+just that we have hired a CEO, we are hiring a team. And offers have gone out for this team to 
+join us by December, January this year. Where we have now presence across the country in 
+multiple states. We have spoken about the awards. The most important thing is from a s ales 
+pipeline perspective, that is where the rubber hits the road. We have now got a strong pipeline 
+in trade finance, cash management, in corporate banking, corporate internet banking, retail 
+internet banking.  And finally, we all know, we have also raised a preferential round. BSE 
+ Page 4 of 23 
+approval is pending. Should be coming in the next few days, we are assuming.  For Rs. 94.3 
+crore, this sets us up very well for fueling our continued IP investments as we speak. 
+Now, why did we go around amalgamating? People spoke with us last time as to why did we 
+have subsidiaries. Now the question becomes, why are we amalgamating? This amalgamation, 
+the expectation that you as investors should have from this is, that this is an EPS accretive move 
+from next year on wards. Very clearly EPS -accretive. You know, synergies that you will see on 
+the R&D stage and the corporate governance, it makes it easier for you as investors to see one 
+P&L, one balance sheet, very clear visibility. And it strengthens the balance sheet from a future 
+IP investment perspective. 
+What does the simplified structure look like? So, as you see right at the top, people who have 
+the slides in front of them, it i s the Veefin Solutions, the mother company, which now houses 
+all the product companies. All the products that we spoke about, they are all housed right at 
+the top. Below we have two acquired businesses.  One is the acquired entities on the product  
+side, which has Epik and Regime, where we own 26% stake. On the services business, which is 
+going for amalgamation, and we are planning h ow we are going to consolidate it, where we 
+end up with a 20% stake in the service business. And finally, we have Veefin Capital where we 
+have not started doing any business till now. 
+And for people who want to know where we are on the amalgamation timeline, so we see this 
+as something which should end in Q2, Q3 of FY ’27. So, in the six -step process, we are in the 
+third step. So, BSE sent the approval. We are awaiting those approvals. As we speak, we have 
+submitted these last month itself. And this is where the journey is.  We have completed two 
+steps. We have completed the board approval. We have done the filing last month.  We are 
+now awaiting for the approvals. So, once this is done, our expectation is the merger scheme 
+has also been finalized. It has been filed.  So, from April’26, this should all be one sing le entity 
+from P&L perspective. 
+We get a lot of this question in terms of how to look at our reporting framework. Take a minute 
+here. So, we have multiple su bsidiaries. So, you have GlobeTF and Estorifi  right at the top. 
+People who are seeing the slides, you can see GlobeTF and Estorifi at the top. Estorifi then has 
+two companies under it, which is Epik and Regime. Then you have Infini Systems, which we can 
+have a direct holding in. Infini has taken 100% ownership of Nityo -Tech. And White Rivers 
+Media, which is our latest acquisition, which is held jointly by Infini. Now, from a revenue 
+consolidation, all the revenue, 100% of the revenues of all of these companies that we spoke 
+about are consolidated. That means 100% of the revenues are consolidated.  But if you look 
+from the profit perspective, 100% of the profit does not come in in consolidation. The profit 
+comes in only what is the stake of Veefin, either directly or through Estorifi and Infini. Take an 
+example. For Regime, the profit amalgamation will be only 10.85%, though Veefin holds a 26% 
+stake through Estorifi. Because Veefin holds a 41% stake in Estorifi. So, that is the way to look 
+at this very clearly. So, if you look at Globe TF, Estorifi , they are now being amalgamated into 
+ Page 5 of 23 
+Veefin 100%. Veefin  will own 20% stake across the other com panies, which are Infini, Nityo, 
+and White Rivers. And that company, this entire entity, we have planned a listing of this post 
+the integration. So, it is a listing, a main board listing of what we are planning for. So, this is in 
+line with 100% of the revenues here that are consolidated. And the profits are recognized, as I 
+said, only in proportion of the shareholding that we have. So, entities, you will see some of the 
+entities here which do not have revenues. These are the entities in which we are building our 
+IP. So, you have trade finance, cash management, some internet banking projects out there.  
+That is where we are building our IP. 
+So, moving on to the financials. So, let us look at the standalone. So, now you have understood 
+where standalone and reporting is. So, this is just Veefin standalone. So, at the Veefin 
+standalone level, if you look at year-on-year comparisons, and these are all post capitalization. 
+So, that means whatever investment that we have done in our IP, this is post that. We will have 
+something more to talk about the IP investment over the next two slides. But right now, let us 
+look at the financial highlights. And we are pleased to inform you that our revenues have grown 
+by over 100%. And as you can see, our EBITDAs have jumped over 300%. Same on the PAT. Our 
+net debt has gone up. We will talk more on that later. I am sure you will have questions around 
+it. But even on the earnings per share, we have all shown good numbers out here. 
+And if you contrast this with consolidated, the mergers that we have done, all the 
+amalgamations, they have started to come into effect. So, our revenues have jum ped up by 
+over 450%, and our PAT has grown by close to 100% on this. 
+So, these are the numbers on the standalone and consolidated basis. And if you look at them 
+side-by-side, again another version, it just shows you that these are all doing extremely well in 
+terms of the revenues and the EBITDA. Revenues have gone up by four ti mes because of 
+consolidation here. 
+So, what are we doing here in terms of –  if you look at this, balancing of profitability and IP in 
+business, how should you read our numbers? It is complex for people here to understand our 
+numbers. So, we have tried this time to be as clear as possible. All the numbers that we do, we 
+report our numbers after capitalizing , our development cost, as per IGA AP and AS26. And 
+capitalization is a consistent policy. It is amortized over 10 years. Our capitalization is amortized 
+over 10 years. And in this, what we do  is – somebody may say, why do no t you exp ense 
+everything out immediately? Yes, we could do that.  But then this is very, very intentional. 
+Because if you were to do that, then yes, we would report lower margins, but we would not 
+have been investing so heavily on the IP. What we have done here is – if you look at the recent 
+story, we started with supply chain financing, one product over the last five, six years. And that 
+is all that we are focused on. If we did the same thing again with all of these products, we would 
+have missed the bus because the world is moving extremely fast. Because the conversation 
+that we are having with all the global banks, it is no longer about products.  The global banks 
+are all talking about not buying point B solutions. Global banks are now talking about buying 
+ Page 6 of 23 
+tech architecture. And when we are talking about tech architecture, they want a single fabric 
+in which all of the products that we are building, that i s what they are talking about.  They do 
+not want to talk about trade finance, supply chain, cash separately. They all want to talk about 
+working capital. And to do that and talk about that, that is  what we invested in before the 
+curve. And we have always been like that. We have always invested before the curve. And that 
+is the reason why we started building si x products, enterprise products, simultaneously.  And 
+that is what we see why our IP investments are so heavy. Some IP investments will continue 
+being heavy for the next year and then they start tapering down. 
+So, from a financial structure, how do you understand  Veefin ? Okay. And let us take a pause 
+here. Because till now you have seen what we can have done over the last six months. Now we 
+are moving into what is it that we a re building. So, think of Veefin as a three-layer structure. 
+Right at the bottom is the core product, the core supply chain finance business that we have 
+done. And the key thing here is, it is a 54% EBITDA business. People ask us, what is the EBITDA 
+that we can assume this to be in a st eady state business? So, Veefin supply chain finance is a 
+steady state business. It is a leadership business, globally very well -known. So, think of this as 
+a 50%, 54% EBITDA business. On top of this, we have the standalone multi -product APIs that 
+we are building.  So, Veefin standalone financial, when you look, there you are adding the 
+supply chain finance business, plus you are now building six different IPs out there. Therefore, 
+that busines s now, when you look at Veefin standalone, it i s an operationally loss -making 
+recapitalization. But if you were to capitalize it, which we have done, and the number that you 
+see, it becomes profitable post-capitalization. So, understand it very clearly. Veefin standalone 
+comprises of Veefin supply chain, which is a core profitable business, but it also includes the 
+six IPs that we are building, because of which, when we do our capitalization, it becomes 
+profitable, and pre- capitalization, it i s loss-making. And finally, we have the subsidiaries and 
+the acquired entities, some of which are profitable and some of which are loss- making. And 
+some of these have revenues, some do no t have revenues. And that is where we a re building 
+our IPs.  
+In summary, if you look at this from a segment perspective, supply chain finance, revenue 
+contribution high, very good EBITDA, it i s profitable.  Veefin standalone, moderate revenue 
+contribution, but negative EBITDA pre- capitalization, because a lot of IPs are being built, IPs 
+are being incubated here. Subsidiaries, again, negligible contribution, negative EBITDA. Again, 
+why? Because these are IPs that are being built here. And finally, the acquired companies with 
+moderate revenue contribution, mixed EBITDA here, some are pro fitable, some are not. But 
+that is the story that we have of how to read Veefin. 
+I will take a moment to explain the Veefin  supply chain finance code a little better, because 
+that is our code. So, standalone, yes, profitable. EBITDA margins, very strong, 50% plus.  If you 
+look at this graph here, you will see or you will capture this graph in half years. Okay? So, on a 
+half-yearly basis, you will see every half year we are growing and we are showing strong 
+strength here, both in the revenues and EBITDA. And as you know, our second year, the second 
+ Page 7 of 23 
+half of the yea r is usually stronger, and that is what you will  see this year also. We will be 
+sharing our outlook right at the end, but rest assured that the second half of the year is always 
+stronger, as you can see from this graph also. Second half of the year is always stronger than 
+the first half. Thirty plus banks are using this across 15 countries. We are talking now only of 
+supply chain financing. Thirty plus banks are using this.  Our renewal rates are high. Most of 
+these are SAAS products. 70% of o ur revenues just from supply chain finance are recurring.  
+And profits from here are partially being used to invest in the other IPs that we are building. 
+Moving on, how do you look at the recent product suite? So, multiple products.  The best way 
+is to divide it into three specific categories. The first one is products where we are very strong, 
+like supply chain financing, LOS. These are proven products, proven profit centers, and they are 
+funding our IP creation. Moving ahead. The strategic IP investments which we have done and 
+which are bearing fruits are on the trade finance, cash, the corporate, retail, internet, banking, 
+and LMS. LMS here is for retail, SME, and corporate. And finally, we have our differentiated 
+strategies on our Gen AI solutions, fraud and risk analytics, our LMS solutions, our guarantee 
+management solutions. So, most of these products, remember, they are all working on the 
+recent 4.0 architecture. And this recent 4.0 architecture is really what differentiates us in the 
+market. Because we are the only company globally, mind you, we are the only company globally 
+with the entire transition banking, working capital products on one single cha ssis. All with 
+micro-service architecture. Any bank can actuall y pick up any small piece of this  architecture 
+and use it to enhance the existing systems that they are using. They do not have to rip out and 
+replace the entire product suite that they already have in place.  So, that is a very, very 
+important point for us. And we spoke about why we are doing this multiple product IT 
+investment and what is in our philosophy. We said we want to build all of these simultaneously 
+and not sequentially because that is the learning that we have from having done this in the 
+past with supply chain finance. And when we are building all this simultaneously, there is a lot 
+of micro services which are shared. So, when we a re building micro-services, we do not have 
+to build one product at a time. A lot of these micro -services are being used across all the 
+products that we are building out.  And our capitalization continues to be a 10 -year useful life 
+period. And we a re doing all of the investments today so that our future is a multi -product 
+revenue, which is, again, going to be phenomenally fast. 
+Moving on to the last part now, how is the market responding to what we are doing?  The 
+market is looking at this very, very favorably. I have shown this in code, but we have close to 
+$45 million or close to Rs. 400 crore worth of pipelines. And this is qualified pipelines. Qualified 
+pipelines across 85 deals in 24 countries. Look at these numbers. This is very, very important 
+because this is where the market is responding to what we are doing. And these are large deals 
+that we are talking about because out of this 85, 35 are active deals right now where proposals 
+have gone in. 10 of these are large with over $2 million value for each of these deals. 15% of 
+these deals are in very, very advanced stage right now as we speak.  From product pipeline 
+perspective, till last year, bulk, or I would say 90% of our business, our pipeline used to be only 
+ Page 8 of 23 
+supply chain financing. But this year you will see our supply chain finance has come now to less 
+than 50% in terms of pipeline. A very large 30% plus pipeline now is trade, cash, corporate 
+internet banking, retail internet banking.  These a re new products. The IP that we are 
+generating, that i s where now we have a very, very strong pipeline. And the remaining 20% 
+remains in the lending side.  Geographic mix also, you will  see India continues to be strong in 
+India. 40% is India. But we are now hedging ourselves and we have a large part, over 50% of 
+our pipeline now is across the world.  Across Africa, Asia, and MENA. The change that you will 
+see next time is you start seeing pipeline across Europe, across America. Those ar e the next 
+frontiers that you will be going into.  A big thing we have seen when we a re talking with 
+customers is once one product goes in, they are now talking with us aggressively across other 
+products that they have. So, we must have sold supply different in the past, but they a re now 
+talking to us for other products also. 
+A good way to look at what we are building is break up all our products into two clusters. One 
+is the transaction banking cluster. One is the lending lifecycle cluster . So, at the top you see 
+what we have been explaining. Veefin is playing in a $35 billion, $ 65 billion total addressable 
+market. This total addressable software spend that we can be going after because we are 
+widened. And an interesting thin g, if you see, supply  chain finance in the transaction banking 
+cluster is the smallest.  So, our strategy which we had of going after the niche and then 
+expanding is playing out exactly the way we had planned. That we went into a niche that people 
+were not focusing on, supply chain finance. We became global leaders in that. We showed 
+ourselves as somebody who can build products for a complex product like supply chain finance. 
+Built a reputation out there of not just building a product but being able to deliver the product, 
+service the product. And therefore, now when we come in with trade finance, cash, corporate 
+internet banking, which are much larger, as you will see.  They are much larger markets. The 
+banks are ready to talk with us because of the pedigree that we built in supply chain financing. 
+So, this is a multi-year strategy that we have been building on and that is now giving fruits to 
+what we have been doing.  So, transaction banking will continue being 60% of our focus with 
+40% being on the non-transaction banking cluster. This is a very, very important takeaway I will 
+leave all of you with that where we are playing is now with the big boys. India does not have 
+such kind of plans. In the last 15 years, globally, there has been no new trade finance or cash 
+management system, software vendor who has come in. Mind you, in the last 15 years, nobody 
+has come in. Nobody has dared to come in because these are all large businesses, complex 
+businesses, which people have been afraid to get into.  We have now come into this segment 
+and our assumption is that we will be going after the biggies, your Temenos, your FI, Fiserv 
+because India deserves to have a plan of that space coming out of India. And these are all multi, 
+multi-billion dollar companies. 
+Something which we also need to understand is what are the economics of enterprise sales.  
+You see a lot of companies who are happy to go into the B2C business, but people do not enter 
+the enterprise business because this is a business which takes time. So, how does the 
+ Page 9 of 23 
+economics of enterprise sales work? First thing to remember, high cost of acquisition, a very 
+long sales cycle. People get bored, people get scared and they leave this business. It takes time, 
+it takes patience and one big differentiator, going back to the leadership team, going back to 
+our sales team that we have, is the ability to talk the language of the bankers.  This business is 
+a business where if you are able to talk to bankers, like bankers and not like technology guys, 
+you will do much better.  That is something which we understand as bankers. So, high cost of 
+acquisition is the first thing. Second, these are very sticky businesses. Once you go live with the 
+customer, generally your customer will be with you for long. We have seen that customers will 
+be with you for more than seven years, sometimes 10 years. It i s a very low churn business.  
+The cost of upsell is the main thing. Look at the large players, look at the large global players 
+that we are competing wit h. The FIs, the Pfizer, the Tamaroff of the world, these product 
+companies, they all have multiple products and they all rely on taking one product to the bank 
+and then cross -selling and upselling them multiple products.  That is what we are doing and 
+that is what we are seeing. And every time you sell a new product to the same client, your 
+margins, your incremental margins are much higher. So, we emphasize 70% plus margin 
+whenever we cross- sell to a customer because our objective has been very clear when we 
+started investing in the various IPs. That is, grow revenue per customer, grow share of wallets. 
+That is the mantra.  
+Our investment and capitalization policy, just to bring it all together, is yes, we capitalize as per 
+strict IGAAP and AS 26 standards. It is a consistent policy. This is exactly the way global SaaS 
+technology companies do reporting, whether it is a Salesforce, whether it is a coming out in 
+reports, they all report their numbers exactly this way. India does not have any SaaS or too 
+many SaaS players, so the Indian market does not understand this as well. However, these are 
+all global reporting standards when it comes to technology companies. Only reusable IP is 
+capitalized. Remember that. Only reusable IP is capitalized, and all the maintenance expenses 
+are expensed out immediately. And the reason you do this is that you want to match the 
+revenues which you will receive over years with the expense that you are incurring right now 
+over the years. That is the idea. And that is the reason why we also amortize over 10 years. So, 
+that you, the IP that you are creating will be IP in which you will be able to generate revenues 
+from over the years and therefore we do a matching concept of matching revenues with 
+expenses. Again, in line with how global SaaS technology companies do reporting. 
+Something on the DSO, so we put standalone console right next to it and we are very happy to 
+say that our DSOs are improving. So, on an annual basis, our DSOs are improving year-on-year. 
+So, from the year before, from our 149 days, we have now come down to 130 days, our DSOs. 
+Okay. And this is not just on a standalone basis, even on a console basis, our DSOs are 
+improving. Last year, we had 138 and we have come down to 105.  And even the receivables 
+that you see, our trade receivables are also improving year on year. 
+To leave you with the final couple of slides, so what would I want you to take away? Our drivers 
+of growth. What are the drivers of decent growth and what is the durability of the earnings 
+ Page 10 of 23 
+that we see? So, yes, we have grown by 108% in our growth, but 90% of the revenues that we 
+have seen, we have a very clear visibility on that. We are very clearly  transitioning and we are 
+in the throes of this transition from a single segment product company into a multi -product 
+platform. And it is a platform play, as you see. Put in a product and then go back to it and cross 
+sell and upsell. And our IP note, which is there, is nobody does this better than us when it 
+comes to working capital financing and everything on a single chassis.  And this is something 
+which we continue to hear from banks, both in Singapore and in Germany, where we were last 
+month at CYBER. Everyone wants a single chassis. Nobody has been able to deliver it because 
+all other companies are old companies, all with leg acy infrastructure, legacy tech stack.  They 
+may say micro-services, but it is only at the top layer. Our recurring SaaS revenues and cross-
+sell engines, that provides a durability. And most important, where I started from, our 
+leadership team, which is so experienced.  That is what we are doing again and again. That i s 
+the leadership team that we have. That is what is creating this huge differentiation. And these 
+are leaders who have done businesses at scale, whether in banks or whether in tech companies, 
+building products. 
+What is the outlook that I would like to leave you with? And the outlook is, over the next six 
+months again, on a standalone basis, we will grow our revenues year-on-year between 75% to 
+85%. So, on a full year basis, our revenues on a standalone basis should be 75% to 85% over 
+last year. On a console basis, this should be close to 3 00%, between 200% to 300%. That i s 
+number one, to leave you with. 
+Second, our margins will continue expanding as our IP investments start bearing fruit and our 
+IP investments start flattening out. We will continue to do global expansion. We are talking of 
+global expansion.  You are seeing our expansion both on the pipeline side as well as our 
+investments that we are  doing in new geographies. We will  continue doing that. We will be 
+entering, in my last call I said, we will soon be entering the U.S. market also. And we target to 
+do 15% closure of the $45 million pipeline tha t we spoke about within this year. So, these are 
+clear benchmarks that you can hold us to. We are seeing a lot of traction when it comes to the 
+jewel in the crown, which is PSBXchange. We have been signing deals on PSBXchange. They are 
+a very strong pipeline. We expect to have between Rs. 3,000 crores to Rs. 3,500 crores worth 
+of transactions or approvals on the pipeline by the end of the year.  That is something which 
+everyone has been looking forward to. And we are happy to say we have a very strong pipeline 
+out there on PSBX change. On the efficiencies at the internal level, we are looking at our 
+manpower very closely. Then we are seeing opportunities of enhancing our productivity. We 
+are letting go. We are restructuring our people.  We are making do with lesser manpower to 
+deliver the same work which we have been doing. So, we are seeing efficiencies on the 
+manpower side also. 
+Very, very strong revenue growth.  That is what I will leave you with. And I am now happy to 
+take any questions that you all have. Looking forward to a lot of questions.  We have enough 
+time. A lot of questions. Anuj, over to you. 
+ Page 11 of 23 
+Moderator: Thank you very much. We will now begin with the question and answer session. Our first 
+question comes from the line of Aakash Jain from Money Curves Analytics. Please go ahead. 
+Aakash Jain: Yes. Thank you for such a detailed walkthrough on the presentation. I just want to understand 
+basic stuff. I do not know whether it i s quite basic, but when I look at our half yearly number 
+ending March, and when I look at our half yearly number ending September, there is a 
+significant increase in revenues and an even more significant increase in costs.  So, is there a 
+difference in accounting treatment between the two hal ves or is it the same accounting 
+treatment but clearly much more revenue generation in the same accounting treatment? And 
+obviously we are incurring more costs because of all the IP development. So, I am just trying to 
+understand how should I reconcile the two halves? Is it the same accounting treatment or there 
+is a change because of shareholding or accounting treatment? 
+Raja Debnath: There is no change in the accounting treatment. What is happened is you have seen the effect 
+of the amalgamation and the acquisitio n that we have done. And that i s what is playing out.  
+Last half year, the half year of last year, we did not have the benefit of the revenues of the 
+company that we had acquired. That is what you have seen. And the increase in expenses are 
+also because now we have consolidated all of those companies also. That is the reason. 
+Aakash Jain: Sorry. So, this amalgamation is basically not the scheme we have filed. Is this now based on the 
+scheme we have filed or this is still based on the acquisitions we have done but we are 
+obviously taking the full revenues of the acquisitions that we have done over the past months 
+and years? 
+Raja Debnath: These are only of the acquisitions. These are not of the amalgamations. Amalgamations are still 
+pending. These are only acquisitions. 
+Aakash Jain: Because you used the word amalgamation that is why I was a little confused. So, this is basically 
+the acquisition that we have done in the last six months. That cost is obviously that.  Revenue 
+and cost is getting added. And we have obviously pushed the pedal on cost on IP development. 
+That is why the cost base has gone up even further. 
+Raja Debnath: Correct. 
+Aakash Jain: Okay. Yes. I will get back in the queue. Thank you. 
+Raja Debnath: Thank you.  
+Moderator:                                  Our next question comes from the line of Anuj Daftari from Amrut Bharat Opportunities Fund.   
+Please go ahead. 
+ Page 12 of 23 
+Anuj Daftari: Yes. Hi. Great explanation. Just wanted to understand when we say that from the PSBXchange 
+we are going to syndicate debt or financial credit for Rs. 3,500 crores, what is the sort of 
+earnings that we envision to make in terms of gross revenue? 
+Raja Debnath: I can give you some broad numbers. And these are public figures. The revenues that we 
+generate from them, net revenues will be 10 bps on the sourcing. There will be a net 20 bps on 
+the technology usage with some of the banks, the PSBs and the non -PSBs will use. And the 15 
+basis points on the onboarding. So, in effect, close to 45 basis points is what one can look at 
+earning from these. And these are not just PSBs. I take the opportunity to explain to peopl e 
+that when we say PSBX change, it is not just the public sector banks who will be participating. 
+This is open f or private sector banks, and NBFC s in the country also.  And this is not just, w e 
+have started with supply chain financing, but it will be extended to supply chain finance, trade 
+finance, and any form of working capital finance for the SMEs or the corporates. 
+Anuj Daftari: Got it. Okay. Thank you. Okay. 
+Moderator: Thank you. Our next question comes from the line of Hitendra Pradhan from Maximal Capital. 
+Please go ahead. 
+Hitendra Pradhan: My first question is related to the PSBXchange. Can you elaborate a little bit more on what we 
+are doing there and that and also on the IP that we are building on the cash management 
+system? If you can elaborate what exactly we are doing and what is our IP doing over there. 
+Raja Debnath: If I got the question right,  first question is around PSBX change and second is on cash 
+management, what we are building. So, PSBXchange is a platform where banks can through 
+one single API connection or one set of APIs connecting to the platform get access to the entire 
+ecosystem on the other side of corporates, FinTechs, various B2B marketplaces so that they do 
+not need to connect to these various platforms individually. So, that is what the PSBXchange is 
+all about. So, it is a tech cum management play that we finished playing out there. It is a seven 
+year exclusive deal that we have which gives us the opportunity of creating a supreme mode 
+because we will be connected to all these banks and corporates for the next seven years. So, it 
+becomes very difficult to dislodge us from this space across the working capital cycle. Going to 
+what we are building on the cash management piece is banks require software for running the 
+cash management business.  Cash management comprises the liquidity, the rece ivables, the 
+virtual account management. All of these are modules which are needed. When you do salary 
+processing or when you are collecting payments from your dealers, all of these when you are 
+working with a bank, the backend is the cash management system. That is what we are building 
+and that is what the world has not seen in the last 20 years, no new platform. That is what we 
+have built and we are finding brilliant traction out here because we are the latest, no legacy 
+architects, no legacy systems, latest systems, latest tech.  That i s the reason why banks are 
+loving us. 
+ Page 13 of 23 
+Hitendra Pradhan: Thank you. What is the status quo on the cash management side? What are the existing 
+players? 
+Raja Debnath: The existing players on cash management if I give you a couple of names would be Finastra at 
+a global level. You will have Intellect India that you know of. 
+Hitendra Pradhan: Okay sir. Thank you. 
+Raja Debnath: Thanks. 
+Moderator: Thank you. Our next question co mes from the line of Paras Chhed a from Purple One Vertex 
+Ventures LLP. Please go ahead. 
+Paras Chheda: Thank you Raja ji for the detailed explanation and reasonably strong results. Good afternoon. 
+I just wanted to understand a little bit of the console thing. As standalone numbers, the EBITDA 
+margins are powerful, the PAT margin is also powerful. But for the entities that have been 
+acquired, the EBITDA margin seems to be in the 10% range. Broadly working and the PAT 
+margin is also quite low about 2.5% and all.  So, I mean, just trying to understand how do you 
+look at the EBITDA and the PAT margin on the console basis for the full year FY’26 if I am missing 
+something on that. And how do you look at the potential projections for FY ’27 as well on the 
+growth, revenue growth and the margin front. So, that is question one. 
+Raja Debnath: Okay. So, to answer on EBITDA, when we acquired these companies, as you know, one of the 
+companies that or one of the set of companies that we have are the services line.  So, product 
+companies and service companies have very different EBITDA margins and multiples. So, 
+service companies will have much lower EBITDA and that is the reason what you are seeing is 
+because of the amalgamation or consolidation of our financial, our EBITDA percentage drops 
+and that will continue. Becau se as long as our  services business has a larger share in the 
+revenue of the consolidated financial, you will see a lower margin out there.  However, with 
+our IP that we have built on the product side, you will soon start seeing a difference in the 
+proportion of the product revenue and the service revenue at a consolidated level. That you 
+will start se eing a higher EBITDA because it i s a mathematical equation that your product 
+companies will give you much higher EBITDA and you will see what kind of EBITDA product 
+companies will give you. Service companies will continue giving you more EBITDA.  That is it 
+from me. 
+Payal Maisheri: Raja, I just want to add one point. Paras  ji, there is som e calculation error. Our consolidated 
+PAT margin before NCI is 7% and post NCI is 6.5% and our EBITDA margins are 18% on console. 
+Just clarified 
+Raja Debnath: He wa s not talking about the consolidated basis. He is talking about  the other acquired 
+businesses. 
+ Page 14 of 23 
+Paras Chheda: Yes, I was talking about the acquired entities. Specifically on that. 
+Raja Debnath: You are right. 
+Paras Chheda: So, on a full year basis, what kind of  blended EBITDA margins can we expect on a stabilized 
+basis in FY’26 or FY’27, when your product margins or revenue also continue to add here? 
+Raja Debnath: I will leave that question to Payal. Payal if you are able to answer that question. 
+Paras Chheda: Because if we can have some of the  product revenue also. So, broadly what kind of EBITDA 
+margins can we expect? 
+Raja Debnath: So, Payal if you can just take the question on next year’s EBITDA margin at a console level. 
+Payal Maisheri: At a consolidated level next year we can expect a EBITDA margin of 25%. 
+Paras Chheda: Okay. So, the contribution through the product improves quite a bit, significantly. 
+Raja Debnath: Yes. There are two things which are happening Paras ji. One, the I P that we have built at the 
+product side those go up. And this PSBXchange will start kicking in from the next year in a big 
+way. 
+Paras Chheda: Right. And just last one from my side. So, you have given a guidance for FY’26. For FY’27, I mean 
+any range, guidance that can be sort of  
+Raja Debnath: I can give you for the next five years Paras ji, but I am not supposed to. 
+Paras Chheda: Okay. I mean but any expectation that you may give. 
+Raja Debnath: Expectation that market should have from us is if you have seen our growth here on a 
+standalone basis that you have seen 75% to 80% growth year-on-year. You should be looking 
+at the similar numbers. 
+Paras Chheda: Okay. Understood. Okay thank you sir. 
+Raja Debnath: Thank you. 
+Moderator: Thank you. Our next question comes from the line of Nishita Shantesha from Sapphire Capital. 
+Please go ahead. 
+Nishita Shantesha: Hello. So, again my question is on the EBITDA margin only. I just need some clarification, you 
+mentioned that the IP  that we have build on the product side come in , we should see higher 
+EBITDA margin. So, when do we see that happening and what will be the sustainable EBITDA 
+ Page 15 of 23 
+margin because currently in H1 FY’ 26, we saw that the EBITDA margin was at 18% compared 
+to 31% in H2 FY’25. So, just wanted to understand that. 
+Raja Debnath: Two different points here. So, when you ar e looking at H1 EBITDA margin of 18% versus last 
+year, you have to remember that the revenues were much lower. The absolute EBITDA is 
+higher. However, the absolute EBITDA is higher because we have also, we have amalgamated 
+the, or we have consolidated the numbers from our service businesses also, which were not  
+there last year. Therefore, it i s not a like -to-like comparison of margins. The second point is, 
+yes, our EBITDA margins will continue improving because of the product. And on a steady state 
+basis, which we will hit, you should be expecting a 50% EBITDA margin on the product side of 
+the business. So, when you add the product margins and the service margins on a blended 
+basis, you should be looking at a 30%, 35% on a long-term basis. 
+Moderator: Sorry to interrupt. Nishita ma'am, there is a lot of background noise coming from your line. So, 
+if you can self-mute the line when the management is answering the question, please. 
+Nishita Shantesha: Yes, yes, sure. My bad. So, just confirmation on long -term basis, on a blended basis, we will  
+have 20% to 25% of EBITDA margin, right? 
+Raja Debnath: 30% to 35% I said.  
+Nishita Shantesha: Okay, 30% to 35%. Okay, understood. And you mentioned that 25% margin, we are expecting 
+in FY’27. So, when do we see us reaching the 30% to 35% level? 
+Raja Debnath: That is again, you are asking for a long- term view, but I would say over the next three years, 
+three to four years is when we should be expecting that. 
+Nishita Shantesha: Okay, understood. Thank you sir. 
+Raja Debnath: Thank you. 
+Moderator: Our next question comes from the line of Mahavir from ZenFlow. Please go ahead. 
+Mahavir: Sir, thank you very much for this call. To a certain extent, I have understood the products that 
+we have at Veefin. But in terms of, say, a layman looking at Veefin, what kind of problems does 
+Veefin solve and what is the TAM size?  If you can just elaborate on that, it will give me more 
+clarity, sir. Thank you. 
+Raja Debnath: Okay, I pulled my slide deck back to the current slide. 
+Mahavir: Okay. 
+ Page 16 of 23 
+Raja Debnath: So, this TAM slide, by the way, does not include PSBXchange and the work or the response that 
+we are finding from various countries. We have six countries which have reached out to us for 
+them to build the same PSBXchange in those countries. And again, we are the only one globally 
+with the tech and the k now-how for building that PSBX change kind of a platform in those 
+countries. So, we have become an obvious choice. The problem that we are solving 
+Mahavir: My question is more about use cases, sir. Can you elaborate on that? 
+Raja Debnath: I was just saying that. The problem that we are solving for banks is whenever  a bank wants to 
+do a supply chain financing, there are corporates, there are suppliers, there are dealers. They 
+require financing, they require payments, they require LCs, they require BGs, all of us who are 
+in the business require that. They require to access the bank to request for financing, request 
+for services. SMEs require to go to the bank for requesting for financing, for various products. 
+These are all things which SMEs and corporates and retail customers do with the bank.  What 
+powers this? There i s a technology in the bank which is powering it. So, somebody has to 
+provide that technology. That is what we are solving for. So, the use case is very simple. Banks 
+have to run. So, till the time banks remain, we are not doing anything rocket science. We are 
+not going and building something new and trying to go and find a new customer and explain to 
+them why they need to take us. Banks are using these kind of products right now. The products 
+may be substandard, may be decent, may be excellent. Wherever the first two are there, banks 
+are looking for replacement. And that is where we are going in.  We are to replace products 
+which do not work the way banks are expecting them to work or where players are getting into 
+the business. New age digital banks are coming in or banks are getting into the trade finance 
+business, supply chain finance business. They need a new system. That is where they come to 
+Veefin. 
+Mahavir: Okay sir. Got it. Sir, also when are we expecting the de -merger to happen? Like the structure 
+to finalize and when are we expectin g the consolidated revenue and P AT to be shown on a 
+balance sheet? 
+Raja Debnath: We are already seeing consolidated, but I think your question is when are we seeing the 
+amalgamation? And then we will  be able to see it on a single. So, the amalgamation slide, if 
+you remember, we are expecting by Q2, Q3 of FY’27. So, we have already started the work. We 
+have already filed it with BSE and SEBI. We are awaiting the approval. Once the approval comes 
+in, then there i s a shadow approval as a process. Then the next thing we apply to NCLT and 
+wait for the approval. The moment NCLT gives us the approval, we are then ready. 
+Mahavir: Okay. Got it. Thank you. 
+Raja Debnath: Thanks. 
+ Page 17 of 23 
+Moderator: Thank you. Our next question c omes from the line of Anshul Sehgal from Sehgal Capital 
+Advisors. Please go ahead. 
+Anshul Sehgal: Okay. My question is, what is the benefit that we have got from the capital that we have raised? 
+How has that opened opportunities for us?  One is quite obvious that we ha ve been able to 
+acquire companies, but on our core business, how does capital help? 
+Raja Debnath: Big time. Th e IP investment that we are doing would not have been possible if we had not 
+raised capital. The fact, as I said, why do people not want to enter the business? Because these 
+are long gestation period businesses. It takes years to build a product.  But our expertise, our 
+execution has been spot on. Because of the experience team that we have, because of the fact 
+that we have next to no attrition, voluntary attrition in our team, we have been able to build 
+products in a very, very sho rt period of time. When people see us, even in Singapo re, when I 
+met customers here, banks, they were surprised that how is it that a company which is so young 
+has built such a large platform of various products.  And this was only possible because the 
+investors along the line helped us both in the subsidiaries by bringing in capital in the 
+subsidiaries for us to build these various products and within the parent companies to allow us 
+to continue building these products and invest in these self-sustaining IPs. 
+Anshul Sehgal: Right? You know, there are many, as you yourself mentioned, that there are many companies 
+which provide products to banking and finance companies.  And some are excellent, some are 
+average, some are below average, and we are keeping to the latter two. Now, you know, for a 
+company which is so nascent in a business that is so critical for banks, why would they come to 
+you itself? Why would they not go to the established players who are excellent and large? Is it 
+because you can reach them better? What is the reason? 
+Raja Debnath: I think it is a million-dollar question. The answer to that is we did not become, most of you are 
+seeing us today from the point that, okay, you guys have been doing so much, but we were not 
+like this always. If you could have seen us in our infancy, it was difficult even for us to go in and 
+sell to the bank because banks would always say, well, where have you done this before? Who 
+are your reference clients? Which is the large bank which is going to stand and vouch for you? 
+But because we have done. We are not a one-year-old company. Because we have been in the 
+business long enough, because we have delivered on supply-chain finance. As you remember, 
+I said, we picked up a niche. That is a good strategy. We could have gone if our strategy would 
+have been pick up a trade finance or cash management when we started, we would not have 
+been here. We would have failed. We would have failed because there were much larger, 
+better entrants at that point in time. Because we picked up supply -chain finance, which was a 
+very complex product. Nobody was looking at it. And then we made a name for ourselves out 
+there. Along the line, we built a very, very strong sales engine. Companies fail in the enterprise 
+tech business, not because they just cannot build a product, but also because they cannot sell. 
+Many players, we build a product and can sell only in their home geography. But our experience 
+and our track record of being able to open new geographies, time and again, not just one 
+ Page 18 of 23 
+country, time and again, going into multiple countries, being able to convince customers out 
+there, convince, sell, picking up one market at a time, landing out there, having a land and 
+spread strategy. These are all strategic calls that we have taken and we have been able to stick 
+to it through thick and thin. That is the reason why these banks are now looking at us and 
+saying, okay, we have not done cash, not done trade, but I have clients where I have delivered 
+similar statures products, which is supply chain financing, and those banks are ready to come 
+in and vouch for us to say what a great team we have, which can not only give a robust product, 
+but can also service the product post . That is what is helping us, our track record. 
+Anshul Sehgal: And the sales engine that you speak of, are the sales team, or is that an online, or some sort of 
+a differentiated model? 
+Raja Debnath: It goes back to culture.  As a company, we have a very, very different culture than most other 
+organizations. And I ha ve spoken about culture multiple  times. People may think that I am a 
+HR guy, but culture is the most important thing in our company. We invest a lot in that. Because 
+of that, and the strategy that we have, our sales engine is also very different. We pick up a 
+market, go up to the market for years together.  We do not shy away from investing in the 
+market. This year itself, we must have done 40 events globally.  40 events globally, w e have 
+spent that money, built the credibility out there, engaged customers, our sales team is very, 
+very well conversant with our products. They are able to talk the language of bankers. So, these 
+are differentiated teams, which we have built over time. 
+Anshul Sehgal: How many employees do we have in all, and how many sales employees do we have? 
+Raja Debnath: We, on the product side, we have close to 600 across the group.  We have around 900 people 
+on the services side of the business. And on the sales team, only on the product side, we have 
+close between 35 and 40 people. 
+Anshul Sehgal: And those are in local geographies, or they are stationed at the head office? 
+Raja Debnath: It is a mix. It i s a mix that we have, in local geographies, at the head office, multiple. And we 
+travel a lot. 
+Anshul Sehgal: All right. And these new lines of business that we have entered, outside of supply chain finance, 
+have we sold to existing customers only, or we hav e added new customers in t hese lines of 
+business? 
+Raja Debnath: New. Our pipeline, which you see, there is a fair mix of the pipeline between existing customers 
+and new customers. And the new customers are much larger in size. Much, much larger. 
+Anshul Sehgal: All right. I think I will get back in the queue. Thank you very much. 
+Raja Debnath: Thank you. 
+ Page 19 of 23 
+Moderator: Thank you. Our next question comes from the line of Arnab Bhattacharjee, an investor. Please 
+go ahead. 
+Arnab Bhattacharjee: Hi, Raja sir. Am I audible? 
+Raja Debnath: Yes, you are. 
+Arnab Bhattacharjee: Yes. I wanted to understand one thing. So, first of all, this is sort of statement.  Tell me if I a m 
+right or wrong. If I look at the intangible asset and the goodwill, they have gone up, is that the 
+reason? Is that behind that IP , you know, and amortization of that IP ? Is that the reason why 
+we see higher costs, or is there something more I am missing? 
+Raja Debnath: No. So, on the intangible, it is because of that. You ar e right. Intangible is because of the IP  
+investment, but the goodwill is because of the acquisition. 
+Arnab Bhattacharjee: Okay. And this will be a recurring cost for quite some time, right? Because we will be amortizing 
+this IP expense for quite some time. 
+Raja Debnath: Absolutely. The IP expenses are going to be amortized in  line with the revenues. So, it i s a 
+weighted average method that we do.  And it i s a 10- year amortization schedule. So, as we 
+continue earning from the IP, we continue amortizing accordingly. 
+Arnab Bhattacharjee: Okay. My next question on the business. So, in one of the interviews, I wanted to understand.  
+So, initially, when I started off, I thought yours was a platform business. But what I understood 
+from an interview, that it is not. In fact, I believe you have multiple deployments in multiple 
+clouds, becau se for P SB Alliance, I think it i s their own cloud, right?  Is that understanding 
+correct, or am I wrong? 
+Raja Debnath: So, when you say platform business, that continues. So, it does not matter whether it is on our 
+managed cloud, it is a client managed cloud, or it is Veefin It does not matter. At the end of the 
+day, we are a product company. And the key difference, the way you should look at a product 
+company is, whether the product that we have built, is it something that we can lift and shift? 
+Or do I have to go to the next client and then do a bunch of customization? So, that is the length 
+that you should look at a company from, rather than just being a platform or a product. 
+Arnab Bhattacharjee: Okay. So, my question is actually, even if, okay, I unde rstand. Product development, it i s fine. 
+But what about DevOps?  Your DevOps size will keep increasing as and when you keep 
+deploying more, right? Because someone will have to look after the clouds, right? Or am I 
+wrong? 
+Raja Debnath: Places where we manage the infrastructure as such, yes, the DevOps will increase. However, 
+the DevOps from an overall cost structure  is a very, very small percentage compared to the 
+overall cost that we see. 
+ Page 20 of 23 
+Arnab Bhattacharjee: Okay. And where are we with respect to that core banking piece, the missing piece of our 
+puzzle? What do you think about that? When are we getting there? 
+Raja Debnath: I think that i s the last piece of the puzzle. I will hold on. I will not say anything more on that. 
+But let us wait and watch. I will not comment anything on the specific core banking thing. 
+Arnab Bhattacharjee: And PSB Xchange, congratulations on getting that platform started. But I believe that still that 
+volume, it is about to get traction yet, right? Like that was just the beginning, right? 
+Raja Debnath: Absolutely. 
+Arnab Bhattacharjee:  Okay, awesome. Great set of numbers Raja sir, like this is a phenomenal performance. Looking 
+forward. And I will keep asking more business questions, but that is it from my side. Thank you. 
+All the best. 
+Raja Debnath: Thank you. 
+Moderator: Thank you.  Our next question comes from the line of Uday Chandak, an investor. Please go 
+ahead. 
+Uday Chandak: Hello. Audible? 
+Raja Debnath: Yes.  
+Uday Chandak: Yes. Congratulations, sir, for the great number, amazing presentation. Actually, I have two 
+questions. First one is related to pricing. Like, because now we have multiple product lines, 
+multiple platforms, like trade finance, cash management, then we are also exploring internet 
+banking, loan management, and existing PSB  Xchange. So, how does our SaaS pricing work 
+across all these product lines?  So, if you can share what would be the metrics to evaluate all 
+these different segments, it would be better. And my second question would be, like, so when 
+I see Veefin, like, Veefin started with a  vision “Say Think Veefin”. Then last year, it was thi nk 
+working capital, think Veefin. Now we have a vision, think digital banking, think Veefin. So, we 
+are exploring, we are expanding our path. But at this point, now I want to highlight, like, 
+because the new products which we are exploring, it has multiple, it has a severe competition 
+between Astra, Intellect, and all big companies.  So, what is your answer? Like, what typically 
+kills the new core banking entrants? Like, what comes to my mind, like higher customization 
+costs, long-term cycle, implementation failure, incumbent locking, or talent attrition ? So, if I 
+have to ask you, like, how does Veefin will invert each two protect its more, w hat would be 
+your answer? Because it is a new product line we are exploring, and I see, I know we have been 
+IBSI, SCF industry leader for two years, and that is why we are having this mode in supply chain 
+finance. But in terms of new product line, we are nowhere near to the other players, as I said. 
+So, looking forward for your review. 
+ Page 21 of 23 
+Raja Debnath: Long question. Let me try to remember what was the first, let me take the second one. If I 
+remember the first question, I will answer that. What is the mode, we are a new player, 
+completely agree. But the fact that we are a new player can be seen as a positive also. And the 
+positive is, we have no, the technology that we a re using right now is the latest techn ology. 
+The architecture that we a re using is the latest architecture.  The functionality that we are 
+building is the latest functionality . We are bridging the gap between the usage of, personal 
+usage of all our clients that they are using, for example, using Gen AI. How they are using in the 
+personal life, we a re bringing that into your usage on the corporate side also, which none of 
+the platforms have. So, that is the reason why banks want to talk with us. We are much lighter 
+in that sense. We are ready out of the box. Our time is going to be lower. That is what is exciting 
+the bank. And as I go back to this, banks are looking at, banks are fed up with the old legacy 
+players. Yes, players are big. They are very, very big. But because they are big, they do not have 
+the ability of pivoting and moving at the pace that we can move. So, they are being large, they 
+believe they are Achilles heel. That is the reason why they cannot move at the pace that we 
+can move. And that is the reason why banks who are being more architectural first.  So, global 
+top banks, and the banks that we are talking with right now, both in Singapore, what we are 
+talking in Germany, they are all talking in terms of architecture. And that is where we score 
+much beyond what these other incumbent players have. So, that is the story on why these 
+players will look at us, not just because we have better fun ctionality, not just because we wi ll 
+be able to deliver things better, faster for them, but because we are a zero legacy system. That 
+is what we use to think. We are a zero legacy system for these guys. Now let me try to think. It 
+is a memory game. What was the first question that you had asked? 
+Uday Chandak: It was related to SaaS pricing, sir. 
+Raja Debnath: Related to? 
+Uday Chandak: SaaS pricing, like because we have multiple product lines. So, pricing model. 
+Raja Debnath: Pricing model. 
+Uday Chandak: Yes. 
+Raja Debnath: The pricing model that we have in our quiver is all around SaaS based pricing, recurring pricing. 
+It could be pricing based on transaction. It could be pricing based on A UM. But what we a re 
+seeing a lot now is annual recurring. So, the market also is moving away from the old school of 
+upfront, big licenses, and then AEM fees . Even the large banks that we are talking with right 
+now, they are all talking about what can be a recurring fee.  We can grow with them as they 
+grow. So, grow with the bank, pay as you grow model. As they pay as you grow rather than pay 
+as you grow model is what we are seeing happening out there in the market. 
+Moderator: Uday sir, does that answer your question? 
+ Page 22 of 23 
+Uday Chandak: Sir, it will be applicable on more on core banking product also? 
+Moderator: Sorry to interrupt. 
+Raja Debnath: No, all products. All products. 
+Moderator: Thank you. Our next question comes from the line of Ashu Raj, an investor. Please go ahead. 
+Ashu Raj: Yes, hi, thank you and congrats. Great to see the progress in the growth. So, the first question 
+is, even if it is not possible to declare the results quarterly, it would be really great for investors 
+if we can have some update from the company in a one page, two page document showing the 
+quarterly progress. That will really help a lot. On this, is it possible to do that on quarterly basis? 
+And second is, is there any plan to increase the stake in the acquisitions, like increase the stake 
+in Epik or other, is there any plan on that line, even in short term, medium or long term? 
+Raja Debnath: So, the first thing in terms of quarterly, yes, from December onward, we start showing our 
+quarterly results and start doing that. Because as you know, next year by July’ 26, we'll be 
+eligible to move to the main board. So, from our compliance perspective, we have to start doing 
+that and we are gearing ourselves in to move towards that direction. That is point number one. 
+And second, in terms of taking over a higher stake in the acquired companies, yes, that is a part 
+of the plan that we have. So, those were the  agreements that we had in place when we 
+acquired these companies. 
+Ashu Raj: Okay, great. Thank you. I will get back in the queue. I have more questions, but I will wait, yes. 
+Raja Debnath: Thanks. 
+Moderator: Thank you. Our next question comes from the line of Mahesh, an investor. Please go ahead. 
+Mahesh: Hello. 
+Raja Debnath: Yes, Mahesh. 
+Mahesh: Hi. I just want to understand that we say it i s a product company and we have done a lot of 
+services based company acquisition. What is the strategy behind it? And whatever the IPO fund 
+was raised for the Veefin, was it used to acquire those service companies or how it is? So, this 
+is the second question. 
+Raja Debnath: We have not used any IPO funds  till date on acquiring any companies. So, all the acquisitions 
+which have happened, they have happened through raising that we had done in the subsidiary. 
+So, point to be noted. No Veefin money was used to acquire the companies, no equity raised 
+that we had done. Yes, that is the question. What was the other question that you were asked 
+for? 
+ Page 23 of 23 
+Mahesh: What was the strategy?  Veefin being the product company, what was the strategy behind to 
+acquire a services company? 
+Raja Debnath: So, the reason that we had acquired a services company is we have a lot of requirements from 
+our clients on the services side also. And we were letting that lay on the table. Plus the service 
+side of the business also then becomes a way of opening doors into multiple corporates. So, 
+now when you look at the PSBX change, where we are also connecti ng corporates on the side 
+that is where you will see the strategy come in place.  So, earlier, the strategy was not clearly 
+visible to the market, but now we see that on one side, we are going after the banks, on the 
+other side, we have corp orates also coming in. That becomes a great engine for us of getting 
+corporates also on the other side. So, we are getting corporates as well as they are able to 
+provide services to our banking partners who need the services. 
+Mahesh: So, is it fair to say that, it is more of a strategic acquisition to support your clientele on a service-
+based requirement? And also at the same time, all the acquisition has happened where zero 
+money has been used from the Veefin Company, but all the Veefin investors will get the benefit 
+of the service-based acquired company. 
+Raja Debnath: Absolutely right. Absolutely. That is exactly the way.  
+Mahesh: Okay, thanks for the clarity. Thank you. 
+Moderator: Thank you. Ladies and gentlemen, we will take that as the last question for today. I would now 
+like to hand the conference over to the management for closing comments. 
+Raja Debnath: Thanks, thanks all of you for joining. So, I would just leave you with the closing thoughts that 
+Veefin is geared towards building India's global BFSI product powerhouse. And this leadership 
+team that you see here, the leadership team that I showed you right up front, that is the team 
+which will deliver this for you. Thank you. Thanks for joining. Onwards to the next call. 
+Moderator: Thank you so much, sir. On behalf of Veefin Solutions Limited that concludes this conference, 
+thank you for joining us and you may now disconnect your lines. 

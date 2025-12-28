@@ -1,0 +1,1337 @@
+ 
+ 
+November 20, 2025 
+To   
+BSE Limited   
+Phiroze Jeejeebhoy Towers   
+Dalal Street   
+Mumbai 400001   
+ 
+Scrip Code – 543597 
+ 
+Subject- Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 - Transcript for Q2 & H1 for 
+FY 2026 Post Earnings Conference Call held on November 18, 2025. 
+Dear Sir/Madam, 
+With respect to above captioned subject, please find attached herewith transcript of the Conference 
+Call for Analyst and Investors held for Q2 & H1 for FY 2026 on November 18, 2025 at 05.00 P.M. IST 
+(12:00 hours) 
+ 
+Kindly take the same into your records. 
+ 
+Yours faithfully,   
+For Virtuoso Optoelectronics Limited   
+ 
+ 
+ 
+Prasad Zinjurde 
+Company Secretary and Compliance Officer 
+M No. A 54800 
+ 
+ 
+ 
+  
+ 
+VIRTUOSO OPTOELECTRONICS LIMITED 
+ 
+Q2 & H1 FY26 
+ 
+POST EARNINGS CONFERENCE CALL 
+ 
+November 18, 2025 
+ 
+ 
+Management Team 
+ 
+ 
+Mr. Sukrit Bharati - Managing Director 
+Mr. Sajid Shaikh - Chief Financial Officer 
+ 
+ 
+ 
+Call Coordinator 
+ Strategy & Investor Relations Consulting 
+ 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 2 of 27 
+ 
+Presentation 
+ 
+Vinay Pandit: Ladies and gentlemen, on behalf of KAPTIFY Consulting Investor 
+Relations team, I welcome you all to the Q2 and H1 FY 2026 Post 
+Earnings Conference Call of Virtuoso Optoelectronics Limited. Today 
+on the call from the management team, we have with us Mr. Sukrit 
+Bharati, Managing Director; and Mr. Sajid Shaikh, Chief Financial 
+Officer. 
+ 
+As a disclaimer, I would like to inform all of you that this call may 
+contain forward-looking statements, which may involve risks and 
+uncertainties. Also, a reminder that this call is being recorded. 
+ 
+I would now request the management to briefly run us through the 
+investor presentation, giving us the business and performance 
+highlights for the period ended September 2025, the growth plan and 
+vision for the coming year, post which we will open the floor for 
+Q&A. 
+ 
+Over to the management team. 
+ 
+Sajid Shaikh: So good evening, everyone. Thank you for joining this call. I think the 
+numbers we have already declared. I'm just running through the same. 
+So this is a comparison that is put on your screen, which compares H1 
+FY 2025 and H1 FY 2026 as a comparison. So at a top line level, the 
+half year of 2026 has been pretty similar or flattish in comparison to 
+last year. We did about ₹305 crores of net sales last year. This year, it 
+has been ₹298 crores. However, the good thing over here is that at an 
+EBITDA level, the company has performed better. 
+ 
+Even despite the fact that there is a slight dip on the overall number, 
+the company has done about 13.5% more EBITDA. So versus ₹28.1 
+crores of last year, we have done about ₹318.9 crores EBITDA 
+margin. It stands at about 13.6% in terms of percentages, which is up 
+by 163 bps. The primary reason for this has been a larger contribution 
+from non-AC products. So as we move forward during the Q&A, 
+probably we'll answer this in a little more detail. 
+ 
+The PBT is slightly lower than expected. The PBT has come to about 
+₹7.8 crores, which is about 30% lower than last year. PAT level 
+although seems much more lower, it is at 1.1% versus 2.4% that we 
+did last year. But a large part of that can be attributed to the fact that 
+there has been a huge component of deferred tax liability, which has 
+come on the table here, which has brought down the overall PAT 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 3 of 27 
+ 
+levels. So that's primarily broadly the financial numbers for H1. Can 
+you move forward, please? 
+ 
+So this tells basically how we have grown over the years from 2021 to 
+2025. The CAGR in top line has been 43%. When we consider the 
+PBT, the CAGR has been at 56% in absolute value wise. EBITDA has 
+grown by about 37% and PAT has grown by about 48% year-on-year 
+over the last five years. Next slide, please. 
+ 
+These are the annual statements. I think we can skip this for now. Way 
+forward, Sukritji, would you like to take this? 
+ 
+Sukrit Bharati: Yeah. So good evening, everybody. And once again, thank you for 
+being part of the call. So last quarter, of course, in terms of AC sales 
+has been a little slow. Even though the demands are strong, we expect 
+we have a strong order book also looking forward. I mean, two, three 
+reasons, one, of course, season being bad, inventory was high and 
+second, there's a change in B rating. So newer specs were not released 
+on time, which are being released now. So all the factors combined, I 
+think Q2 was slower than expected for us. 
+ 
+Anyhow, the way forward is as follows. We see a strong order book 
+for the next six months or next eight months for the upcoming season, 
+which is a good sign for us. So we intend to sweat the assets, all assets 
+that were created over the last 12 months, whether it is in Nashik, 
+whether it is in Chennai or Sanand, we want to start doing that, point 
+number one. 
+ 
+Point number two is our backward integration continues to grow and 
+become stronger. Even though sales were muted, we have continued 
+to expand our capacities, and we are continuing investments because 
+we believe this is only a temporary phase of three, four months. And 
+we will be back in full sale action by end of this month. 
+ 
+So things on that side are good. So we have started our own new tool 
+room for manufacturing tools and moulds. We are also further 
+expanding our EMS capacity, which I'll further talk about ahead in the 
+presentation. And that is what we are doing. As far as diversification 
+of customer base and product segment was concerned, two years ago, 
+we started the journey of diversifying from AC being our primary 
+revenue driver. So now we are happy to share that we are diversifying 
+not just within product segments, but also within customers for AC 
+because now we have more capacity. 
+ 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 4 of 27 
+ 
+Like we discussed during the last call, our capacity ramp up is 
+ongoing for 1 million pieces per annum, which is 10 lakh pieces. And 
+next year, we want to further increase this to about 18 lakh pieces of 
+CBUs of air conditioners, so which will be a major leap for us as far 
+as capacity expansion is concerned. 
+ 
+We are also happy to share that we have launched our ODM range of 
+air conditioners in the market. And we are starting to work with 
+additional customers because we have additional capacity, including 
+our current customer in the AC segment. So we hope that we'll move 
+up the value chain by not just diversifying products, but also 
+diversifying customers within the same products. 
+ 
+High potential categories. So we believe both compressor and 
+commercial refrigeration are also high potential categories that will 
+give us immediate growth. And commercial refrigeration has been 
+picking up well. We have a steady stream of orders and a strong order 
+book there as well for the next year. We also have an excellent set of 
+customers that we are working with in the commercial refrigeration 
+segment. So that is where we are expecting a good 35%, 40% growth, 
+maybe higher because it's a smaller base to come from commercial 
+refrigeration and compressors. We can go to the next slide. 
+ 
+So the capacity expansion that I was talking about. So our current 
+EMS capacity is about 400,000 cph, which is components per hour as 
+far as line capacity is concerned. We plan to double that capacity to 
+800,000 cph by mid next year. So this will be our first major 
+investment in EMS post, I mean, in the last few years because we have 
+major, most of the investment was going towards air conditioners and 
+commercial refrigeration. 
+ 
+AC, like I mentioned, this year we will complete our capacity of 10 
+lakhs, and we will start ramping our capacity towards 18 lakh. To this 
+extent, we have recently also tied up with a factory which is available 
+in Chennai, and we have taken that factory for operational lease for a 
+period of five years, where we will start manufacturing of air 
+conditioners from Chennai also in Q4, so which will also add to our 
+geographical presence, and it will give us additional tool designs and 
+tool platforms that are already available in that manufacturing unit. So 
+that manufacturing unit, we will start operating from first week of 
+January, and we plan to start commercial production by end of Q4. 
+ 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 5 of 27 
+ 
+Water dispenser continues to be similar. Deep freezer, we are seeing a 
+strong demand, and we will ramp up the capacity from 150,000 to 
+400,000 before the end of the next financial year. 
+ 
+Compressor, our current capacity is about 2.8 million. And the order 
+book for next year, we already have a 50% booking of capacity in 
+compressors for next year. And currently, we are maintaining the same 
+capacity. But if things are aggressive and the QCO policy continues 
+where the government does not extend the compressor import 
+restriction, then we will look at expanding the capacity within next 
+year itself for compressor manufacturing. So that is where we stand as 
+of today for our capacities. 
+ 
+Growth drivers continue to be strong demand, of course. Overall, the 
+demand has been good, even though, barring the last three, four 
+months. Localisation continues to be a focus area for the government, 
+not just for ACs, but also they are now considering other components 
+like compressors and other parts of refrigeration for the next round of 
+PLI. So I think that is a good sign. We have a strong customer base, 
+and we keep learning from them. And of course, the government is 
+definitely active with all the policies, state policies and central 
+policies. 
+ 
+Right. So now as the company stands today, these are our primary 
+verticals. Air conditioners, of course, continues to be still a dominant 
+vertical as far as revenue is concerned. AC components is structuring 
+well, both for our capital requirements and with what we are 
+supplying to others. Washing machine, we plan to do. We have 
+already done our pilot production lots. We plan to start mass 
+production in a month or two once we complete our field trials. 
+ 
+The refrigeration products. In deep freezers and water dispenser, I 
+think there is a slight mistake in EMS. We need to get that corrected. 
+In EMS, we are doing electronic controllers, and we are also doing 
+LED lighting. In refrigeration, we are doing water dispensers and 
+freezers. We have also started doing some assembly of refrigerators on 
+the higher end refrigerators for a couple of customers, which is an 
+SKD assembly as of now, and it is still a small part, but that is also 
+something that we've started doing over the last two to three months. 
+ 
+Compressor within the subsidiary of VOEPL, VCPL we are happy to 
+share, we've started commercial production and we've started supplies 
+to our customers from that segment vertical. I think it was a very 
+quick turnaround and start-up of a compressor plant. I think we were 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 6 of 27 
+ 
+able to, from start to finish, do it in less than eight months, for which I 
+think the credit is due to the team heading compressors. 
+ 
+VPPL has two plants now. One, of course, is in Chennai, which is 
+operational and is generating revenue. That plant also has a good order 
+book for the next six to eight months. The plant in Sanand that we set 
+up is in the trial phase now and will start commercial production 
+maybe in mid or end of December. 
+ 
+Some photos of our manufacturing units. So the compressor line and 
+refrigeration, of course, is what has increased in the last year. These 
+are the finished product verticals that I mentioned, semi-automatic 
+being the new one and the latest one on the block and compressors, of 
+course, we have started commercial production. 
+ 
+Components, like I mentioned, we are doing all of these components 
+in-house, and we continue to strengthen on controller boards with the 
+expansion in EMS. 
+ 
+These are, of course, some benefits, I think we have as a company. 
+One is backward integration in manufacturing. We are clear and 
+focused about staying core to manufacturing. And working with larger 
+brands and the leading brands, even multi-nationals is teaching us a 
+lot, and we continue to learn. Location wise, I believe we are well 
+placed and centrally located which also helps. LI during the last, I 
+think six months, we increased our sanction from ₹50 crores to ₹100 
+crores. So that sanction also we've gotten. 
+ 
+Right. Thank you. So that was a quick presentation about what has 
+happened in the last few months. I think we can open the floor for 
+questions. Thank you so much. 
+ 
+Question-and-Answer Session 
+ 
+Moderator: All those who wish to ask a question may use the option of raise hand. 
+ 
+Moderator: We'll take the first question from Akash Jain. Akash, you can unmute 
+and go ahead. 
+ 
+Akash Jain: Yeah, thank you, Sukrit and Sajid. A couple of questions. One is on 
+the AC part. This capacity expansion from 10 lakh to 18 lakh units 
+seems to be a new development because in the last con call, I think we 
+had not discussed expansion of AC more. And it's a little surprising 
+because in the current environment, it's a little bit surprising. And by 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 7 of 27 
+ 
+current environment, I'm not saying AC demand being weak. I think 
+the current environment in terms of most of the OEMs have increased 
+their own capacity for in-house manufacturing, right? We have seen 
+that happening to Voltas as well with the big increase in capacity in 
+Chennai. 
+ 
+And so in such an environment where we are seeing a lot of these 
+OEM guys getting PLI benefits and doing their own in-house 
+manufacturing, from a comfort point of view, what gives you comfort 
+that we will be able to increase capacity significantly and utilise it? I 
+think that's one part on the AC side. 
+ 
+The second question is on compressor. I think you mentioned that, are 
+you seeing a slight bit of risk in terms of the government again, 
+simplifying the compressor imports and this whole trend of BIS on 
+compressors and then pushing manufacturing in-house in India, do 
+you see that getting postponed a little bit? What is the feedback on the 
+compressor side and the policy decisions on compressor side? 
+ 
+Sukrit Bharati: Right. So thank you for the questions. So first question, as far as 
+capacity expansion is concerned, two things. Since that now we are 
+talking to more customers as far as AC is concerned, we see a stronger 
+demand in the market, point number one. Point number two, for the 
+next couple of years, I think the peaks are going to be very strong. 
+ 
+And to cater to the peaks, you will need some buffer capacity. And if 
+we don't have the buffer capacity, we don't want to be in a situation 
+where we are not able to cater to our commitments to our customers 
+during the peak season. So capacity expansion has two reasons. One 
+is, of course, catering to peak requirements, which come in the next 
+couple of years. That is one because customer satisfaction is very 
+critical in those times. 
+ 
+The second reason is that we believe even though some brands, like 
+you mentioned, are taking manufacturing in-house, there are a lot of 
+Tier 2, Tier 3 brands who are also growing aggressively. There are a 
+lot of brands who have also decided to not increase their in-house 
+capacity beyond what they have today. So in case the season, I mean, 
+in case we see a growth of 10%, 15% in the market, we will suddenly 
+run short of capacity is our anticipation. So even though we may not 
+utilise more than 50% or 60% of our capacity in the next financial 
+year once we achieve that 18 lakh number. But in FY 2028, we 
+believe almost 70-odd percent utilisation is possible for the expanded 
+capacity. That was point one. 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 8 of 27 
+ 
+ 
+Point two was as far as QCO is concerned, in our compressor plan, we 
+expect that the government may give a few months or maybe a year's 
+extension partially or completely for compressor imports. But looking 
+at all the investments that have been committed in India now, both for 
+rotary and reciprocatory compressors, I believe that the government 
+will not unilaterally take back these QCOs. The current QCOs that 
+have been reversed are more on the core metals. So I don't see it 
+propagating across all products. But of course, this is a policy 
+decision, so we cannot comment. 
+ 
+As far as our capacity is concerned, we have already booked half of 
+our capacity. And even if the QCO restrictions get extended with the 
+capacity that we have, we are confident that we will continue to book 
+it because customers get better service in terms of delivery. They don't 
+have to wait for three months for delivery of material. After they give 
+forecast, they can pick up material based on their comfort and 
+availability. That is point number one. 
+ 
+Point number two, in case of any service challenge support required, 
+they have local support available. So import, as long as we match 
+import prices, I don't see a challenge with capacity utilisation. That 
+being said, if QCO, our margins, of course, will be lower by 2%, 3% if 
+the QCO does not get extended, but I don't see a major hurdle in 
+capacity utilisation. 
+ 
+Akash Jain: Just one quick follow-up on this. So the AC plant, the new AC 
+extension that you're doing in Chennai, will it be catering to only 
+Voltas because obviously, Voltas is a big plant in Chennai now? Or is 
+it going to be catering to... 
+ 
+Sukrit Bharati: Other customers. So we have already started tying up with additional 
+customers who we will begin supplying in the next month. 
+ 
+Akash Jain: Okay, yeah, thank you, Sukrit. 
+ 
+Sukrit Bharati: Thank you. 
+ 
+Moderator: Thank you. We'll take next question from Achuth. Please go ahead. 
+ 
+Achuth: Yeah. I have only one question regarding RAC, most of the big 
+companies, they are saying there is slowdown in RAC. So if you have 
+contacted them in the recent time, you need to sell RAC products to 
+the partners, right? Have you had any conversation in recent times, 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 9 of 27 
+ 
+like how is the demand going on? Is the inventory cleared up? What is 
+the status of RACs, I want to understand? 
+ 
+Sukrit Bharati: So our general feeler from the market is that overall situation is 
+improving as far as inventory is concerned. Second, I mean the overall 
+industry is maybe similar or 5% plus/minus as against last year. So 
+there is no major degrowth, but because of the policy shift as far as the 
+table change is concerned. And second, because people planned for a 
+much bigger season, there was a temporary buildup of capacity. I see 
+all of that regularising by December, January because everybody 
+started planning for the upcoming season, and we already have a good 
+order book. So I don't see that being a challenge. 
+ 
+Achuth: Okay. Thank you so much. 
+ 
+Moderator: Thank you. I request all participants to limit their question. We will 
+take next question from Siddhant. Siddhant, you can go ahead. 
+ 
+Siddhant: My first question is on the washing machine side. What capacity are 
+we looking for the washing machine? And what will be the 
+realisation? My second question is on the compressor. What kind of 
+revenue should we consider in FY 2026 and FY 2027? Because if we 
+are targeting 50% of our order coming from compressor, that is close 
+to ₹200 crores. Is that number right? And my third question is 
+regarding the inventory. So what kind of inventory is in the channel? 
+And can you also give the breakup of the ₹300 crores in H1? 
+ 
+Sukrit Bharati: So washing machine, we are looking at a capacity of about 200,000 to 
+250,000 pieces per annum, with a utilisation of about 50% to 70% in 
+the next calendar year. Realisation value, one washing machine sells 
+for about ₹6,000. So anywhere between, I mean, ₹60 crores to ₹100 
+crores is what we're looking at from washing machine in the calendar 
+year. That was question number one. Washing machine, we are doing 
+8 to 9 kilos category as of now to start with as far as the product is 
+concerned, semi-automatic twin tub. 
+ 
+Second question with regards to compressor, yes, with a 50% capacity 
+utilisation, we are looking at a revenue number of about ₹200 crores 
+coming from compressors in the next calendar year. 
+ 
+Third question, as far as inventory in the channel is concerned, we 
+may not have the most accurate figures, but inventory is still slightly 
+high, but I think people have already started building up inventory for 
+the upcoming season. So I would not say that inventory should now be 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 10 of 27 
+ 
+a cause of big concern. I think people have started preparing for the 
+season. And up till March, unless the next season is delayed or slowed 
+or something of that sort, we still will continue to get strong 
+requirements from the market. Thank you. 
+ 
+Siddhant: Right. The last question, what will be the H1 breakup in terms of 
+segment? 
+ 
+Sukrit Bharati: H1 breakup, 50% of our revenue roughly came from air conditioners. 
+15% to 18% came from commercial refrigeration, about 20% came 
+from EMS and the remaining came from components. 
+ 
+Siddhant: Okay. And year-on-year, what was the degrowth in AC? 
+ 
+Sukrit Bharati: Year-on-year degrowth in AC would be about, H1, about 30%, 35%. 
+ 
+Sajid Shaikh: 75% last year, it has gone down to 52%. 
+ 
+Sukrit Bharati: Correct, yes. 
+ 
+Siddhant: Thank you. I will get back in the queue. 
+ 
+Moderator: Thank you. We will take the next question from Arun. Arun, you can 
+go ahead. 
+ 
+Arun: Thank you for the opportunity. I wanted to ask last year, the AC 
+numbers, we have gone down by 30%, 35% approximately. So what 
+makes us believe that next year will not be similar? I mean, how are 
+we optimistic on this? And based on the ₹7 crore investment which we 
+made in Chennai, what is the revenue and profit potential in that? So 
+that is my first question. Could you... 
+ 
+Sukrit Bharati: So a couple of things. One, this year, like I said, the anticipation of a 
+bumper season increased the inventory, which I think the industry has 
+sort of learned from. So I don't think the same exact mistake will 
+happen or not a mistake, but the exact mismatch will happen next 
+year, point number one. Point number two, apart from the industry, the 
+table change is expected. So that was second reason of the slowdown, 
+which is not going to happen next year. 
+ 
+The third thing is earlier, we were only an OEM where we were 
+dependent on one large customer, one primary customer for most of 
+our AC business, which is changing this year, where we have become 
+an ODM and we have our own line-up of product lines, and we are 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 11 of 27 
+ 
+looking at multiple customers. So all the three factors combined gives 
+us confidence that we will have plus the order book that we already 
+have for the next six months is much stronger. So that gives us 
+confidence that next year will be significantly better. Thank you. 
+ 
+Arun: Yeah, thank you. And the ₹7 crore this thing, investment in Chennai, 
+what could be... 
+ 
+Sukrit Bharati: Correct. So Chennai, the investment, the operational lease that we are 
+taking is to ensure that we have additional capacity in Chennai. It will 
+add about 2.5 million capacity for air conditioners. So we can realise 
+roughly about ₹400 crores from that facility. 
+ 
+Arun: So this is per year? 
+ 
+Sukrit Bharati: Per year, yes. 
+ 
+Arun: Okay. Great. Thanks a lot. One last question. For the other products, I 
+mean, which we are entering like compressors, etc. Do we already 
+have customers, I mean available with us? Or are we pitching it? Like, 
+for example, Voltas was our existing for AC. So I mean, is that the 
+same customer or we are expanding to multiple? 
+ 
+Sukrit Bharati: No. Fortunately, now we have customer tie-ups for all products that 
+we are doing. 
+ 
+Arun: Okay. Great. Any names like which could be... 
+ 
+Sukrit Bharati: We will refrain from names, but we have good multinational 
+customers in all segments. 
+ 
+Arun: Sure, thanks a lot. 
+ 
+Moderator: Thank you. We'll take the next question from Garvit. Garvit, you can 
+go ahead. 
+ 
+Garvit: Hi, thanks for the opportunity. Coming back on QCO part only, just to 
+understand more, you mentioned current QCOs are taken back on core 
+metals. So what does that mean? And how we are not going to be 
+affected because of this? 
+ 
+Because you mentioned 50% is already booked. So just trying to 
+understand earlier we used to speak about we will get the orders 
+because the Chinese compressors are getting banned or maybe not 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 12 of 27 
+ 
+able to match the quality and that is why they will not be, they will 
+mandatorily be forced to get out of the country, right? So now how 
+you are picturising our capacity to be utilised going ahead with these 
+QCOs are taken back? 
+ 
+Sukrit Bharati: So a couple of things. One is the compressor market as it stands today 
+has two directions for us. One direction is just the assembly part, 
+which we are doing now, which is the final leg of manufacturing that 
+we are doing for compressors. For doing this, the advantage that we 
+can give to the customer or we are giving to the customer is better 
+delivery time lines, more just-in-time sort of delivery, point number 
+one. Point number two is local support. 
+ 
+So as long as we, with our partners in compressors are able to match 
+landed prices of customers when they import vis-a-vis China, we don't 
+see a problem for them to buy locally. They have certain advantages. 
+They get better payment terms and they get delivery when they need. 
+So to that extent, capacity booking, like I mentioned earlier, I don't see 
+it being a challenge. 
+ 
+That being said, if the government enforces QCO, we expect a 
+vacuum in the market, which will help us probably get better rates in 
+the market and will also help us in backward integrating in the 
+compressor value chain. So as far as capacity growth is concerned, 
+compressor capacity will grow on two factors: one is the assembly 
+capacity that we have for the final leg of manufacturing to grow that; 
+and second is to backward integrate the component ecosystem for 
+compressors. So if the QCO is implemented, we will backward 
+integrate very quickly. If the QCO continues to get extended, we will 
+first establish the last mile manufacturing capability. We will ensure 
+that we have a robust supply chain with our customers. And if the 
+customers are satisfied, then we will grow the business, and we will 
+invest more in it. 
+ 
+So the compressor QCO, which was extended by one year last year the 
+extension is due to lapse in March 2026. Post March, we are 
+anticipating some extensions to come, whether it is for a few months, 
+whether it is for partial quantities, whether it is for certain models, we 
+are not clear. But once we have clarity on that, we will devise our 
+further expansion plan. But current capacities, we don't see a problem 
+for the next 12 months at least. 
+ 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 13 of 27 
+ 
+Garvit: Got it. And what kind of margins do we expect there? Like we 
+mentioned 50%, we will be getting the revenue, right or ₹200 crores. 
+So what kind of EBITDA margin we'll be doing on that? 
+ 
+Sukrit Bharati: So EBITDA margins, we are expecting anywhere between 5% and 8% 
+as of now, depending on which model and product mix. 
+ 
+Garvit: Got it. And secondly, about the guidance. So are we going to revise 
+our guidance for this year and next year as compared to the earlier 
+numbers? So if yes, what are those numbers? 
+ 
+Sukrit Bharati: The guidance remains similar. We are expecting about ₹800 crores to 
+₹900 crores top line this year. 
+ 
+Garvit: And about next year? 
+ 
+Sukrit Bharati: Next year, we will share in due course. 
+ 
+Garvit: Perfect. 
+ 
+Sukrit Bharati: Thank you. 
+ 
+Garvit: Thank you. 
+ 
+Moderator: Thank you. We'll take the next question from Akhil. Akhil, you can 
+unmute yourself. 
+ 
+Akhil: Yeah. Hi, Sukrit. So actually, my question got answered. I had the 
+question on the same lines. So as we see this compressor unit getting, 
+so the production of compressor will get onboarded and this 
+operational lease getting into play, so a lot of units will get onboarded. 
+So I wanted to ask on the same lines, like what will be the guidance, 
+as you told, because in the last call, if you remember, we gave a 
+guidance for ₹950 crores to ₹1,000 crores top line, right? So what is... 
+ 
+Sukrit Bharati: Actually, after Q1, we had said ₹900 crores plus/minus ₹100 crores. 
+But yes, so I mean, looking at the loss of growth in the first, I mean, in 
+H1, I think ₹800 crores to ₹900 crores would be a more accurate 
+number. 
+ 
+Akhil: Okay. Yeah. And the margins, we are looking at 7% to 8% margin? 
+ 
+Sukrit Bharati: EBITDA, we are looking at about 9-ish. 
+ 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 14 of 27 
+ 
+Akhil: 9-ish. Okay, fine. And do we have a guidance for next year also, like 
+anything for next year? 
+ 
+Sukrit Bharati: Not yet. 
+ 
+Akhil: Okay. Thanks, Sukrit. 
+ 
+Sukrit Bharati: Thank you so much. 
+ 
+Moderator: Thank you. We'll take the next question from Kunal Tokas. Kunal, 
+you can go ahead. 
+ 
+Kunal Tokas: Just wanted your guidance on the PAT margin for this year. 
+ 
+Sukrit Bharati: PAT margin, anywhere between 2% and 3%. 
+ 
+Kunal Tokas: For the full year despite making a suboptimal margin in the first half? 
+ 
+Sukrit Bharati: For the full year, yes. 
+ 
+Kunal Tokas: Okay. And can you also give a breakup of CapEx in value terms by 
+segment for FY 2026 and FY 2027? 
+ 
+Sukrit Bharati: I don't have the exact numbers. But to give you a rough idea, 2026, we 
+are looking at a CapEx of about ₹100 crores overall, ₹100 crores to 
+maybe ₹110 crores, which is spread across AC and compressor and 
+primarily AC compressor and EMS. So 40% AC, 40% compressor 
+and about 20% on EMS as far as this year is concerned. Next year, we 
+are still finalising our CapEx numbers. Primarily, we are still 
+contemplating the exact CapEx amount for the compressor vertical. 
+But barring the compressor vertical, I think we are looking at a CapEx 
+of about ₹50 crores going in air conditioners and another ₹50 crores 
+going in refrigeration is what we are looking at overall next year apart 
+from compressors. 
+ 
+Kunal Tokas: And just a clarification in how much would the CapEx be for half one, 
+first half? 
+ 
+Sukrit Bharati: About ₹70 crores. 
+ 
+Kunal Tokas: Okay. That you have already spent in the first half? 
+ 
+Sukrit Bharati: We have already spent, yes. 
+ 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 15 of 27 
+ 
+Kunal Tokas: Okay. Thank you very much and have a good day. 
+ 
+Sukrit Bharati: Thank you. 
+ 
+Moderator: Thank you. We'll take the next question from Achal. Achal, you can 
+go ahead. 
+ 
+Achal: Yeah. Good evening. Thank you for the opportunity. I wanted to just 
+check your perspective in terms of for the season CY '25 season, right, 
+what would be the industry volume? And how much is insource versus 
+outsource in your opinion? And how has that changed over last year? 
+If you could give some sense on that? And then I'll ask a follow-up. 
+ 
+Sukrit Bharati: So I've been may not be the best person to answer this. But I think last 
+year, the number was about ₹1.5 Cr totally. This year also the number 
+expected is between ₹1.5 Cr and ₹1.6 Cr as the overall segment is 
+concerned. As far as insourcing and outsourcing is concerned, my 
+estimates would be about ₹0.8 Cr would be insourced and the 
+remaining is outsourced is our estimation. 
+ 
+Achal: And has that changed according to you or not really compared to last 
+year... 
+ 
+Sukrit Bharati: I think some capacities are definitely coming online, but effectively, 
+capacities coming online will not be much, much higher. So anywhere 
+between ₹0.8 Cr to ₹0.9 Cr, I would say, is insourced and the 
+remaining is outsourced. 
+ 
+Achal: Are you talking about CY 2026 season? Or you're talking about CY 
+2025 versus 2024? 
+ 
+Sukrit Bharati: 2025 versus 2026. 
+ 
+Achal: Okay. So instead of ₹0.8 Cr, it could be ₹0.8 Cr to ₹0.9 Cr for next 
+year is what brands would make in-house. Have I understood right? 
+ 
+Sukrit Bharati: It is my assumption, yes. 
+ 
+Achal: Okay. Number two, I wanted to just check in terms of the cost as we 
+are in the process of finalising the contracts, etc., what is the extent of 
+cost inflation? And if you could break it up in terms of metal cost and 
+non-metal cost. 
+ 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 16 of 27 
+ 
+Sukrit Bharati: So major cost inflation has happened because of increase in copper 
+prices. Copper prices from an average of $8,000, $8,500 per tonne has 
+gone up to now almost $11,000 per ton. Effectively, the impact of 
+$1,000 per ton has an impact of ₹500 on our BOM effectively for a 
+typical air conditioner. So an increase of $3,000 has an impact of 
+almost ₹1,500. There has been some positive impact also, whereas 
+sheet metal or whatever steel has or mild steel or steel has not 
+increased or they've reduced partially. Some polymers have also 
+reduced. So the net impact, I believe is about $1,000 to $1,300 on a 
+typical air conditioner. 
+ 
+Achal: So what happens in this case in terms of the pricing, is the entire 
+$1,000, $1,300 is getting passed on, the customer is picking up the bill 
+or we have to share some part of the pain? 
+ 
+Sukrit Bharati: So I mean, it varies from customer-to-customer, of course. Customers 
+where we have a quarterly pass-through pricing, there it gets passed 
+on because it gets averaged out in their overall purchase. Where we 
+are finalising orders for six months or nine months or full season, 
+there, of course, we have to bear at least part of it, if not the entire 
+amount. 
+ 
+But normally, where we bear the risk, we try to have better margins or 
+better I mean, slightly better conversions to hedge that risk also. 
+ 
+Achal: Right. Just a clarification, sorry, if I'm going deeper into it. So the 
+average realisation for RAC for a full unit for us would be somewhere 
+around ₹17,000 to ₹18,000? 
+ 
+Sukrit Bharati: Yes, correct. 
+ 
+Achal: And we make about 9% on that in terms of the EBITDA level margin? 
+ 
+Sukrit Bharati: Correct. 
+ 
+Achal: So that gives ₹1,600 per unit kind of margin. 
+ 
+Sukrit Bharati: Correct. 
+ 
+Achal: And if we have to bear even ₹500 or 50% or 40% of this inflation, our 
+margin can take a 25% knock. So when you are looking for the margin 
+estimation for FY 2026, what have we budgeted? Have we budgeted a 
+flat margin versus Y-o-Y or we have budgeted already some 
+correction in the margin given the cost inflation? 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 17 of 27 
+ 
+ 
+Sukrit Bharati: So AC, we have budgeted some correction in the margin for the 
+coming year. But fortunately, the other products are adding, they have 
+a slightly better EBITDA, so which is overall, I think we will continue 
+to maintain 9% EBITDA. AC may drop by a little bit, but the average 
+will still be 9%. And this is a temporary drop again because there was 
+a huge volatility in copper. Once it corrects and if copper goes down, 
+let's say, then maybe you make it up also. 
+ 
+If you see a blended average across the year, it does not have as strong 
+as an impact as you are calculating on paper today because we also 
+don't buy raw material at only the peak. We also buy it over a period 
+of time. So the average impact normally is not more than, I mean, you 
+asked me absolute delta, so I told you absolute delta. But normally, the 
+impact will not be more than ₹300 to ₹600 or ₹700 averaged across 
+the year. 
+ 
+Achal: Understood. This is super helpful. Thanks for that clarity. I have more 
+questions, but I'll fall back in the queue. Thank you. 
+ 
+Sukrit Bharati: Thank you. 
+ 
+Moderator: Thank you. We'll take the next question from Sidharth Jain. Sidharth, 
+you can go ahead. 
+ 
+Sidharth Jain: Good evening. 
+ 
+Sukrit Bharati: Good evening. 
+ 
+Sidharth Jain: So one thing, what is the peak debt that you'll anticipate to go to in the 
+coming year, because we have another ₹100 crores plus of CapEx 
+planned for next year, excluding the compressor part. And so what is 
+the debt level that we anticipate to see next year? 
+ 
+Sukrit Bharati: So debt, our basic guideline is that we want to be debt to equity, we 
+want to stay below or around one is our guideline as far as debt is 
+concerned. If there is a gap, we will look at raising equity, of course. 
+But our internal guideline is that we want to be around or less than one 
+as far as debt to equity is concerned. 
+ 
+Sidharth Jain: Understood. And right now, our AC composition as a part of our total 
+revenue is around 75%. Where do we see that moving in the next 
+year? And in that also, how much would be from the primary client? 
+And how much do we see that coming from other clients because 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 18 of 27 
+ 
+we've started discussions and I guess you will start supplying from the 
+coming months as well? 
+ 
+Sukrit Bharati: So next year, we see about 70-odd percent coming or 65% to 70% odd 
+coming from AC again, next financial year. And that is the whole AC 
+vertical. Within that, we will have a split against four, five customers. 
+So the largest customer probably out of the 100% AC pie would be 
+about 50-odd percent. 
+ 
+Sidharth Jain: Understood. Got it. And one just operational thing to Sajid. By when 
+can we expect that we start trading on the main board? Any intimation 
+from the exchanges or what are the communication that is going on 
+with them? 
+ 
+Sajid Shaikh: So we have already started the process. The documentation, etc., is 
+being reviewed. We're just trying to see if everything is there. I mean 
+we are compliant to every -- because there's been a new guideline that 
+has come along in the month of October. So we are also trying to just 
+juxtapose our position with that and see. But I think we are on course. 
+Let's see if everything is okay, we should be able to make the 
+application before the end of this month. 
+ 
+Sidharth Jain: Okay. Application, how long does it generally take after the 
+application? 
+ 
+Sajid Shaikh: That's up to the exchanges, but I think anywhere between two and four 
+months is our expectation. 
+ 
+Sidharth Jain: Okay. Understood. And also like our current capacity in ACs is 
+around 10 lakh units, and we plan to take it up to 18 lakhs, out of 
+which 2.5 lakhs will be from the Chennai plant that we've just taken 
+on lease, correct? So the balance that we have, where do we plan to 
+put it up in Nashik only or some other location? 
+ 
+Sukrit Bharati: In Nashik itself. 
+ 
+Sidharth Jain: Nashik, got it. And one more thing in the compressor side, like if that 
+QCO doesn't get extended, then even our assembly because we might 
+be importing it from China as well because our partner is a Chinese 
+player. So will we be allowed to import the components and assemble 
+and then supply because won't that be restricted in these norms? 
+ 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 19 of 27 
+ 
+Sukrit Bharati: No, no. So these norms don't restrict components. And there was some 
+ambiguity around that, but that has also been clarified by the 
+government. So there is no issue on the components. 
+ 
+Sidharth Jain: Got it. Thank you. That's it from my side. Thanks. 
+ 
+Sukrit Bharati: Thank you. 
+ 
+Moderator: We'll take the next question from Nishita. Nishita, you can go ahead. 
+We'll take the next question from Shreyansh Jain. Shreyansh, you can 
+unmute and go ahead. 
+ 
+Sajid Shaikh: Everyone could do just one, one question now because we've got a 
+long list and reduce the timing. Thank you. 
+ 
+Shreyansh Jain: The first question, we have already commenced our deep freezer 
+facility. How has it ramped up in two quarters? And what could be our 
+capacity utilisation for first half? 
+ 
+Sukrit Bharati: First half, of course, is off-season for freezers also in general because 
+the seasonality is similar to what is there in AC. So our capacity 
+utilisation in the first half was only about 35%, 40%. And in the 
+second half, we are looking at a capacity, I mean, we will hit full 
+utilisation at peak in Q4. 
+ 
+Shreyansh Jain: Okay. So what is our peak capacity utilisation for deep freezers? 
+ 
+Sukrit Bharati: So we can make about 11,000 to 12,000 freezers per month. 
+ 
+Shreyans Jain: Okay. Perfect. And on the ODM part, are we in talk with any 
+customers on the ODM? And how much margins improvement do we 
+see in ODM? 
+ 
+Sukrit Bharati: This year, I don't see too much. But over time, I expect, I mean, we 
+hope to at least get a 2% to 3% overall improvement in margin with 
+ODM becoming more and more of our portfolio. 
+ 
+Shreyans Jain: Okay. Perfect. And one last question, in RAC segment, have we added 
+client or we are only in talks? 
+ 
+Sukrit Bharati: We have already added. 
+ 
+Shreyans Jain: Okay. Perfect. Thank you so much. 
+ 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 20 of 27 
+ 
+Sukrit Bharati: Thank you. 
+ 
+Moderator: Thank you. We'll take the next question from Hitendra Pradhan. 
+Hitendra, you can go ahead. 
+ 
+Hitendra Pradhan: Hi, thanks for the opportunity. My question is what was our like 
+revenues against for H1? Because I was a bit surprised with the 
+margin uptick this quarter. So can you give us the breakdown of 
+different categories? 
+ 
+Sukrit Bharati: I think we discussed this, about 50% came from air conditioners in 
+H1. 15% to 20% has come from commercial refrigeration and the 
+remaining has come from components -- sorry, EMS is another 15% 
+and remaining has come from components. Because AC is a lower 
+share, EBITDA margin is higher because most of the other businesses 
+have better EBITDA margins. 
+ 
+Hitendra Pradhan: Right. And previously, just a while back you mentioned that the AC 
+EBITDA margins are around 9% but as per the previous calls, the 
+understanding was that it is 6% to 8% depending on the indoor and 
+outdoor, so 6% to 8% is there? 
+ 
+Sukrit Bharati: So 6% to 8%, you're right. I said overall EBITDA margin this year, 
+we are expecting about 9%. 
+ 
+Hitendra Pradhan: Correct. But the AC EBITDA margins are 6% to 8% depending on 
+the... 
+ 
+Sukrit Bharati: Correct. 
+ 
+Hitendra Pradhan: Thank you. 
+ 
+Moderator: We'll take the next question from Harshal Parekh. Harshil, you can go 
+ahead. 
+ 
+Harshal Parekh: Yeah, thanks for the opportunity. I had a question. Can you elaborate 
+like what are the primary factors which is contributing to the degrowth 
+in the sales? I mean, specifically, what is the biggest headwind you are 
+facing? 
+ 
+Sukrit Bharati: I mean the only headwind is AC sales. I mean there is no other 
+headwind. Other segments are, of course, all growing. We are growing 
+in refrigeration. We are growing in -- I mean, compressor, of course is 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 21 of 27 
+ 
+new, but we've started sales there. EMS is growing. So the only 
+headwind of course, is in AC sales. 
+ 
+Harshal Parekh: Okay, okay. And can you provide the segment-wise or geographic 
+breakdown of the degrowth? I'm trying to understand where the 
+pressure is the most. 
+ 
+Sukrit Bharati: Pressure how -- I mean, sorry, I don't understand the question 
+properly. 
+ 
+Harshal Parekh: Can you give me a segment-wise detail about the geographic 
+breakdown also of the degrowth? 
+ 
+Sukrit Bharati: We honestly don't get a geographical or we don't have a geographical 
+breakdown of where our customers are selling the product. So we may 
+not be able -- I mean, I don't have an accurate picture of that. 
+ 
+Harshal Parekh: Okay, no worries. Thank you. 
+ 
+Moderator: Thank you. We'll take the next question from Pawan. Pawan, you can 
+go ahead. 
+ 
+Pawan: In Arihant conference, you indicated a target of ₹2,000 crores in FY 
+2027. Is that target still intact? 
+ 
+Sukrit Bharati: We hope so, but we'll confirm maybe Q4 about our guidance for next 
+year. 
+ 
+Pawan: Okay. Do you see any opportunities in HVAC side like heat 
+exchangers? And are you planning in that zone? 
+ 
+Sukrit Bharati: Opportunity means we are, of course, expanding capacities. And we 
+do supply some components, but of course, not a major chunk. If there 
+is any gap, we are happy to serve customers. But that is not really a 
+core area that we are looking at a lot of growth coming from 
+specifically for us. 
+ 
+Pawan: Okay, thank you. 
+ 
+Moderator: Thank you. We'll take the next question from Kwoshi Krishna. You 
+can go ahead. 
+ 
+Kwoshi Krishna: Are we in line with the competition or are we lagging behind in terms 
+of order or margin or anything? Do we have any comment on that? 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 22 of 27 
+ 
+ 
+Sukrit Bharati: I hope we are at par, but no comments. 
+ 
+Kwoshi Krishna: Okay, you have talked about the debt. Are you planning to deduct the 
+debt reduction -- planning for debt reduction? 
+ 
+Sukrit Bharati: Not in the immediate future, no. 
+ 
+Kwoshi Krishna: Okay, one last thing. What is your long-term aspiration for the 
+company, for big picture, maybe in five years or 10 years or anything 
+and thank you. 
+ 
+Sukrit Bharati: See, I strongly believe in the manufacturing potential of the products 
+or segments we are part of. And I also truly believe that as a country, 
+we need to have strong manufacturing companies which can make 
+things locally and make them well. Of course, export aspirations and 
+all of that, that is definitely there. But India by itself is a massive 
+opportunity. And we want to be part of the journey of Made in India 
+or Make for India or however you slogan it. But we believe in that 
+mission, and I think there is a tremendous potential. 
+ 
+So if you see the segments also that we are getting into, either there is 
+a vacuum in those segments or there is a massive growth and 
+anticipation in those segments. So we are clear we want to be core to 
+manufacturing. We want to be clear that we expand our manufacturing 
+capabilities, both in terms of volume and in terms of variety, and we 
+want to continue doing that. Thank you. 
+ 
+Kwoshi Krishna: Okay, thank you. One last thing. Are you planning to launch any high-
+margin products in near future? 
+ 
+Sukrit Bharati: High margin, yes, we have. Of course, in our product mix, there are 
+products with better margins. But the challenge with the high-margin 
+product is the value is lower. As of now, we have not been able to 
+crack that ideal product where margin is also high, volume is also high 
+and growth is also high. So that is still something that we want to 
+figure out. 
+ 
+But yes, in our entire product portfolio, there are new product 
+segments which are better in margin that we are creating. There are 
+certain niche variants of commercial refrigeration. There are some 
+higher variants of air conditioners that we are working on. There are 
+certain EMS products which give us better margins or lighting 
+products that give us better margins. 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 23 of 27 
+ 
+ 
+So there are products which gives you a very good margin. But of 
+course, the value or percentage of these products is lower. And hence, 
+it does not stand or show so explicitly in the P&L or balance sheet, but 
+we will continue working towards that. Thank you. 
+ 
+Kwoshi Krishna: Thanks for the timely updates. 
+ 
+Moderator: We'll take the next question from Nitya Shah. Nithya, you can go 
+ahead. 
+ 
+Nitya Shah: Yeah, I just wanted to ask about the customer concentration. You 
+mentioned you've got some new customers in the AC segment. So say, 
+in FY 2027, what percentage of revenue will you get from Voltas 
+versus now what would be the difference? 
+ 
+Sukrit Bharati: Now, of course, it's close to 100%. Next year, we anticipate 
+somewhere between 40% and 60%. 
+ 
+Nitya Shah: Okay. So the size of the orders is very large from the new customers, 
+right? Is my understanding right? 
+ 
+Sukrit Bharati: Yes. I mean a decent size volume, yes. 
+ 
+Nitya Shah: Okay, that is all from my side. All the best. 
+ 
+Sukrit Bharati: Thank you so much. 
+ 
+Moderator: Thank you. We'll take a follow-up question from Siddhant. Siddhant, 
+you can go ahead. 
+ 
+Siddhant: Yeah, you mentioned that FY 2026, we are looking at ₹800 crores to 
+₹900 crores of revenue top line. Could you provide us with the 
+segmental breakup of this? Is washing machine and compressor 
+contributing this year? 
+ 
+Sukrit Bharati: Compressor, there will be some contribution. I think about ₹30 crores 
+odd will come from compressors out of the entire top line. About ₹150 
+crores to ₹200 crores will be from EMS. About ₹100 crores, close to 
+₹100 crores will be from refrigeration and the remaining will be from 
+air conditioners. Washing machine, we are not expecting a large 
+number in this year. 
+ 
+Siddhant: And this ₹100 crores includes the water dispenser as well? 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 24 of 27 
+ 
+ 
+Sukrit Bharati: Water dispensers as well, yes. 
+ 
+Siddhant: Right, And my last question, you mentioned that in-sourcing, 
+outsourcing is ₹0.8 Cr. What will be the installed capacity on this, 
+both for in-sourcing and outsourcing? 
+ 
+Sukrit Bharati: Again, I may not have the most accurate numbers, but I think in-
+sourcing capacities will be close to 20% or 30% higher in terms of 
+what is getting manufactured. So in-sourcing capacities are more or 
+less, I would say occupied. The outsourcing capacities for the 
+remaining ₹70-odd lakhs, the outsourcing against that, I believe, 
+would be anywhere between ₹0.80 lakhs to ₹1 crores. But again, the 
+actual utilisable capacity and all of that is still a question, but that 
+would be the estimate that I would have. 
+ 
+Siddharth: Basically, the industry size will be ₹2 crores between both in-
+sourcing, outsourcing? 
+ 
+Sukrit Bharati: Slightly less than ₹2 crores but yes, close to it. 
+ 
+Siddharth: Right. And what will be the peak utilisation for plant because 
+summers are 100%, but overall, for the full year, it will be close to... 
+ 
+Sukrit Bharati: So AC, looking at the current extreme trends, which I think will 
+become less extreme in the next two, three years, looking at the 
+overall trends in e-commerce or whether it is even in retail and with 
+the growing purchasing capability of people with the reduction of 
+GST. So we see that -- I mean we are hopeful that the peaks will not 
+be as strong in the next two, three years. 
+ 
+That being said, during the peak season, we hit full capacity 
+utilisation. Almost everybody, I think across the industry hits peak 
+utilisation. The challenge that we see with the strong peaks is that 
+capacity utilisation crossing 70%, 75% or 65%, 70%, let's say, 70% is 
+difficult because off-seasons go as low as 20%, 30% or 10% for a 
+couple of months. 
+ 
+And then you see a peak of 100%. But once the seasonality reduces, 
+then this 65%, 70% can become 75%, 80%, which is a very good 
+capacity utilisation for a product like air conditioner definitely. 
+ 
+Siddhant: Just a basic question, storing is out of the question for ACs like in the 
+non-peak? 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 25 of 27 
+ 
+ 
+Sukrit Bharati: No, people do store, but you can only store so much. I mean with the 
+market size increasing so much, I mean, you can store a few hundred 
+thousand pieces depending on the strength, financial muscle that you 
+have. But you can't store beyond that. I mean even large corporates 
+have a limitation in how much they want to put in inventory. That is 
+point number one. 
+ 
+Point number two, now with the growing numbers and local available 
+capacity, nobody wants to also stock. It is more convenient to buy 
+when you really need it. So if capacity is available on tap, nobody will 
+want to stock because that directly or indirectly adds to your cost. 
+ 
+Siddharth: Thank you so much and all the best. 
+ 
+Sukrit Bharati: Thank you so much. Thank you. 
+ 
+Moderator: We'll take another follow-up question from Arun. Arun, you can go 
+ahead. 
+ 
+Arun: Hi, out of the current product line or the upcoming product lines, 
+which is the products where we see the biggest opportunity of, let's 
+say, China Plus One or any India being the second part where India is 
+not producing much and the biggest opportunity is coming. So like 
+what would be those -- can you share a couple of examples or any 
+such things? 
+ 
+Sukrit Bharati: So in our current segments, I think I would say compressor is a blue 
+ocean scenario for us as of now because in India, out of the 22-odd 
+million compressors, this I'm talking about only refrigeration 
+compressors that we are getting into. So out of the 22 million 
+refrigeration compressors that are consumed every year, which is 
+growing at 6% to 8% CAGR, the market, about 14 million to 15 
+million are imported. 
+ 
+And out of the 7 billion, 8 million that are manufactured are majorly 
+manufactured by Korean brands and also by one Indian multinational. 
+So these are the three primary players in that segment. Apart from 
+that, the 14 million to 15 million gap exists today in the market. So we 
+believe that if the government policy supports, that can be a very 
+explosive growth segment for us in the next couple of years. 
+ 
+Arun: Thanks a lot, thank you. 
+ 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 26 of 27 
+ 
+Sukrit Bharati: Thank you so much. 
+ 
+Moderator: We'll take another follow-up question from Hitendra. Hitendra, you 
+can go ahead. 
+ 
+Hitendra: Sorry, I have no further questions. Thank you. 
+ 
+Moderator: We'll take another follow-up question from Garvit. Garvit, you can go 
+ahead. 
+ 
+Garvit: Thanks for the follow-up. Just wanted to ask in FY 2027, what can be 
+the mix profile? I'm not asking for the guidance, but just wanted to 
+understand like which segment likely to contribute what percentage of 
+revenue? 
+ 
+Sukrit Bharati: I think I mentioned this also, about 65% should come from AC next 
+year consolidated, 65% to 70%, let's say, about I think 15% will 
+continue to be refrigeration, 15%, maybe 20% and similar percentage 
+for EMS also. Compressor maybe about 10-odd percent next year. 
+ 
+Garvit: Where are the dispensers and also? 
+ 
+Sukrit Bharati: Dispensers are part of the refrigeration category. 
+ 
+Garvit: Thank you very much. 
+ 
+Sukrit Bharati: Thank you so much. 
+ 
+Moderator: Thank you. Due to the shortage of time, we'll now take the last 
+question from Pawan. Pawan, you can go ahead. 
+ 
+Pawan: No, I do not have any questions. 
+ 
+Sukrit Bharati: Thank you so much. 
+ 
+Moderator: Next question is from Kunal. Kunal, you can go ahead. 
+ 
+Kunal: Okay. Just two quick questions. First, what is your PLI benefit you 
+expect for this year? And what was it in half one? And in EMS, what 
+are the major products? 
+ 
+Sukrit Bharati: Right. So PLI benefit this year is expected around ₹20 crores for the 
+company. That is one. Second is EMS, of course, lighting is one major 
+category for us. Then we are doing some controllers for appliances, 
+Virtuoso Optoelectronics Limited (VOEPL) 
+Q2 & H1 FY26 Earnings Conference Call 
+November 18, 2025 
+ 
+Page 27 of 27 
+ 
+whether it is air conditioners or we are also doing some controllers for 
+BLDC fans. 
+ 
+We are also doing some control boards for EV charging boxes. So I 
+mean, EMS as a facility, of course, can do a wide variety of products. 
+But these are the major products that we are currently operating it. So 
+controllers for appliances, lighting and other smaller EMS products 
+like EV chargers and others is what we are doing. 
+ 
+Kunal: Lighting and controllers will be what percentage of the EMS 
+business? 
+ 
+Sukrit Bharati: Lighting and controllers about 80% together. 
+ 
+Kunal: 80%. And what is the PLI benefit received at the end of the year or... 
+ 
+Sukrit Bharati: So we accrue it at the end of the year, and it is received in Q1 
+normally, Q1 or Q2. 
+ 
+Kunal: Okay. Thank you very much for being patience. And have a good year 
+end. 
+ 
+Sukrit Bharati: Thank you. Thank you so much. 
+ 
+Moderator: Thank you. I would request management to give any closing 
+comments. 
+ 
+Sukrit Bharati: I appreciate and thank you all for taking the time in the evening and 
+joining our call. We look forward to a good FY overall and a strong 
+order book. And thank you so much again for being here. Thank you. 
+ 
+Moderator: Thank you. Thank you to the management and all the participants. 
+This brings us to the end of the call. Thank you. 
+ 
+Sukrit Bharati: Thank you. 

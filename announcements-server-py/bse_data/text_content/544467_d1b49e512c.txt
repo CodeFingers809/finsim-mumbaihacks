@@ -1,0 +1,681 @@
+301, 3rd Floor, Naman Chambers, G Block, Plot No- C-32, Bandra Kurla Complex, Bandra East, Mumbai- 400051 
+Tel: 91 22 6944 8400/8500| CIN – L74120MH2012PLC230380 | Email: info@nsdl.co.in | Web: nsdl.co.in 
+ 
+ 
+  NSDL/AF/BSE/2025/032     Date: November 14, 2025 
+To,  
+Listing Compliance Department 
+BSE Limited, 
+Phiroze Jeejeebhoy Towers 
+Dalal Street 
+Mumbai 400 001 
+Dear Sir/Madam, 
+Scrip Code:  544467    ISIN: INE301O01023 
+Sub.: Revised Presentation on conference call held on November 13, 2025 
+Ref.: Regulation 30 of the Securities and Exchange Board of  India (Listing Obligations & 
+Disclosure Requirements) Regulations, 2015 ('Listing Regulations') 
+In continuation of our intimation dated November 13, 2025, we hereby inform you that a 
+copy of the revised presentation pertaining to the Conference Call organized by ICICI 
+Securities, held on Thursday, November 13, 2025, at 6:30 P .M. (IST), is enclosed herewith 
+for your reference. 
+The said information is also available on the website of the Company – https://nsdl.co.in/  
+We request you to kindly take the same on record. 
+Thanking you, 
+Yours faithfully, 
+For National Securities Depository Limited 
+Alen Ferns 
+Company Secretary & Compliance Officer 
+Membership No. A30633 
+Encl: as above 
+Earnings Presentation
+For the quarter ended September 2025
+November 13, 2025
+Table of contents
+Company Overview01
+Standalone Highlights02
+Key Subsidiaries03
+Consolidated Highlights04
+Company Overview
+Electronic delivery instructions to DPs by 
+account holders / clearing members
+Enables digital Submission of PoA based 
+Instructions to DPs electronically
+Internet-based Demat Account Statement 
+(IDeAS) enables to view account balance& 
+other details
+Enables electronically encrypted straight 
+through processing of trade information to 
+participants
+Aids investors to cast their votes online in 
+public listed companies and eAGM enables 
+to hold AGM virtually
+NSDL Depository – Service Offerings
+4
+Offers wide range of digitally enabled products & services leveraging technological expertise & leadership position
+Core Depository Services Suite of E-Services Ancillary Products & Value-Added Services
+• Dematerialization of Securities services to investors,
+listed and unlisted issuers and RTAs
+• Maintain Allotment & Transfer of Ownership Record
+using electronic book entries
+• Account Opening and Management for updating KYC,
+nomination facility & demographics details
+• Corporate Actions such as dividends, bonus, payment
+of interest on government bonds/ SGBs
+• Settlement of market and off-market transfers
+through clearing corporations
+• Pledge of securities including margin pledge enabling
+clients to avail themselves of loan or credit facilities
+• Consolidated Account Statement providing
+information of all securities in demat form
+• Non-Disposal Undertaking allows demat account
+holders to register NDUs in relation to loan obligations
+undertaken by corporate debtors
+• Digital LAS – Avail loans by instantly pledging shares
+held in dematerialized form
+• FPI Monitor – Common application form, foreign
+Investment limit and investment data for FPIs
+• Depository Account Validation - Enables validation of
+DP ID, Client ID and Investor PAN
+• Issuer Service Portal gives access to our issuer related
+services and information
+• Mutual Fund Conversion & Redemption API enables
+conversion of MF units to demat form
+• Securities & Covenant Monitoring a blockchain-based
+se
+curity platform for bonds / Debentures
+• Commerical Paper Online platform for primary
+issuance of commercial paper to investors
+
+5
+What’s New?
+Simplified Post-Trade Reporting
+Common Contract Note via STeADY Platform: 
+Consolidates trades across exchanges into a single 
+harmonized note for easier reporting
+Enhanced Investor Participation
+Proxy Advisor Recommendations on ESP Voting Page: 
+Investors can now view recommendations from 
+registered proxy advisors, boosting e-voting engagement
+Mutual Fund Unit Conversion
+API-Based Conversion to Demat Form: Enables seamless 
+transfer of mutual fund units from physical to 
+dematerialized format
+Direct Securities Payout
+Direct Credit to Investor Demat Account: Securities are 
+credited directly to the investor, bypassing broker
+Streamlined Account Closure
+Online Closure & Transfer for Joint Accounts: Clients 
+can now request closure and transfer of joint demat 
+accounts online 
+Unified Investor Application
+NSDL Speed-e App: Offers a consolidated view of the 
+investor’s entire portfolio—equities, mutual funds, AIFs, 
+and more—for smarter decision-making
+Highlights Q2 FY 26 
+(Standalone)
+7
+#19.30 Mn 
+KYC records of 1,808+ SEBI 
+Registered Intermediaries (Sep’ 25)
+13.58 Mn 
+Insurance policies dematerialised^ 
+(Sep’ 25) and KRA records
+NSDL leading depository revolutionizing dematerialization of securities landscape in India over 3 decades
+Source (1) SEBI Bulletin , *Including NRIs; Figures rounded off to single decimal point
+# Excluding Dividend income received from subsidiary  - NSDL Database Management Ltd.
+1st
+India’s First & Largest Depository 
+pioneering since 1996 
+#102,238 | 69.91% 
+Issuers Registered | Market share
+# 220,469 | 65.93%(1) 
+Active Instruments | Market share
+99.99%
+Serviced value of securities FPI 
+Demat Holdings
+73.0%
+Market share by unlisted
+Companies (Equity)
+97.8%(1)
+Market share by value of Listed 
+Debt Securities
+90.07% (1)
+Market share by Demat Value – 
+Unlisted Companies (Equity)
+₹ 12.0 mn
+Avg. Value of Assets held in 
+Demat Account 
+# 41.9 mn 
+Demat Accounts
+44.5%# 
+Total Income market share 
+(Standalone basis – Q2 FY 26)
+86.3% 
+Market share by Total Demat 
+Custody Value
+62.2% 
+Market Share of Individuals* & 
+HUFs Custody Value
+#2 
+in AePS Trans. Value #2nd Position 
+in Micro ATMs (Sep’25)
+#3.3 Mn 
+Customer Base as at 
+Q2 FY 26 (Sep’ 25)
+Key Subsidiaries
+NSDL - At a Glance
+380.90
+404.93
+418.85
+34 6.00
+34 8.00
+35 0.00
+35 2.00
+35 4.00
+35 6.00
+35 8.00
+36 0.00
+36 2.00
+36 4.00
+36 6.00
+36 8.00
+37 0.00
+37 2.00
+37 4.00
+37 6.00
+37 8.00
+38 0.00
+38 2.00
+38 4.00
+38 6.00
+38 8.00
+39 0.00
+39 2.00
+39 4.00
+39 6.00
+39 8.00
+40 0.00
+40 2.00
+40 4.00
+40 6.00
+40 8.00
+41 0.00
+41 2.00
+41 4.00
+41 6.00
+41 8.00
+42 0.00
+42 2.00
+42 4.00
+42 6.00
+42 8.00
+43 0.00
+43 2.00
+43 4.00
+43 6.00
+43 8.00
+44 0.00
+44 2.00
+44 4.00
+44 6.00
+44 8.00
+45 0.00
+Q2 FY25 Q1 FY26 Q2 FY26
+Demat Account
+12.96 10.41 13.92
+9.90%
+15.50%
+17.60%
+0.00 %
+Q2 FY25 Q1 FY26 Q2 FY26
+Incremental BO 
+(%)
+506.1 510.9 504.6
+0.02.04.06.08.01 0. 01 2. 01 4. 01 6. 01 8. 02 0. 02 2. 02 4. 02 6. 02 8. 03 0. 03 2. 03 4. 03 6. 03 8. 04 0. 04 2. 04 4. 04 6. 04 8. 05 0. 05 2. 05 4. 05 6. 05 8. 06 0. 06 2. 06 4. 06 6. 06 8. 07 0. 07 2. 07 4. 07 6. 07 8. 08 0. 08 2. 08 4. 08 6. 08 8. 09 0. 09 2. 09 4. 09 6. 09 8. 010 0.010 2.010 4.010 6.010 8.011 0.011 2.011 4.011 6.011 8.012 0.012 2.012 4.012 6.012 8.013 0.013 2.013 4.013 6.013 8.014 0.014 2.014 4.014 6.014 8.015 0.015 2.015 4.015 6.015 8.016 0.016 2.016 4.016 6.016 8.017 0.017 2.017 4.017 6.017 8.018 0.018 2.018 4.018 6.018 8.019 0.019 2.019 4.019 6.019 8.020 0.020 2.020 4.020 6.020 8.021 0.021 2.021 4.021 6.021 8.022 0.022 2.022 4.022 6.022 8.023 0.023 2.023 4.023 6.023 8.024 0.024 2.024 4.024 6.024 8.025 0.025 2.025 4.025 6.025 8.026 0.0
+26 2.026 4.026 6.026 8.027 0.027 2.027 4.027 6.027 8.028 0.028 2.028 4.028 6.028 8.029 0.029 2.029 4.029 6.029 8.030 0.030 2.030 4.030 6.030 8.031 0.031 2.031 4.031 6.031 8.032 0.032 2.032 4.032 6.032 8.033 0.033 2.033 4.033 6.033 8.034 0.034 2.034 4.034 6.034 8.035 0.035 2.035 4.035 6.035 8.036 0.036 2.036 4.036 6.036 8.037 0.037 2.037 4.037 6.037 8.038 0.038 2.038 4.038 6.038 8.039 0.039 2.039 4.039 6.039 8.040 0.040 2.040 4.040 6.040 8.041 0.041 2.041 4.041 6.041 8.042 0.042 2.042 4.042 6.042 8.043 0.043 2.043 4.043 6.043 8.044 0.044 2.044 4.044 6.044 8.045 0.045 2.045 4.045 6.045 8.046 0.046 2.046 4.046 6.046 8.047 0.047 2.047 4.047 6.047 8.048 0.048 2.048 4.048 6.048 8.049 0.049 2.049 4.049 6.049 8.050 0.050 2.050 4.050 6.050 8.051 0.051 2.051 4.051 6.051 8.052 0.052 2.052 4.052 6.052 8.0
+53 0.053 2.053 4.053 6.053 8.054 0.054 2.054 4.054 6.054 8.055 0.055 2.055 4.055 6.055 8.056 0.056 2.056 4.056 6.056 8.057 0.057 2.057 4.057 6.057 8.058 0.058 2.058 4.058 6.058 8.059 0.059 2.059 4.059 6.059 8.060 0.060 2.060 4.060 6.060 8.061 0.061 2.061 4.061 6.061 8.062 0.062 2.062 4.062 6.062 8.063 0.063 2.063 4.063 6.063 8.064 0.064 2.064 4.064 6.064 8.065 0.065 2.065 4.065 6.065 8.066 0.066 2.066 4.066 6.066 8.067 0.067 2.067 4.067 6.067 8.068 0.068 2.068 4.068 6.068 8.069 0.069 2.069 4.069 6.069 8.070 0.0
+Q2 FY25 Q1 FY26 Q2 FY26
+(In Tn)Custody Value
+Crossed 4 cr accounts, Incremental 
+account in Q2 FY 26 increased by 
+13.92 lakhs and active Demat 
+stands at 1.23 cr accounts
+Net BO Accounts 
+No of DP stands at 299 as of 
+Sep ’25 (adding 5 DPs)
+Incremental Market Share in 
+BO Accounts
+MCA’s  dematerialization (‘demat’) 
+of securities for private companies 
+which are not small companies 
+enabling growth 
+Unlisted Market share 
+Market share by Total Demat 
+Custody Value stand at 86.3% in 
+value terms $ 5.68 Tn
+Custody Value
+9.96%
+6,802
+10,392
+11,552
+71.10%
+73.20% 73.00%
+6 5. 00 %
+6 6. 00 %
+6 7. 00 %
+6 8. 00 %
+6 9. 00 %
+7 0. 00 %
+7 1. 00 %
+7 2. 00 %
+7 3. 00 %
+7 4. 00 %
+7 5. 00 %
+03366991 321 651 982 312 642 973 303 633 964 294 624 955 285 615 946 276 606 937 267 597 928 258 588 919 249 579 901, 0231, 0561, 0891, 1221, 1551, 1881, 2211, 2541, 2871, 3201, 3531, 3861, 4191, 4521, 4851, 5181, 5511, 5841, 6171, 6501, 6831, 7161, 7491, 7821, 8151, 8481, 8811, 9141, 9471, 9802, 0132, 0462, 0792, 1122, 1452, 1782, 2112, 2442, 2772, 3102, 3432, 3762, 4092, 4422, 4752, 5082, 5412, 5742, 6072, 6402, 6732, 7062, 7392, 7722, 8052, 8382, 8712, 9042, 9372, 9703, 0033, 0363, 0693, 1023, 1353, 1683, 2013, 2343, 2673, 3003, 3333, 3663, 3993, 4323, 4653, 4983, 5313, 5643, 5973, 6303, 6633, 6963, 7293, 7623, 7953, 828
+3, 8613, 8943, 9273, 9603, 9934, 0264, 0594, 0924, 1254, 1584, 1914, 2244, 2574, 2904, 3234, 3564, 3894, 4224, 4554, 4884, 5214, 5544, 5874, 6204, 6534, 6864, 7194, 7524, 7854, 8184, 8514, 8844, 9174, 9504, 9835, 0165, 0495, 0825, 1155, 1485, 1815, 2145, 2475, 2805, 3135, 3465, 3795, 4125, 4455, 4785, 5115, 5445, 5775, 6105, 6435, 6765, 7095, 7425, 7755, 8085, 8415, 8745, 9075, 9405, 9736, 0066, 0396, 0726, 1056, 1386, 1716, 2046, 2376, 2706, 3036, 3366, 3696, 4026, 4356, 4686, 5016, 5346, 5676, 6006, 6336, 6666, 6996, 7326, 7656, 7986, 8316, 8646, 8976, 9306, 9636, 9967, 0297, 0627, 0957, 1287, 1617, 1947, 2277, 2607, 2937, 3267, 3597, 3927, 4257, 4587, 4917, 5247, 5577, 5907, 6237, 6567, 6897, 7227, 7557, 7887, 8217, 8547, 8877, 9207, 9537, 9868, 0198, 0528, 0858, 1188, 1518, 1848, 2178, 250
+8, 2838, 3168, 3498, 3828, 4158, 4488, 4818, 5148, 5478, 5808, 6138, 6468, 6798, 7128, 7458, 7788, 8118, 8448, 8778, 9108, 9438, 9769, 0099, 0429, 0759, 1089, 1419, 1749, 2079, 2409, 2739, 3069, 3399, 3729, 4059, 4389, 4719, 5049, 5379, 5709, 6039, 6369, 6699, 7029, 7359, 7689, 8019, 8349, 8679, 9009, 9339, 9669, 9991 0,0 321 0,0 651 0,0 981 0,1 311 0,1 641 0,1 971 0,2 301 0,2 631 0,2 961 0,3 291 0,3 621 0,3 951 0,4 281 0,4 611 0,4 941 0,5 271 0,5 601 0,5 931 0,6 261 0,6 591 0,6 921 0,7 251 0,7 581 0,7 911 0,8 241 0,8 571 0,8 901 0,9 231 0,9 561 0,9 891 1,0 221 1,0 551 1,0 881 1,1 211 1,1 541 1,1 871 1,2 201 1,2 531 1,2 861 1,3 191 1,3 521 1,3 851 1,4 181 1,4 511 1,4 841 1,5 171 1,5 501 1,5 831 1,6 161 1,6 491 1,6 821 1,7 151 1,7 481 1,7 811 1,8 141 1,8 471 1,8 801 1,9 131 1,9 461 1,9 791 2,0 121 2,0 451 2,0 781 2,1 111 2,1 441 2,1 771 2,2 101 2,2 431 2,2 761 2,3 091 2,3 421 2,3 751 2,4 081 2,4 411 2,4 741 2,5 071 2,5 401 2,5 731 2,6 061 2,6 391 2,6 72
+1 2,7 051 2,7 381 2,7 711 2,8 041 2,8 371 2,8 701 2,9 031 2,9 361 2,9 691 3,0 021 3,0 351 3,0 681 3,1 011 3,1 341 3,1 671 3,2 001 3,2 331 3,2 661 3,2 991 3,3 321 3,3 651 3,3 981 3,4 311 3,4 641 3,4 971 3,5 301 3,5 631 3,5 961 3,6 291 3,6 621 3,6 951 3,7 281 3,7 611 3,7 941 3,8 271 3,8 601 3,8 931 3,9 261 3,9 591 3,9 921 4,0 251 4,0 581 4,0 911 4,1 241 4,1 571 4,1 901 4,2 231 4,2 561 4,2 891 4,3 221 4,3 551 4,3 881 4,4 211 4,4 541 4,4 871 4,5 201 4,5 531 4,5 861 4,6 191 4,6 521 4,6 851 4,7 181 4,7 511 4,7 841 4,8 171 4,8 501 4,8 831 4,9 161 4,9 491 4,9 821 5,0 151 5,0 481 5,0 811 5,1 141 5,1 471 5,1 801 5,2 131 5,2 461 5,2 791 5,3 121 5,3 451 5,3 781 5,4 111 5,4 441 5,4 771 5,5 101 5,5 431 5,5 761 5,6 091 5,6 421 5,6 751 5,7 081 5,7 411 5,7 741 5,8 071 5,8 401 5,8 731 5,9 061 5,9 391 5,9 721 6,0 051 6,0 381 6,0 711 6,1 041 6,1 371 6,1 701 6,2 031 6,2 361 6,2 691 6,3 021 6,3 351 6,3 681 6,4 011 6,4 341 6,4 671 6,5 00
+Q2 FY25 Q1 FY26 Q2 FY26
+Demat – 
+Unlisted EQ 
+(Market %)
+(In lakhs)
+Key Metrics…
+9
+State % distribution
+MAHARASHTRA 18%
+GUJARAT 10%
+UTTAR PRADESH 9%
+TAMIL NADU 7%
+WEST BENGAL 6%
+KARNATAKA 6%
+DELHI 6%
+RAJASTHAN 4%
+MADHYA PRADESH 4%
+TELANGANA 4%
+• Incremental accounts continues to be
+dom
+inant from these states
+• NSDL crossed 4 cr BO account in May
+25, covering 19,000+ PIN codes with
+s
+ervice center operated through 299 DP
+across 55,738 centers
+• The first one cr BO accounts took 13
+y
+ears (Aug 2009) to cross Demat
+accounts, the next one cr took, 11 years
+and in last 5 years this has cross 4 cr
+accounts
+100.0
+185.2 196.9 216.9
+266.8
+314.6
+345.8 357.7
+394.5 404.9 410.0 414.3 418.9
+Aug' 09 Mar'19 Mar'20 Mar'21 Mar'22 Mar'23 Dec'23 Mar'24 Mar'25 Jun'25 Jul'25 Aug'25 Sep'25
+BO Account
+10 -States contributing  to 75%
+BO account distribution state-wise
+Financial Highlights Q2 FY26 
+(Standalone)
+PUBLIC 11
+NSDL Key Highlights
+Total Income
+210.8
+190.4
+250.6
+Q2FY25 Q1FY26 Q2FY26
+18.9%
+Operating Revenue
+169.1 161.0
+204.2
+Q2FY25 Q1FY26 Q2FY26
+20.7%
+Profit After Tax
+101.8
+82.6
+120.4
+Q2FY25 Q1FY26 Q2FY26
+18.3%
+• In Q2 FY26, to tal income rose 18.9% YoY and
+31.6% sequentially to Rs 250.6 cr
+• Income f rom  investment grew by 20.4% on
+YoY to Rs 28.1 cr
+• Revenue f rom operation increased YOY by
+20.7% and sequentially by 26.8% to Rs
+204.2 cr.
+• Operating p rofit in Q2 FY 26 stands at Rs
+107.7 cr, up by 15.4% on yoy basis and
+34.6% on sequential basis
+• NSDL h as  received dividend from its
+subsidiary, NDML,  of Rs 18.3 cr in Q2FY26
+and Q2FY25, respectively
+• In Q2  FY26, Profit after tax (PAT) increase
+by 18.3% YoY and 45.7% sequentially to Rs
+120.4 cr (ex dividend seq. grew by 23.6%, to
+Rs 102 .1 cr)
+(‘In Cr)(‘In Cr)(‘In Cr)
+(‘In Cr)
+Financial Highlights
+Quarter ended Half year ended  Year 
+ended
+Particulars Q2 FY25 Q1 FY26 Q2 FY26 Growth
+YoY %
+Growth
+QoQ % H1 FY25 H1 FY26 Growth
+YoY % Mar-25
+Total Income 210.8 190.4 250.6 18.9% 31.6% 367.3 441.0 20.1% 731.4
+Revenue from Operations 169.1 161.0 204.2 20.7% 26.8% 303.8 365.1 20.2% 618.6
+Total Expenses 75.8 80.9 96.4 27.2% 19.1% 145.9 177.3 21.5% 309.2
+Operating Profit 93.3 80.0 107.7 15.4% 34.6% 157.9 187.8 19.0% 309.4
+Operating Profit Margin (%) 55.2% 49.7% 52.8% 52.0% 51.4% 50.0%
+Depreciation & amortization /Finance cost 4.6 5.7 6.5 41.5% 13.2% 9.0 12.2 36.3% 21.1
+EBIDTA 139.6 115.3 160.7 15.1% 39.4% 230.3 276.0 19.8% 443.4
+EBITDA Margin (%) 66.2% 60.5% 64.1% 62.7% 62.6% 60.62%
+Profit Before Tax 135.0 109.5 154.1 14.2% 40.8% 221.3 263.7 19.1% 422.2
+PBT Margin (%) 64.0% 57.5% 61.5% 60.3% 59.8% 57.7%
+Profit After Tax 101.8 82.6 120.4 18.3% 45.7% 168.4 203.0 20.6% 321.6
+PAT Margin (%) 48.3% 43.4% 48.1% 45.8% 46.0% 44.0%
+EPS 5.09 4.13 6.02 8.42 10.15 16.08
+Book Value per share 82.82 94.52 98.54 78. 80 98. 54 90.42
+Return on Equity (Annualised) 25.2% 17.9% 25.0% 21.3% 21.5% 19.4%
+(‘In Cr)
+Financial Results
+Quarter ended Half year ended  Year 
+ended
+Particulars Q2 FY25 Q1 FY26 Q2 FY26 Growth
+YoY %
+Growth
+QoQ % H1FY25 H1 FY26 Growth
+YoY % FY25
+Income 
+Revenue from Operations 169.1 161.0 204.2 20.7% 26.8% 303.8 365.1 20.2% 618.6
+Other Income  41.6 29.5 46.4 11.4% 57.4% 63.5 75.9 19.6% 112.8
+Total Income 210.8 190.4 250.6 18.9% 31.6% 367.3 441.0 20.1% 731.4
+Expenses 
+Employee benefits expense 22.6 25.2 28.7 27.2% 14.2% 43.7 53.9 23.3% 87.8
+Depreciation and amortisation expense 4.6 5.7 6.5 41.5% 13.2% 9.0 12.2 36.3% 21.1
+Finance cost 0.0 0.0 0.0 34.6% (7.1%) 0.0 0.1 32.0% 0.1
+Contribution to investor protection fund 4.6 4.0 5.4 18.0% 36.7% 7.9 9.4 18.7% 15.4
+Technology related expense 16.8 17.9 21.3 27.0% 18.8% 32.1 39.2 22.1% 68.1
+Other expenses 27.2 28.1 34.5 26.7% 22.8% 53.2 62.5 17.5% 116.7
+Total Expenses 75.8 80.9 96.4 27.2% 19.1% 145.9 177.3 21.5% 309.2
+Profit Before Tax 135.0 109.5 154.1 14.2% 40.8% 221.3 263.7 19.1% 422.2
+Tax Expenses 33.2 26.9 33.7 1.6% 25.5% 53.0 60.6 14.
+ 5% 100. 6
+Profit After Tax 101.8 82.6 120.4 18.3% 45.7% 168.4 203.0 20.6% 321.6
+EPS (₹) 5.09 4.13 6.02 8.42 10.15 16.08
+(‘In Cr)
+Operating Revenue 
+Particulars Q2 FY25 Q1FY26 Q2 FY26 Growth
+YoY %
+Growth
+QoQ % FY 25
+Recurring Fee 36.4% 46.6% 43.4% 40.8%
+Annual Custody fee* 61.6 75.0 88.7 44.0% 18.2% 252.2
+Non-Recurring Fee 63.6% 53.4% 56.6% 59.2%
+Corporate Action (includes IPO fees) 27.7 15.8 29.4 6.2% 86.3% 106.8
+e-Voting 23.1 6.8 28.9 25.3% 327.0% 44.4
+Settlement Fee 21.6 14.8 13.9 (35.6%) (6.1%) 67.7
+Other transaction charges(#) 35.2 48.6 43.3 23.0% (10.9%) 147.5
+Total operating Income 169.1 161.0 204.2 20.7% 26.8% 618.6
+* Annual custody fee includes  Distributed Ledger Technology (DLT) & annual fee charged to Issuers.
+(#) – other transaction charges comprises of Pledge fees, Joining fees – Issuers and Distributed Ledger Platform, CAS, Joining fee, and Other Data charges
+Mr. Prashant Vagal, 
+Chief Operating Officer
+~30 years of experience in business 
+development and operations
+Special Steels Limited; CIFCO Finance 
+Limited
+15
+Mr. K. Prabhakaran
+Chief Technology Officer
+~28 years of experience in the field of 
+technology
+Adecco India Private Limited and Cisco 
+Systems (India) Private Limited
+Mr. Yash Kumar Gyanani
+Chief Regulatory Officer
+~23 years of experience in the field of 
+regulatory and compliance
+Citicorp Services, HSBC India, J. P. 
+Morgan, National Commodity and 
+Derivatives Exchange Limited and SEBI
+Mrs. Meghna Harish Kale
+Chief Human Resource Officer
+~24 years of experience in the field of 
+human resource management
+Axis Asset Management, ICICI Bank 
+Limited, Axis Bank Limited and Kotak 
+Mahindra Bank Limited
+Mr. Jigar Shah 
+Chief Financial Officer
+~17 years of experience in the field of 
+treasury, finance and banking
+NSDL Payments Bank Limited, IDFC 
+First Bank Limited and Standard 
+Chartered Bank
+Mr. Sameer Patil
+Chief Business Officer
+~25 years of experience in capital 
+markets and liasoning with regulator
+BSE Limited, National Commodity & 
+Derivative Exchange Of India Limited, 
+Multi Commodity Exchange of India
+Mr. Vijay Chandok
+MD & CEO
+~31 years of experience in the financial 
+services industry
+ICICI Bank, ICICI Securities Limited
+Experienced Senior Management team
+16
+Sripriya Kumar
+Public Interest Director
+~23 years of experience in the field of 
+accountancy
+Sundaram Finance Holdings Limited, 
+Price WaterhouseCoopers, SPR & Co
+Sanjay Panicker
+Non-Independent Director
+~28 years of experience in corporate 
+financing and accounts
+IDBI Bank Limited, Vans Information 
+and Investor Services Limited
+Mr. Sriram Krishnan
+Non-Independent Director
+~26 years of banking & Capital Markets 
+experience
+National Stock Exchange, HSBC, 
+Citibank NA and Deutsche Bank AG
+Mr. Parveen Kumar Gupta 
+Chairman & Public Interest Director
+~40 years of experience in banking 
+industry and has been a part of MSME 
+committee by RBI 
+State Bank of India; SBI Capital 
+Markets Limited;
+Dr. Madhu Sudan Sahoo
+Public Interest Director
+~40 years of experience in economic 
+policies & reforms & financial markets
+Chairperson of Insolvency and 
+Bankruptcy Board of India; Department 
+of Economic Affairs; SEBI; 
+Rajat Moona
+Public Interest Director
+~33 years of experience in teaching 
+and research for development & 
+standards
+Indian Institute of Technology, 
+Gandhinagar; Indian Institute of 
+Technology; Kanpur and Indian 
+Institute of Technology, Bhilai
+Experienced Board of Directors
+Shareholding Pattern – September 30, 2025
+NSE, 15.0%
+IDBI, 15.0%
+HDFC Bank, 7.0%
+SUUTI, 5.1%
+Deutsche Bank A.G, 
+5.0%
+Citibank N.A., 
+3.1%
+HSBC, 3.1%
+State Bank of India, 3.0%
+Union Bank of India, 
+2.6%
+Canara Bank, 2.3%
+Small Cap World Fund INC, 
+1.6% Fidelity , 1.2%
+LIC, 0.9%
+Key Investors
+Category Shareholding (%) No. of Shareholder
+Foreign Institutional Investor 
+(FII) 15.90% 49
+Domestic Institutional 
+Investor (DII) 39.23% 47
+Public 44.87% 8,31,074
+Total 100.00% 8,31,170
+Key Subsidiaries
+100% profitable wholly owned subsidiaries 
+• Acts as a SEBI registered KYC Registration Agency (KRA)
+• Supports 1,808 intermediaries and holds 19.3 mn KYC records
+• Acts as a SEBI registered registrar and transfer agent (RTA)
+• Cumulative Issuers stand at 8,941 with 25,052 ISIN
+• Recently, acted as an RTA primary market transaction
+• Acts as an repository for digitization of insurance policies
+• M
+anaging ~13.62 mn insurance policies
+• Operates a payment aggregator platform for digital payments
+• 400 merchants onboarded including state & central Gov.
+departments
+• Throughout crossing Rs 15,000 cr plus in H1 FY 26
+• Instigo
+• Accreditation Agency
+• Platform for supporting approvals and transactions in SEZ
+• Registered 6,073 SEZ Units and 578 SEZ Developers
+• Processes employee background checks and exit confirmations
+• 2.51 mn registered knowledge IT professionals on behalf of
+nasscom
+KRA
+RTA
+SurePay
+Others
+National 
+Insurance 
+Repository
+SEZ Online
+National Skill 
+Registry
+• Offers digital banking services through a mobile app
+• Opened 8.4 lakhs new CASA accounts in H1 FY 26
+• Total Active account base stands at 3.3 Mn as of September ‘25
+• Provides domestic money transfer services via own Business
+C
+orrespondent network
+• Recorded ₹58.13 bn transfer for H1 FY 26
+• Services to customers via 50 Business Correspondents & 1 mn agents
+• Recorded cash withdrawals of ₹ 313 bn through AePS in H1 FY 26
+• Offer banking services through BCs as a part of micro-ATM
+• Recorded transactions amounting to ₹79.22 bn during H1 FY 26
+• Act as mini banks for withdrawal, deposit and money transfer
+• 4,382 plus customer service points across India
+• Digital platform to invest in mutual funds as well as benefit from
+curated investment solutions provided by fund houses
+• Offer corporate gift cards, student cards, meals cards, etc.
+• Recorded ₹31.40.53 bn transactions during H1 FY 26
+Mutual fund 
+investment
+Money Remittance
+AePS
+(Aadhaar Enabled 
+Payment System) 
+Micro-ATMs
+Customer Service 
+Points
+Prepaid cards
+NSDL Jiffy – 
+Account opening
+• Seamless Immediate Money Transfer
+• Transfer through Mobile devices 24*7, 365 days.
+• Recorded ₹ 168.11 bn transactions during H1 FY 26
+UPI Acquiring
+Highlights Q2 FY 26 
+(Consolidated)
+21
+Financial Highlights
+(‘In Cr)
+Quarter ended Half Year ended Year ended
+Particulars Q2 FY25 Q1 FY26 Q2 FY26 Growth
+YoY %
+Growth
+QoQ % H1 FY25 H1 FY26 Growth
+YoY % Mar-25
+Total Income 385.3 346.8 432.2 12.2% 24.6% 750.2 779.0 3.8% 1,535.2
+Revenue from Operations 356.7 312.0 400.0 12.2% 28.2% 694.0 712.1 2.6% 1,420.1
+Total Expenses 252.7 228.0 284.7 12.7% 24.9% 518.1 512.7 (1.0%) 1,084.1
+Operating Profit 104.5 83.6 113.9 9.1% 36.3% 176.9 197.5 11.7% 338.4
+Operating Profit Margin (%) 29.3% 26.8% 28.5% 25.5% 27.7% 23.8%
+Depreciation and amortization expense 8.1 9.6 11.1 36.8% 15.8% 15.9 20.7 30.0% 35.4
+Finance cost 0.8 1.6 1.5 78.5% (8.6%) 1.6 3.1 99.0% 4.1
+EBIDTA 142.0 129.5 158.7 11.7% 22.5% 250.5 288.3 15.1% 492.9
+EBITDA Margin (%) 36.9% 37.4% 36.7% 33.4% 37.0% 32.1%
+Share of Profits from Associates 0.5 (0.4) (1.4) 0.9 (1.8) nm 2.4
+Profit Before Tax 133.1 118.3 146.1 9.8% 23.5% 233.1 264.5 13.5% 453.4
+PBT Margin (%) 34.5% 34.1% 33.8% 31.1% 33.9% 29.5%
+Profit After Tax 96.2 89.6 110.3 14.7% 23.1% 174.0 200.0 14.9% 343.1
+PAT Margin (%) 25.0% 25.8% 25.5% 23.2% 25.7% 22.4%
+EPS 4.81 4.48 5.52 8.70 10.00 17.16
+Book Value per share 91.84 104.72 108.33 88.14 104.72 100.27
+Return on Equity (Annualized) 21.4% 17.5% 20.7% 19.8% 19.2% 18.6%
+22
+Financial Results
+(‘In Cr)
+Quarter ended Half Year ended Year ended
+Particulars Q2 FY25 Q1 FY 26 Q2 FY26 Growth
+YoY %
+Growth
+QoQ % H1 FY25 H1 FY26 Growth
+YoY % FY25
+Income 
+Revenue from Operations 356.7 312.0 400.0 12.2% 28.2% 694.0 712.1 2.6% 1,420.1
+Other income 28.6 34.8 32.2 12.5% (7.4%) 56.2 66.9 19.1% 115.0
+Total Income 385.3 346.8 432.2 12.2% 24.6% 750.2 779.0 3.8% 1,535.2
+Expenses 
+Employee benefits expense 35.4 38.3 44.7 26.2% 16.6% 67.3 83.0 23.3% 138.5
+Depreciation and amortization expense 8.1 9.6 11.1 36.8% 15.8% 15.9 20.7 30.0% 35.4
+Finance cost 0.8 1.6 1.5 78.5% (8.6%) 1.6 3.1 99.0% 4.1
+Contribution to investor protection fund 4.6 4.0 5.4 18.0% 36.7% 7.9 9.4 18.7% 15.4
+Other expenses 203.8 174.5 222.1 9.0% 27.2% 425.4 396.6 (6.8%) 890.7
+Total Expenses 252.7 228.0 284.7 12.7% 24.9% 518.1 512.7 (1.0%) 1,084.1
+PBT before share of associates 132.6 118.8 147.5 11.3% 24.2% 232.1 266.3 14.7% 451.0
+Share of Net Profits 0.5 (0.4) (1.4) 0.9 (1.8) nm 2.4
+Profit Before Tax 133.1 118.3 146.1 9.8% 23.5% 233.1 264.5 13.5% 453.4
+Tax Expenses 36.9 28.7 35.8 (2.9%) 24.6% 59.0 64.5 9.3% 110.3
+Profit After Tax 96.2 89.6 110.3 14.7% 23.1% 174.0 200.0 14.9% 343.1
+EPS 4.81 4.48 5.52 8.70 10.00 17.16
+This presentation document is for your information and neither this presentation nor any part thereof shall be (i) copied, photocopied, duplicated or otherwise 
+reproduced in any form or by any means; or (iii) re-circulated, redistributed, passed on, published in any media, website or otherwise disseminated, to any 
+other person, in any form or manner, in part or as a whole, without the prior written consent of the Company. Although care has been taken to ensure that the 
+information in this presentation is accurate, and that the opinions expressed are fair and reasonable, the information is subject to change without notice, its 
+accuracy, fairness or completeness is not guaranteed, and no express or implied warranty is made thereto. The Company expressly disclaims any obligation 
+or undertaking to supplement, amend or disseminate any updates or revisions to any statements contained herein to reflect any change in events, conditions 
+or circumstances on which any such statements are based. Neither the Company nor any of its directors, officers, employees or affiliates nor any other 
+person assume any responsibility or liability for, the accuracy or completeness of, or any errors or omissions in, any information or opinions contained herein, 
+and none of them accept any liability (in negligence, or otherwise) whatsoever for any loss howsoever arising from any use of this presentation or its 
+contents or otherwise arising in connection therewith. The distribution of this presentation in certain jurisdictions may be restricted by law. Accordingly, any 
+persons in possession of the aforesaid should inform themselves about and observe such restrictions. No part of this document should be considered as a 
+recommendation that any investor should subscribe to or purchase securities of the Company or any of its subsidiaries or affiliates and should not form the 
+basis of, or be relied on in connection with, any contract or commitment or investment decision whatsoever. This presentation may contain statements of 
+future expectations and other forward-looking statements which involve risks and uncertainties. These statements include descriptions regarding the intent, 
+belief or current expectations of the Company or its officers with respect to the consolidated results of operations and financial condition, and future events 
+and plans of the Company. Such forward-looking statements are not guarantees of future performance and involve risks and uncertainties and actual results, 
+performances or events may differ from those in the forward-looking statements as a result of various factors, uncertainties and assumptions including but 
+not limited to price fluctuations, actual demand, exchange rate fluctuations, competition, environmental risks, any change in legal, financial and regulatory 
+frameworks, political risks and factors beyond the Company’s control. You are cautioned not to place undue reliance on these forward-looking statements, 
+which are based on the current view of the management of the Company on future events. No assurance can be given that future events will occur, or that 
+assumptions are correct. The Company does not assume any responsibility to amend, modify or revise any forward-looking statements, on the basis of any 
+subsequent developments, information or events, or otherwise.
+Safe Harbour Rules
+Reach out to us – IR@nsdl.com

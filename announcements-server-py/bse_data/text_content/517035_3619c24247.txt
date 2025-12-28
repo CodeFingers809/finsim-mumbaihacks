@@ -1,0 +1,878 @@
+ 
+ 
+ 
+Ref.RIR/SEC/13831/2025                               18th November, 2025 
+ 
+ 
+The Bombay Stock Exchange Limited                                          
+Corporate Relationship Department, 
+1st Floor, Rotunda Building,  
+P. J. Towers, Dalal Street,  
+Mumbai-400001 
+ 
+Scrip Code : 517035 
+ 
+Subject.: Transcript of Q2 FY2025-26 Earnings/Conference call meeting 
+ 
+Ref: Disclosure under Reg.30 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 
+ 
+ 
+Dear Sir/Madam, 
+ 
+Please find attached a copy of the Conference Call transcript in respect of Q2FY2025-
+26 Earnings/Conference call meeting of the Company dated 17th November, 2025.  
+ 
+This is for your information and record. 
+ 
+ 
+ 
+Thanking you. 
+Yours faithfully, 
+For RIR Power Electronics Limited 
+ 
+ 
+ 
+ 
+Bhavin P Rambhia 
+Company Secretary 
+ 
+Encls : a/a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+VRIGHT Exchange — India’s own and the world’s first 
+investor engagement platform  dedicated to strategic, 
+transparent, and trustworthy investor communication 
+https://app.vrightexchange.com/  
+ 
+ 
+ 
+RIR Power Electronics Limited Earnings Call  
+Recording and Transcript 
+ 
+Conference held on Monday, 17 November 2025 
+ 
+Management Participants: 
+ 
+ Dr. Harshad Mehta, Non-Executive Chairman 
+ 
+ Mr. Ankit Shah – Finance Controller 
+ 
+ 
+IR Participants: 
+ 
+Mr Aryan Rana |Mr Abhishek Savant  
+ 
+ 
+  
+ 
+Organized by Veritas Reputation PR Pvt Ltd | Contact| +91 9082348296 | 8108848822 
+aryan.rana@veritasreputation.com | abhishek.savant@veritasreputation.com    
+ 
+ 
+
+  
+ 
+ 
+VRIGHT Exchange — India’s own and the world’s first 
+investor engagement platform  dedicated to strategic, 
+transparent, and trustworthy investor communication 
+https://app.vrightexchange.com/  
+ 
+ 
+Transcript 
+Aryan Rana (Moderator): 
+ 
+Good morning everyone. This is Aryan Rana , your moderator for today's call. I hope all of you had 
+your morning coffee or at least your inbox under control because we have a productive session lined 
+up now at 11:30.  
+ 
+On behalf of RIR Power Electronics , I extend a warm welcome to all analysts, inv estors and 
+participants Joining us for the Q2 and H1 FY 2026 analyst and investor call where we will walk you 
+through the company's performance for the quarter and the first half of the financial year ended 30 
+September 2025 along with key strategic developments and the road ahead.  
+ 
+We truly appreciate your continued interest, time and support.  
+ 
+As you are aware, the financial results for Q2FY26 have already been submitted to the stock 
+exchanges. Accordingly, today's session is intended to provide deeper context and clarity on our 
+business strategy, operational progress, industry outlook and long term value creation initiatives.  
+ 
+Before we proceed, a brief standard reminder to all participants. Certain statements made during this 
+call may be forward looki ng in nature. These are based on the company's current expectations and 
+are subject to various risks and uncertainties which may cause actual materially.  
+ 
+Joining us on Today's call are Dr. Harshad Mehta, Non Executive Chairman and Mr. Ankit Shah, Finance 
+Controller. We will begin with opening remarks by Dr. Mehta and followed by Mr. Shah presenting 
+the financial performance after which we will open the floor for Q & A session.  
+ 
+Please share your name and organization in the chat box and send it directly to me- Aryan Rana 
+ Okay, so we will then unmute your line so you can ask your questions. With that it's my privilege to 
+invite Dr. Harshad Mehtaji non -executive chairman of our company - RR Power Electronic Limited to 
+share his opening remarks. Thank you. And over to you sir. 
+ 
+Management Commentary  
+ 
+Dr. Harshad Mehta: Thank you. Ranaji, Aryanji. Good morning everyone. Thank you for joining us. 
+Sorry for the delay, my flight was delayed and sorry to keep you waiting. I am pleased to share that 
+Q2FY26 has been a strong quarter for RIR Power Electronics. It's marked by healthy revenue growth, 
+sharper profitability and meaningful margin expansion. Our performance this quarter reflects 
+operational resilience and our commitment to steady quality led growth as we continue our strategic 
+transition towards advanced power electronics and semiconductor technologies.  
+ 
+During this quarter revenue grew 36% year on year and 22% sequentially supported by improving 
+demand across industrial processes, renewables , railways, power infrastructure as well as defense 
+linked applications. Our investment in strengthening our airing depth and enhancing service 
+responsiveness are translating into stronger customer engagement and higher repeat businesses.  
+ 
+  
+ 
+ 
+VRIGHT Exchange — India’s own and the world’s first 
+investor engagement platform  dedicated to strategic, 
+transparent, and trustworthy investor communication 
+https://app.vrightexchange.com/  
+ 
+ 
+On the operational front, we delivered EBITDA growth of 77% year over year with margins improving 
+to 17.01% reflecting better product mix, improved cost structure and disciplined execution. Profit after 
+tax more than doubled compared to last year, supported by growing sc ale as well as tighter 
+operational controls.  
+ 
+Strategically we made significant progress on our 618 crore rupees Silicon Carbide Ecosystem facility 
+at Bhubaneswar. Government of Odisha has already accorded fiscal support of 32.56 crores for 
+phase 1, half of the money we had already spent and just last, this Saturday they also deposited 26 
+crores in our NLA account.  
+ 
+For going forward we are progressing steadily with planning, talent buildup, project readiness. This 
+facility will play a pivotal role in making India more self reliant in high performance power electronics 
+and will support growing demand across electronics, renewable energy, railways, mobility and 
+defense.  
+ 
+As a matter of fact, in September quarter we delivered 10,000 devices for Indian Navy use for silicon 
+carbide devices. First of its kind, first in India and first on behalf of RIR. We have also initiated the 
+process for NSE listing which will broaden the institutional participation, enh ance visibility and 
+strengthen governance benchmark.  
+ 
+Overall we remain focused on cost optimization. We do expect a gradual improvement in margin over 
+the coming quarters. I do thank you for your continued trust and support. I would like to thank our 
+customers, partners, employees, shareholder for their trus t and continued support. I will now request 
+our finance head Ankit Shah to present the financial performance for the quarter. 
+ 
+Financial Update 
+ 
+Ankit Shah :  Thank you Mr. Mehta. I would now present the standalone financials for the quarter and 
+half year ended 30th September 2025. So moving on with the quarterly performance for Q2FY26 on 
+a standalone basis, revenue from operations stood at 25.64 crores compared to 21 crore in Q1 
+marking a 22% sequential growth.  
+ 
+Revenue grew from 18.82 crores year on year basis reflecting a 36% increase. EBITDA for the quarter 
+was 4.36 crores versus 2.46 crores in Q2FY25 a 77% YoY growth. EBITDA margins improved to 17% 
+compared to 13.09% last year. An expansion of 392 basis points PAT came in at 3.15 crores which 
+was more than double from corresponding quarter last year reporting an increase of 105% increase. 
+PAT margin improved from 7.96% to 11.97% reflecting a 400 basis expansion. EPS for Q2 expanded 
+to 0.47 per share compared to 0.21 for corresponding last year.  
+ 
+Now going on with the half yearly performance for FY26. For the first half of the year the revenue 
+stood at 46.6 crores compared to 39.87 crores in H1 FY25 which represented a 17% YoY increase. 
+PBT was recorded at 6.92 crores compared to 5.88 crores for the corr esponding period last year. 
+PAT improved to 4.89 crores significantly higher than 4.36 crores reported for corresponding last year 
+which was around 12% YoY. Growth liquidity remains comfortable and our balance sheet continues to 
+strengthen. Looking ahead, we continue to see strong growth momentum across various sectors and 
+expect to maintain healthy growth and profitability trajectory.  
+ 
+With that we can move on with the Q&A session. 
+  
+ 
+ 
+VRIGHT Exchange — India’s own and the world’s first 
+investor engagement platform  dedicated to strategic, 
+transparent, and trustworthy investor communication 
+https://app.vrightexchange.com/  
+ 
+ 
+ 
+Q&A Session 
+Aryan Rana : All right, so I would request all the participants to send your question or your name and 
+organization name in the chat box to me. It is Aryan Rana and we can allow you to unmute your line 
+and then you can ask your questions. Okay, so we have first questi on from Mr. Raj Sara. One second 
+I'll just unmute your line, sir. Yeah, go ahead. 
+ 
+Raj Sara : So I am Raj Sara from Finvestors, congratulations on the good set of number on sequential 
+growth. So apart from that what you we are already doing when this CAPEX of more than 600 crore 
+rupees which we are waiting for is gonna live or is it already live and how much capacity we intend 
+to use in this financial year and when can we expect this capacity to work on optimum level and any 
+further CAPEX plans if we have in the same zone? 
+ 
+Dr. Harshad Mehta :  Yeah, so I think as we mentioned last year the government changed in Odisha. 
+The overall funding on part of government, Of Odisha has been delayed about six months. However, 
+we have been moving forward with our first part of the project which is EPI reactor and that should 
+come online in January 2026. However, as I mentioned to you that In Q1, in Q2 we also shipped almost 
+close to a US$95000 worth of material 10,000 devices for Indian Navy. So we are ahead from our 
+revenue perspective. This components were manufactured, outsourced, manufactured by Taiwan FAB 
+using RIR IP 100%. So this is the progress that we have made while we wait for the full expansion of 
+our FAB to be executed. So at this moment we would expect the r evenue to flow from January 2026 
+with the EP and year 2026, we will do the packaging. The entire fab and the whole ecosystem will 
+take about two and a half years to come online. 
+ 
+Raj Sara:  Okay.And so how much we can expect this year to be produced and ho w much we intend 
+to do next year and any CAPEX plan further. 
+ 
+Dr. Harshad Mehta : Yeah, I think this fiscal year, as I said, we already have done about 68 crores 
+and we will do another 50 crores on a capex side for EPI and getting clean room ready and so forth. 
+In terms of revenue from this particular fiscal year, it is uncertain because of the fact that we are still 
+working with Odisha government to get the power line, the power that we requested almost a year 
+ago. So I'm pushing for it so that we can start generating revenue. Q4 FY26. 
+ 
+Raj Sara: Okay, thank you. 
+ 
+Aryan Rana: Now the second question is from Mr. Kaustav Datta. I am unmuting your line, sir. Please 
+go ahead.  Yeah, please ask your question. Please go ahead. Yeah, we can not hear you, sir. Shall we 
+move to the next participant? 
+ 
+Speaker : Yeah, just take the next question. We can take Kaustav of latter.  
+ 
+Aryan Rana : We'll take Rupesh Tatia, Rupesh Ji, you can unmute. Rupesh ji. 
+ 
+Rupesh Tatia :  Yeah, I have two, three questions. So first question, sir, is this. Phase one is where we're 
+going to make the silicon carbide wafer. I. I am not clear how much capex has been done. What is the 
+capex outlay? Whether the reactor line is in place. This is for what is it 100 millimeter? Is it 150 
+millimeter? Is it 200 millimeter? How many bools or wafers can we grow in a year? Can you just give 
+some idea around these, these things first? 
+  
+ 
+ 
+VRIGHT Exchange — India’s own and the world’s first 
+investor engagement platform  dedicated to strategic, 
+transparent, and trustworthy investor communication 
+https://app.vrightexchange.com/  
+ 
+ 
+ 
+Dr. Harshad Mehta :  Sure, sure, sure. So the 1A and other things, I think that was a little bit old culture. 
+What we are right now is the Entire project is 618crores which includes three parts. First of all, let me 
+clarify. The entire line which is the first part is epic. Second part is device trap and third party part is 
+packaging. The entire line is 150 millimeter line. The capacity of the plant is 4000 wafer per month. 
+Once fully implemented, the capex for EPI is about 100. It's about 100 crore and or 58 times 2 which 
+is 106 crore. And the capex for the packaging is about another 100 crore. The fab would be 400 
+crores total. 
+ 
+Rupesh Tatia :  Okay. And has this. Where are we on the phase one? I mean how many reactors, 
+what, what kind of, how many wafers can we grow? 
+ 
+Dr. Harshad Mehta : Yeah. So right now our clean room is under construction. It should be completed 
+by end of this month. Once we finish the clean room we will, we will remove the reactor in the clean 
+room. We already have one equipment, one tool which is 150 millimeter semi automated and we are 
+put the, we have the purchase order for second tool which is automated advanced manufacturing and 
+throughput. That should come in about April or May 2026. Each reactor in terms of how many, how 
+many EPI wafers we can make depends on the thickness of the EPI. Our focus is medium and high 
+power. That means the minimum thickness for EPI would be at least about 30 microns, maybe as high 
+as 180 microns. And it depends on the thickness it we can determine the time and the throughput. 
+ 
+Rupesh Tatia :  But, but one reactor, I mean I, I think the growing takes one week, right? 
+ 
+Dr. Harshad Mehta: One. 
+ 
+Rupesh Tatia :   One bool. My understanding is to grow one bool it takes like more than a week. The 
+growing is very slow. So one reactor can give you how many wafers? 
+ 
+Dr. Harshad Mehta:  Yeah. So let me, let me clarify. We are doing silicon carbide epitaxial wafer. 
+So we would buy silicon carbide raw substrate wafers. We are not growing the boule, we are buying 
+the silicon carbide substrate wafers and on top of it we are growing 20 microns all the way up to 180 
+micron. Very defect free ultra pure epitaxial layer on which the active devices are fabricated. 
+ 
+Rupesh Tatia :    Okay. Okay. And answer is, I mean in this reactor that we're go ing to put is, Is our 
+yield comparable to the global players? 
+ 
+Dr. Harshad Mehta:  Yes. 
+ 
+Rupesh Tatia :   Some color around that. 
+ 
+Dr. Harshad Mehta:  Yes, we expect, we expect about 85% yield and, and which is very competitive 
+to the global players. Also as I want to make sure that we, our co core expertise are we have very 
+fewer competitor in medium and high power. Most of the Chinese players as well as most of the other 
+players are. Doing 12 to 15 micron thick epi which is lot easier but still even at a higher thickness we 
+are achieving same yield. 
+ 
+ 
+ 
+  
+ 
+ 
+VRIGHT Exchange — India’s own and the world’s first 
+investor engagement platform  dedicated to strategic, 
+transparent, and trustworthy investor communication 
+https://app.vrightexchange.com/  
+ 
+ 
+Rupesh Tatia :    Okay. Okay. And sir, this 600 crore capex, how. How are you looking to fund it? I 
+am not clear if I think you've got some fiscal support but I don't think it's from central government. I 
+think Odisha government. You've got something. So overall if you can throw some light on how are you 
+going to fund these three phases. 
+ 
+Dr. Harshad Mehta : Yeah, let me request Ankit to give you more details. I can do that as well but 
+Ankit is much more familiar with it. 
+ 
+Ankit Shah : Yeah. Thank you Mr. Mehta. So basically it is divided into two phases. The first phase 
+would be epitaxy and packaging process. So both combined together we expect a capex of around 
+225 crores. Okay. Out of which 50% would be a grant that we would receive from Odisha 
+government. Okay. So roughly 110-115 crore is what we need to put out of which we have alrea dy 
+done a preferential issue of 85 crores and we have received the last tranche as well. So all 85 crores 
+have been accounted for. And we are also looking to raise a debt to cover up the balance, a portion 
+of 30 crores. So with that we'll be able to achiev e the financial closure for phase one. For phase two 
+the total capex is around 400 crores out of which 200 crores will be the grant expected to be received 
+from the Odisha government. And out of that 200 crores we are looking to do debt of around 100 
+crores and an equity of around 120 crores. Hope this answers your question. 
+ 
+Rupesh Tatia :     Yeah, yeah, this is clear. I'll. I'll come back in the queue. I have a few more. I'll come 
+back in the queue. 
+ 
+Aryan Rana :  Now the next question is from the line of Sandeep Rao. Please unmute yourself sir., and 
+you can go ahead with your question 
+ 
+Sandeep Rao :  Okay sir. Congratulations on the good set of numbers sir. Some pending queries 
+repeating them. Sir, what is the status of the new MD appointment? 
+ 
+Dr. Harshad Mehta : You know sometimes there people say that. If you are drinking a buttermilk or if 
+you are drinking a hot milk and you get burned with it. When you try to drink buttermilk you are more 
+careful as well. So what happened last year in terms of kind o f a setback or pre announcement or 
+whatever you want to call it? We are very close but I will not tell you any more information except it 
+would be happening. It would definitely happen by end of this year. 
+ 
+Sandeep Rao :  Okay. So because the entire depend ency is there because unless we have top level 
+leadership , since you are commuting from US, it becomes difficult unless we have people on the ground. 
+That is why we keep repeating this question. 
+ 
+Dr. Harshad Mehta : Yeah. No, We have a very good team on t he ground and even though I am in 
+US, I am almost like a working in India as well. I work literally 18 to 20 hours a day. No matter what 
+time anyone calls me or WhatsApp message me, I would respond back even no matter at what time. 
+But I do understand your  and need and so forth and we are very furiously working on it. What I'm 
+trying to find is someone who will complement the technical strength that we have. And this particular 
+field in India is quite new. We are one of the ones. We are the very first one a nd. We have been 
+doing this for a Long time but now there is a tremendous momentum in terms of infrastructure investment 
+as well as Make in India and self reliant India. So I am looking for the right. Person who can bring all 
+of these capabilities and complement the technical strength and administrative strength and a financial 
+strength that we have. 
+  
+ 
+ 
+VRIGHT Exchange — India’s own and the world’s first 
+investor engagement platform  dedicated to strategic, 
+transparent, and trustworthy investor communication 
+https://app.vrightexchange.com/  
+ 
+ 
+Sandeep Rao :  Yes sir. Because in last con call you told we have shortlisted three people. We may 
+finalize one of them. 
+ 
+Dr. Harshad Mehta :  As I mentioned out of three people that we shortlisted one decided that he was 
+very close to retirement and he didn't want to join, in his opinion I don't, he was happy with where he 
+was. One we rejected and a third one is still outstanding but we haven't heard 100% conf irmation. 
+We are hoping that by end of this month we will get that result. 
+ 
+Sandeep Rao :  Okay sir. The second thing is you told that for the Odisha plant electricity we have to 
+sort it out. You think it can be done before say end of December? 
+ 
+Dr. Harshad Mehta :   We are trying to push and address all the issues they need. They are getting 
+power from a 33kV line and what they need is a step down transformer from 32 33kV to 1 megawatt. 
+And so transformers are right now on the long lead items globally. But we are trying to work with. The 
+IDCO which is the infrastructure organization in Odisha to make that done quickly. They are providing 
+they will provide us enough power for one reactor. But before we get the second reactor we need 1 
+megawatt of power in a second reactor. Second reactor will come sometime around May of 2026. 
+ 
+Sandeep Rao :  Sir number three is sir ISM two there was a thing that you may bid for it. Any progress 
+in that? 
+ 
+Dr. Harshad Mehta : We we will, we will bid the progress as we have been working with all the key 
+blocks to what Government, What ISM 2 or ISM people are looking for which is the offtech market as 
+well as technology partner and finance. So of this we have addressed the two which is the offtech and 
+financing issue. We are looki ng for the technology partner specifically for medium and high voltage 
+silicon. IGBT, which right now is the only company which is making it Infineon. 
+ 
+But we are, we have located one company in Ukraine and we are dealing with it and working with it, 
+trying to finalize the technology agreement and so forth. The other company that we have been trying 
+to deal with is Mitsuri. And I'll be meeting them around early December in Japan. 
+ 
+Aryan Rana:  Mr. Rao, can I request you to come back in the queue? I'll just, you know. So we have 
+another participant. Mr. Buddha Holker. Please unmute yourself and ask your question, sir. 
+ 
+Buddha Holker :  Hello. My question was regarding the Taiwan facility that company has taken on 
+rent. 
+Dr. Harshad Mehta :  The Taiwan facility is our contract manufacturer. 
+ 
+Buddha Holker:  So is it for only a temporary period or it is taken for longer period? 
+ 
+Dr. Harshad Mehta :   No, no, it's a longer period as and when we need it to fulfill the demand in the 
+market. So they have used our IP and proved that they can make product at about 85, 90% yield. 
+And those products are qualified by the customers, so they are equa lly competitive globally. And so 
+we can provide silicon carbide product with RIR ip. We are not counting on any ip. The only facility, 
+what Taiwan facility is doing is doing contract manufacturing for us with a similar equipment that we 
+intend to purchase in a similar capacity in a similar 150 millimeter equipments. 
+ 
+ 
+  
+ 
+ 
+VRIGHT Exchange — India’s own and the world’s first 
+investor engagement platform  dedicated to strategic, 
+transparent, and trustworthy investor communication 
+https://app.vrightexchange.com/  
+ 
+ 
+Buddha Holker :  Okay, thank you, sir. 
+ 
+Dr. Harshad Mehta :  Sure. 
+ 
+Aryan Rana:   All right. Please raise your hand if you have a question. Mr. Kaustav Dutta, you had a 
+question? Yeah, please unmute yourself and you can ask a question. Mr. Costa Dutta. Yes, sir. Please 
+unmute. 
+ 
+Abhishek Sawant  : Aryan, I think we'll take the next caller. He is not. I don't, I don't think he's 
+responding. 
+ 
+Aryan Rana:    Okay, so we have another question from the line of Mr. Rupesh 
+ 
+Mr. Rupesh :  Yeah, hi sir, my question is this silicon carbide EPI. EPI growing. Have you done this in 
+somewhere at a pilot scale before we try to go commercial? Either in the US facility or existing facility. 
+ 
+Dr. Harshad Mehta :    So we have acquired the tool from Italy. They have provided the recipe, a 
+general recipe. In addition, we are working with a STAR university in Singapore to provide the 
+additional help as we begin our qualification process. And the significance of a star is they are about 
+six months ahead of using same tool to grow silicon carbide EPI. And we are working very closely with 
+Professor Suzy at a STAR to try to get a similar recipe as well as yield and the defect characterization 
+tool, that they have. 
+ 
+Mr. Rupesh :   Okay. Okay. So the Italian company and the Singapore place is, is providing us the 
+technical support. And this tool that we have bought, semi autonomous, what is, how many wafers can 
+it process per day? 
+ 
+Dr. Harshad Mehta :    So we, our Target is full 4,000 wafers per month. 
+Mr. Rupesh :   And how many wafers it can process. 
+Dr. Harshad Mehta : Per day, as I mentioned, depends on the thickness of the EPI. 
+ 
+Mr. Rupesh :   Okay, okay. So 4,000 per month. 
+Dr. Harshad Mehta :     Okay. Yes 
+ 
+Mr. Rupesh :   Okay. And can you give some idea about costing? I mean, what will be the input silicon 
+carbide wafer costing? What would be the silicon carbide EPI wafer costing? Yield, you said will be 
+85%. So there'll be 50%. If you can explain the economics a little bit better. 
+ 
+Dr. Harshad Mehta :    Sure. So I think silicon carbide wafer, in the, in the last year or so, the prices 
+have significantly dropped. But silicon carbide, raw silicon carbide weight for substrate, weight for 
+150 millimeter, it's about $250 per wafer. 
+ 
+Mr. Rupesh :  This is what, what thickness, Sir? 
+Dr. Harshad Mehta :    That's about 350 micron thick. Because that supports the mechanical strength, 
+of the wafer so it doesn't break. 
+ 
+ 
+ 
+  
+ 
+ 
+VRIGHT Exchange — India’s own and the world’s first 
+investor engagement platform  dedicated to strategic, 
+transparent, and trustworthy investor communication 
+https://app.vrightexchange.com/  
+ 
+ 
+Mr. Rupesh :   Okay. So 250 input then? 
+ 
+Dr. Harshad Mehta :    Yeah. And then the, what we add is another $250 for 12 micron or so wafer 
+silicon carbide EPI layer. And, but as the thickness goes higher. That amount is not linear, but it goes 
+significantly exponentially because it is difficult to grow thicker EPI. 
+ 
+Mr. Rupesh :   Okay.  So maybe some idea. Let's say 50 micron will be at what price will sell and 
+100 micron or I mean, whatever, whatever is the, And let's say 100 maybe. 
+ 
+Dr. Harshad Mehta :   Yeah. 50 micron would be about $800.  We paid 180 micron thick EPI almost., 
+$1500 when we use those devices.  We use those EPI for US army application. 
+ 
+Mr. Rupesh :   Okay. Okay. So $250 input and then the selling price is between $800 to $1,500. 
+ 
+Dr. Harshad Mehta :  Correct., Depending on the thickness. That's why I'm not giving you one specific 
+price because thickness can vary on what voltage device you want to make. Usually  12 micron will 
+make you give you 1200 volt devices, 30 micron will give you 3.33 300 volt devices and so forth. 
+ 
+Mr. Rupesh :    Okay. And, and in out of this 4,000 wafers per month, I mean, what would be our 
+eventual target? How many we will make high, high thickness and how many will make normal thickness? 
+ 
+Dr. Harshad Mehta :  Yeah, I think our intention is to be focusing on medium and high thickness and the 
+reason being China is very aggressively competing globally in trying to get the 1200 volt market as 
+much as they can in terms of automotive application and so forth. Our focus is going to be 3.3 KV for 
+Indian Railways as well as defense applications and grid and renewable as we go higher. And right 
+now I think. 
+ 
+Ankit, do you have any targets, I mean any revenue projections that you had? 
+ 
+Ankit Shah:  Right. So basically considering that we were to start the AP process with that one reactor, 
+we had one quarter for this particular financial year and we were targeting at around 8 to 10 crores 
+revenue out of that for this fiscal year. 
+ 
+Mr. Rupesh :  Okay. And next year. 
+Mr. Rupesh :   Next year, Next year we need to just check the data points. 
+Dr. Harshad Mehta :   First of all we would have two reactors. 
+Mr. Rupesh :    Right? We have to get two reactors and. 
+Dr. Harshad Mehta :   I expect about 60 corrodes or so revenue from EPI. 
+ 
+Mr. Rupesh :     Okay, okay. And, and sir, this, this whatever 60 crore we're targeting next year, all 
+of it will be largely Indian customers. 
+ 
+Dr. Harshad Mehta :    No, no, no, no. It could be about 60%. There is no customer in India except our 
+cell phone. We get the device starting but there are still government labs who are looking for EPI layer 
+for defense kinds of applications and so forth. But the volume is not very high. I would say about 65% 
+would be export. 35% with domestic. 
+ 
+ 
+  
+ 
+ 
+VRIGHT Exchange — India’s own and the world’s first 
+investor engagement platform  dedicated to strategic, 
+transparent, and trustworthy investor communication 
+https://app.vrightexchange.com/  
+ 
+ 
+Mr. Rupesh :   Okay, And have you had you know, discussions with these customers in let's say domestic 
+market or export market? 
+ 
+Dr. Harshad Mehta :  Yes, we have the letter of intent, the qualification from for companies like Alpha 
+Omega Semiconductor, ST Micro, Microchip and so forth. 
+ 
+Mr. Rupesh :    So you have a LOI from them. 
+Dr. Harshad Mehta :   Yes. 
+ 
+Mr. Rupesh :    Okay. Yes, that is very good to know sir. And then, then how about the follow on 
+phases? I mean to, to grow from EPI wafer to you know, final cutting, packaging, final ic. 
+ 
+Dr. Harshad Mehta :  Yes. As Ankit mentioned there are phase one which is EPI and packaging and 
+the reason being that second phase which is the device fab. 
+ 
+Mr. Rupesh :   The lead time for the equipment is. 
+Dr. Harshad Mehta :  About year and a half to two years. So while we wait, order the equipment and 
+wait for it, we would have devices processed with our manufacturer in Taiwan. And we set up 
+packaging at Odyssey. 
+Mr. Rupesh : Okay. So, but to order the equipment  we need to first arrange for the funds. 
+ 
+Dr. Harshad Mehta : Yes. Because of the fact that the, the advance for the equipment it was very, I 
+mean a year and a half ago they were asking 50, 50% advance. Now that 50% advance has come 
+down to 30%. But yes, still we need  at least 30% of that 400 crore capex for advanced equipment. 
+For placing orders. 
+ 
+Mr. Rupesh :  And how much time it will take sir, two to once we have all the funds ready and and 
+equipment in our hand which is probably at least a year away from now after we get how much time 
+it will take. 
+ 
+Dr. Harshad Mehta :  Take to complete the capex so there are about a year and a half. 
+Aryan Rana: Rupesh, can I request you to come back? 
+ 
+Mr. Rupesh :   Yeah, sure. 
+ 
+Aryan Rana:  All right. So we have a next question from Mr. Atul, please unmute yourself and you’re 
+your question. 
+ 
+Mr. Atul:   Great set of numbers Sir, my question is sir, regarding what is the technological roadmap 
+for the company?  
+ 
+Dr. Harshad Mehta :   The technological roadmap for the company and it's a very good question. 
+Thank you for asking it. Because RIR is not new in power semiconductors, we took over RIR in 2005. 
+Even at that point RIR was making relatively lower power silicon devices from starting from s ilicon 
+wafer starting. So there was one only company in India who was making it starting the entire process 
+for the devices for welding rectifiers and so forth. When we took over we brought in technology for 
+medium and high power for Indian Railways as well as process industries and now we are expanding 
+into defense in terms of make in India. So from the perspective of technology there are two generations  
+  
+ 
+ 
+VRIGHT Exchange — India’s own and the world’s first 
+investor engagement platform  dedicated to strategic, 
+transparent, and trustworthy investor communication 
+https://app.vrightexchange.com/  
+ 
+ 
+in terms of starting materials silicon we have. We have gone to the limit of making 8,000 volt silicon 
+devices for army as well as transmission kinds of high power applications for silicon carbide. Our 
+technology roadmap is we will start at 1200 because that's the first step. However our focus is going 
+to be 3.3 kv, 6.5 and those are the MOS stretch about 10 kv. You go into IGBT and at about and we 
+go up to 20kV IGBT silicon carbide we already have done so we provided 22,000 volt silicon carbide 
+diode to US army so it's nothing new for us. We will be able to do will take couple of iterations but at 
+the same time we are already trying to talk to the customers such as Odisha Grid as well as NTPC and 
+so forth because they are the one will be doing transmission work and I'm not at a liberty to say the 
+names but we are working with the right people who will be loo king at high voltage DC transmission 
+that our Prime Minister said that India would be planning to 2500 megawatts of transmission corridor 
+and of that 500 megawatt has been discussed, the first part and we are talking to that in company to 
+use our power electronics power semiconductor devices because we are the only one who is making in 
+India.  
+Mr. Atul:   Thank you sir.  
+ 
+Aryan Rana:  Okay, so next question is from Mr. Kaustav Datta. Sir You can unmute yourself sir and 
+ask a question if you can. Otherwise. All right. So Mr. Kaustav is not able to unmute himself. He has 
+shared his  question in chat box to me. So here is the question for the company - At 618 crores 
+investment, fully done with, what’s the revenue expected at say 90%. 90% of the capacity? 
+ 
+Dr. Harshad Mehta :   See in a semiconductor,  I will give you the industry average. Our goal is to do 
+better than industry average but we are not going to be a magically change that industry average. 
+In terms of asset turnover ratio,  In semiconductors the ass et turnover ratio is about 0.6 to 0.8 and I 
+would say we will go up to between 0.8 and 1.0. So you can expect once we are fully operating 
+revenues about 600 crores or so. 
+ 
+Aryan Rana:   All right sir. Thank you so much. Now next question is from Mr. Sandeep Rao. Sir, please 
+go ahead. 
+ 
+Sandeep Rao :  From what I could understand you require a lot of money for completing these projects 
+and giving capital equipment orders. Any plan to induct strategic investors? 
+ 
+Dr. Harshad Mehta :     We have been talking and we are absolutely, we have planned to bring 
+strategic investor as well as FIIs and so forth. So Ankit can answer that question better. But yes. 
+ 
+Ankit Shah : Yes we are in talks with strategic partners to join in but we will not be able to share any 
+names currently as the discussions are currently ongoing. So once something is formed up and finalized 
+we do proper disclosures at the stock exchange. 
+ 
+Sandeep Rao :   So why I'm telling sir, because the way our market capitalization is there unless some 
+validation we are, we are hopeful that obviously RIR technology and implementation will happen. But 
+if a strategic partner comes then that gives lot of credibility to the whole picture and then we can have 
+a re rating of the stock as such. That is why if it can be done expedited then it can help a lot of minority 
+shareholders to actually see the fruits. 
+ 
+Dr. Harshad Mehta :    I do agree with you. I think and it's, you know this was like and then I'm not. It's 
+a very bad example to compare. But I would just give it an example that when people are looking at, 
+to buy flats or real estate properties, or apartments in India they would say. Right now the value is too  
+  
+ 
+ 
+VRIGHT Exchange — India’s own and the world’s first 
+investor engagement platform  dedicated to strategic, 
+transparent, and trustworthy investor communication 
+https://app.vrightexchange.com/  
+ 
+ 
+high. Let's just wait and see what happens to the bank, and they wait anoth er year and the prices 
+keep going up. So we have been always looking at corporate investors, strategic investors even when, 
+even from the time when the market cap was low 354 to 500 crores. And even at that point they would 
+say, you know, market cap is valuation is too high in terms of. So they would not invest.  And in a year 
+that market cap continues to rise. I think where if you look at it the entire EMS sector in India because 
+of the tailwind of electronics manufacturing industry, very high volume market domestically, I think those 
+things will continue to climb. And I see RIR is no exception. As a matter of fact we are going to go. We 
+are pushing high value, high value in terms of infrastructure projects. And I don't see even with the 
+companies with a very high valuation or a lot of resources been able to set up what we are doing in 
+semiconductors. We are going from very first step all the way to the last step in terms of silicon to 
+systems or silicon carbide to systems. So as a meat in India or self reli ance in India, momentum keeps 
+on going. I feel our market, our demand for our products and so forth. Our valuation will stay strong. 
+ 
+Sandeep Rao :  Sir, you talked about NSE listing. Can you give us some updates by when can we 
+expect a NSC listing? 
+ 
+Ankit Shah:  I'll take that. So the NSE listing process is underway and we expect that to get completed 
+before end of this fiscal year. So we expect it to become functional by 31st March 2026 or earlier. 
+ 
+Sandeep Rao :  And sir, you are talking about a debt tie up. So any bank tie up with as we know that 
+you also get an interest subsidy and whether any bank tie up has been done already for at least 
+phase one. 
+ 
+Ankit Shah:   Right. So we have current negotiations that are going on with two banks. Two banks for 
+same amount. So the negotiation is going on and whosoever would be able to provide the better terms 
+will go ahead with that particular bank. 
+ 
+Sandeep Rao :  When can we expect that finalization of bank. 
+Ankit Shah:  By end of November or mid December. 
+Sandeep Rao :   Okay. Thank you. 
+ 
+Aryan Rana: We have next question from Siddha Holkar , please unmute and you can go ahead with 
+your question. 
+ 
+Siddha Holkar :  Earlier we had given the revenue guidance of 800 crore by new businesses and 400 
+crore from the earlier businesses. So when will this complete target will be achieved by timeline? 
+ 
+Dr. Harshad Mehta :   These are the projections that we gave. There all depends on various factors 
+which are beyond our control such as geopolitical situation, economic a s well as security situation and 
+so forth. But I would like to get there as soon as we possibly can. One of the things that I strive for is 
+efficiency and time to market. Because that are the advantages for small companies to be to be cost 
+competitive, quality competitive and also get to the market as quickly as possible. We don't want to 
+be Second, but we want to lead to a leader in the market and especially I think the company. Our 
+technology bandwidth is competitive or even better compared to Siemens, ABB, Mitsubishi, Hitachi. But 
+our size is very small. But our focus is power electronics in those sectors. And I expect to do as much as 
+we possibly can in terms of strengthening marketing effort, technology effort, visibility, PR and customer 
+education and so forth. So I, I expect that we'll try to achieve that as soon as we possibly can. We had 
+I think earlier given our projections for 2030-2031. 
+  
+ 
+ 
+VRIGHT Exchange — India’s own and the world’s first 
+investor engagement platform  dedicated to strategic, 
+transparent, and trustworthy investor communication 
+https://app.vrightexchange.com/  
+ 
+ 
+Siddha Holkar :  Thank you sir. 
+ 
+Aryan Rana : Now we have a question from Mr. Rupesh Tatia, sir. Please go ahead. 
+ 
+Rupesh Tatia :  Yeah, thank you. Thank you for the opportunity again, how are you looking at the 200 
+millimeter technology, sir? I mean I think one of the players already has a fab. I think in New York. So 
+how, I mean I, I'm not sure if technology moves in silicon carbide as fast as silicon.  when do you think 
+200 millimeter technology will become mainstream? And are the reactors that we are buying? I mean 
+I, I'm not sure. Maybe it's a stupid question, but is, is it, are they, can they work across b oth 150 
+millimeter and 200 millimeter? 
+ 
+Dr. Harshad Mehta:   Thank you very much. First of all, let me tell you there are no stupid questions 
+whatsoever. So you asked a good question. Our reactors, the first one that we have is called P106 is 
+capable up to 6 inches. The next one that we already placed an order is P108 which is capable up to 
+8 inches now. So the reactor is capable to do 8 inches, silicon carbide, EPI wafer. Now you ask the 
+question in terms of viability and economics of 200 millimeter wafer.  Fab, the company that you 
+mentioned in New York, you may also heard that they declared bankruptcy for $7 billion. Yes, right 
+now. And the reason being what happens is eight 200 millimeter wafers. The biggest benefit is the 
+number of die that you can make out of it. And that segment is electric vehicle, four wheeler electric 
+and automobiles. And that sector is such a crowded sector with a billion dollar plus companies and 
+China is focusing on that particular sector like crazy in terms of incentives or whate ver. And so when, 
+we are smart manufacturing and we will plan business in a smart and a wise way. We don't have 
+money to compete with the much bigger partners and keep on losing our shirt. So we are going to 
+focus on medium and high voltage where very few competitors are there. As a matter of fact, Chinese 
+players and other players are asking us for technology for 3.3 KV and above because we have high 
+voltage processing is what we have been doing for last 30 years. And we have all the do's and don'ts 
+in terms of how to do it right reliably high performance and with reasonable yield. So our approach 
+is going to be focusing on medium and high power. And medium and high power from the process 
+perspective are complex enough where I at some point it may seem mayb e five years out but 150 
+millimeter devices are more than adequate enough for medium and high voltage devices. I know there 
+are people who will be looking at it but at this moment in my opinion 200 millimeter has at least for 
+next three to five years. I do n't see that technology to be mainstream because of the. It's difficult to 
+grow 18 EPI thicker. It's difficult to make edge termination which is important for the increasing 
+reliability of the devices. It's called safe operating area. And 8 inch larger die size are difficult to do 
+an 8 inch with a high reliability. There are many process as well as physical challenges for medium 
+and high power devices for using it on 8 inch till we have the material EPI quality reasonable enough 
+in terms of all the defects and so forth. And then the investment, the capex investment has to justify the 
+benefit, the cost. The cost benefit in terms of manufacturing, it is right now I would say that we are not, 
+unless we demonstrate 6 inch and we show profitability as well as growth then we will take to the next 
+step. 
+ 
+Rupesh Tatia :  Okay. So if I were to summarize that sir, 200 millimeter will not come anytime soon. 
+Next three to five years. 
+ 
+Dr. Harshad Mehta:   RIR, in medium and high power. Yeah. 
+ 
+ 
+ 
+  
+ 
+ 
+VRIGHT Exchange — India’s own and the world’s first 
+investor engagement platform  dedicated to strategic, 
+transparent, and trustworthy investor communication 
+https://app.vrightexchange.com/  
+ 
+ 
+Rupesh Tatia :  And 200 millimeter efficiency or. Or whatever economics won't be so good that we 
+will have to. You know writing off our whatever 600 crore investment we are doing that there will be 
+no write offs. 
+ 
+Dr. Harshad Mehta:    Yeah, No, I think unless things change and it can change anytime. That's not. 
+Change is the only constant if you look at it in time. But right now in last 18 months I think China has 
+really taken over in terms of leadership for 1200 volt silicon carbide on a 200 millimeter silicon carbide 
+substrate as  well as EPI. And they really have reduced the cost whether artificially, whether with 
+whatever you want to call it. But they are really giving very difficult time to St Micro or all the big 
+guys in Chineon wolfspeed, On semi. No matter who you call it and  that's why I think if you look at it, 
+Renaissance decided to get out of silicon carbide and gallium and gallium nitrate business. So what 
+we need to do is we need to plan it right. I am not after the glamour of technology. I stay away from 
+it. For me, the technology., as I mentioned, there are four letter, words that I may have repeated, you 
+may have heard it. 
+ 
+Hello? Am I audible? Sorry that it said disconnected for some reason.  
+ 
+Anyway, so what I was saying is that we need to be looking at, not just foc us on technology or the 
+glamour of technology. The economics as well as value has to come before what. And at the same time 
+look at the state of the art technology in terms of commercializable technology. Right now 200 
+millimeter silicon carbide, I'm not 100% sure, especially not for RIR. 
+ 
+Rupesh Tatia :   Okay,  And so final question from my side is, I mean can you give some idea about 
+your know, our readiness? Because there is a significant supply chain. You have to buy silicon carbide 
+substrate, you have to buy high purity gases, you have to buy all this equipment. You need a really 
+high skilled manpower. So there is a significant, you know, execution readiness that, that you need to 
+do in all of these areas. So how, what are, what are some, maybe some ex amples you can give to, 
+we're making sure that we will be ready. 
+ 
+Dr. Harshad Mehta:  So for example, let me and this is a real, one of the, our AP scientists, he came 
+from TIFR, he finished his PhD at TIFR about two and a half, three years ago and he had no opportunity 
+in India to work anywhere. RIR gave him an opportunity and he was very happy to join RIR. And we 
+leveraged, we leveraged knowledge of what he has learned, in terms of the question that you rightly 
+said in terms of quality of gases. And then TIFR said for us, guided us to use steel pipes for the gas 
+deliveries and so forth. So we make sure that we not only put the right equipment but also the ancillary 
+that goes with it to make sure that our yields are industry competitive, which is about 80 to 85% in my 
+view,  what I have done. Again, I am not, I have a common Sense business, not an MBA business. I'm 
+sorry to. I mean I'm not downplaying that. But I have a common sense business. And the common sense 
+business is I like to do as much as leveraging as I can. You hear me? 
+ 
+Rupesh Tatia :   Yes, I can hear you, sir 
+ 
+ Dr. Harshad Mehta : Okay, so what we are trying to do is government has invested significant amount. 
+Of resources at IITs, IIT Delhi has tons of equipment still in the hallway. Put in the boxes, they're not 
+even open. So in my mind we are working with IIT Delhi material side. IIT Bhu baneswar on the device 
+side. IIT Bombay on the application side. TIFR on the fundamental process side, and so far we have not 
+done. But IIT Kanpur, the mechanical side, Gandhi Nagar also is doing some part on, packaging that 
+we work with them. So we are trying to leverage because what our academic institutions need is 
+  
+ 
+ 
+VRIGHT Exchange — India’s own and the world’s first 
+investor engagement platform  dedicated to strategic, 
+transparent, and trustworthy investor communication 
+https://app.vrightexchange.com/  
+ 
+guidance from industry in terms of practical utilization of the technology. We are not into looking for 
+papers but we are looking for products. 
+ 
+Rupesh Tatia :    Okay, so just final question. How many people are we looking to hire for phase one 
+and then eventually for phase two? 
+ 
+Dr. Harshad Mehta  :  So for phase one total we have, we expect total employment at our Odisha 
+facility to somewhere between 300 to 400 people. Phase one would be about maybe 50 or so, and 
+then phase two. 
+ 
+Rupesh Tatia :  And most of them with graduates. 
+ 
+Dr. Harshad Mehta :  Yes, graduates as well as there are some diploma holders and so forth. 
+Rupesh Tatia :  Okay. 
+ 
+Dr. Harshad Mehta  :   We try to have. We are not only all India, we are also looking from some 
+mentors from US. They would come here at least every. Maybe once, once a quarter for about a week. 
+Three, two. Two to three weeks. Train them. That's what we still have. For example, Arun Malhotra is 
+our expert in material science and he is guiding our team in Bhubaneswar from US almost every day 
+including working with a Star in Singapore. 
+ 
+Rupesh Tatia :   Okay. Yeah. This was great, sir, thank you. Thank you for being so generous with your 
+time and answers. Really, really appreciate. 
+ 
+Dr. Harshad Mehta :    Very welcome. Thank you very much. 
+ 
+Aryan Rana:  All right, as there are no further questions now. So I would request Abhishek Savant  
+form Veritas Reputation to conclude the event. 
+ 
+Abhishek Savant :  Yes, thank you Aryan. And thank you everyone for joining today's earning call. 
+We si ncerely appreciate your time, your engagement and your continued interest in RIR Power 
+Electronics. Before we close, let me briefly summarize our position today. The core business remains 
+stable with healthy demand across key customer segments. Profitabili ty is within expected bands 
+supported by disciplined execution and cost focus. The financial position continues to be strong backed 
+by comfortable liquidity and prudent balance sheet management. And lastly and most importantly, 
+we are well placed to support the execution of our long term strategic programs including the ongoing 
+capability build out in advanced power electronics and semiconductor initiatives with this if you have 
+any further queries or questions or require any further information please feel  to reach out out to us 
+and we will be more than happy to assist you on behalf of the entire management team thank you 
+once again and we look forward to engaging with you in the near future thank you and have a good 
+day ahead thank you. 
+ 
+Aryan Rana:  Thank you Abhishek and thank you everyone, on behalf of RIR Power Electronics and 
+Veritas reputation that concludes this conference thank you for joining us, have a nice time.  
+ 

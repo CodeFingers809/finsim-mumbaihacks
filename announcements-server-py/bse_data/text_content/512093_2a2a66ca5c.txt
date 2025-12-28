@@ -1,0 +1,412 @@
+  
+Cranes Software International Limited 
+     CIN: L05190KA1984PLC031621 
+ 
+Registered Office: 
+#82, Presidency Building, 3rd & 4th Floor, 
+St. Marks Road, Bengaluru - 560 001, Karnataka 
+Ph: +91 80 6764 4800/4848 
+Email: Info@cranessoftware.com
+           
+Date: 14th November 2025 
+ 
+ 
+To, 
+ 
+The Manager 
+Department of Corporate Services 
+Bombay Stock Exchange Limited 
+P J Towers, Dalal Street,  
+Mumbai- 400001      Scrip code: 512093 
+ 
+ 
+  
+Dear Sir/Madam, 
+ 
+Sub: Outcome of the Board Meeting dated 14th November 2025 
+ 
+This has reference to our intimation dated 11th November 2025 about the Board Meeting to be held on 14th November 
+2025. 
+ 
+In this regard, we wish to inform that the Board met today and approved: 
+ 
+1. Approved and taken on record the un-audited stand-alone and consolidated financial results for the second quarter 
+and half year ended 30th September 2025. 
+2. The Limited Review Report from the Statutory Auditors for the second quarter and half year ended 30th September 
+2025 is also enclosed for your reference. 
+ 
+The meeting started at 5.30 pm and ended at 6.00 pm 
+ 
+Kindly take the same on records 
+ 
+Thanking you, 
+ 
+Yours, faithfully, 
+For Cranes Software International Ltd. 
+ 
+ 
+ 
+Mueed Khader 
+Director 
+DIN: 00106674 
+ 
+ 
+ 
+ 
+ 
+   
+ISO 9001:2000   ISO 27001:2005  CM                                                        www.cranessoftware.com 
+
+(Rs.In Lakhs)
+Year Ended Year Ended
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024 31.03.2025 30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024 31.03.2025
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited Unaudited Unaudited Unaudited Unaudited Unaudited Audited
+1 Income from Operations
+ Net Sales/Income from Operations -                -               -                 -               -               -                168.77          125.76         179.21         294.54         386.91         820.63             
+ Other Income -                -               -                 -               -               1.14              0.74              23.90           3.20             24.64           5.83             89.85               
+ Total Income -                -               -                 -               -               1.14              169.52          149.66         182.41         319.18         392.74         910.48             
+2 Expenses
+(a) Cost of materials consumed -                -               -                 -               -               -                27.66        4.68         23.84       32.34       68.61       112.51         
+(b) Purchase of Stock-in-Trade -                -               -                 -               -               -                
+(c) Changes in inventories of finished goods and work-in-progress -                -               -                 -               -               -                              -                -                -                -                -                    -   
+(d) Employee benefit expense 11.61            11.67           11.26             23.28           22.19           46.95                  136.00      156.61      118.71      292.61      261.12          513.30 
+(e) Finance costs -                -               -                 -               -               6.68              16.38            10.48           13.38           26.86           14.33           45.78               
+(f) Depreciation and amortization expense 0.38              0.39             0.78               0.77             1.56             1.79              4.38          4.39         7.90         8.77         10.85       16.45           
+(g) Other expenses 475.79          475.50         485.01           951.29         989.14         1,939.06       63.66        143.95     137.97     207.61     302.86     512.18         
+Total Expenses 487.79          487.55         497.05           975.34         1,012.89      1,994.48       248.09          320.11         301.80         568.20         657.77         1,200.22          
+-                   
+3 Profit/(Loss) from Ordinary activities before exceptional items & taxes (1-
+2) (487.79)                 (487.55)           (497.05)         (975.34)      (1,012.89)       (1,993.34)            (78.57)         (170.45)         (119.39)         (249.02)         (265.03)             (289.74)
+4 Expentional Items -                -               -                 -               -               -                      (1,140.00)                  -               (0.93)      (1,140.00)             (0.93)          (1,140.00)
+5 Profit/(Loss) from ordinary activities before tax (3-4) (487.79)         (487.55)        (497.05)          (975.34)       (1,012.89)    (1,993.34)      (1,218.57)      (170.45)        (120.32)        (1,389.02)     (265.96)        (1,429.74)        
+6 Tax expense/(credit)
+(a) Current Tax -                -               -                 -               -               -                1.53              2.08             13.52           3.61             13.52           41.82               
+(b) Deferred Tax -                -               -                 -               -               -                -                -               (1.66)            -               (1.66)            (35.12)              
+Total tax expenses / (credit) -                -               -                 -               -               -                1.53              2.08             11.86           3.61             11.86           6.70                 
+7 Net Profit/(Loss) from ordinary activities after tax (5-6) (487.79)         (487.55)        (497.05)          (975.34)       (1,012.89)    (1,993.34)      (1,220.10)      (172.53)        (132.18)        (1,392.63)     (277.82)        (1,436.44)        
+8 Extraordinary Items -                -               -                 -               -               -                -                -               -               -               -               -                   
+9 Net Profit/(Loss) for the period (7-8) (487.79)         (487.55)        (497.05)          (975.34)       (1,012.89)    (1,993.34)      (1,220.10)      (172.53)        (132.18)        (1,392.63)     (277.82)        (1,436.44)        
+10 Minority Interest
+11 Net Profit/(Loss) after Taxes, minority interest and share of profit/Loss of 
+associates(9+10) (487.79)         (487.55)        (497.05)          (975.34)       (1,012.89)    (1,993.34)      (1,220.10)      (172.53)        (132.18)        (1,392.63)     (277.82)        (1,436.44)        
+12 Other Comrehensive Income -                -               -                 -               -               -                -                -               -               -               -               (16.20)              
+13 Total Comprehensive Income for the period [Net of tax] (487.79)         (487.55)        (497.05)          (975.34)       (1,012.89)    (1,993.34)      (1,220.10)      (172.53)        (132.18)        (1,392.63)     (277.82)        (1,452.64)        
+14 Paid-up equity share capital (Face Value of Rs.2/-) 3,039.15       3,039.14      3,039.14        3,039.14      3,039.14      3,039.14       3,039.14       3,039.14      3,039.14      3,039.14      3,039.14      3,039.14          
+15 Reserve excluding Revaluation Reserves as per balance sheet of 
+previous accounting year (82,653.84)    (91,156.76)      
+16 Earnings Per Share (Rs) (not annualised)
+i) Basic (0.32)             (0.32)            (0.33)              (0.64)            (0.67)            (1.31)             (0.80)             (0.11)            (0.09)            (0.92)            (0.18)            (0.95)                
+ii)Diluted (0.32)             (0.32)            (0.33)              (0.64)            (0.67)            (1.31)             (0.80)             (0.11)            (0.09)            (0.92)            (0.18)            (0.95)                
+PART-1
+CRANES SOFTWARE INTERNATIONAL LIMITED
+Regd Office : # 82, Presidency Building, 3rd & 4th Floor, St.Marks Road, BANGALORE - 560 001
+ Ph.080 67644848   Fax:080 67644888   Email:info@cranessoftware.com  Website: www.cranessoftware.com
+CIN : L05190KA1984PLC031621
+Statement of Unaudited Financial Result for the Quarter  & Half Year Ended 30th September, 2025
+Standalone Consolidated
+Quarter Ended Half Year Ended Quarter Ended Half Year EndedSL.
+No. Particulars
+Year ended
+30.09.2025  30.06.2025  30.09.2024  31.03.2025 
+A
+1
+- Number of shares      14,49,04,525          14,49,04,525    14,49,04,525    14,49,04,525 
+- Percentage of shareholding 95.36% 95.36% 95.07% 95.36%
+2
+- Number of shares           10,00,000               10,00,000         10,00,000         10,00,000 
+- Percentage of shares (as a % of the total
+shareholding of promoter and promoter group) 14.18% 14.18% 14.18% 14.18%
+- Percentage of shares (as a % of the total share 
+capital of the company) 0.66% 0.66% 0.65% 0.66%
+- Number of shares           60,52,700               60,52,700         60,52,700         60,52,700 
+- Percentage of shares (as a % of the total
+shareholding of promoter and promoter group) 85.82% 85.82% 85.82% 85.82%
+- Percentage of shares (as a % of the total share
+capital of the company) 3.98% 3.98% 4.28% 3.98%
+B
+Pending at the beginning                                                            
+of the Quarter
+Received during 
+the Quarter
+Disposed of during 
+the Quarter
+ -  -  - 
+CRANES SOFTWARE INTERNATIONAL LIMITED
+PART-2
+SL
+No PARTICULARS 3 Months Ended
+Remaining unresolved at the end 
+of the Quarter
+ - 
+PARTICULARS OF SHAREHOLDING
+Public Shareholding
+Promoters and Promoter Group Shareholding
+(a) Pledged / Encumbered
+(b) Non-encumbered
+INVESTOR COMPLAINTS FOR 3 MONTHS ENDED 30TH SEPTEMBER 2025
+(Rs in Lakhs)
+ As At 
+30.09.2025 
+ As At 
+31.03.2025 
+ As At 
+30.09.2025 
+ As At 
+31.03.2025 
+I. ASSETS
+1 Non-current assets
+Property, plant and equipment 8.43                9.21                44.13               43.70                
+Right to use of Assets 13.74               13.74                
+Intangible assets -                  -                  -                   -                    
+Deferred Tax Asset (Net) -                  -                  83.07               83.07                
+Financial Assets
+Investments 3,215.88         3,215.88         0.00                  0.00                  
+Other non-current assets 902.16            902.16            17.33               16.73                
+Non-current assets 4,126.47         4,127.25         158.27             157.24              
+2 Current assets
+Inventories -                  -                  -                   -                    
+Financial Assets
+Trade receivables 2,301.94         3,166.34         570.65             588.55              
+Cash and cash equivalents 4.38                8.47                22.05               43.19                
+Bank balances other than above 7.41                7.41                8.91                  8.77                  
+Other current assets 4.48                4.29                278.99             716.26              
+Current assets 2,318.21         3,186.51         880.60             1,356.77           
+TOTAL ASSETS 6,444.68         7,313.76         1,038.87          1,514.01           
+II. EQUITY AND LIABILITIES
+Equity 
+Equity share capital 3,039.14         3,039.14         3,039.14          3,039.14           
+Other Equity (83,629.19)     (82,653.84)     (91,912.95)       (91,156.76)       
+Share application money pending allotment 1,523.50         685.00            1,523.50          685.00              
+(79,066.54)     (78,929.70)     (87,350.31)       (87,432.62)       
+Share application money pending allotment
+1 Non-Current Liabilities
+Financial Liabilities
+Provisions 7.92                7.92                68.30               66.36                
+Lease Liablities 15.44               11.45                
+Non-Current Liabilities 7.92                7.92                83.74               77.81                
+2 Current liabilities
+Financial Liabilities
+Short term borrowings 43,215.36       43,961.75       45,245.14        45,787.24         
+Lease Liabilities -                   3.99                  
+Trade payables 62.37              58.96              478.19             552.28              
+Other financial Liabilities 215.58             157.43              
+Short term Provisions -                    
+Other current liabilities 42,077.58       42,066.82       42,151.74        42,157.90         
+Provisions 148.01            148.01            214.79             210.00              
+Current liabilities 85,503.31       86,235.54       88,305.44        88,868.84         
+TOTAL EQUITY AND LIABILITIES 6,444.68         7,313.76         1,038.87          1,514.01           
+Cranes Software International Limited
+  Balance Sheet as at 30th September, 2025
+Particulars
+ Standalone  Consolidated 
+Cash Flow From Operating Activities
+Profit / (Loss)  before income tax (975.34)            (1,993.34)              
+     Adjustments for
+Depreciation and amortisation expense                   0.77                         1.79 
+Bad Debts Written off                             -   
+Allowances for Credit Loss               864.40                 1,691.15 
+Foreign Exchange Loss/(Gain) (Net)                             -   
+Finance costs                        -                           6.68 
+(110.17)           (293.71)                 
+Change in operating assets and liabilities
+     (Increase)/ decrease in trade receivables 0.00                  -                          
+     Increase/ (decrease) in Other non-current assets -                    0.29                        
+     (Increase)/ decrease in Other current assets -0.19                 0.03                        
+     Increase/ (decrease) in provisions and other liabilities 10.75                141.40                   
+     Increase/ (decrease) in Borrowings -746.39            -2,086.71              
+     Increase/ (decrease) in trade payables 3.41                  2.40                        
+Cash generated from operations             (842.59)               (2,236.29)
+Less : Income taxes paid (net of refunds) -                          
+Net cash from operating activities (A)             (842.59)               (2,236.29)
+Cash Flows From Investing Activities
+(Purchase)/ disposal proceeds of Investments -                          
+Net cash used in investing activities (B)                        -                               -   
+Cash Flows From Financing Activities
+Finance costs                        -                         (6.68)
+        Proceeds from issue of shares                        -                   1,562.50 
+        Share application money pending allotment               838.50                    685.00 
+Net cash from/ (used in) financing activities (C)              838.50                 2,240.82 
+Net decrease in cash and cash equivalents (A+B+C) (4.09)                4.52                       
+Cash and cash equivalents at the beginning of the financial year 15.88               11.36                     
+Cash and cash equivalents at end of the year                 11.79                      15.88 
+Notes: 
+2. Components of cash and cash equivalents
+Balances with banks
+- in current accounts 7.41                 7.41                       
+Others 4.38                 8.47                       
+Cash on hand              -                      -   
+11.79               15.88                     
+1. The above cash flow statement has been prepared under indirect method prescribed in Ind AS "Cash flow 
+Statements)
+Cranes Software International Limited
+CIN : L05190KA1984PLC031621
+Standalone Statement of cash flows for the year ended September 30, 2025
+(All amounts are in lakhs of Indian Rupees, unless otherwise stated)
+Particulars
+ For the year 
+ended Sep 30, 
+2025 
+ For the year 
+ended March 31, 
+2025 
+Cranes Software International Limited
+CIN : L05190KA1984PLC031621
+Consolidated Statement of cash flows for the year ended September 30, 2025
+(All amounts are in lakhs of Indian Rupees, unless otherwise stated)
+Particulars For the year ended For the year ended
+September 30, 2025 March 31, 2025
+Cash Flow From Operating Activities
+Profit before income tax (1,389.02)               (1,429.74)                     
+     Adjustments for
+Depreciation and amortisation expense                         8.77                              16.45 
+Foreign Exchange (Loss)/Gain (Net)                       16.11                                0.64 
+Sundry Credit Balances Writtern off                              -                              (86.98)
+Interest on Loans                        (0.01)                              (1.09)
+Exceptional item                  1,140.00                        1,140.00 
+Finance costs                       26.86                              45.78 
+(197.29)                  (314.94)                         
+Change in operating assets and liabilities
+     (Increase)/ decrease in trade receivables 17.90                      (151.48)                         
+     (Increase)/ decrease in Other assets 436.67                   12.26                            
+     Increase/ (decrease) in Current liabilities (492.44)                  (236.73)                         
+     Increase/ (decrease) in trade payables (78.07)                    239.52                          
+Cash generated from operations                   (313.24)                          (451.37)
+Less : Income taxes paid (net of refunds) (3.61)                      (45.75)                           
+Net cash from operating activities (A)                   (316.85)                          (497.12)
+Cash Flows From Investing Activities
+Purchase of PPE (including changes in CWIP) 9.21                        (17.21)                           
+Net cash used in investing activities (B)                         9.21                            (17.21)
+Cash Flows From Financing Activities
+Interest on borrowed funds (26.86)                    (45.78)                           
+Borrowings/repayments
+Sundry Credit Balances Writtern off -                          86.98                            
+Interest on Loans 0.01                        1.09                              
+Reclassifaction of Borrowings -                          -                                
+Decrease in Borrowings (538.11)                  (978.44)                         
+Increase of Share Capital 838.50                   1,418.04                       
+Long term Provisions 1.94                        25.16                            
+Net cash from/ (used in) financing activities (C)                     275.47                           507.05 
+Net decrease in cash and cash equivalents (A+B+C) (32.16)                    (7.29)                             
+Cash and cash equivalents at the beginning of the financial year 51.96                      59.25                            
+Cash and cash equivalents at end of the year                       19.80                              51.96 
+Notes: 
+2. Components of cash and cash equivalents
+Balances with banks
+- in current accounts 22.01                      43.03                            
+- in deposit accounts -                          -                                
+Others 8.91                        8.77                              
+Cash on hand 0.04                        0.16                              
+30.96                      51.96                            
+1. The above cash flow statement has been prepared under indirect method prescribed in Ind AS 7 "Cash Flow Statements".
+ 
+ 
+Notes  
+1. The above result is for the quarter ended September 30th, 2025, as reviewed and recommended 
+by the Audit Committee of the Board, has been approved by the Board of Directors at its meeting 
+held on November 14th, 2025. 
+ 
+2. The statement has been prepared in accordance with the Companies (Indian Accounting 
+Standards) Rules, 2015 (Ind AS) prescribed under section 133 of the Companies Act, 2013 and 
+other recognized accounting practices and policies to the extent applicable. 
+  
+3. The business of the Company falls under a single primary segment i.e., IT/ ITES in accordance with 
+Ind AS 108 'Operating Segments" and hence no segment reporting is applicable. 
+ 
+4. The Company has not provided interest in books of accounts on FCCB Liability, Loan from UPS Capital 
+& Banks for the quarter ended September 30, 2025, for detailed Limited review report, please click 
+www.cranessoftware.com/financials. 
+ 
+5. The Company has not restated for FCCB liability and Loan from UPS Capital for the quarter ended 
+September 30th, 2025. 
+ 
+ 
+   for Cranes Software International Limited  
+        
+   
+      
+        
+ Place: Bangalore 
+Date: 14th Nov 2025 
+ 
+Mueed Khader 
+Director 
+DIN - 00106674 
+ 
+ 
+VIVEKANAN
+D 
+CHATURVEDI
+Digitally signed 
+by VIVEKANAND 
+CHATURVEDI 
+Date: 2025.11.14 
+17:48:23 +05'30'
+VIVEKANAND 
+CHATURVEDI
+Digitally signed by 
+VIVEKANAND 
+CHATURVEDI 
+Date: 2025.11.14 
+17:49:13 +05'30'
+ 
+Cranes Software International Limited 
+     CIN: L05190KA1984PLC031621 
+ 
+Registered Office: 
+#82, Presidency Building, 3rd & 4th Floor, 
+St. Marks Road, Bengaluru - 560 001, Karnataka 
+Ph: +91 80 6764 4800/4848 
+Email: Info@cranessoftware.com
+ 
+Certified true copy of resolution passed by the Board of Directors of CRANES SOFTWARE INTERNATIONAL 
+LIMITED at the Board Meeting held on Friday, November 14th 2025 at 5.30 pm IST at the registered office of 
+the Company 
+ 
+Authorisation to sign the financials 
+ 
+RESOLVED THAT pursuant to Article 131 of articles of Association of the Company Mr Mueed Khader, Director 
+of the Company and the Chairman for the meeting be and is hereby authorized by the Board of Directors to 
+sign the financial statements for the quarter ended 30th September 2025. 
+ 
+RESOLVED FURTHER THAT Ms Apeksha Nagori, Company Secretary be and is hereby authorized to take all 
+necessary actions to implement the above decision of the Board. 
+ 
+ 
+Cranes Software International Limited 
+ 
+ 
+ 
+Mueed Khader 
+Director 
+DIN:00106674 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ISO 9001:2000   ISO 27001:2005  CM                                                        www.cranessoftware.com 
+
